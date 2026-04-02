@@ -1,0 +1,6790 @@
+[
+  {
+    "id": "754",
+    "title": "關於目前確認到的異常問題與對應措施（ver4.0.0）",
+    "date": "2026-04-02",
+    "stAt": 1775131200,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/tc/page/754.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "720",
+    "title": "賽季9舉辦中！",
+    "date": "2026-04-02",
+    "stAt": 1775109600,
+    "endAt": "1776909599",
+    "url": "https://news.pokemon-home.com/tc/page/720.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771322229_40011774859336.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "665",
+    "title": "最終賽季（賽季41）舉辦中！",
+    "date": "2026-04-01",
+    "stAt": 1775016000,
+    "endAt": "32503647599",
+    "url": "https://news.pokemon-home.com/tc/page/665.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1762832666_29151770971082.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "745",
+    "title": "系統維護公告",
+    "date": "2026-04-01",
+    "stAt": 1775001600,
+    "endAt": "1775087999",
+    "url": "https://news.pokemon-home.com/tc/page/745.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_tc.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "679",
+    "title": "最強的帝王拿波在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-03-30",
+    "stAt": 1774843200,
+    "endAt": "1775174399",
+    "url": "https://news.pokemon-home.com/tc/page/679.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763481563_47191769767107.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "719",
+    "title": "【預告】賽季9確定舉辦！",
+    "date": "2026-03-26",
+    "stAt": 1774504800,
+    "endAt": "1775109599",
+    "url": "https://news.pokemon-home.com/tc/page/719.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771322088_22091773659062.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "678",
+    "title": "最強的烈焰猴在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-03-20",
+    "stAt": 1773964800,
+    "endAt": "1774569599",
+    "url": "https://news.pokemon-home.com/tc/page/678.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763481428_50071769767594.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "677",
+    "title": "最強的土台龜在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-03-13",
+    "stAt": 1773360000,
+    "endAt": "1773964799",
+    "url": "https://news.pokemon-home.com/tc/page/677.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763481292_47111769767770.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "715",
+    "title": "特殊賽季（8）舉辦中！",
+    "date": "2026-03-12",
+    "stAt": 1773295200,
+    "endAt": "1775095199",
+    "url": "https://news.pokemon-home.com/tc/page/715.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1770198557_9531772528084.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "743",
+    "title": "線上大賽「Global Challenge 2026」登場！",
+    "date": "2026-03-06",
+    "stAt": 1772773200,
+    "endAt": "1780844399",
+    "url": "https://news.pokemon-home.com/tc/page/743.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771555677_80331773312783.jpg",
+    "kindTxt": "線上大賽",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "741",
+    "title": "關於2026年官方大賽的參加組別（年齡劃分）",
+    "date": "2026-03-06",
+    "stAt": 1772773200,
+    "endAt": "1798729199",
+    "url": "https://news.pokemon-home.com/tc/page/741.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771553258_31721772703829.jpg",
+    "kindTxt": "通知",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "676",
+    "title": "最強的巨沼怪在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-03-06",
+    "stAt": 1772755200,
+    "endAt": "1773359999",
+    "url": "https://news.pokemon-home.com/tc/page/676.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763481157_54961769768023.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "714",
+    "title": "【預告】特殊賽季（8）確定舉辦！",
+    "date": "2026-03-05",
+    "stAt": 1772690400,
+    "endAt": "1773295199",
+    "url": "https://news.pokemon-home.com/tc/page/714.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1770198037_8071772079874.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "664",
+    "title": "2026年3月賽季（賽季40）舉辦中！",
+    "date": "2026-03-01",
+    "stAt": 1772337600,
+    "endAt": "1775001599",
+    "url": "https://news.pokemon-home.com/tc/page/664.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1762832435_63461770890979.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "650",
+    "title": "關於最終賽季（賽季41）以後的級別對戰",
+    "date": "2026-03-01",
+    "stAt": 1772337600,
+    "endAt": "32503647599",
+    "url": "https://news.pokemon-home.com/tc/page/650.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754558797_72121770855971.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "718",
+    "title": " 贈送「快龍」作為搶先下載特典！",
+    "date": "2026-02-27",
+    "stAt": 1772202600,
+    "endAt": "1788188399",
+    "url": "https://news.pokemon-home.com/tc/page/718.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1770950364_04091772001125.jpg",
+    "kindTxt": "企畫",
+    "infoTab": 5,
+    "infoKind": 6,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "716",
+    "title": "《寶可夢傳說 Z-A》連結企畫！來獲得「布里卡隆進化石」、「妖火紅狐進化石」、「甲賀忍蛙進化石」和「花葉蒂進化石」吧！",
+    "date": "2026-02-27",
+    "stAt": 1772202600,
+    "endAt": "32503647599",
+    "url": "https://news.pokemon-home.com/tc/page/716.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1770937769_51011771934911.jpg",
+    "kindTxt": "通知",
+    "infoTab": 4,
+    "infoKind": 7,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "710",
+    "title": "出現特殊的異次元扭洞！？戰勝「超級烈咬陸鯊Z」來獲得「烈咬陸鯊進化石Z」吧！",
+    "date": "2026-02-27",
+    "stAt": 1772202600,
+    "endAt": "1893423599",
+    "url": "https://news.pokemon-home.com/tc/page/710.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1766640303_60871771411617.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "675",
+    "title": "最強的火焰雞在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-02-27",
+    "stAt": 1772150400,
+    "endAt": "1772755199",
+    "url": "https://news.pokemon-home.com/tc/page/675.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763481037_67791769768171.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "674",
+    "title": "最強的蜥蜴王在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-02-20",
+    "stAt": 1771545600,
+    "endAt": "1772150399",
+    "url": "https://news.pokemon-home.com/tc/page/674.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763480657_32761769768298.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "712",
+    "title": "賽季7舉辦中！來獲得火焰雞進化石吧！",
+    "date": "2026-02-19",
+    "stAt": 1771480800,
+    "endAt": "1773280799",
+    "url": "https://news.pokemon-home.com/tc/page/712.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1766995920_28031770877071.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "673",
+    "title": "最強的大力鱷在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-02-13",
+    "stAt": 1770940800,
+    "endAt": "1771545599",
+    "url": "https://news.pokemon-home.com/tc/page/673.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763480519_64851765953968.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "711",
+    "title": "【預告】賽季7確定舉辦！來獲得火焰雞進化石吧！",
+    "date": "2026-02-12",
+    "stAt": 1770876000,
+    "endAt": "1771480799",
+    "url": "https://news.pokemon-home.com/tc/page/711.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1766995540_7861770257778.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "698",
+    "title": "最強的火爆獸在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-02-06",
+    "stAt": 1770336000,
+    "endAt": "1770940799",
+    "url": "https://news.pokemon-home.com/tc/page/698.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763484359_41071766047828.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "663",
+    "title": "2026年2月賽季（賽季39）舉辦中！",
+    "date": "2026-02-01",
+    "stAt": 1769918400,
+    "endAt": "1772323199",
+    "url": "https://news.pokemon-home.com/tc/page/663.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1762831804_80471762832064.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "672",
+    "title": "最強的大竺葵在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-01-30",
+    "stAt": 1769731200,
+    "endAt": "1770335999",
+    "url": "https://news.pokemon-home.com/tc/page/672.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763480281_08791766047428.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "707",
+    "title": "賽季6舉辦中！來獲得巨沼怪進化石吧！",
+    "date": "2026-01-29",
+    "stAt": 1769666400,
+    "endAt": "1771466399",
+    "url": "https://news.pokemon-home.com/tc/page/707.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1764346026_7711768471063.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "671",
+    "title": "最強的水箭龜在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-01-23",
+    "stAt": 1769126400,
+    "endAt": "1769731199",
+    "url": "https://news.pokemon-home.com/tc/page/671.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763480133_86981765955922.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "706",
+    "title": "【預告】賽季6確定舉辦！來獲得巨沼怪進化石吧！",
+    "date": "2026-01-22",
+    "stAt": 1769061600,
+    "endAt": "1769666399",
+    "url": "https://news.pokemon-home.com/tc/page/706.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1764345670_71941768468878.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "670",
+    "title": "最強的噴火龍在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-01-16",
+    "stAt": 1768521600,
+    "endAt": "1769126399",
+    "url": "https://news.pokemon-home.com/tc/page/670.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763476369_58621765955491.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "668",
+    "title": "最強的妙蛙花在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-01-09",
+    "stAt": 1767916800,
+    "endAt": "1768521599",
+    "url": "https://news.pokemon-home.com/tc/page/668.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763448437_04221765954416.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "705",
+    "title": "賽季5舉辦中！來獲得蜥蜴王進化石吧！",
+    "date": "2026-01-08",
+    "stAt": 1767852000,
+    "endAt": "1769651999",
+    "url": "https://news.pokemon-home.com/tc/page/705.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1764345493_7951766556974.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "635",
+    "title": "2026年1月賽季（賽季38）舉辦中！",
+    "date": "2026-01-05",
+    "stAt": 1767585600,
+    "endAt": "1769903999",
+    "url": "https://news.pokemon-home.com/tc/page/635.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1753774741_84631762831072.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "699",
+    "title": "【預告】戴著「最強之證」的歷代夥伴寶可夢們以進化後的樣子再次登場！",
+    "date": "2026-01-05",
+    "stAt": 1767571200,
+    "endAt": "1767916799",
+    "url": "https://news.pokemon-home.com/tc/page/699.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763641409_06081766049288.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "704",
+    "title": "【預告】賽季5確定舉辦！來獲得蜥蜴王進化石吧！",
+    "date": "2026-01-01",
+    "stAt": 1767247200,
+    "endAt": "1767851999",
+    "url": "https://news.pokemon-home.com/tc/page/704.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1764344920_5881766556718.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "709",
+    "title": "保加利亞的支付貨幣變更公告",
+    "date": "2025-12-22",
+    "stAt": 1766383200,
+    "endAt": "1786287599",
+    "url": "https://news.pokemon-home.com/tc/page/709.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "701",
+    "title": "關於2026年官方大賽的參加組別（年齡劃分）",
+    "date": "2025-12-22",
+    "stAt": 1766361600,
+    "endAt": "1798729199",
+    "url": "https://news.pokemon-home.com/tc/page/701.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1764302736_34451764303417.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "649",
+    "title": "波盪水＆鐵斑葉再次登場中！",
+    "date": "2025-12-19",
+    "stAt": 1766102400,
+    "endAt": "1767571199",
+    "url": "https://news.pokemon-home.com/tc/page/649.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754363151_14421764657186.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "703",
+    "title": "賽季4舉辦中！來獲得戟脊龍進化石吧！",
+    "date": "2025-12-18",
+    "stAt": 1766037600,
+    "endAt": "1767837599",
+    "url": "https://news.pokemon-home.com/tc/page/703.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1764322948_28551766559243.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "648",
+    "title": "【預告】波盪水＆鐵斑葉即將再次登場！",
+    "date": "2025-12-15",
+    "stAt": 1765756800,
+    "endAt": "1766102399",
+    "url": "https://news.pokemon-home.com/tc/page/648.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754363061_19091764656618.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "647",
+    "title": "最強的多龍巴魯托在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-12-12",
+    "stAt": 1765497600,
+    "endAt": "1765756799",
+    "url": "https://news.pokemon-home.com/tc/page/647.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754362026_82481763373360.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "702",
+    "title": "【預告】賽季4確定舉辦！來獲得戟脊龍進化石吧！",
+    "date": "2025-12-11",
+    "stAt": 1765432800,
+    "endAt": "1766037599",
+    "url": "https://news.pokemon-home.com/tc/page/702.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1764322526_44161765272547.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "646",
+    "title": "最強的多龍巴魯托在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-12-05",
+    "stAt": 1764892800,
+    "endAt": "1765151999",
+    "url": "https://news.pokemon-home.com/tc/page/646.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754361898_75641763372807.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "662",
+    "title": "EX副任務「專案代號：M」發佈！來獲得傳說的寶可夢「超夢」，以及「超夢進化石X」和「超夢進化石Y」吧！",
+    "date": "2025-12-02",
+    "stAt": 1764684000,
+    "endAt": "4099733999",
+    "url": "https://news.pokemon-home.com/tc/page/662.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1762239813_56531764065331.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "630",
+    "title": "2025年12月賽季（賽季37）舉辦中！",
+    "date": "2025-12-01",
+    "stAt": 1764561600,
+    "endAt": "1767571199",
+    "url": "https://news.pokemon-home.com/tc/page/630.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1752041421_65151754558592.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "700",
+    "title": "關於規則I",
+    "date": "2025-12-01",
+    "stAt": 1764547200,
+    "endAt": "253402214399",
+    "url": "https://news.pokemon-home.com/tc/page/700.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1764300770_54641772677104.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "645",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的多龍巴魯托！",
+    "date": "2025-12-01",
+    "stAt": 1764547200,
+    "endAt": "1764892799",
+    "url": "https://news.pokemon-home.com/tc/page/645.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754361760_69911763367229.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "644",
+    "title": "最強的黏美龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-11-28",
+    "stAt": 1764288000,
+    "endAt": "1764547199",
+    "url": "https://news.pokemon-home.com/tc/page/644.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754360098_1351762265218.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "657",
+    "title": "賽季3舉辦中！來獲得布里卡隆進化石吧！",
+    "date": "2025-11-27",
+    "stAt": 1764223200,
+    "endAt": "1766023199",
+    "url": "https://news.pokemon-home.com/tc/page/657.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1758110680_64821764731215.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "667",
+    "title": "智慧型手機版更新公告（ver3.4.3）",
+    "date": "2025-11-26",
+    "stAt": 1764136800,
+    "endAt": "1766707199",
+    "url": "https://news.pokemon-home.com/tc/page/667.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "666",
+    "title": "系統維護公告",
+    "date": "2025-11-21",
+    "stAt": 1763683200,
+    "endAt": "1764115199",
+    "url": "https://news.pokemon-home.com/tc/page/666.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "643",
+    "title": "最強的黏美龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-11-21",
+    "stAt": 1763683200,
+    "endAt": "1763942399",
+    "url": "https://news.pokemon-home.com/tc/page/643.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754360017_3171762264985.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "656",
+    "title": "【預告】賽季3確定舉辦！來獲得布里卡隆進化石吧！",
+    "date": "2025-11-20",
+    "stAt": 1763618400,
+    "endAt": "1764223199",
+    "url": "https://news.pokemon-home.com/tc/page/656.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1758110617_60121763030543.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "642",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的黏美龍！",
+    "date": "2025-11-17",
+    "stAt": 1763337600,
+    "endAt": "1763683199",
+    "url": "https://news.pokemon-home.com/tc/page/642.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754359926_78681762264722.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "641",
+    "title": "最強的三首惡龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-11-14",
+    "stAt": 1763078400,
+    "endAt": "1763337599",
+    "url": "https://news.pokemon-home.com/tc/page/641.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754358869_64871760954162.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "640",
+    "title": "最強的三首惡龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-11-07",
+    "stAt": 1762473600,
+    "endAt": "1762732799",
+    "url": "https://news.pokemon-home.com/tc/page/640.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754358780_76841760952457.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "659",
+    "title": "EX副任務「光芒耀眼如寶石」發佈！來獲得幻之寶可夢「蒂安希」和「蒂安希進化石」吧！",
+    "date": "2025-11-06",
+    "stAt": 1762437600,
+    "endAt": "4099733999",
+    "url": "https://news.pokemon-home.com/tc/page/659.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1759507731_58211761804798.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "655",
+    "title": "賽季2舉辦中！來獲得妖火紅狐進化石吧！",
+    "date": "2025-11-06",
+    "stAt": 1762408800,
+    "endAt": "1764136799",
+    "url": "https://news.pokemon-home.com/tc/page/655.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1758110522_38261762439189.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "654",
+    "title": "【預告】賽季2確定舉辦！來獲得妖火紅狐進化石吧！",
+    "date": "2025-11-03",
+    "stAt": 1762149600,
+    "endAt": "1762408799",
+    "url": "https://news.pokemon-home.com/tc/page/654.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1758110447_53191761827488.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "639",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的三首惡龍！",
+    "date": "2025-11-03",
+    "stAt": 1762128000,
+    "endAt": "1762473599",
+    "url": "https://news.pokemon-home.com/tc/page/639.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1754358696_22911760951598.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "629",
+    "title": "2025年11月賽季（賽季36）舉辦中！",
+    "date": "2025-11-01",
+    "stAt": 1761969600,
+    "endAt": "1764547199",
+    "url": "https://news.pokemon-home.com/tc/page/629.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1752041169_37361754558329.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "653",
+    "title": "賽季1舉辦中！來獲得甲賀忍蛙進化石吧！",
+    "date": "2025-10-16",
+    "stAt": 1760594400,
+    "endAt": "1762322399",
+    "url": "https://news.pokemon-home.com/tc/page/653.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1758093039_45541760602599.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "637",
+    "title": "最強的轟鳴月和最強的鐵武者在黑色結晶的太晶團體戰出現中！還有悖謬寶可夢大集合！",
+    "date": "2025-10-03",
+    "stAt": 1759449600,
+    "endAt": "1760313599",
+    "url": "https://news.pokemon-home.com/tc/page/637.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1753941165_63691759828625.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "628",
+    "title": "2025年10月賽季（賽季35）舉辦中！",
+    "date": "2025-10-01",
+    "stAt": 1759291200,
+    "endAt": "1761955199",
+    "url": "https://news.pokemon-home.com/tc/page/628.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1752040981_91981754558109.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "658",
+    "title": "【重要】「太晶璀璨巔峰之戰」申請參賽開始時間異動事宜",
+    "date": "2025-09-29",
+    "stAt": 1759136400,
+    "endAt": "1760313599",
+    "url": "https://news.pokemon-home.com/tc/page/658.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1759113822_42911759131849.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 1
+  },
+  {
+    "id": "636",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的轟鳴月和最強的鐵武者！還有悖謬寶可夢大集合！",
+    "date": "2025-09-29",
+    "stAt": 1759104000,
+    "endAt": "1759449599",
+    "url": "https://news.pokemon-home.com/tc/page/636.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1753940859_93881758006308.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "652",
+    "title": "「太晶璀璨巔峰之戰」登場！",
+    "date": "2025-09-26",
+    "stAt": 1758844800,
+    "endAt": "1760313599",
+    "url": "https://news.pokemon-home.com/tc/page/652.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1756434072_43921759125546.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "624",
+    "title": "100萬次勝利達成！透過神秘禮物領取異色的古玉魚吧！",
+    "date": "2025-09-19",
+    "stAt": 1758240000,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/tc/page/624.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1749024731_5231758105431.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "623",
+    "title": "100萬次勝利達成！透過神秘禮物領取異色的古鼎鹿吧！",
+    "date": "2025-09-05",
+    "stAt": 1757030400,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/tc/page/623.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1749024576_71081756813514.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "627",
+    "title": "2025年9月賽季（賽季34）舉辦中！",
+    "date": "2025-09-01",
+    "stAt": 1756699200,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/tc/page/627.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1752040188_73641754557848.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "619",
+    "title": "異色的古玉魚登場中！一起拿下100萬次勝利，獲得災禍之寶吧！",
+    "date": "2025-09-01",
+    "stAt": 1756684800,
+    "endAt": "1757894399",
+    "url": "https://news.pokemon-home.com/tc/page/619.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748934016_62581754376779.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "611",
+    "title": "火屬性寶可夢大量出現中！",
+    "date": "2025-09-01",
+    "stAt": 1756684800,
+    "endAt": "1757894399",
+    "url": "https://news.pokemon-home.com/tc/page/611.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748250917_3261754372517.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "633",
+    "title": "智慧型手機版更新公告（ver3.4.2）",
+    "date": "2025-08-27",
+    "stAt": 1756274400,
+    "endAt": "1758931199",
+    "url": "https://news.pokemon-home.com/tc/page/633.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "631",
+    "title": "系統維護公告",
+    "date": "2025-08-22",
+    "stAt": 1755820800,
+    "endAt": "1756252799",
+    "url": "https://news.pokemon-home.com/tc/page/631.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "622",
+    "title": "100萬次勝利達成！透過神秘禮物領取異色的古劍豹吧！",
+    "date": "2025-08-22",
+    "stAt": 1755820800,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/tc/page/622.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1749024363_08281755576420.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "618",
+    "title": "異色的古鼎鹿登場中！一起拿下100萬次勝利，獲得災禍之寶吧！",
+    "date": "2025-08-18",
+    "stAt": 1755475200,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/tc/page/618.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748933899_20711754375124.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "610",
+    "title": "地面屬性寶可夢大量出現中！",
+    "date": "2025-08-18",
+    "stAt": 1755475200,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/tc/page/610.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748250747_13441753943213.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "621",
+    "title": "100萬次勝利達成！透過神秘禮物領取異色的古簡蝸吧！",
+    "date": "2025-08-08",
+    "stAt": 1754611200,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/tc/page/621.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1749023906_24411754467646.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "617",
+    "title": "異色的古劍豹登場中！一起拿下100萬次勝利，獲得災禍之寶吧！",
+    "date": "2025-08-04",
+    "stAt": 1754265600,
+    "endAt": "1755475199",
+    "url": "https://news.pokemon-home.com/tc/page/617.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748933844_29371752573953.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "609",
+    "title": "冰屬性寶可夢大量出現中！",
+    "date": "2025-08-04",
+    "stAt": 1754265600,
+    "endAt": "1755475199",
+    "url": "https://news.pokemon-home.com/tc/page/609.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748250556_73511752555651.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "615",
+    "title": "2025年8月賽季（賽季33）舉辦中！",
+    "date": "2025-08-01",
+    "stAt": 1754020800,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/tc/page/615.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748507960_33961749010536.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "626",
+    "title": "關於規則J",
+    "date": "2025-08-01",
+    "stAt": 1754006400,
+    "endAt": "1767571199",
+    "url": "https://news.pokemon-home.com/tc/page/626.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1751948364_81161753771034.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "616",
+    "title": "異色的古簡蝸登場中！一起拿下100萬次勝利，獲得災禍之寶吧！",
+    "date": "2025-07-23",
+    "stAt": 1753228800,
+    "endAt": "1754265599",
+    "url": "https://news.pokemon-home.com/tc/page/616.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748933719_21991752574460.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "608",
+    "title": "草屬性寶可夢大量出現中！",
+    "date": "2025-07-23",
+    "stAt": 1753228800,
+    "endAt": "1754265599",
+    "url": "https://news.pokemon-home.com/tc/page/608.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748250166_1551752554929.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "625",
+    "title": "贈送換裝道具「運動服套裝」！",
+    "date": "2025-07-22",
+    "stAt": 1753189200,
+    "endAt": "4133948399",
+    "url": "https://news.pokemon-home.com/tc/page/625.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1749635396_00531752576627.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "613",
+    "title": "【預告】異色的災厄寶可夢登場！一起拿下100萬次勝利，獲得災禍之寶吧！",
+    "date": "2025-07-22",
+    "stAt": 1753189200,
+    "endAt": "1757894399",
+    "url": "https://news.pokemon-home.com/tc/page/613.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748495367_16891752574877.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "607",
+    "title": "【預告】4種屬性的寶可夢大量出現！",
+    "date": "2025-07-22",
+    "stAt": 1753189200,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/tc/page/607.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748249847_34381752553356.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "600",
+    "title": "最強的杖尾鱗甲龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-07-18",
+    "stAt": 1752796800,
+    "endAt": "1753055999",
+    "url": "https://news.pokemon-home.com/tc/page/600.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1746175830_89851751342905.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "632",
+    "title": "智慧型手機版更新公告（ver3.4.1）",
+    "date": "2025-07-16",
+    "stAt": 1752645600,
+    "endAt": "1755302399",
+    "url": "https://news.pokemon-home.com/tc/page/632.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "599",
+    "title": "最強的杖尾鱗甲龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-07-11",
+    "stAt": 1752192000,
+    "endAt": "1752451199",
+    "url": "https://news.pokemon-home.com/tc/page/599.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1746175734_14611751341654.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "598",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的杖尾鱗甲龍！",
+    "date": "2025-07-07",
+    "stAt": 1751846400,
+    "endAt": "1752191999",
+    "url": "https://news.pokemon-home.com/tc/page/598.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1746175589_77541751340124.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "602",
+    "title": "電屬性寶可夢大量出現中！",
+    "date": "2025-07-04",
+    "stAt": 1751587200,
+    "endAt": "1751846399",
+    "url": "https://news.pokemon-home.com/tc/page/602.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1746176015_86041750734430.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "614",
+    "title": "2025年7月賽季（賽季32）舉辦中！",
+    "date": "2025-07-01",
+    "stAt": 1751342400,
+    "endAt": "1754006399",
+    "url": "https://news.pokemon-home.com/tc/page/614.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1748507377_3911748586192.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "601",
+    "title": "【預告】電屬性寶可夢大量出現！",
+    "date": "2025-06-30",
+    "stAt": 1751241600,
+    "endAt": "1751587199",
+    "url": "https://news.pokemon-home.com/tc/page/601.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1746175934_90851750733533.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "597",
+    "title": "最強的戟脊龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-06-27",
+    "stAt": 1750982400,
+    "endAt": "1751241599",
+    "url": "https://news.pokemon-home.com/tc/page/597.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1746175475_90861749521142.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "596",
+    "title": "最強的戟脊龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-06-20",
+    "stAt": 1750377600,
+    "endAt": "1750636799",
+    "url": "https://news.pokemon-home.com/tc/page/596.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1746175368_25111749520444.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "620",
+    "title": "智慧型手機版停止支援部分OS公告",
+    "date": "2025-06-16",
+    "stAt": 1750032000,
+    "endAt": "1759244399",
+    "url": "https://news.pokemon-home.com/tc/page/620.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 1
+  },
+  {
+    "id": "595",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的戟脊龍！",
+    "date": "2025-06-16",
+    "stAt": 1750032000,
+    "endAt": "1750377599",
+    "url": "https://news.pokemon-home.com/tc/page/595.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1746175253_61041749519600.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "593",
+    "title": "最強的多邊獸Ⅱ在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-06-05",
+    "stAt": 1749081600,
+    "endAt": "1750031999",
+    "url": "https://news.pokemon-home.com/tc/page/593.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1745545698_64771748259373.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "592",
+    "title": "多邊獸Ⅱ大量出現中！",
+    "date": "2025-06-05",
+    "stAt": 1749081600,
+    "endAt": "1750031999",
+    "url": "https://news.pokemon-home.com/tc/page/592.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1745545483_64911748258231.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "612",
+    "title": "已追加「了解寶可夢」的相關影片！",
+    "date": "2025-06-04",
+    "stAt": 1749016800,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/tc/page/612.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "606",
+    "title": "智慧型手機版更新公告（ver3.4.0）",
+    "date": "2025-06-04",
+    "stAt": 1749016800,
+    "endAt": "1754265599",
+    "url": "https://news.pokemon-home.com/tc/page/606.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "605",
+    "title": "系統維護公告",
+    "date": "2025-06-02",
+    "stAt": 1748822400,
+    "endAt": "1748995199",
+    "url": "https://news.pokemon-home.com/tc/page/605.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "591",
+    "title": "多邊獸大量出現中！",
+    "date": "2025-06-02",
+    "stAt": 1748822400,
+    "endAt": "1749081599",
+    "url": "https://news.pokemon-home.com/tc/page/591.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1745545294_18851748257381.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "603",
+    "title": "2025年6月賽季（賽季31）舉辦中！",
+    "date": "2025-06-01",
+    "stAt": 1748750400,
+    "endAt": "1751327999",
+    "url": "https://news.pokemon-home.com/tc/page/603.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1747052126_40531748261524.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "583",
+    "title": "蟲屬性寶可夢大量出現中！",
+    "date": "2025-05-30",
+    "stAt": 1748563200,
+    "endAt": "1748822399",
+    "url": "https://news.pokemon-home.com/tc/page/583.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740452230_69811747729785.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "577",
+    "title": "最強的烈咬陸鯊在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-05-30",
+    "stAt": 1748563200,
+    "endAt": "1748822399",
+    "url": "https://news.pokemon-home.com/tc/page/577.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740102238_56661746156087.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "582",
+    "title": "【預告】蟲屬性寶可夢大量出現！",
+    "date": "2025-05-26",
+    "stAt": 1748217600,
+    "endAt": "1748563199",
+    "url": "https://news.pokemon-home.com/tc/page/582.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740452151_39531747724905.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "576",
+    "title": "最強的烈咬陸鯊在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-05-23",
+    "stAt": 1747958400,
+    "endAt": "1748217599",
+    "url": "https://news.pokemon-home.com/tc/page/576.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740102096_90881746154852.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "575",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的烈咬陸鯊！",
+    "date": "2025-05-19",
+    "stAt": 1747612800,
+    "endAt": "1747958399",
+    "url": "https://news.pokemon-home.com/tc/page/575.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740101998_35051746152879.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "574",
+    "title": "最強的巨金怪在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-05-16",
+    "stAt": 1747353600,
+    "endAt": "1747612799",
+    "url": "https://news.pokemon-home.com/tc/page/574.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740101892_87161745234083.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "573",
+    "title": "最強的巨金怪在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-05-09",
+    "stAt": 1746748800,
+    "endAt": "1747007999",
+    "url": "https://news.pokemon-home.com/tc/page/573.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740101806_90051745232474.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "572",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的巨金怪！",
+    "date": "2025-05-05",
+    "stAt": 1746403200,
+    "endAt": "1746748799",
+    "url": "https://news.pokemon-home.com/tc/page/572.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740101684_35591745230715.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "589",
+    "title": "2025年5月賽季（賽季30）舉辦中！",
+    "date": "2025-05-01",
+    "stAt": 1746072000,
+    "endAt": "1748735999",
+    "url": "https://news.pokemon-home.com/tc/page/589.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1743165609_27671743166003.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "594",
+    "title": "智慧型手機版更新公告（ver3.3.1）",
+    "date": "2025-04-30",
+    "stAt": 1745971200,
+    "endAt": "1751241599",
+    "url": "https://news.pokemon-home.com/tc/page/594.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "581",
+    "title": "金光閃閃的好機會！？特定寶可夢大量出現中！",
+    "date": "2025-04-30",
+    "stAt": 1745971200,
+    "endAt": "1746748799",
+    "url": "https://news.pokemon-home.com/tc/page/581.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740451570_88951745216774.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "579",
+    "title": "發現金光閃閃的寶物！？索財靈（寶箱形態）再次出現中！",
+    "date": "2025-04-30",
+    "stAt": 1745971200,
+    "endAt": "1746748799",
+    "url": "https://news.pokemon-home.com/tc/page/579.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740450745_55761745312339.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "580",
+    "title": "【預告】金光閃閃的好機會！？特定寶可夢大量出現！",
+    "date": "2025-04-28",
+    "stAt": 1745798400,
+    "endAt": "1745971199",
+    "url": "https://news.pokemon-home.com/tc/page/580.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740451483_24161745215027.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "578",
+    "title": "【預告】發現金光閃閃的寶物！？索財靈（寶箱形態）再次出現！",
+    "date": "2025-04-28",
+    "stAt": 1745798400,
+    "endAt": "1745971199",
+    "url": "https://news.pokemon-home.com/tc/page/578.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740450628_67071745312146.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "571",
+    "title": "最強的暴飛龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-04-25",
+    "stAt": 1745539200,
+    "endAt": "1745798399",
+    "url": "https://news.pokemon-home.com/tc/page/571.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740047526_44241744091369.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "588",
+    "title": "已追加「了解寶可夢」的相關影片！",
+    "date": "2025-04-23",
+    "stAt": 1745398800,
+    "endAt": "1749027599",
+    "url": "https://news.pokemon-home.com/tc/page/588.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "587",
+    "title": "智慧型手機版更新公告（ver3.3.0） ",
+    "date": "2025-04-23",
+    "stAt": 1745398800,
+    "endAt": "1750636799",
+    "url": "https://news.pokemon-home.com/tc/page/587.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "586",
+    "title": "系統維護公告",
+    "date": "2025-04-18",
+    "stAt": 1744934400,
+    "endAt": "1745355599",
+    "url": "https://news.pokemon-home.com/tc/page/586.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "570",
+    "title": "最強的暴飛龍在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-04-18",
+    "stAt": 1744934400,
+    "endAt": "1745193599",
+    "url": "https://news.pokemon-home.com/tc/page/570.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740047297_12441744084642.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "569",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的暴飛龍！",
+    "date": "2025-04-14",
+    "stAt": 1744588800,
+    "endAt": "1744934399",
+    "url": "https://news.pokemon-home.com/tc/page/569.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740045746_51251744082738.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "568",
+    "title": "最強的班基拉斯在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-04-04",
+    "stAt": 1743724800,
+    "endAt": "1743983999",
+    "url": "https://news.pokemon-home.com/tc/page/568.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740022190_82161742282936.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "560",
+    "title": "「Global Challenge 2025 IV」登場！",
+    "date": "2025-04-03",
+    "stAt": 1743638400,
+    "endAt": "1744588799",
+    "url": "https://news.pokemon-home.com/tc/page/560.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1734112046_39791742803019.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "584",
+    "title": "2025年4月賽季（賽季29）舉辦中！",
+    "date": "2025-04-01",
+    "stAt": 1743480000,
+    "endAt": "1746057599",
+    "url": "https://news.pokemon-home.com/tc/page/584.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740487944_88431740489154.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "585",
+    "title": "關於規則I",
+    "date": "2025-04-01",
+    "stAt": 1743465600,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/tc/page/585.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740493399_17411748571699.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "567",
+    "title": "最強的班基拉斯在黑色結晶的太晶團體戰出現中！",
+    "date": "2025-03-28",
+    "stAt": 1743120000,
+    "endAt": "1743379199",
+    "url": "https://news.pokemon-home.com/tc/page/567.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740021937_41041742280717.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "566",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的班基拉斯！",
+    "date": "2025-03-24",
+    "stAt": 1742774400,
+    "endAt": "1743119999",
+    "url": "https://news.pokemon-home.com/tc/page/566.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1740021421_66881742277189.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "554",
+    "title": "慶祝「Pokémon Day」！最強的狂歡浪舞鴨在黑色結晶的太晶團體戰出現！",
+    "date": "2025-03-14",
+    "stAt": 1741910400,
+    "endAt": "1742515199",
+    "url": "https://news.pokemon-home.com/tc/page/554.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732692714_72061741058985.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "559",
+    "title": "「Global Challenge 2025 III」登場！",
+    "date": "2025-03-13",
+    "stAt": 1741824000,
+    "endAt": "1742774399",
+    "url": "https://news.pokemon-home.com/tc/page/559.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1734111698_68371741067855.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "553",
+    "title": "慶祝「Pokémon Day」！最強的骨紋巨聲鱷在黑色結晶的太晶團體戰出現！",
+    "date": "2025-03-07",
+    "stAt": 1741305600,
+    "endAt": "1741910399",
+    "url": "https://news.pokemon-home.com/tc/page/553.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732692406_04441740452693.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "563",
+    "title": "2025年3月賽季（賽季28）舉辦中！",
+    "date": "2025-03-01",
+    "stAt": 1740801600,
+    "endAt": "1743465599",
+    "url": "https://news.pokemon-home.com/tc/page/563.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1737117546_12871737118459.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "555",
+    "title": "慶祝「Pokémon Day」！紅色、綠色、藍色的寶可夢大量出現中！",
+    "date": "2025-02-28",
+    "stAt": 1740700800,
+    "endAt": "1742515199",
+    "url": "https://news.pokemon-home.com/tc/page/555.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732694566_04491739865069.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "552",
+    "title": "慶祝「Pokémon Day」！最強的魔幻假面喵在黑色結晶的太晶團體戰出現！",
+    "date": "2025-02-28",
+    "stAt": 1740700800,
+    "endAt": "1741305599",
+    "url": "https://news.pokemon-home.com/tc/page/552.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732692237_71811739863497.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "564",
+    "title": "【預告】慶祝「Pokémon Day」！紅色、綠色、藍色的寶可夢大量出現！",
+    "date": "2025-02-27",
+    "stAt": 1740668400,
+    "endAt": "1740700799",
+    "url": "https://news.pokemon-home.com/tc/page/564.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1737528393_09411739865872.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "556",
+    "title": "贈送「朱之書手機殼」、「紫之書手機殼」！",
+    "date": "2025-02-27",
+    "stAt": 1740668400,
+    "endAt": "4133948399",
+    "url": "https://news.pokemon-home.com/tc/page/556.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1733822972_1461739860470.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "551",
+    "title": "【預告】慶祝「Pokémon Day」，特別的活動特設太晶團體戰即將登場！",
+    "date": "2025-02-27",
+    "stAt": 1740668400,
+    "endAt": "1741910399",
+    "url": "https://news.pokemon-home.com/tc/page/551.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732668118_37591739862170.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "548",
+    "title": "波盪水＆鐵斑葉再次登場中！",
+    "date": "2025-02-21",
+    "stAt": 1740096000,
+    "endAt": "1740700799",
+    "url": "https://news.pokemon-home.com/tc/page/548.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732238939_93331738903775.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "558",
+    "title": "「Global Challenge 2025 II」登場！",
+    "date": "2025-02-20",
+    "stAt": 1740009600,
+    "endAt": "1740959999",
+    "url": "https://news.pokemon-home.com/tc/page/558.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1734110364_60411738899677.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "547",
+    "title": "【預告】波盪水＆鐵斑葉即將再次登場！",
+    "date": "2025-02-17",
+    "stAt": 1739750400,
+    "endAt": "1740095999",
+    "url": "https://news.pokemon-home.com/tc/page/547.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732238811_91671738902115.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "546",
+    "title": "情人節快樂！",
+    "date": "2025-02-14",
+    "stAt": 1739491200,
+    "endAt": "1739750399",
+    "url": "https://news.pokemon-home.com/tc/page/546.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732238638_94511738554361.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "527",
+    "title": "完成「軟體圖鑑」來獲得禮物！第3彈是『寶可夢 劍／盾』與『寶可夢 Let's Go！皮卡丘／Let's Go！伊布』！",
+    "date": "2025-02-12",
+    "stAt": 1739340000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/tc/page/527.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1729090021_74961732866668.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "545",
+    "title": "【預告】情人節快樂！",
+    "date": "2025-02-10",
+    "stAt": 1739145600,
+    "endAt": "1739491199",
+    "url": "https://news.pokemon-home.com/tc/page/545.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732238533_3391738552700.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "526",
+    "title": "系統維護公告",
+    "date": "2025-02-10",
+    "stAt": 1739145600,
+    "endAt": "1739318399",
+    "url": "https://news.pokemon-home.com/tc/page/526.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "544",
+    "title": "鳥寶可夢大量出現中！",
+    "date": "2025-02-07",
+    "stAt": 1738886400,
+    "endAt": "1739145599",
+    "url": "https://news.pokemon-home.com/tc/page/544.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732238331_47691738033987.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "543",
+    "title": "【預告】鳥寶可夢大量出現！",
+    "date": "2025-02-03",
+    "stAt": 1738540800,
+    "endAt": "1738886399",
+    "url": "https://news.pokemon-home.com/tc/page/543.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1732238051_66191738033028.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "561",
+    "title": "2025年2月賽季（賽季27）舉辦中！",
+    "date": "2025-02-01",
+    "stAt": 1738382400,
+    "endAt": "1740787199",
+    "url": "https://news.pokemon-home.com/tc/page/561.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1734362009_93041734362594.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "562",
+    "title": "【預告】確定在情人節舉辦小仙奶的活動特設太晶團體戰！",
+    "date": "2025-01-29",
+    "stAt": 1738108800,
+    "endAt": "1739145599",
+    "url": "https://news.pokemon-home.com/tc/page/562.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1735110559_74911737628026.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "524",
+    "title": "完成「軟體圖鑑」來獲得禮物！第2彈是『寶可夢傳說 阿爾宙斯』與『寶可夢 晶燦鑽石／明亮珍珠』！",
+    "date": "2025-01-28",
+    "stAt": 1738044000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/tc/page/524.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1729089256_0391732700224.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "540",
+    "title": "精選特輯！吼叫尾＆鐵包袱",
+    "date": "2025-01-24",
+    "stAt": 1737676800,
+    "endAt": "1737935999",
+    "url": "https://news.pokemon-home.com/tc/page/540.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731647499_53561736500807.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "525",
+    "title": "系統維護公告",
+    "date": "2025-01-24",
+    "stAt": 1737676800,
+    "endAt": "1738022399",
+    "url": "https://news.pokemon-home.com/tc/page/525.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "557",
+    "title": "「Global Challenge 2025 I」登場！",
+    "date": "2025-01-23",
+    "stAt": 1737590400,
+    "endAt": "1738540799",
+    "url": "https://news.pokemon-home.com/tc/page/557.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1734086038_92981736849151.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "539",
+    "title": "【預告】精選特輯！吼叫尾＆鐵包袱",
+    "date": "2025-01-20",
+    "stAt": 1737331200,
+    "endAt": "1737676799",
+    "url": "https://news.pokemon-home.com/tc/page/539.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731647416_73461736499785.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "536",
+    "title": "纏紅鶴大量出現中！",
+    "date": "2025-01-17",
+    "stAt": 1737072000,
+    "endAt": "1737331199",
+    "url": "https://news.pokemon-home.com/tc/page/536.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731646994_38041736222128.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "534",
+    "title": "精選特輯！椰蛋樹（阿羅拉的樣子）",
+    "date": "2025-01-17",
+    "stAt": 1737072000,
+    "endAt": "1737331199",
+    "url": "https://news.pokemon-home.com/tc/page/534.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731646736_39781736220973.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "535",
+    "title": "【預告】纏紅鶴大量出現！",
+    "date": "2025-01-13",
+    "stAt": 1736726400,
+    "endAt": "1737071999",
+    "url": "https://news.pokemon-home.com/tc/page/535.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731646877_39761736221607.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "533",
+    "title": "【預告】精選特輯！椰蛋樹（阿羅拉的樣子）",
+    "date": "2025-01-13",
+    "stAt": 1736726400,
+    "endAt": "1737071999",
+    "url": "https://news.pokemon-home.com/tc/page/533.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731646508_71641736219812.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "538",
+    "title": "蛇寶可夢大量出現中！",
+    "date": "2025-01-10",
+    "stAt": 1736467200,
+    "endAt": "1736726399",
+    "url": "https://news.pokemon-home.com/tc/page/538.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731647214_17481734423855.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "541",
+    "title": "2025年1月賽季（賽季26）舉辦中！",
+    "date": "2025-01-06",
+    "stAt": 1736136000,
+    "endAt": "1738367999",
+    "url": "https://news.pokemon-home.com/tc/page/541.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731671423_79961731672324.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "537",
+    "title": "【預告】蛇寶可夢大量出現！",
+    "date": "2025-01-06",
+    "stAt": 1736121600,
+    "endAt": "1736467199",
+    "url": "https://news.pokemon-home.com/tc/page/537.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731647138_0151734422921.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "531",
+    "title": "關於2025年官方大賽的參加組別（年齡劃分）",
+    "date": "2024-12-23",
+    "stAt": 1734912000,
+    "endAt": "1767193199",
+    "url": "https://news.pokemon-home.com/tc/page/531.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1731317775_20781732869713.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "523",
+    "title": "黑色烈空坐駕臨！",
+    "date": "2024-12-20",
+    "stAt": 1734652800,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/tc/page/523.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728467705_50831733818260.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "521",
+    "title": "也在大量出現中尋找黑色的異色寶可夢吧！",
+    "date": "2024-12-20",
+    "stAt": 1734652800,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/tc/page/521.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728465128_76951733480236.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "522",
+    "title": "【預告】黑色烈空坐駕臨！",
+    "date": "2024-12-16",
+    "stAt": 1734307200,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/tc/page/522.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728467533_84011733817911.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "520",
+    "title": "【預告】也在大量出現中尋找黑色的異色寶可夢吧！",
+    "date": "2024-12-16",
+    "stAt": 1734307200,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/tc/page/520.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728464919_94331733475474.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "516",
+    "title": "精選特輯！棄世猴＆仆斬將軍！",
+    "date": "2024-12-13",
+    "stAt": 1734048000,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/tc/page/516.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728040471_59071732876073.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "510",
+    "title": "麒麟奇在藍莓學園大量出現中！",
+    "date": "2024-12-13",
+    "stAt": 1734048000,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/tc/page/510.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728039348_85361732873422.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "515",
+    "title": "【預告】精選特輯！棄世猴＆仆斬將軍！",
+    "date": "2024-12-09",
+    "stAt": 1733702400,
+    "endAt": "1734047999",
+    "url": "https://news.pokemon-home.com/tc/page/515.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728040314_07951732874955.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "509",
+    "title": "【預告】麒麟奇會在藍莓學園大量出現！",
+    "date": "2024-12-09",
+    "stAt": 1733702400,
+    "endAt": "1734047999",
+    "url": "https://news.pokemon-home.com/tc/page/509.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728039146_35981732871815.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "514",
+    "title": "精選特輯！瑪力露麗＆土王！",
+    "date": "2024-12-06",
+    "stAt": 1733443200,
+    "endAt": "1734047999",
+    "url": "https://news.pokemon-home.com/tc/page/514.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728040122_75171732247078.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "508",
+    "title": "烏波在北上鄉大量出現中！",
+    "date": "2024-12-06",
+    "stAt": 1733443200,
+    "endAt": "1734047999",
+    "url": "https://news.pokemon-home.com/tc/page/508.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728038971_89041732504486.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "550",
+    "title": "已追加「了解寶可夢」的相關影片！",
+    "date": "2024-12-04",
+    "stAt": 1733281200,
+    "endAt": "1744867799",
+    "url": "https://news.pokemon-home.com/tc/page/550.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "542",
+    "title": "系統維護公告",
+    "date": "2024-12-02",
+    "stAt": 1733097600,
+    "endAt": "1733270399",
+    "url": "https://news.pokemon-home.com/tc/page/542.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "513",
+    "title": "【預告】精選特輯！瑪力露麗＆土王！",
+    "date": "2024-12-02",
+    "stAt": 1733097600,
+    "endAt": "1733443199",
+    "url": "https://news.pokemon-home.com/tc/page/513.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728039939_55111732245568.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "507",
+    "title": "【預告】烏波會在北上鄉大量出現！",
+    "date": "2024-12-02",
+    "stAt": 1733097600,
+    "endAt": "1733443199",
+    "url": "https://news.pokemon-home.com/tc/page/507.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728038754_44741732502376.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "529",
+    "title": "2024年12月賽季（賽季25）舉辦中！",
+    "date": "2024-12-01",
+    "stAt": 1733025600,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/tc/page/529.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1730082146_99841730177828.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "530",
+    "title": "關於規則Ｇ",
+    "date": "2024-12-01",
+    "stAt": 1733011200,
+    "endAt": "1746057599",
+    "url": "https://news.pokemon-home.com/tc/page/530.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1730190250_46091731470869.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "518",
+    "title": "吉利蛋大量出現中！獲得大量的經驗值，培育同行的寶可夢們吧！",
+    "date": "2024-11-29",
+    "stAt": 1732838400,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/tc/page/518.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728270077_9321731918878.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "512",
+    "title": "精選特輯！鋼鎧鴉＆電肚蛙！",
+    "date": "2024-11-29",
+    "stAt": 1732838400,
+    "endAt": "1733443199",
+    "url": "https://news.pokemon-home.com/tc/page/512.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728039766_54451731916023.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "506",
+    "title": "小鍛匠在帕底亞地區大量出現中！",
+    "date": "2024-11-29",
+    "stAt": 1732838400,
+    "endAt": "1733443199",
+    "url": "https://news.pokemon-home.com/tc/page/506.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728038085_92311731466606.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "517",
+    "title": "【預告】吉利蛋大量出現！獲得大量的經驗值，培育同行的寶可夢們吧！",
+    "date": "2024-11-25",
+    "stAt": 1732492800,
+    "endAt": "1732838399",
+    "url": "https://news.pokemon-home.com/tc/page/517.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728269892_85371731917901.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "511",
+    "title": "【預告】精選特輯！鋼鎧鴉＆電肚蛙！",
+    "date": "2024-11-25",
+    "stAt": 1732492800,
+    "endAt": "1732838399",
+    "url": "https://news.pokemon-home.com/tc/page/511.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728039580_82971731914192.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "505",
+    "title": "【預告】小鍛匠會在帕底亞地區大量出現！",
+    "date": "2024-11-25",
+    "stAt": 1732492800,
+    "endAt": "1732838399",
+    "url": "https://news.pokemon-home.com/tc/page/505.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728037929_0541731465564.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "502",
+    "title": "最強的土台龜在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-11-22",
+    "stAt": 1732233600,
+    "endAt": "1732492799",
+    "url": "https://news.pokemon-home.com/tc/page/502.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726706021_74031729837539.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "483",
+    "title": "【預告】黑色烈空坐駕臨！也會舉辦特別的活動特設太晶團體戰與大量出現活動！",
+    "date": "2024-11-18",
+    "stAt": 1731938400,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/tc/page/483.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1723597976_13761731649923.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "501",
+    "title": "最強的土台龜在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-11-15",
+    "stAt": 1731628800,
+    "endAt": "1731887999",
+    "url": "https://news.pokemon-home.com/tc/page/501.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726705828_17131729835780.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "500",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的土台龜！",
+    "date": "2024-11-11",
+    "stAt": 1731283200,
+    "endAt": "1731628799",
+    "url": "https://news.pokemon-home.com/tc/page/500.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726705631_40791729831528.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "499",
+    "title": "最強的大力鱷在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-11-08",
+    "stAt": 1731024000,
+    "endAt": "1731283199",
+    "url": "https://news.pokemon-home.com/tc/page/499.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726705338_941729229064.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "504",
+    "title": "2024年11月賽季（賽季24）舉辦中！",
+    "date": "2024-11-01",
+    "stAt": 1730433600,
+    "endAt": "1733011199",
+    "url": "https://news.pokemon-home.com/tc/page/504.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1727855790_77321727868145.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "498",
+    "title": "最強的大力鱷在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-11-01",
+    "stAt": 1730419200,
+    "endAt": "1730678399",
+    "url": "https://news.pokemon-home.com/tc/page/498.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726705161_85731729227518.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "503",
+    "title": "挑戰！天星隊「隆」重登場！",
+    "date": "2024-10-28",
+    "stAt": 1730073600,
+    "endAt": "1731283199",
+    "url": "https://news.pokemon-home.com/tc/page/503.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1727351211_12021729571011.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "497",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的大力鱷！",
+    "date": "2024-10-28",
+    "stAt": 1730073600,
+    "endAt": "1730419199",
+    "url": "https://news.pokemon-home.com/tc/page/497.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726704963_55171729224473.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "496",
+    "title": "幽靈屬性寶可夢大量出現！一起歡度萬聖節吧！",
+    "date": "2024-10-28",
+    "stAt": 1730073600,
+    "endAt": "1730419199",
+    "url": "https://news.pokemon-home.com/tc/page/496.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726206366_92561728642253.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "494",
+    "title": "萬聖節快樂！",
+    "date": "2024-10-28",
+    "stAt": 1730073600,
+    "endAt": "1730419199",
+    "url": "https://news.pokemon-home.com/tc/page/494.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726205949_73311728634318.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "528",
+    "title": "系統維護公告",
+    "date": "2024-10-25",
+    "stAt": 1729814400,
+    "endAt": "1730159999",
+    "url": "https://news.pokemon-home.com/tc/page/528.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "495",
+    "title": "【預告】幽靈屬性寶可夢大量出現！一起歡度萬聖節吧！",
+    "date": "2024-10-21",
+    "stAt": 1729468800,
+    "endAt": "1730073599",
+    "url": "https://news.pokemon-home.com/tc/page/495.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726206235_40851728640037.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "493",
+    "title": "【預告】萬聖節快樂！",
+    "date": "2024-10-21",
+    "stAt": 1729468800,
+    "endAt": "1730073599",
+    "url": "https://news.pokemon-home.com/tc/page/493.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726205689_78371728624644.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "492",
+    "title": "平時不會出現的寶可夢在活動特設太晶團體戰再次登場！",
+    "date": "2024-10-18",
+    "stAt": 1729209600,
+    "endAt": "1729468799",
+    "url": "https://news.pokemon-home.com/tc/page/492.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726125204_40741728017589.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "490",
+    "title": "平時不會出現的寶可夢大量出現中！",
+    "date": "2024-10-18",
+    "stAt": 1729209600,
+    "endAt": "1729468799",
+    "url": "https://news.pokemon-home.com/tc/page/490.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726123899_66551728022565.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "482",
+    "title": "完成「軟體圖鑑」來獲得禮物！第1彈是『寶可夢 朱／紫』！",
+    "date": "2024-10-16",
+    "stAt": 1729072800,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/tc/page/482.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1723202539_07521727765248.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "481",
+    "title": "智慧型手機版更新公告（ver3.2.2）",
+    "date": "2024-10-16",
+    "stAt": 1729040400,
+    "endAt": "1731715199",
+    "url": "https://news.pokemon-home.com/tc/page/481.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "519",
+    "title": "Take On the 2025 Grand Challenge II!",
+    "date": "2024-10-16",
+    "stAt": 1729036800,
+    "endAt": "1730073599",
+    "url": "https://news.pokemon-home.com/tc/page/519.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1728278707_51411728979628.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "491",
+    "title": "【預告】平時不會出現的寶可夢在活動特設太晶團體戰再次登場！",
+    "date": "2024-10-14",
+    "stAt": 1728864000,
+    "endAt": "1729209599",
+    "url": "https://news.pokemon-home.com/tc/page/491.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726125078_98521728015183.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "489",
+    "title": "【預告】平時不會出現的寶可夢大量出現！",
+    "date": "2024-10-14",
+    "stAt": 1728864000,
+    "endAt": "1729209599",
+    "url": "https://news.pokemon-home.com/tc/page/489.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726123769_23631728020413.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "480",
+    "title": "系統維護公告",
+    "date": "2024-10-14",
+    "stAt": 1728864000,
+    "endAt": "1729036799",
+    "url": "https://news.pokemon-home.com/tc/page/480.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "487",
+    "title": "最強的烈焰猴在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-10-11",
+    "stAt": 1728604800,
+    "endAt": "1728863999",
+    "url": "https://news.pokemon-home.com/tc/page/487.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1725590074_44111727699113.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "486",
+    "title": "最強的烈焰猴在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-10-04",
+    "stAt": 1728000000,
+    "endAt": "1728259199",
+    "url": "https://news.pokemon-home.com/tc/page/486.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1725589914_18781727697462.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "484",
+    "title": "2024年10月賽季（賽季23）舉辦中！",
+    "date": "2024-10-01",
+    "stAt": 1727755200,
+    "endAt": "1730419199",
+    "url": "https://news.pokemon-home.com/tc/page/484.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1725445396_07151725445798.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "485",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的烈焰猴！",
+    "date": "2024-09-30",
+    "stAt": 1727654400,
+    "endAt": "1727999999",
+    "url": "https://news.pokemon-home.com/tc/page/485.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1725589819_57711726803560.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "478",
+    "title": "最強的君主蛇在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-09-27",
+    "stAt": 1727395200,
+    "endAt": "1727654399",
+    "url": "https://news.pokemon-home.com/tc/page/478.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1722566619_39521726028497.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "477",
+    "title": "最強的君主蛇在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-09-20",
+    "stAt": 1726790400,
+    "endAt": "1727049599",
+    "url": "https://news.pokemon-home.com/tc/page/477.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1722566479_05971726028417.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "476",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的君主蛇！",
+    "date": "2024-09-16",
+    "stAt": 1726444800,
+    "endAt": "1726790399",
+    "url": "https://news.pokemon-home.com/tc/page/476.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1722566232_99441726028256.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "475",
+    "title": "最強的熾焰咆哮虎在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-09-13",
+    "stAt": 1726185600,
+    "endAt": "1726444799",
+    "url": "https://news.pokemon-home.com/tc/page/475.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1722566061_2931724822967.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "488",
+    "title": "Take On the 2025 Grand Challenge I!",
+    "date": "2024-09-12",
+    "stAt": 1726099200,
+    "endAt": "1727049599",
+    "url": "https://news.pokemon-home.com/tc/page/488.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1726022119_59331726098885.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "474",
+    "title": "最強的熾焰咆哮虎在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-09-06",
+    "stAt": 1725580800,
+    "endAt": "1725839999",
+    "url": "https://news.pokemon-home.com/tc/page/474.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1722565905_36141724822870.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "473",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的熾焰咆哮虎！",
+    "date": "2024-09-02",
+    "stAt": 1725235200,
+    "endAt": "1725580799",
+    "url": "https://news.pokemon-home.com/tc/page/473.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1722564622_24091724822783.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "472",
+    "title": "2024年9月賽季（賽季22）舉辦中！",
+    "date": "2024-09-01",
+    "stAt": 1725163200,
+    "endAt": "1727740799",
+    "url": "https://news.pokemon-home.com/tc/page/472.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1721960174_94141722913940.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "479",
+    "title": "智慧型手機版支援OS變更公告",
+    "date": "2024-09-01",
+    "stAt": 1725148800,
+    "endAt": "1729036799",
+    "url": "https://news.pokemon-home.com/tc/page/479.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "467",
+    "title": "夏日活動第4彈！迎戰強力的寶可夢們！",
+    "date": "2024-08-23",
+    "stAt": 1724371200,
+    "endAt": "1725235199",
+    "url": "https://news.pokemon-home.com/tc/page/467.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1718678493_74341722568315.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "466",
+    "title": "【預告】夏日活動第4彈！迎戰強力的寶可夢們！",
+    "date": "2024-08-19",
+    "stAt": 1724025600,
+    "endAt": "1724371199",
+    "url": "https://news.pokemon-home.com/tc/page/466.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1718678336_33941722501627.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "465",
+    "title": "夏日活動第3彈！歡慶寶可夢WCS 2024！",
+    "date": "2024-08-09",
+    "stAt": 1723161600,
+    "endAt": "1724371199",
+    "url": "https://news.pokemon-home.com/tc/page/465.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1718678048_93071722407672.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "464",
+    "title": "【預告】夏日活動第3彈！歡慶寶可夢WCS 2024！",
+    "date": "2024-08-05",
+    "stAt": 1722816000,
+    "endAt": "1723161599",
+    "url": "https://news.pokemon-home.com/tc/page/464.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1718677884_95071722332527.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "468",
+    "title": "2024年8月賽季（賽季21）舉辦中！",
+    "date": "2024-08-01",
+    "stAt": 1722484800,
+    "endAt": "1725148799",
+    "url": "https://news.pokemon-home.com/tc/page/468.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1719394543_85731719394926.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "471",
+    "title": "關於規則H",
+    "date": "2024-08-01",
+    "stAt": 1722470400,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/tc/page/471.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1720577607_29431721715056.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "470",
+    "title": "智慧型手機版更新公告（ver3.2.1）",
+    "date": "2024-08-01",
+    "stAt": 1722470400,
+    "endAt": "1725148799",
+    "url": "https://news.pokemon-home.com/tc/page/470.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "469",
+    "title": "系統維護公告",
+    "date": "2024-07-29",
+    "stAt": 1722211200,
+    "endAt": "1722470399",
+    "url": "https://news.pokemon-home.com/tc/page/469.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "463",
+    "title": "夏日活動第2彈！驅使「上菜」的寶可夢們！",
+    "date": "2024-07-26",
+    "stAt": 1721952000,
+    "endAt": "1723161599",
+    "url": "https://news.pokemon-home.com/tc/page/463.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1718273920_56811721122914.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "462",
+    "title": "【預告】夏日活動第2彈！驅使「上菜」的寶可夢們！",
+    "date": "2024-07-22",
+    "stAt": 1721606400,
+    "endAt": "1721951999",
+    "url": "https://news.pokemon-home.com/tc/page/462.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1718273661_88021721121864.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "461",
+    "title": "夏日活動第1彈！尋找皮卡丘與夥伴們吧！",
+    "date": "2024-07-12",
+    "stAt": 1720742400,
+    "endAt": "1721951999",
+    "url": "https://news.pokemon-home.com/tc/page/461.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1718171038_56841720072440.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "460",
+    "title": "【預告】夏日活動第1彈！尋找皮卡丘與夥伴們吧！",
+    "date": "2024-07-08",
+    "stAt": 1720396800,
+    "endAt": "1720742399",
+    "url": "https://news.pokemon-home.com/tc/page/460.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1718170011_9021720072378.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "459",
+    "title": "【預告】4大夏日活動確定舉辦！將每天舉辦特別的活動特設太晶團體戰與大量出現活動！",
+    "date": "2024-07-08",
+    "stAt": 1720396800,
+    "endAt": "1725235199",
+    "url": "https://news.pokemon-home.com/tc/page/459.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1718097698_26461720072617.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "441",
+    "title": "最強的蜥蜴王在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-07-05",
+    "stAt": 1720137600,
+    "endAt": "1720396799",
+    "url": "https://news.pokemon-home.com/tc/page/441.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1708504339_45871717398251.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "458",
+    "title": "2024年7月賽季（賽季20）舉辦中！",
+    "date": "2024-07-01",
+    "stAt": 1719806400,
+    "endAt": "1722470399",
+    "url": "https://news.pokemon-home.com/tc/page/458.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1716447451_58581716448716.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "440",
+    "title": "最強的蜥蜴王在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-06-28",
+    "stAt": 1719532800,
+    "endAt": "1719791999",
+    "url": "https://news.pokemon-home.com/tc/page/440.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1708504119_92071717397993.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "439",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的蜥蜴王！",
+    "date": "2024-06-24",
+    "stAt": 1719187200,
+    "endAt": "1719532799",
+    "url": "https://news.pokemon-home.com/tc/page/439.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1708503879_37381717397568.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "438",
+    "title": "最強的炎武王在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-06-21",
+    "stAt": 1718928000,
+    "endAt": "1719187199",
+    "url": "https://news.pokemon-home.com/tc/page/438.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1708503445_46191717397417.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "437",
+    "title": "最強的炎武王在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-06-14",
+    "stAt": 1718323200,
+    "endAt": "1718582399",
+    "url": "https://news.pokemon-home.com/tc/page/437.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1708503202_85361717397277.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "457",
+    "title": "系統維護公告",
+    "date": "2024-06-10",
+    "stAt": 1717977600,
+    "endAt": "1718243999",
+    "url": "https://news.pokemon-home.com/tc/page/457.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "436",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的炎武王！",
+    "date": "2024-06-10",
+    "stAt": 1717977600,
+    "endAt": "1718323199",
+    "url": "https://news.pokemon-home.com/tc/page/436.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1708502998_31891717397113.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "456",
+    "title": "水屬性寶可夢大量出現中！",
+    "date": "2024-06-07",
+    "stAt": 1717718400,
+    "endAt": "1717977599",
+    "url": "https://news.pokemon-home.com/tc/page/456.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1713937558_56141716797135.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "454",
+    "title": "最強的巨沼怪在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-06-07",
+    "stAt": 1717718400,
+    "endAt": "1717977599",
+    "url": "https://news.pokemon-home.com/tc/page/454.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1713835492_31431716281990.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "455",
+    "title": "【預告】水屬性寶可夢大量出現！",
+    "date": "2024-06-03",
+    "stAt": 1717372800,
+    "endAt": "1717718399",
+    "url": "https://news.pokemon-home.com/tc/page/455.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1713936972_61911716797207.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "451",
+    "title": "2024年6月賽季（賽季19）舉辦中！",
+    "date": "2024-06-01",
+    "stAt": 1717214400,
+    "endAt": "1719791999",
+    "url": "https://news.pokemon-home.com/tc/page/451.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1713244772_321713244953.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "453",
+    "title": "最強的巨沼怪在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-05-31",
+    "stAt": 1717113600,
+    "endAt": "1717372799",
+    "url": "https://news.pokemon-home.com/tc/page/453.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1713835083_35241716281851.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "452",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的巨沼怪！",
+    "date": "2024-05-27",
+    "stAt": 1716768000,
+    "endAt": "1717113599",
+    "url": "https://news.pokemon-home.com/tc/page/452.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1713834772_37871716281734.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "435",
+    "title": "精選特輯！沙鐵皮＆鐵荊棘",
+    "date": "2024-05-24",
+    "stAt": 1716508800,
+    "endAt": "1716767999",
+    "url": "https://news.pokemon-home.com/tc/page/435.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1708501585_50521715600168.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "434",
+    "title": "【預告】精選特輯！沙鐵皮＆鐵荊棘",
+    "date": "2024-05-20",
+    "stAt": 1716163200,
+    "endAt": "1716508799",
+    "url": "https://news.pokemon-home.com/tc/page/434.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1708501396_1031715600207.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "431",
+    "title": "最強的西獅海壬在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-05-17",
+    "stAt": 1715904000,
+    "endAt": "1716163199",
+    "url": "https://news.pokemon-home.com/tc/page/431.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707879377_46771714444129.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "430",
+    "title": "最強的西獅海壬在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-05-10",
+    "stAt": 1715299200,
+    "endAt": "1715558399",
+    "url": "https://news.pokemon-home.com/tc/page/430.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707879139_34311714444045.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "449",
+    "title": "智慧型手機版更新公告（ver3.2.0）",
+    "date": "2024-05-08",
+    "stAt": 1715133600,
+    "endAt": "1735657199",
+    "url": "https://news.pokemon-home.com/tc/page/449.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "429",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的西獅海壬！",
+    "date": "2024-05-07",
+    "stAt": 1715040000,
+    "endAt": "1715299199",
+    "url": "https://news.pokemon-home.com/tc/page/429.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707878147_17351714026599.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "450",
+    "title": "系統維護公告",
+    "date": "2024-05-06",
+    "stAt": 1714953600,
+    "endAt": "1715133599",
+    "url": "https://news.pokemon-home.com/tc/page/450.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "448",
+    "title": "2024年5月賽季（賽季18）舉辦中！",
+    "date": "2024-05-01",
+    "stAt": 1714536000,
+    "endAt": "1717199999",
+    "url": "https://news.pokemon-home.com/tc/page/448.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1711674830_44311713515153.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "428",
+    "title": "波盪水＆鐵斑葉再次登場中 ！",
+    "date": "2024-04-26",
+    "stAt": 1714089600,
+    "endAt": "1715039999",
+    "url": "https://news.pokemon-home.com/tc/page/428.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707877598_95431713257286.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "426",
+    "title": "金光閃閃的好機會！？特定寶可夢大量出現中！",
+    "date": "2024-04-26",
+    "stAt": 1714089600,
+    "endAt": "1715039999",
+    "url": "https://news.pokemon-home.com/tc/page/426.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707877007_01251713257028.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "427",
+    "title": "【預告】波盪水＆鐵斑葉即將再次登場！",
+    "date": "2024-04-22",
+    "stAt": 1713744000,
+    "endAt": "1714089599",
+    "url": "https://news.pokemon-home.com/tc/page/427.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707877331_89071713257175.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "425",
+    "title": "【預告】金光閃閃的好機會！？特定寶可夢大量出現！",
+    "date": "2024-04-22",
+    "stAt": 1713744000,
+    "endAt": "1714089599",
+    "url": "https://news.pokemon-home.com/tc/page/425.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707876765_04451713256958.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "424",
+    "title": "最強的大竺葵在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-04-12",
+    "stAt": 1712880000,
+    "endAt": "1713139199",
+    "url": "https://news.pokemon-home.com/tc/page/424.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707876501_17311710831501.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "423",
+    "title": "最強的大竺葵在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-04-05",
+    "stAt": 1712275200,
+    "endAt": "1712534399",
+    "url": "https://news.pokemon-home.com/tc/page/423.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707876222_721710831361.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "432",
+    "title": "2024年4月賽季（賽季17）舉辦中！",
+    "date": "2024-04-01",
+    "stAt": 1711944000,
+    "endAt": "1714521599",
+    "url": "https://news.pokemon-home.com/tc/page/432.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1708327396_74091708327946.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "444",
+    "title": "關於規則Ｇ",
+    "date": "2024-04-01",
+    "stAt": 1711929600,
+    "endAt": "1725148799",
+    "url": "https://news.pokemon-home.com/tc/page/444.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1709809353_4081711606560.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "422",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的大竺葵！",
+    "date": "2024-04-01",
+    "stAt": 1711929600,
+    "endAt": "1712275199",
+    "url": "https://news.pokemon-home.com/tc/page/422.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707875996_21241710831248.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "421",
+    "title": "進化前的寶可夢大量出現中！",
+    "date": "2024-03-29",
+    "stAt": 1711670400,
+    "endAt": "1711929599",
+    "url": "https://news.pokemon-home.com/tc/page/421.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707446019_02511710831119.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "420",
+    "title": "【預告】進化前的寶可夢大量出現！",
+    "date": "2024-03-25",
+    "stAt": 1711324800,
+    "endAt": "1711670399",
+    "url": "https://news.pokemon-home.com/tc/page/420.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707445728_4321710830934.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "446",
+    "title": "系統維護公告",
+    "date": "2024-03-22",
+    "stAt": 1711065600,
+    "endAt": "1711501199",
+    "url": "https://news.pokemon-home.com/tc/page/446.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "445",
+    "title": "因應泰國法令的對應",
+    "date": "2024-03-22",
+    "stAt": 1711065600,
+    "endAt": "1714521599",
+    "url": "https://news.pokemon-home.com/tc/page/445.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "419",
+    "title": "精選特輯！猛惡菇＆鐵臂膀",
+    "date": "2024-03-22",
+    "stAt": 1711065600,
+    "endAt": "1711324799",
+    "url": "https://news.pokemon-home.com/tc/page/419.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707444963_68611710397571.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "418",
+    "title": "【預告】精選特輯！猛惡菇＆鐵臂膀",
+    "date": "2024-03-18",
+    "stAt": 1710720000,
+    "endAt": "1711065599",
+    "url": "https://news.pokemon-home.com/tc/page/418.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707444800_7251710236589.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "411",
+    "title": "「Global Challenge 2024 III」登場！",
+    "date": "2024-03-14",
+    "stAt": 1710374400,
+    "endAt": "1711929599",
+    "url": "https://news.pokemon-home.com/tc/page/411.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1705297710_48161707388254.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "414",
+    "title": "慶祝「Pokémon Day」！最強的噴火龍在黑色結晶的太晶團體戰再次登場！",
+    "date": "2024-03-13",
+    "stAt": 1710288000,
+    "endAt": "1710719999",
+    "url": "https://news.pokemon-home.com/tc/page/414.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1705471005_99881707389337.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "413",
+    "title": "慶祝「Pokémon Day」！最強的水箭龜在黑色結晶的太晶團體戰出現！",
+    "date": "2024-03-06",
+    "stAt": 1709683200,
+    "endAt": "1710287999",
+    "url": "https://news.pokemon-home.com/tc/page/413.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1705470833_33181707388689.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "417",
+    "title": "2024年3月賽季（賽季16）舉辦中！",
+    "date": "2024-03-01",
+    "stAt": 1709265600,
+    "endAt": "1711929599",
+    "url": "https://news.pokemon-home.com/tc/page/417.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1707190097_88181707190613.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "443",
+    "title": "智慧型手機版支援OS／裝置變更公告",
+    "date": "2024-03-01",
+    "stAt": 1709251200,
+    "endAt": "1717199999",
+    "url": "https://news.pokemon-home.com/tc/page/443.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "442",
+    "title": "系統維護公告",
+    "date": "2024-03-01",
+    "stAt": 1709251200,
+    "endAt": "1709693999",
+    "url": "https://news.pokemon-home.com/tc/page/442.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "412",
+    "title": "慶祝「Pokémon Day」！最強的妙蛙花在黑色結晶的太晶團體戰出現！",
+    "date": "2024-02-28",
+    "stAt": 1709078400,
+    "endAt": "1709683199",
+    "url": "https://news.pokemon-home.com/tc/page/412.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1705469784_5251707388489.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "415",
+    "title": "【預告】慶祝「Pokémon Day」，特別的活動特設太晶團體戰即將登場！",
+    "date": "2024-02-27",
+    "stAt": 1709046000,
+    "endAt": "1710287999",
+    "url": "https://news.pokemon-home.com/tc/page/415.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1705472860_13611707389179.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "408",
+    "title": "圓圓的寶可夢大量出現！",
+    "date": "2024-02-23",
+    "stAt": 1708646400,
+    "endAt": "1709078399",
+    "url": "https://news.pokemon-home.com/tc/page/408.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1704966564_16091707453399.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "407",
+    "title": "【預告】圓圓的寶可夢大量出現！",
+    "date": "2024-02-21",
+    "stAt": 1708473600,
+    "endAt": "1708646399",
+    "url": "https://news.pokemon-home.com/tc/page/407.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1704966450_16061707453285.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "404",
+    "title": "平時不會出現的寶可夢在活動特設太晶團體戰登場！",
+    "date": "2024-02-16",
+    "stAt": 1708041600,
+    "endAt": "1708300799",
+    "url": "https://news.pokemon-home.com/tc/page/404.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1703588554_81671706256215.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "410",
+    "title": "「Global Challenge 2024 II」登場！",
+    "date": "2024-02-15",
+    "stAt": 1707955200,
+    "endAt": "1709510399",
+    "url": "https://news.pokemon-home.com/tc/page/410.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1705297565_50211707388033.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "403",
+    "title": "【預告】平時不會出現的寶可夢在活動特設太晶團體戰登場！",
+    "date": "2024-02-12",
+    "stAt": 1707696000,
+    "endAt": "1708041599",
+    "url": "https://news.pokemon-home.com/tc/page/403.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1703588434_66811706256125.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "402",
+    "title": "情人節快樂！",
+    "date": "2024-02-12",
+    "stAt": 1707696000,
+    "endAt": "1708041599",
+    "url": "https://news.pokemon-home.com/tc/page/402.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1703588311_00381706604289.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "397",
+    "title": "最強的帝王拿波在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-02-09",
+    "stAt": 1707436800,
+    "endAt": "1707695999",
+    "url": "https://news.pokemon-home.com/tc/page/397.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1702974867_88281706080973.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "401",
+    "title": "【預告】情人節快樂！",
+    "date": "2024-02-05",
+    "stAt": 1707091200,
+    "endAt": "1707695999",
+    "url": "https://news.pokemon-home.com/tc/page/401.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1703588170_44161706604234.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "396",
+    "title": "最強的帝王拿波在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-02-02",
+    "stAt": 1706832000,
+    "endAt": "1707091199",
+    "url": "https://news.pokemon-home.com/tc/page/396.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1702974763_88021706080768.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "416",
+    "title": "2024年2月賽季（賽季15）舉辦中！",
+    "date": "2024-02-01",
+    "stAt": 1706760000,
+    "endAt": "1709251199",
+    "url": "https://news.pokemon-home.com/tc/page/416.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1706162508_2161706697123.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "395",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的帝王拿波！",
+    "date": "2024-01-29",
+    "stAt": 1706486400,
+    "endAt": "1706831999",
+    "url": "https://news.pokemon-home.com/tc/page/395.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1702974640_09471706080598.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "393",
+    "title": "平時不會出現的寶可夢大量出現中！",
+    "date": "2024-01-26",
+    "stAt": 1706227200,
+    "endAt": "1706486399",
+    "url": "https://news.pokemon-home.com/tc/page/393.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1702608726_12841705480911.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "355",
+    "title": "精選特輯！振翼髮＆鐵脖頸",
+    "date": "2024-01-26",
+    "stAt": 1706227200,
+    "endAt": "1706486399",
+    "url": "https://news.pokemon-home.com/tc/page/355.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1696416601_04361705480618.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "409",
+    "title": "「Global Challenge 2024 I」登場！",
+    "date": "2024-01-22",
+    "stAt": 1705881600,
+    "endAt": "1707091199",
+    "url": "https://news.pokemon-home.com/tc/page/409.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1705297395_60231705651596.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "392",
+    "title": "【預告】平時不會出現的寶可夢大量出現！",
+    "date": "2024-01-22",
+    "stAt": 1705881600,
+    "endAt": "1706227199",
+    "url": "https://news.pokemon-home.com/tc/page/392.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1702608616_52511705480795.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "354",
+    "title": "【預告】精選特輯！振翼髮＆鐵脖頸",
+    "date": "2024-01-22",
+    "stAt": 1705881600,
+    "endAt": "1706227199",
+    "url": "https://news.pokemon-home.com/tc/page/354.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1696416427_98381705480466.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "390",
+    "title": "最強的火焰雞在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-01-19",
+    "stAt": 1705622400,
+    "endAt": "1705881599",
+    "url": "https://news.pokemon-home.com/tc/page/390.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1702448407_90191703058521.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "389",
+    "title": "最強的火焰雞在黑色結晶的太晶團體戰出現中！",
+    "date": "2024-01-12",
+    "stAt": 1705017600,
+    "endAt": "1705276799",
+    "url": "https://news.pokemon-home.com/tc/page/389.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1702448290_30431703058413.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "391",
+    "title": "系統維護公告",
+    "date": "2024-01-11",
+    "stAt": 1704981600,
+    "endAt": "1705021199",
+    "url": "https://news.pokemon-home.com/tc/page/391.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "385",
+    "title": "贈送「幻之桃桃果」！",
+    "date": "2024-01-11",
+    "stAt": 1704981600,
+    "endAt": "2556111599",
+    "url": "https://news.pokemon-home.com/tc/page/385.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1701420922_05771704964257.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "388",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的火焰雞！",
+    "date": "2024-01-08",
+    "stAt": 1704672000,
+    "endAt": "1705017599",
+    "url": "https://news.pokemon-home.com/tc/page/388.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1702448106_09331703058324.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "399",
+    "title": "2024年1月賽季（賽季14）舉辦中！",
+    "date": "2024-01-04",
+    "stAt": 1704340800,
+    "endAt": "1706745599",
+    "url": "https://news.pokemon-home.com/tc/page/399.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1703222900_27471706781982.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "405",
+    "title": "關於招式「龍聲鼓舞」的異常問題",
+    "date": "2024-01-04",
+    "stAt": 1704326400,
+    "endAt": "1706749199",
+    "url": "https://news.pokemon-home.com/tc/page/405.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1703670410_90291704787773.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "400",
+    "title": "系統維護公告",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1703552399",
+    "url": "https://news.pokemon-home.com/tc/page/400.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "386",
+    "title": "關於2024年官方大賽的參加組別（年齡劃分）",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1735657199",
+    "url": "https://news.pokemon-home.com/tc/page/386.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1701421604_68421702453945.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "380",
+    "title": "龍屬性寶可夢大量出現！",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1704326399",
+    "url": "https://news.pokemon-home.com/tc/page/380.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1700212518_88061702453741.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "378",
+    "title": "「藍莓開幕戰」登場！",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1705276799",
+    "url": "https://news.pokemon-home.com/tc/page/378.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1699953624_41091702878247.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "377",
+    "title": "關於規則F",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1714521599",
+    "url": "https://news.pokemon-home.com/tc/page/377.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1699953442_16911704430448.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "375",
+    "title": "波盪水＆鐵斑葉再次登場！",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1704671999",
+    "url": "https://news.pokemon-home.com/tc/page/375.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1699342992_60361702517787.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "373",
+    "title": "信使鳥大量出現！一起歡度聖誕節吧！",
+    "date": "2023-12-22",
+    "stAt": 1703203200,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/tc/page/373.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1699342446_02791702452601.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "371",
+    "title": "聖誕快樂！最強的鐵包袱出現！",
+    "date": "2023-12-22",
+    "stAt": 1703203200,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/tc/page/371.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1699342222_53721702452351.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "398",
+    "title": "伴隨更新資料發佈而發生的異常問題與相關對應",
+    "date": "2023-12-20",
+    "stAt": 1703044800,
+    "endAt": "1706749199",
+    "url": "https://news.pokemon-home.com/tc/page/398.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1702983019_09071703214054.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "379",
+    "title": "【預告】龍屬性寶可夢大量出現！",
+    "date": "2023-12-18",
+    "stAt": 1702857600,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/tc/page/379.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1700212395_17511702453564.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "374",
+    "title": "【預告】波盪水＆鐵斑葉即將再次登場！",
+    "date": "2023-12-18",
+    "stAt": 1702857600,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/tc/page/374.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1699342888_59991702517652.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "372",
+    "title": "【預告】信使鳥大量出現！一起歡度聖誕節吧！",
+    "date": "2023-12-18",
+    "stAt": 1702857600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/tc/page/372.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1699342321_40131702452484.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "370",
+    "title": "【預告】聖誕快樂！最強的鐵包袱即將出現！",
+    "date": "2023-12-18",
+    "stAt": 1702857600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/tc/page/370.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1699342126_32751702452201.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "381",
+    "title": "更新公告",
+    "date": "2023-12-14",
+    "stAt": 1702515600,
+    "endAt": "1735657199",
+    "url": "https://news.pokemon-home.com/tc/page/381.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "367",
+    "title": "贈送1個「大師球」！",
+    "date": "2023-12-14",
+    "stAt": 1702515600,
+    "endAt": "1704326399",
+    "url": "https://news.pokemon-home.com/tc/page/367.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1697791769_54421701675233.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "387",
+    "title": "系統維護公告",
+    "date": "2023-12-11",
+    "stAt": 1702252800,
+    "endAt": "1702515599",
+    "url": "https://news.pokemon-home.com/tc/page/387.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "364",
+    "title": "滿溢慶祝氛圍的大量出現！",
+    "date": "2023-12-08",
+    "stAt": 1701993600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/tc/page/364.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1697791172_87691701760822.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "363",
+    "title": "降臨！帝牙盧卡＆帕路奇亞",
+    "date": "2023-12-08",
+    "stAt": 1701993600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/tc/page/363.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1697790854_67211701674610.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "366",
+    "title": "贈送異色的「閃耀的路卡利歐」！",
+    "date": "2023-12-07",
+    "stAt": 1701957600,
+    "endAt": "1704326399",
+    "url": "https://news.pokemon-home.com/tc/page/366.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1697791578_23621701675122.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "365",
+    "title": "贈送幻之寶可夢「達克萊伊」！",
+    "date": "2023-12-07",
+    "stAt": 1701957600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/tc/page/365.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1697791385_44571701675043.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "383",
+    "title": "智慧型手機版更新公告（ver3.1.2）",
+    "date": "2023-12-04",
+    "stAt": 1701651600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/tc/page/383.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "376",
+    "title": "【預告】關於規則F",
+    "date": "2023-12-01",
+    "stAt": 1701403200,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/tc/page/376.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1699953234_47511701062832.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "353",
+    "title": "2023年12月賽季（賽季13）舉辦中！",
+    "date": "2023-12-01",
+    "stAt": 1701403200,
+    "endAt": "1704326399",
+    "url": "https://news.pokemon-home.com/tc/page/353.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1695801483_23071698813453.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "382",
+    "title": "系統維護公告",
+    "date": "2023-12-01",
+    "stAt": 1701388800,
+    "endAt": "1701651599",
+    "url": "https://news.pokemon-home.com/tc/page/382.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "306",
+    "title": "最強的大劍鬼（洗翠的樣子）在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-12-01",
+    "stAt": 1701388800,
+    "endAt": "1701647999",
+    "url": "https://news.pokemon-home.com/tc/page/306.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028960_12341700034335.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "305",
+    "title": "最強的大劍鬼（洗翠的樣子）在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-11-24",
+    "stAt": 1700784000,
+    "endAt": "1701043199",
+    "url": "https://news.pokemon-home.com/tc/page/305.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028894_28881700034198.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "304",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的大劍鬼（洗翠的樣子）！",
+    "date": "2023-11-20",
+    "stAt": 1700438400,
+    "endAt": "1700783999",
+    "url": "https://news.pokemon-home.com/tc/page/304.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028823_1161700034066.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "362",
+    "title": "伊布大量出現！尋找各式各樣的伊布吧！",
+    "date": "2023-11-17",
+    "stAt": 1700179200,
+    "endAt": "1700524799",
+    "url": "https://news.pokemon-home.com/tc/page/362.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1697719788_19491699430763.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "360",
+    "title": "黑色結晶的太晶團體戰將出現最強的伊布！",
+    "date": "2023-11-17",
+    "stAt": 1700179200,
+    "endAt": "1700524799",
+    "url": "https://news.pokemon-home.com/tc/page/360.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1697718034_80131700021578.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "361",
+    "title": "【預告】伊布大量出現！尋找各式各樣的伊布吧！",
+    "date": "2023-11-13",
+    "stAt": 1699833600,
+    "endAt": "1700179199",
+    "url": "https://news.pokemon-home.com/tc/page/361.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1697718528_65751699430648.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "359",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的伊布！",
+    "date": "2023-11-13",
+    "stAt": 1699833600,
+    "endAt": "1700179199",
+    "url": "https://news.pokemon-home.com/tc/page/359.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1697717577_17981699430340.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "303",
+    "title": "最強的火爆獸（洗翠的樣子）在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-11-10",
+    "stAt": 1699574400,
+    "endAt": "1699833599",
+    "url": "https://news.pokemon-home.com/tc/page/303.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028751_07491698219742.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "302",
+    "title": "最強的火爆獸（洗翠的樣子）在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-11-03",
+    "stAt": 1698969600,
+    "endAt": "1699228799",
+    "url": "https://news.pokemon-home.com/tc/page/302.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028671_99011698219621.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "352",
+    "title": "2023年11月賽季（賽季12）舉辦中！",
+    "date": "2023-11-01",
+    "stAt": 1698811200,
+    "endAt": "1701388799",
+    "url": "https://news.pokemon-home.com/tc/page/352.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1695799562_5261695800173.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "301",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的火爆獸（洗翠的樣子）！",
+    "date": "2023-10-30",
+    "stAt": 1698624000,
+    "endAt": "1698969599",
+    "url": "https://news.pokemon-home.com/tc/page/301.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028608_59891698219488.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "350",
+    "title": "幽靈屬性寶可夢大量出現！一起歡度萬聖節吧！",
+    "date": "2023-10-27",
+    "stAt": 1698364800,
+    "endAt": "1698796799",
+    "url": "https://news.pokemon-home.com/tc/page/350.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1695608368_04181696399806.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "348",
+    "title": "萬聖節快樂！",
+    "date": "2023-10-27",
+    "stAt": 1698364800,
+    "endAt": "1698796799",
+    "url": "https://news.pokemon-home.com/tc/page/348.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1695607350_27161696399203.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "356",
+    "title": "「怖怖驚奇」登場！",
+    "date": "2023-10-23",
+    "stAt": 1698019200,
+    "endAt": "1699228799",
+    "url": "https://news.pokemon-home.com/tc/page/356.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1696909729_87171697788489.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "349",
+    "title": "【預告】幽靈屬性寶可夢大量出現！一起歡度萬聖節吧！",
+    "date": "2023-10-23",
+    "stAt": 1698019200,
+    "endAt": "1698364799",
+    "url": "https://news.pokemon-home.com/tc/page/349.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1695608170_83511696399580.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "347",
+    "title": "【預告】萬聖節快樂！",
+    "date": "2023-10-23",
+    "stAt": 1698019200,
+    "endAt": "1698364799",
+    "url": "https://news.pokemon-home.com/tc/page/347.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1695607246_65861696399089.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "344",
+    "title": "幸福蛋！幸福週末！",
+    "date": "2023-10-20",
+    "stAt": 1697760000,
+    "endAt": "1698019199",
+    "url": "https://news.pokemon-home.com/tc/page/344.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1694489244_67621696398775.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "341",
+    "title": "【預告】幸福蛋！幸福週末！",
+    "date": "2023-10-16",
+    "stAt": 1697414400,
+    "endAt": "1697759999",
+    "url": "https://news.pokemon-home.com/tc/page/341.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1694417298_91151696398651.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "300",
+    "title": "最強的狙射樹梟（洗翠的樣子）在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-10-13",
+    "stAt": 1697155200,
+    "endAt": "1697414399",
+    "url": "https://news.pokemon-home.com/tc/page/300.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028536_9081696398480.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "358",
+    "title": "系統維護公告",
+    "date": "2023-10-11",
+    "stAt": 1697004000,
+    "endAt": "1697075999",
+    "url": "https://news.pokemon-home.com/tc/page/358.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "299",
+    "title": "最強的狙射樹梟（洗翠的樣子）在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-10-06",
+    "stAt": 1696550400,
+    "endAt": "1696809599",
+    "url": "https://news.pokemon-home.com/tc/page/299.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028470_69961696398345.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "343",
+    "title": "「北上開幕戰」登場！",
+    "date": "2023-10-02",
+    "stAt": 1696204800,
+    "endAt": "1696809599",
+    "url": "https://news.pokemon-home.com/tc/page/343.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1694427504_50061696235329.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "297",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的狙射樹梟（洗翠的樣子）！",
+    "date": "2023-10-02",
+    "stAt": 1696204800,
+    "endAt": "1697155199",
+    "url": "https://news.pokemon-home.com/tc/page/297.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028293_98151695280662.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "351",
+    "title": "2023年10月賽季（賽季11）舉辦中！",
+    "date": "2023-10-01",
+    "stAt": 1696132800,
+    "endAt": "1698796799",
+    "url": "https://news.pokemon-home.com/tc/page/351.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1695789683_17711695790452.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "340",
+    "title": "關於規則E",
+    "date": "2023-10-01",
+    "stAt": 1696132800,
+    "endAt": "1704239999",
+    "url": "https://news.pokemon-home.com/tc/page/340.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1693974879_15561701922895.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "332",
+    "title": "皮皮大量出現！加入賞月派對一起玩吧！",
+    "date": "2023-09-29",
+    "stAt": 1695945600,
+    "endAt": "1696204799",
+    "url": "https://news.pokemon-home.com/tc/page/332.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689769272_68861695110275.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "346",
+    "title": "更新公告（ver3.1.1）",
+    "date": "2023-09-27",
+    "stAt": 1695776400,
+    "endAt": "1701651599",
+    "url": "https://news.pokemon-home.com/tc/page/346.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "345",
+    "title": "系統維護公告",
+    "date": "2023-09-25",
+    "stAt": 1695600000,
+    "endAt": "1695776399",
+    "url": "https://news.pokemon-home.com/tc/page/345.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "342",
+    "title": "【預告】「北上開幕戰」即將舉辦！",
+    "date": "2023-09-25",
+    "stAt": 1695600000,
+    "endAt": "1696204799",
+    "url": "https://news.pokemon-home.com/tc/page/342.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1694427351_20081695282933.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "331",
+    "title": "【預告】皮皮大量出現！加入賞月派對一起玩吧！",
+    "date": "2023-09-25",
+    "stAt": 1695600000,
+    "endAt": "1695945599",
+    "url": "https://news.pokemon-home.com/tc/page/331.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689768882_3021694758136.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "294",
+    "title": "精選特輯！爬地翅＆鐵毒蛾",
+    "date": "2023-09-22",
+    "stAt": 1695340800,
+    "endAt": "1695599999",
+    "url": "https://news.pokemon-home.com/tc/page/294.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028091_81811694757869.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "293",
+    "title": "【預告】精選特輯！爬地翅＆鐵毒蛾",
+    "date": "2023-09-18",
+    "stAt": 1694995200,
+    "endAt": "1695340799",
+    "url": "https://news.pokemon-home.com/tc/page/293.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683027982_42691694684773.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "338",
+    "title": "更新公告（ver3.1.0）",
+    "date": "2023-09-13",
+    "stAt": 1694566800,
+    "endAt": "1702515599",
+    "url": "https://news.pokemon-home.com/tc/page/338.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "339",
+    "title": "系統維護公告",
+    "date": "2023-09-08",
+    "stAt": 1694131200,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/tc/page/339.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "337",
+    "title": "2023年9月賽季（賽季10）舉辦中！",
+    "date": "2023-09-01",
+    "stAt": 1693540800,
+    "endAt": "1696118399",
+    "url": "https://news.pokemon-home.com/tc/page/337.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1692697775_11651694603007.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "336",
+    "title": "【預告】關於規則E",
+    "date": "2023-09-01",
+    "stAt": 1693540800,
+    "endAt": "1696132799",
+    "url": "https://news.pokemon-home.com/tc/page/336.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1692267701_65151694400324.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "329",
+    "title": "來襲！最強的超夢",
+    "date": "2023-09-01",
+    "stAt": 1693526400,
+    "endAt": "1694995199",
+    "url": "https://news.pokemon-home.com/tc/page/329.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689230798_27251692950407.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "335",
+    "title": "「變更特性的道具」的效果有時在其他的軟體不會被反映",
+    "date": "2023-08-21",
+    "stAt": 1692576000,
+    "endAt": "1696118399",
+    "url": "https://news.pokemon-home.com/tc/page/335.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "328",
+    "title": "閃耀吧！支援手！暖身準備迎戰最強的超夢！",
+    "date": "2023-08-18",
+    "stAt": 1692316800,
+    "endAt": "1693526399",
+    "url": "https://news.pokemon-home.com/tc/page/328.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689230284_47671692166146.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "324",
+    "title": "『寶可夢 劍／盾』對戰資料停止更新公告",
+    "date": "2023-08-14",
+    "stAt": 1691971200,
+    "endAt": "1698764399",
+    "url": "https://news.pokemon-home.com/tc/page/324.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SW",
+      "SH"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "327",
+    "title": "目標成為攻擊手！暖身準備迎戰最強的超夢！",
+    "date": "2023-08-09",
+    "stAt": 1691539200,
+    "endAt": "1692316799",
+    "url": "https://news.pokemon-home.com/tc/page/327.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689230020_84421691464530.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "326",
+    "title": "【預告】來襲！最強的超夢",
+    "date": "2023-08-08",
+    "stAt": 1691502000,
+    "endAt": "1693526399",
+    "url": "https://news.pokemon-home.com/tc/page/326.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689229458_02171692869357.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "325",
+    "title": "讓專屬於你的夢幻成為夥伴吧！",
+    "date": "2023-08-08",
+    "stAt": 1691502000,
+    "endAt": "1695049199",
+    "url": "https://news.pokemon-home.com/tc/page/325.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689228355_03131691150062.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "334",
+    "title": "系統維護公告",
+    "date": "2023-08-04",
+    "stAt": 1691107200,
+    "endAt": "1691456399",
+    "url": "https://news.pokemon-home.com/tc/page/334.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "330",
+    "title": "關於從『Pokémon GO』傳送到『Pokémon HOME』的寶可夢的經驗值異常問題的對應措施",
+    "date": "2023-08-04",
+    "stAt": 1691107200,
+    "endAt": "1693493999",
+    "url": "https://news.pokemon-home.com/tc/page/330.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "266",
+    "title": "最強的轟擂金剛猩在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-08-04",
+    "stAt": 1691107200,
+    "endAt": "1691366399",
+    "url": "https://news.pokemon-home.com/tc/page/266.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676038156_52331690970112.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "333",
+    "title": "2023年8月賽季（賽季9）舉辦中！",
+    "date": "2023-08-01",
+    "stAt": 1690862400,
+    "endAt": "1693526399",
+    "url": "https://news.pokemon-home.com/tc/page/333.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1690515202_80311695872981.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "265",
+    "title": "最強的轟擂金剛猩在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-07-28",
+    "stAt": 1690502400,
+    "endAt": "1690761599",
+    "url": "https://news.pokemon-home.com/tc/page/265.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037795_88621689152079.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "264",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的轟擂金剛猩！",
+    "date": "2023-07-17",
+    "stAt": 1689552000,
+    "endAt": "1691107199",
+    "url": "https://news.pokemon-home.com/tc/page/264.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037542_68141689151911.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "263",
+    "title": "最強的妖火紅狐在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-07-14",
+    "stAt": 1689292800,
+    "endAt": "1689551999",
+    "url": "https://news.pokemon-home.com/tc/page/263.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037411_62981688536571.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "262",
+    "title": "最強的妖火紅狐在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-07-07",
+    "stAt": 1688688000,
+    "endAt": "1688947199",
+    "url": "https://news.pokemon-home.com/tc/page/262.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037318_07131688536378.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "323",
+    "title": "關於無法從『寶可夢傳說 阿爾宙斯』捉到的部分頭目獲得「大個子之證」的異常問題。",
+    "date": "2023-07-04",
+    "stAt": 1688455800,
+    "endAt": "1690815599",
+    "url": "https://news.pokemon-home.com/tc/page/323.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "322",
+    "title": "智慧型手機版更新公告（ver3.0.1）",
+    "date": "2023-07-04",
+    "stAt": 1688432400,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/tc/page/322.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "261",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的妖火紅狐！",
+    "date": "2023-07-03",
+    "stAt": 1688342400,
+    "endAt": "1689292799",
+    "url": "https://news.pokemon-home.com/tc/page/261.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037144_40261688100494.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "320",
+    "title": "2023年7月賽季（賽季8）舉辦中！",
+    "date": "2023-07-01",
+    "stAt": 1688184000,
+    "endAt": "1690847999",
+    "url": "https://news.pokemon-home.com/tc/page/320.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1687960226_9511687960544.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "321",
+    "title": "系統維護公告",
+    "date": "2023-06-30",
+    "stAt": 1688083200,
+    "endAt": "1688432399",
+    "url": "https://news.pokemon-home.com/tc/page/321.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "298",
+    "title": "發現寶物！？索財靈（寶箱形態）出現中！",
+    "date": "2023-06-21",
+    "stAt": 1687359600,
+    "endAt": "1688342399",
+    "url": "https://news.pokemon-home.com/tc/page/298.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028409_42461685520632.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "319",
+    "title": "關於從『Pokémon GO』傳送到『Pokémon HOME』的寶可夢的經驗值出現異常的問題",
+    "date": "2023-06-21",
+    "stAt": 1687316400,
+    "endAt": "1693493999",
+    "url": "https://news.pokemon-home.com/tc/page/319.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "317",
+    "title": "關於招式說明的錯誤",
+    "date": "2023-06-19",
+    "stAt": 1687132800,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/tc/page/317.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685686196_57451686888147.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "316",
+    "title": "精選特輯！雄偉牙＆鐵轍跡",
+    "date": "2023-06-16",
+    "stAt": 1686873600,
+    "endAt": "1687132799",
+    "url": "https://news.pokemon-home.com/tc/page/316.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685417114_14161685521651.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "315",
+    "title": "最強的布里卡隆在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-06-16",
+    "stAt": 1686873600,
+    "endAt": "1687132799",
+    "url": "https://news.pokemon-home.com/tc/page/315.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685416890_13311685521549.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "314",
+    "title": "【預告】精選特輯！雄偉牙＆鐵轍跡",
+    "date": "2023-06-07",
+    "stAt": 1686106800,
+    "endAt": "1686873599",
+    "url": "https://news.pokemon-home.com/tc/page/314.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685416564_2771685521279.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "313",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的布里卡隆！",
+    "date": "2023-06-07",
+    "stAt": 1686106800,
+    "endAt": "1686873599",
+    "url": "https://news.pokemon-home.com/tc/page/313.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685416403_9591685520969.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "310",
+    "title": "關於規則D",
+    "date": "2023-06-01",
+    "stAt": 1685592000,
+    "endAt": "1696118399",
+    "url": "https://news.pokemon-home.com/tc/page/310.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685014875_48941694662023.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "278",
+    "title": "2023年6月賽季（賽季7）舉辦中！",
+    "date": "2023-06-01",
+    "stAt": 1685592000,
+    "endAt": "1688169599",
+    "url": "https://news.pokemon-home.com/tc/page/278.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1678855509_72181681391838.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "312",
+    "title": "更新公告（ver3.0.0）",
+    "date": "2023-05-30",
+    "stAt": 1685408400,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/tc/page/312.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "311",
+    "title": "贈送擁有隱藏特性的「新葉喵」、「呆火鱷」和「潤水鴨」！",
+    "date": "2023-05-30",
+    "stAt": 1685408400,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/tc/page/311.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685360280_37691685361127.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "308",
+    "title": "系統維護公告",
+    "date": "2023-05-26",
+    "stAt": 1685059200,
+    "endAt": "1685408399",
+    "url": "https://news.pokemon-home.com/tc/page/308.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "系統維護",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "307",
+    "title": "智慧型手機版支援OS／裝置變更公告",
+    "date": "2023-05-26",
+    "stAt": 1685059200,
+    "endAt": "1688169599",
+    "url": "https://news.pokemon-home.com/tc/page/307.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "292",
+    "title": "精選特輯！雄偉牙＆鐵轍跡",
+    "date": "2023-05-19",
+    "stAt": 1684454400,
+    "endAt": "1684713599",
+    "url": "https://news.pokemon-home.com/tc/page/292.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683027595_69861684725580.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "260",
+    "title": "最強的布里卡隆在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-05-19",
+    "stAt": 1684454400,
+    "endAt": "1684713599",
+    "url": "https://news.pokemon-home.com/tc/page/260.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037042_35281684725698.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "291",
+    "title": "【預告】精選特輯！雄偉牙＆鐵轍跡",
+    "date": "2023-05-15",
+    "stAt": 1684108800,
+    "endAt": "1684454399",
+    "url": "https://news.pokemon-home.com/tc/page/291.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683027375_31521683880052.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "259",
+    "title": "最強的布里卡隆在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-05-12",
+    "stAt": 1683849600,
+    "endAt": "1684108799",
+    "url": "https://news.pokemon-home.com/tc/page/259.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676036922_89571681393092.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "258",
+    "title": "【預告】黑色結晶的太晶團體戰將出現最強的布里卡隆！",
+    "date": "2023-05-08",
+    "stAt": 1683504000,
+    "endAt": "1684454399",
+    "url": "https://news.pokemon-home.com/tc/page/258.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676036835_13821681392752.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "257",
+    "title": "最強的千面避役在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-05-05",
+    "stAt": 1683244800,
+    "endAt": "1683503999",
+    "url": "https://news.pokemon-home.com/tc/page/257.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676036718_51691681392313.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "277",
+    "title": "2023年5月賽季（賽季6）舉辦中！",
+    "date": "2023-05-01",
+    "stAt": 1682913600,
+    "endAt": "1685577599",
+    "url": "https://news.pokemon-home.com/tc/page/277.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1678855429_08851681386965.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "286",
+    "title": "波盪水＆鐵斑葉出現中！",
+    "date": "2023-05-01",
+    "stAt": 1682899200,
+    "endAt": "1684108799",
+    "url": "https://news.pokemon-home.com/tc/page/286.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1679469846_2111681390535.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "256",
+    "title": "最強的千面避役在黑色結晶的太晶團體戰出現中！",
+    "date": "2023-04-28",
+    "stAt": 1682640000,
+    "endAt": "1682899199",
+    "url": "https://news.pokemon-home.com/tc/page/256.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676036622_13741681390256.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  }
+]

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pokémon Home News</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+  <header>
+    <h1 data-i18n="title">FEED</h1>
+  </header>
+
+  <section class="controls">
+    <label><span data-i18n="search">Search:</span> <input id="keyword" type="search" data-i18n-placeholder="searchPlaceholder" placeholder="search article title"></label>
+    <label><span data-i18n="language">Language:</span> <select id="lang"></select></label>
+    <label><span data-i18n="tags">Tags:</span> <select id="kind"><option value="" data-i18n="all">All</option></select></label>
+    <label><span data-i18n="important">Important:</span> <input id="important" type="checkbox"></label>
+    <label><span data-i18n="from">From:</span> <input id="since" type="date"></label>
+    <label><span data-i18n="to">To:</span> <input id="until" type="date"></label>
+    <button id="clear" data-i18n="clear">Clear</button>
+    <button id="download" data-i18n="download">Download filtered JSON</button>
+    <button id="darkmode-toggle" aria-pressed="false" aria-label="Toggle dark mode" style="background:#222;color:#fff;border:0;padding:8px 10px;border-radius:6px;cursor:pointer;" data-i18n="darkMode">Dark Mode</button>
+  </section>
+
+  <section class="games-section">
+    <div class="games-row">
+      <span class="label" data-i18n="games">Games:</span>
+      <div id="games" class="games"></div>
+    </div>
+  </section>
+
+  <section id="results">
+    <div id="count"></div>
+    <ul id="list"></ul>
+    <button id="load-more" style="display:none;margin:20px auto;padding:10px 20px;background:#12a6a8;color:#fff;border:0;border-radius:6px;cursor:pointer;" data-i18n="loadMore">Load More</button>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,6793 @@
+[
+  {
+    "id": "754",
+    "title": "Addressing a Confirmed Issue (Ver. 4.0.0)",
+    "date": "2026-04-02",
+    "stAt": 1775131200,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/en/page/754.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "720",
+    "title": "Season 9 Underway!",
+    "date": "2026-04-02",
+    "stAt": 1775109600,
+    "endAt": "1776909599",
+    "url": "https://news.pokemon-home.com/en/page/720.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1771322229_40011773775880.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "665",
+    "title": "Final Season: Ranked Battles Season 41 Is Underway!",
+    "date": "2026-04-01",
+    "stAt": 1775016000,
+    "endAt": "32503647599",
+    "url": "https://news.pokemon-home.com/en/page/665.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1762832666_29151770918941.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "745",
+    "title": "Maintenance Notice",
+    "date": "2026-04-01",
+    "stAt": 1775001600,
+    "endAt": "1775087999",
+    "url": "https://news.pokemon-home.com/en/page/745.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_en.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "679",
+    "title": "Face a Mighty Empoleon!",
+    "date": "2026-03-30",
+    "stAt": 1774843200,
+    "endAt": "1775174399",
+    "url": "https://news.pokemon-home.com/en/page/679.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763481563_47191768960271.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "719",
+    "title": "Season 9 Coming Soon!",
+    "date": "2026-03-26",
+    "stAt": 1774504800,
+    "endAt": "1775109599",
+    "url": "https://news.pokemon-home.com/en/page/719.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1771322088_22091773775513.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "678",
+    "title": "Face a Mighty Infernape!",
+    "date": "2026-03-20",
+    "stAt": 1773964800,
+    "endAt": "1774569599",
+    "url": "https://news.pokemon-home.com/en/page/678.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763481428_50071768959319.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "677",
+    "title": "Face a Mighty Torterra!",
+    "date": "2026-03-13",
+    "stAt": 1773360000,
+    "endAt": "1773964799",
+    "url": "https://news.pokemon-home.com/en/page/677.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763481292_47111768958253.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "715",
+    "title": "Special Season (Season 8) Underway!",
+    "date": "2026-03-12",
+    "stAt": 1773295200,
+    "endAt": "1775095199",
+    "url": "https://news.pokemon-home.com/en/page/715.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1770198557_9531772577911.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "743",
+    "title": "Take On the 2026 Global Challenge I Online Competition!",
+    "date": "2026-03-06",
+    "stAt": 1772773200,
+    "endAt": "1780844399",
+    "url": "https://news.pokemon-home.com/en/page/743.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1771555677_80331773710782.jpg",
+    "kindTxt": "Online Competition",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "741",
+    "title": "Age Divisions for 2026 Official Competitions",
+    "date": "2026-03-06",
+    "stAt": 1772773200,
+    "endAt": "1798729199",
+    "url": "https://news.pokemon-home.com/en/page/741.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1771553258_31721773699741.jpg",
+    "kindTxt": "News",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "676",
+    "title": "Face a Mighty Swampert!",
+    "date": "2026-03-06",
+    "stAt": 1772755200,
+    "endAt": "1773359999",
+    "url": "https://news.pokemon-home.com/en/page/676.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763481157_54961768436400.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "714",
+    "title": "Special Season (Season 8) Coming Soon!",
+    "date": "2026-03-05",
+    "stAt": 1772690400,
+    "endAt": "1773295199",
+    "url": "https://news.pokemon-home.com/en/page/714.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1770198037_8071772577777.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "664",
+    "title": "Ranked Battles Season 40 Is Underway!",
+    "date": "2026-03-01",
+    "stAt": 1772337600,
+    "endAt": "1775001599",
+    "url": "https://news.pokemon-home.com/en/page/664.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1762832435_63461770318587.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "650",
+    "title": "Final Season: Ranked Battles Season 41 and Onward",
+    "date": "2026-03-01",
+    "stAt": 1772337600,
+    "endAt": "32503647599",
+    "url": "https://news.pokemon-home.com/en/page/650.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754558797_72121770688790.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "718",
+    "title": "Receive Dragonite as an early-download bonus!",
+    "date": "2026-02-27",
+    "stAt": 1772202600,
+    "endAt": "1788188399",
+    "url": "https://news.pokemon-home.com/en/page/718.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1770950364_04091772681327.jpg",
+    "kindTxt": "Campaign",
+    "infoTab": 5,
+    "infoKind": 6,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "716",
+    "title": "Use Pokémon You’ve Befriended in <i>Pokémon Legends: Z-A</i> in Pokémon Champions",
+    "date": "2026-02-27",
+    "stAt": 1772202600,
+    "endAt": "32503647599",
+    "url": "https://news.pokemon-home.com/en/page/716.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1770937769_51011773941050.jpg",
+    "kindTxt": "News",
+    "infoTab": 4,
+    "infoKind": 7,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "710",
+    "title": "A Special Hyperspace Distortion Appears! Defeat Mega Garchomp Z to Get a Garchompite Z Stone!",
+    "date": "2026-02-27",
+    "stAt": 1772202600,
+    "endAt": "1893423599",
+    "url": "https://news.pokemon-home.com/en/page/710.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1766640303_60871770318869.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "675",
+    "title": "Face a Mighty Blaziken!",
+    "date": "2026-02-27",
+    "stAt": 1772150400,
+    "endAt": "1772755199",
+    "url": "https://news.pokemon-home.com/en/page/675.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763481037_67791768437504.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "674",
+    "title": "Face a Mighty Sceptile!",
+    "date": "2026-02-20",
+    "stAt": 1771545600,
+    "endAt": "1772150399",
+    "url": "https://news.pokemon-home.com/en/page/674.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763480657_32761769047630.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "712",
+    "title": "Season 7 Underway: Earn Blazikenite!",
+    "date": "2026-02-19",
+    "stAt": 1771480800,
+    "endAt": "1773280799",
+    "url": "https://news.pokemon-home.com/en/page/712.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1766995920_28031770941862.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "673",
+    "title": "Face a Mighty Feraligatr!",
+    "date": "2026-02-13",
+    "stAt": 1770940800,
+    "endAt": "1771545599",
+    "url": "https://news.pokemon-home.com/en/page/673.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763480519_64851766016623.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "711",
+    "title": "Season 7 Coming Soon: Earn Blazikenite!",
+    "date": "2026-02-12",
+    "stAt": 1770876000,
+    "endAt": "1771480799",
+    "url": "https://news.pokemon-home.com/en/page/711.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1766995540_7861770941408.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "713",
+    "title": "Take On the 2026 Grand Challenge V!",
+    "date": "2026-02-09",
+    "stAt": 1770595200,
+    "endAt": "1771804799",
+    "url": "https://news.pokemon-home.com/en/page/713.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1768339690_25461769808818.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "698",
+    "title": "Face a Mighty Typhlosion!",
+    "date": "2026-02-06",
+    "stAt": 1770336000,
+    "endAt": "1770940799",
+    "url": "https://news.pokemon-home.com/en/page/698.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763484359_41071766016328.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "663",
+    "title": "Ranked Battles Season 39 Is Underway!",
+    "date": "2026-02-01",
+    "stAt": 1769918400,
+    "endAt": "1772323199",
+    "url": "https://news.pokemon-home.com/en/page/663.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1762831804_80471767918795.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "672",
+    "title": "Face a Mighty Meganium!",
+    "date": "2026-01-30",
+    "stAt": 1769731200,
+    "endAt": "1770335999",
+    "url": "https://news.pokemon-home.com/en/page/672.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763480281_08791765936604.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "707",
+    "title": "Season 6 Underway: Earn Swampertite!",
+    "date": "2026-01-29",
+    "stAt": 1769666400,
+    "endAt": "1771466399",
+    "url": "https://news.pokemon-home.com/en/page/707.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1764346026_7711767833001.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "671",
+    "title": "Face a Mighty Blastoise!",
+    "date": "2026-01-23",
+    "stAt": 1769126400,
+    "endAt": "1769731199",
+    "url": "https://news.pokemon-home.com/en/page/671.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763480133_86981765934891.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "706",
+    "title": "Season 6 Coming Soon: Earn Swampertite!",
+    "date": "2026-01-22",
+    "stAt": 1769061600,
+    "endAt": "1769666399",
+    "url": "https://news.pokemon-home.com/en/page/706.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1764345670_71941767832609.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "670",
+    "title": "Face a Mighty Charizard!",
+    "date": "2026-01-16",
+    "stAt": 1768521600,
+    "endAt": "1769126399",
+    "url": "https://news.pokemon-home.com/en/page/670.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763476369_58621765840783.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "668",
+    "title": "Face a Mighty Venusaur!",
+    "date": "2026-01-09",
+    "stAt": 1767916800,
+    "endAt": "1768521599",
+    "url": "https://news.pokemon-home.com/en/page/668.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763448437_04221765827676.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "705",
+    "title": "Season 5 Underway: Earn Sceptilite!",
+    "date": "2026-01-08",
+    "stAt": 1767852000,
+    "endAt": "1769651999",
+    "url": "https://news.pokemon-home.com/en/page/705.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1764345493_7951766556774.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "635",
+    "title": "Ranked Battles Season 38 Is Underway!",
+    "date": "2026-01-05",
+    "stAt": 1767585600,
+    "endAt": "1769903999",
+    "url": "https://news.pokemon-home.com/en/page/635.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1753774741_84631764796328.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "699",
+    "title": "Mighty Evolutions of First Partner Pokémon Return!",
+    "date": "2026-01-05",
+    "stAt": 1767571200,
+    "endAt": "1767916799",
+    "url": "https://news.pokemon-home.com/en/page/699.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763641409_06081766037098.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "704",
+    "title": "Season 5 Coming Soon: Earn Sceptilite!",
+    "date": "2026-01-01",
+    "stAt": 1767247200,
+    "endAt": "1767851999",
+    "url": "https://news.pokemon-home.com/en/page/704.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1764344920_5881766556552.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "661",
+    "title": "Take On the 2026 Grand Challenge IV!",
+    "date": "2025-12-29",
+    "stAt": 1766966400,
+    "endAt": "1768175999",
+    "url": "https://news.pokemon-home.com/en/page/661.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1761087076_43921764894234.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "709",
+    "title": "Notice of Payment Currency Change for Bulgaria",
+    "date": "2025-12-22",
+    "stAt": 1766383200,
+    "endAt": "1786287599",
+    "url": "https://news.pokemon-home.com/en/page/709.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "701",
+    "title": "Age Divisions for 2026 Official Competitions",
+    "date": "2025-12-22",
+    "stAt": 1766361600,
+    "endAt": "1798729199",
+    "url": "https://news.pokemon-home.com/en/page/701.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1764302736_34451764303191.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "649",
+    "title": "Challenge Walking Wake and Iron Leaves Now!",
+    "date": "2025-12-19",
+    "stAt": 1766102400,
+    "endAt": "1767571199",
+    "url": "https://news.pokemon-home.com/en/page/649.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754363151_14421758670753.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "703",
+    "title": "Season 4 Underway: Earn Baxcalibrite!",
+    "date": "2025-12-18",
+    "stAt": 1766037600,
+    "endAt": "1767837599",
+    "url": "https://news.pokemon-home.com/en/page/703.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1764322948_28551766559087.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "648",
+    "title": "Challenge Walking Wake and Iron Leaves Soon!",
+    "date": "2025-12-15",
+    "stAt": 1765756800,
+    "endAt": "1766102399",
+    "url": "https://news.pokemon-home.com/en/page/648.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754363061_19091758670589.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "647",
+    "title": "Face a Mighty Dragapult!",
+    "date": "2025-12-12",
+    "stAt": 1765497600,
+    "endAt": "1765756799",
+    "url": "https://news.pokemon-home.com/en/page/647.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754362026_82481759795164.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "702",
+    "title": "Season 4 Coming Soon: Earn Baxcalibrite!",
+    "date": "2025-12-11",
+    "stAt": 1765432800,
+    "endAt": "1766037599",
+    "url": "https://news.pokemon-home.com/en/page/702.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1764322526_44161765229191.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "646",
+    "title": "Face a Mighty Dragapult!",
+    "date": "2025-12-05",
+    "stAt": 1764892800,
+    "endAt": "1765151999",
+    "url": "https://news.pokemon-home.com/en/page/646.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754361898_75641759444578.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "662",
+    "title": "Mewtwo's Extra Side Mission Now Available! You Can Get Mewtwo, Mewtwonite X, and Mewtwonite Y!",
+    "date": "2025-12-02",
+    "stAt": 1764684000,
+    "endAt": "4099733999",
+    "url": "https://news.pokemon-home.com/en/page/662.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1762239813_56531764094036.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "630",
+    "title": "Ranked Battles Season 37 Is Underway!",
+    "date": "2025-12-01",
+    "stAt": 1764561600,
+    "endAt": "1767571199",
+    "url": "https://news.pokemon-home.com/en/page/630.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1752041421_65151759444380.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "700",
+    "title": "Regulation Set I",
+    "date": "2025-12-01",
+    "stAt": 1764547200,
+    "endAt": "253402214399",
+    "url": "https://news.pokemon-home.com/en/page/700.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1764300770_54641772816140.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "645",
+    "title": "Prepare to Face a Mighty Dragapult!",
+    "date": "2025-12-01",
+    "stAt": 1764547200,
+    "endAt": "1764892799",
+    "url": "https://news.pokemon-home.com/en/page/645.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754361760_69911759444262.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "644",
+    "title": "Face a Mighty Goodra!",
+    "date": "2025-11-28",
+    "stAt": 1764288000,
+    "endAt": "1764547199",
+    "url": "https://news.pokemon-home.com/en/page/644.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754360098_1351758751029.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "657",
+    "title": "Ranked Battles Season 3: Earn Chesnaughtite!",
+    "date": "2025-11-27",
+    "stAt": 1764223200,
+    "endAt": "1766023199",
+    "url": "https://news.pokemon-home.com/en/page/657.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1758110680_64821764685049.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "667",
+    "title": "Update Info for Mobile Devices (Ver. 3.4.3)",
+    "date": "2025-11-26",
+    "stAt": 1764136800,
+    "endAt": "1766707199",
+    "url": "https://news.pokemon-home.com/en/page/667.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "666",
+    "title": "Maintenance Notice",
+    "date": "2025-11-21",
+    "stAt": 1763683200,
+    "endAt": "1764115199",
+    "url": "https://news.pokemon-home.com/en/page/666.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "643",
+    "title": "Face a Mighty Goodra!",
+    "date": "2025-11-21",
+    "stAt": 1763683200,
+    "endAt": "1763942399",
+    "url": "https://news.pokemon-home.com/en/page/643.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754360017_3171758749231.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "656",
+    "title": "Ranked Battles Season 3: Earn Chesnaughtite Soon!",
+    "date": "2025-11-20",
+    "stAt": 1763618400,
+    "endAt": "1764223199",
+    "url": "https://news.pokemon-home.com/en/page/656.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1758110617_60121763501833.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "642",
+    "title": "Prepare to Face a Mighty Goodra!",
+    "date": "2025-11-17",
+    "stAt": 1763337600,
+    "endAt": "1763683199",
+    "url": "https://news.pokemon-home.com/en/page/642.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754359926_78681758748602.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "641",
+    "title": "Face a Mighty Hydreigon!",
+    "date": "2025-11-14",
+    "stAt": 1763078400,
+    "endAt": "1763337599",
+    "url": "https://news.pokemon-home.com/en/page/641.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754358869_64871758913308.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "640",
+    "title": "Face a Mighty Hydreigon!",
+    "date": "2025-11-07",
+    "stAt": 1762473600,
+    "endAt": "1762732799",
+    "url": "https://news.pokemon-home.com/en/page/640.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754358780_76841758912434.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "659",
+    "title": "Mythical Mystery Gift Available! Claim a Diancite Stone and an Extra Side Mission!",
+    "date": "2025-11-06",
+    "stAt": 1762437600,
+    "endAt": "4099733999",
+    "url": "https://news.pokemon-home.com/en/page/659.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1759507731_58211761672563.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "655",
+    "title": "Ranked Battles Season 2: Earn Delphoxite!",
+    "date": "2025-11-06",
+    "stAt": 1762408800,
+    "endAt": "1764136799",
+    "url": "https://news.pokemon-home.com/en/page/655.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1758110522_38261762979239.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "654",
+    "title": "Ranked Battles Season 2: Earn Delphoxite Soon!",
+    "date": "2025-11-03",
+    "stAt": 1762149600,
+    "endAt": "1762408799",
+    "url": "https://news.pokemon-home.com/en/page/654.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1758110447_53191761762182.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "639",
+    "title": "Prepare to Face a Mighty Hydreigon!",
+    "date": "2025-11-03",
+    "stAt": 1762128000,
+    "endAt": "1762473599",
+    "url": "https://news.pokemon-home.com/en/page/639.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1754358696_22911758912207.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "629",
+    "title": "Ranked Battles Season 36 Is Underway!",
+    "date": "2025-11-01",
+    "stAt": 1761969600,
+    "endAt": "1764547199",
+    "url": "https://news.pokemon-home.com/en/page/629.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1752041169_37361757960531.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "660",
+    "title": "Take On the 2026 Grand Challenge III!",
+    "date": "2025-10-27",
+    "stAt": 1761523200,
+    "endAt": "1762732799",
+    "url": "https://news.pokemon-home.com/en/page/660.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1759862540_29941761170130.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "653",
+    "title": "Earn Greninjite in Ranked Battles Season 1!",
+    "date": "2025-10-16",
+    "stAt": 1760594400,
+    "endAt": "1762322399",
+    "url": "https://news.pokemon-home.com/en/page/653.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1758093039_45541759791865.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "637",
+    "title": "Face a Mighty Roaring Moon and a Mighty Iron Valiant!",
+    "date": "2025-10-03",
+    "stAt": 1759449600,
+    "endAt": "1760313599",
+    "url": "https://news.pokemon-home.com/en/page/637.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1753941165_63691759867983.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "628",
+    "title": "Ranked Battles Season 35 Is Underway!",
+    "date": "2025-10-01",
+    "stAt": 1759291200,
+    "endAt": "1761955199",
+    "url": "https://news.pokemon-home.com/en/page/628.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1752040981_91981756318635.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "658",
+    "title": "Important Update to the Terastal Crescendo Sign-Up Start Date",
+    "date": "2025-09-29",
+    "stAt": 1759136400,
+    "endAt": "1760313599",
+    "url": "https://news.pokemon-home.com/en/page/658.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1759113822_42911759451558.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 1
+  },
+  {
+    "id": "636",
+    "title": "Prepare to Face a Mighty Roaring Moon and a Mighty Iron Valiant!",
+    "date": "2025-09-29",
+    "stAt": 1759104000,
+    "endAt": "1759449599",
+    "url": "https://news.pokemon-home.com/en/page/636.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1753940859_93881757963707.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "652",
+    "title": "Compete in the Terastal Crescendo!",
+    "date": "2025-09-26",
+    "stAt": 1758844800,
+    "endAt": "1760313599",
+    "url": "https://news.pokemon-home.com/en/page/652.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1756434072_43921759336639.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "651",
+    "title": "Take On the 2026 Grand Challenge II!",
+    "date": "2025-09-22",
+    "stAt": 1758499200,
+    "endAt": "1759708799",
+    "url": "https://news.pokemon-home.com/en/page/651.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1756250048_54471757958490.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "624",
+    "title": "Claim Shiny Chi-Yu: One Million Victories Achieved!",
+    "date": "2025-09-19",
+    "stAt": 1758240000,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/en/page/624.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1749024731_5231758059595.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "623",
+    "title": "Claim Shiny Ting-Lu: One Million Victories Achieved!",
+    "date": "2025-09-05",
+    "stAt": 1757030400,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/en/page/623.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1749024576_71081756927912.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "627",
+    "title": "Ranked Battles Season 34 Is Underway!",
+    "date": "2025-09-01",
+    "stAt": 1756699200,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/en/page/627.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1752040188_73641756321725.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "619",
+    "title": "Challenge the Shiny Beads of Ruin!",
+    "date": "2025-09-01",
+    "stAt": 1756684800,
+    "endAt": "1757894399",
+    "url": "https://news.pokemon-home.com/en/page/619.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748934016_62581751331176.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "611",
+    "title": "Enjoy Mass Outbreaks of Fire-Type Pokémon!",
+    "date": "2025-09-01",
+    "stAt": 1756684800,
+    "endAt": "1757894399",
+    "url": "https://news.pokemon-home.com/en/page/611.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748250917_3261750450397.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "633",
+    "title": "Update Info for Mobile Devices (Ver. 3.4.2)",
+    "date": "2025-08-27",
+    "stAt": 1756274400,
+    "endAt": "1758931199",
+    "url": "https://news.pokemon-home.com/en/page/633.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "634",
+    "title": "Take On the 2026 Grand Challenge I!",
+    "date": "2025-08-22",
+    "stAt": 1755820800,
+    "endAt": "1757289599",
+    "url": "https://news.pokemon-home.com/en/page/634.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1753227094_50191755656504.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "631",
+    "title": "Maintenance Notice",
+    "date": "2025-08-22",
+    "stAt": 1755820800,
+    "endAt": "1756252799",
+    "url": "https://news.pokemon-home.com/en/page/631.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "622",
+    "title": "Claim Shiny Chien-Pao: One Million Victories Achieved!",
+    "date": "2025-08-22",
+    "stAt": 1755820800,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/en/page/622.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1749024363_08281755547614.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "618",
+    "title": "Challenge the Shiny Vessel of Ruin!",
+    "date": "2025-08-18",
+    "stAt": 1755475200,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/en/page/618.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748933899_20711752889018.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "610",
+    "title": "Enjoy Mass Outbreaks of Ground-Type Pokémon!",
+    "date": "2025-08-18",
+    "stAt": 1755475200,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/en/page/610.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748250747_13441750454736.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "621",
+    "title": "Claim Shiny Wo-Chien: One Million Victories Achieved!",
+    "date": "2025-08-08",
+    "stAt": 1754611200,
+    "endAt": "1759276799",
+    "url": "https://news.pokemon-home.com/en/page/621.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1749023906_24411754665149.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "617",
+    "title": "Challenge the Shiny Sword of Ruin!",
+    "date": "2025-08-04",
+    "stAt": 1754265600,
+    "endAt": "1755475199",
+    "url": "https://news.pokemon-home.com/en/page/617.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748933844_29371752888946.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "609",
+    "title": "Enjoy Mass Outbreaks of Ice-Type Pokémon!",
+    "date": "2025-08-04",
+    "stAt": 1754265600,
+    "endAt": "1755475199",
+    "url": "https://news.pokemon-home.com/en/page/609.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748250556_73511750886969.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "615",
+    "title": "Ranked Battles Season 33 Is Underway!",
+    "date": "2025-08-01",
+    "stAt": 1754020800,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/en/page/615.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748507960_33961752004625.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "626",
+    "title": "Regulation Set J",
+    "date": "2025-08-01",
+    "stAt": 1754006400,
+    "endAt": "1767571199",
+    "url": "https://news.pokemon-home.com/en/page/626.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1751948364_81161762195396.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "616",
+    "title": "Challenge the Shiny Tablets of Ruin!",
+    "date": "2025-07-23",
+    "stAt": 1753228800,
+    "endAt": "1754265599",
+    "url": "https://news.pokemon-home.com/en/page/616.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748933719_21991752888875.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "608",
+    "title": "Enjoy Mass Outbreaks of Grass-Type Pokémon!",
+    "date": "2025-07-23",
+    "stAt": 1753228800,
+    "endAt": "1754265599",
+    "url": "https://news.pokemon-home.com/en/page/608.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748250166_1551750701435.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "625",
+    "title": "Claim a Tracksuit via Mystery Gift!",
+    "date": "2025-07-22",
+    "stAt": 1753189200,
+    "endAt": "4133948399",
+    "url": "https://news.pokemon-home.com/en/page/625.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1749635396_00531751909822.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "613",
+    "title": "Challenge the Shiny Treasures of Ruin!",
+    "date": "2025-07-22",
+    "stAt": 1753189200,
+    "endAt": "1757894399",
+    "url": "https://news.pokemon-home.com/en/page/613.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748495367_16891752889410.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "607",
+    "title": "Prepare for Mass Outbreaks of Four Pokémon Types!",
+    "date": "2025-07-22",
+    "stAt": 1753189200,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/en/page/607.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748249847_34381751926827.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "600",
+    "title": "Face a Mighty Kommo-o!",
+    "date": "2025-07-18",
+    "stAt": 1752796800,
+    "endAt": "1753055999",
+    "url": "https://news.pokemon-home.com/en/page/600.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1746175830_89851750875043.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "632",
+    "title": "Update Info for Mobile Devices (Ver. 3.4.1)",
+    "date": "2025-07-16",
+    "stAt": 1752645600,
+    "endAt": "1755302399",
+    "url": "https://news.pokemon-home.com/en/page/632.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "599",
+    "title": "Face a Mighty Kommo-o!",
+    "date": "2025-07-11",
+    "stAt": 1752192000,
+    "endAt": "1752451199",
+    "url": "https://news.pokemon-home.com/en/page/599.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1746175734_14611750875019.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "598",
+    "title": "Prepare to Face a Mighty Kommo-o!",
+    "date": "2025-07-07",
+    "stAt": 1751846400,
+    "endAt": "1752191999",
+    "url": "https://news.pokemon-home.com/en/page/598.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1746175589_77541750874950.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "602",
+    "title": "Enjoy Mass Outbreaks of Electric-Type Pokémon!",
+    "date": "2025-07-04",
+    "stAt": 1751587200,
+    "endAt": "1751846399",
+    "url": "https://news.pokemon-home.com/en/page/602.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1746176015_86041750875101.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "614",
+    "title": "Ranked Battles Season 32 Is Underway!",
+    "date": "2025-07-01",
+    "stAt": 1751342400,
+    "endAt": "1754006399",
+    "url": "https://news.pokemon-home.com/en/page/614.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1748507377_3911750288445.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "601",
+    "title": "Prepare for Mass Outbreaks of Electric-Type Pokémon!",
+    "date": "2025-06-30",
+    "stAt": 1751241600,
+    "endAt": "1751587199",
+    "url": "https://news.pokemon-home.com/en/page/601.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1746175934_90851750875078.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "597",
+    "title": "Face a Mighty Baxcalibur!",
+    "date": "2025-06-27",
+    "stAt": 1750982400,
+    "endAt": "1751241599",
+    "url": "https://news.pokemon-home.com/en/page/597.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1746175475_90861748472615.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "596",
+    "title": "Face a Mighty Baxcalibur!",
+    "date": "2025-06-20",
+    "stAt": 1750377600,
+    "endAt": "1750636799",
+    "url": "https://news.pokemon-home.com/en/page/596.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1746175368_25111748471951.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "620",
+    "title": "Compatibility Changes for the Mobile Device Version of Pokémon HOME",
+    "date": "2025-06-16",
+    "stAt": 1750032000,
+    "endAt": "1759244399",
+    "url": "https://news.pokemon-home.com/en/page/620.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 1
+  },
+  {
+    "id": "595",
+    "title": "Prepare to Face a Mighty Baxcalibur!",
+    "date": "2025-06-16",
+    "stAt": 1750032000,
+    "endAt": "1750377599",
+    "url": "https://news.pokemon-home.com/en/page/595.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1746175253_61041748471330.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "593",
+    "title": "Face a Mighty Porygon2!",
+    "date": "2025-06-05",
+    "stAt": 1749081600,
+    "endAt": "1750031999",
+    "url": "https://news.pokemon-home.com/en/page/593.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1745545698_64771747248785.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "592",
+    "title": "Enjoy Mass Outbreaks of Porygon2!",
+    "date": "2025-06-05",
+    "stAt": 1749081600,
+    "endAt": "1750031999",
+    "url": "https://news.pokemon-home.com/en/page/592.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1745545483_64911747249840.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "606",
+    "title": "Update Info for Mobile Devices (Ver. 3.4.0)",
+    "date": "2025-06-04",
+    "stAt": 1749016800,
+    "endAt": "1754265599",
+    "url": "https://news.pokemon-home.com/en/page/606.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "605",
+    "title": "Maintenance Notice",
+    "date": "2025-06-02",
+    "stAt": 1748822400,
+    "endAt": "1748995199",
+    "url": "https://news.pokemon-home.com/en/page/605.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "591",
+    "title": "Enjoy Mass Outbreaks of Porygon!",
+    "date": "2025-06-02",
+    "stAt": 1748822400,
+    "endAt": "1749081599",
+    "url": "https://news.pokemon-home.com/en/page/591.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1745545294_18851747247562.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "603",
+    "title": "Ranked Battles Season 31 Is Under Way!",
+    "date": "2025-06-01",
+    "stAt": 1748750400,
+    "endAt": "1751327999",
+    "url": "https://news.pokemon-home.com/en/page/603.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1747052126_40531748389773.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "583",
+    "title": "Enjoy Mass Outbreaks of Bug-Type Pokémon!",
+    "date": "2025-05-30",
+    "stAt": 1748563200,
+    "endAt": "1748822399",
+    "url": "https://news.pokemon-home.com/en/page/583.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740452230_69811744909219.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "577",
+    "title": "Face a Mighty Garchomp!",
+    "date": "2025-05-30",
+    "stAt": 1748563200,
+    "endAt": "1748822399",
+    "url": "https://news.pokemon-home.com/en/page/577.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740102238_56661747239772.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "582",
+    "title": "Prepare for Mass Outbreaks of Bug-Type Pokémon!",
+    "date": "2025-05-26",
+    "stAt": 1748217600,
+    "endAt": "1748563199",
+    "url": "https://news.pokemon-home.com/en/page/582.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740452151_39531744908979.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "576",
+    "title": "Face a Mighty Garchomp!",
+    "date": "2025-05-23",
+    "stAt": 1747958400,
+    "endAt": "1748217599",
+    "url": "https://news.pokemon-home.com/en/page/576.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740102096_90881747239649.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "575",
+    "title": "Prepare to Face a Mighty Garchomp!",
+    "date": "2025-05-19",
+    "stAt": 1747612800,
+    "endAt": "1747958399",
+    "url": "https://news.pokemon-home.com/en/page/575.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740101998_35051747239509.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "574",
+    "title": "Face a Mighty Metagross!",
+    "date": "2025-05-16",
+    "stAt": 1747353600,
+    "endAt": "1747612799",
+    "url": "https://news.pokemon-home.com/en/page/574.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740101892_87161744316282.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "573",
+    "title": "Face a Mighty Metagross!",
+    "date": "2025-05-09",
+    "stAt": 1746748800,
+    "endAt": "1747007999",
+    "url": "https://news.pokemon-home.com/en/page/573.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740101806_90051744315994.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "572",
+    "title": "Prepare to Face a Mighty Metagross!",
+    "date": "2025-05-05",
+    "stAt": 1746403200,
+    "endAt": "1746748799",
+    "url": "https://news.pokemon-home.com/en/page/572.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740101684_35591744315395.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "589",
+    "title": "Ranked Battles Season 30 Is Under Way!",
+    "date": "2025-05-01",
+    "stAt": 1746072000,
+    "endAt": "1748735999",
+    "url": "https://news.pokemon-home.com/en/page/589.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1743165609_27671744935780.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "594",
+    "title": "Update Info for Mobile Devices (Ver. 3.3.1)",
+    "date": "2025-04-30",
+    "stAt": 1745971200,
+    "endAt": "1751241599",
+    "url": "https://news.pokemon-home.com/en/page/594.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "581",
+    "title": "Strike Gold with Mass Outbreaks of Pokémon!",
+    "date": "2025-04-30",
+    "stAt": 1745971200,
+    "endAt": "1746748799",
+    "url": "https://news.pokemon-home.com/en/page/581.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740451570_88951744319689.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "579",
+    "title": "Challenge Chest Form Gimmighoul Now!",
+    "date": "2025-04-30",
+    "stAt": 1745971200,
+    "endAt": "1746748799",
+    "url": "https://news.pokemon-home.com/en/page/579.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740450745_55761744316930.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "580",
+    "title": "Prepare to Strike Gold with Mass Outbreaks of Pokémon!",
+    "date": "2025-04-28",
+    "stAt": 1745798400,
+    "endAt": "1745971199",
+    "url": "https://news.pokemon-home.com/en/page/580.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740451483_24161744319536.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "578",
+    "title": "Challenge Chest Form Gimmighoul Soon!",
+    "date": "2025-04-28",
+    "stAt": 1745798400,
+    "endAt": "1745971199",
+    "url": "https://news.pokemon-home.com/en/page/578.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740450628_67071744316835.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "571",
+    "title": "Face a Mighty Salamence!",
+    "date": "2025-04-25",
+    "stAt": 1745539200,
+    "endAt": "1745798399",
+    "url": "https://news.pokemon-home.com/en/page/571.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740047526_44241744058870.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "590",
+    "title": "Take On the 2025 Grand Challenge IV!",
+    "date": "2025-04-23",
+    "stAt": 1745424000,
+    "endAt": "1747007999",
+    "url": "https://news.pokemon-home.com/en/page/590.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1744341144_98491745258197.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "587",
+    "title": "Update Info for Mobile Devices (Ver. 3.3.0)",
+    "date": "2025-04-23",
+    "stAt": 1745398800,
+    "endAt": "1750636799",
+    "url": "https://news.pokemon-home.com/en/page/587.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "586",
+    "title": "Maintenance Notice",
+    "date": "2025-04-18",
+    "stAt": 1744934400,
+    "endAt": "1745355599",
+    "url": "https://news.pokemon-home.com/en/page/586.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "570",
+    "title": "Face a Mighty Salamence!",
+    "date": "2025-04-18",
+    "stAt": 1744934400,
+    "endAt": "1745193599",
+    "url": "https://news.pokemon-home.com/en/page/570.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740047297_12441744058805.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "569",
+    "title": "Prepare to Face a Mighty Salamence!",
+    "date": "2025-04-14",
+    "stAt": 1744588800,
+    "endAt": "1744934399",
+    "url": "https://news.pokemon-home.com/en/page/569.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740045746_51251744058745.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "568",
+    "title": "Face a Mighty Tyranitar!",
+    "date": "2025-04-04",
+    "stAt": 1743724800,
+    "endAt": "1743983999",
+    "url": "https://news.pokemon-home.com/en/page/568.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740022190_82161741733377.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "560",
+    "title": "Take On the 2025 Global Challenge IV!",
+    "date": "2025-04-03",
+    "stAt": 1743638400,
+    "endAt": "1744588799",
+    "url": "https://news.pokemon-home.com/en/page/560.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1734112046_39791741132569.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "584",
+    "title": "Ranked Battles Season 29 Is Under Way!",
+    "date": "2025-04-01",
+    "stAt": 1743480000,
+    "endAt": "1746057599",
+    "url": "https://news.pokemon-home.com/en/page/584.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740487944_88431741830213.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "585",
+    "title": "Regulation Set I",
+    "date": "2025-04-01",
+    "stAt": 1743465600,
+    "endAt": "1756684799",
+    "url": "https://news.pokemon-home.com/en/page/585.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740493399_17411741909607.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "567",
+    "title": "Face a Mighty Tyranitar!",
+    "date": "2025-03-28",
+    "stAt": 1743120000,
+    "endAt": "1743379199",
+    "url": "https://news.pokemon-home.com/en/page/567.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740021937_41041741723858.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "566",
+    "title": "Prepare to Face a Mighty Tyranitar!",
+    "date": "2025-03-24",
+    "stAt": 1742774400,
+    "endAt": "1743119999",
+    "url": "https://news.pokemon-home.com/en/page/566.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1740021421_66881741722096.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "554",
+    "title": "Celebrate Pokémon Day with a Mighty Quaquaval!",
+    "date": "2025-03-14",
+    "stAt": 1741910400,
+    "endAt": "1742515199",
+    "url": "https://news.pokemon-home.com/en/page/554.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732692714_72061736987411.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "559",
+    "title": "Take On the 2025 Global Challenge III!",
+    "date": "2025-03-13",
+    "stAt": 1741824000,
+    "endAt": "1742774399",
+    "url": "https://news.pokemon-home.com/en/page/559.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1734111698_68371741125559.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "553",
+    "title": "Celebrate Pokémon Day with a Mighty Skeledirge!",
+    "date": "2025-03-07",
+    "stAt": 1741305600,
+    "endAt": "1741910399",
+    "url": "https://news.pokemon-home.com/en/page/553.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732692406_04441736966135.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "563",
+    "title": "Ranked Battles Season 28 Is Under Way!",
+    "date": "2025-03-01",
+    "stAt": 1740801600,
+    "endAt": "1743465599",
+    "url": "https://news.pokemon-home.com/en/page/563.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1737117546_12871738704647.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "555",
+    "title": "Celebrate Pokémon Day with Mass Outbreaks of Red, Green, and Blue Pokémon!",
+    "date": "2025-02-28",
+    "stAt": 1740700800,
+    "endAt": "1742515199",
+    "url": "https://news.pokemon-home.com/en/page/555.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732694566_04491737507337.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "552",
+    "title": "Celebrate Pokémon Day with a Mighty Meowscarada!",
+    "date": "2025-02-28",
+    "stAt": 1740700800,
+    "endAt": "1741305599",
+    "url": "https://news.pokemon-home.com/en/page/552.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732692237_71811737163041.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "564",
+    "title": "Prepare to Celebrate Pokémon Day with Mass Outbreaks of Red, Green, and Blue Pokémon!",
+    "date": "2025-02-27",
+    "stAt": 1740668400,
+    "endAt": "1740700799",
+    "url": "https://news.pokemon-home.com/en/page/564.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1737528393_09411738703338.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "556",
+    "title": "Claim the Scarlet Case or Violet Case!",
+    "date": "2025-02-27",
+    "stAt": 1740668400,
+    "endAt": "4133948399",
+    "url": "https://news.pokemon-home.com/en/page/556.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1733822972_1461737578345.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "551",
+    "title": "Celebrate Pokémon Day with a Special Tera Raid Battle Event!",
+    "date": "2025-02-27",
+    "stAt": 1740668400,
+    "endAt": "1741910399",
+    "url": "https://news.pokemon-home.com/en/page/551.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732668118_37591737510636.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "548",
+    "title": "Challenge Walking Wake and Iron Leaves Now!",
+    "date": "2025-02-21",
+    "stAt": 1740096000,
+    "endAt": "1740700799",
+    "url": "https://news.pokemon-home.com/en/page/548.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732238939_93331737568003.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "558",
+    "title": "Take On the 2025 Global Challenge II!",
+    "date": "2025-02-20",
+    "stAt": 1740009600,
+    "endAt": "1740959999",
+    "url": "https://news.pokemon-home.com/en/page/558.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1734110364_60411738702754.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "547",
+    "title": "Challenge Walking Wake and Iron Leaves Soon!",
+    "date": "2025-02-17",
+    "stAt": 1739750400,
+    "endAt": "1740095999",
+    "url": "https://news.pokemon-home.com/en/page/547.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732238811_91671737568316.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "546",
+    "title": "Enjoy Sweet Valentines from Milcery!",
+    "date": "2025-02-14",
+    "stAt": 1739491200,
+    "endAt": "1739750399",
+    "url": "https://news.pokemon-home.com/en/page/546.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732238638_94511737658621.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "527",
+    "title": "Get Gifts for Completing Pokédexes from Specific Games! Next Up: <i>Pokémon Sword</i>, <i>Pokémon Shield</i>, <i>Pokémon: Let's Go, Pikachu!</i>, and <i>Pokémon: Let’s Go, Eevee!</i>",
+    "date": "2025-02-12",
+    "stAt": 1739340000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/en/page/527.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1729090021_74961733354939.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "545",
+    "title": "Prepare for Sweet Valentines from Milcery!",
+    "date": "2025-02-10",
+    "stAt": 1739145600,
+    "endAt": "1739491199",
+    "url": "https://news.pokemon-home.com/en/page/545.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732238533_3391737658042.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "526",
+    "title": "Maintenance Notice",
+    "date": "2025-02-10",
+    "stAt": 1739145600,
+    "endAt": "1739318399",
+    "url": "https://news.pokemon-home.com/en/page/526.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "544",
+    "title": "Enjoy Mass Outbreaks of Flying-Type Pokémon!",
+    "date": "2025-02-07",
+    "stAt": 1738886400,
+    "endAt": "1739145599",
+    "url": "https://news.pokemon-home.com/en/page/544.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732238331_47691737505827.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "543",
+    "title": "Prepare for Mass Outbreaks of Flying-Type Pokémon!",
+    "date": "2025-02-03",
+    "stAt": 1738540800,
+    "endAt": "1738886399",
+    "url": "https://news.pokemon-home.com/en/page/543.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1732238051_66191737505590.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "561",
+    "title": "Ranked Battles Season 27 Is Under Way!",
+    "date": "2025-02-01",
+    "stAt": 1738382400,
+    "endAt": "1740787199",
+    "url": "https://news.pokemon-home.com/en/page/561.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1734362009_93041736471066.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "562",
+    "title": "A Milcery Tera Raid Battle Event Will Be Held for Valentine’s Day!",
+    "date": "2025-01-29",
+    "stAt": 1738108800,
+    "endAt": "1739145599",
+    "url": "https://news.pokemon-home.com/en/page/562.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1735110559_74911737666761.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "524",
+    "title": "Get Gifts for Completing Pokédexes from Specific Games! Next Up: <i>Pokémon Legends: Arceus</i>, <i>Pokémon Brilliant Diamond</i>, and <i>Pokémon Shining Pearl</i>!",
+    "date": "2025-01-28",
+    "stAt": 1738044000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/en/page/524.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1729089256_0391733354941.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "540",
+    "title": "Challenge Scream Tail and Iron Bundle Now!",
+    "date": "2025-01-24",
+    "stAt": 1737676800,
+    "endAt": "1737935999",
+    "url": "https://news.pokemon-home.com/en/page/540.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731647499_53561737502495.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "525",
+    "title": "Maintenance Notice",
+    "date": "2025-01-24",
+    "stAt": 1737676800,
+    "endAt": "1738022399",
+    "url": "https://news.pokemon-home.com/en/page/525.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "557",
+    "title": "Take On the 2025 Global Challenge I!",
+    "date": "2025-01-23",
+    "stAt": 1737590400,
+    "endAt": "1738540799",
+    "url": "https://news.pokemon-home.com/en/page/557.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1734086038_92981736456335.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "539",
+    "title": "Challenge Scream Tail and Iron Bundle Soon!",
+    "date": "2025-01-20",
+    "stAt": 1737331200,
+    "endAt": "1737676799",
+    "url": "https://news.pokemon-home.com/en/page/539.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731647416_73461736445092.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "536",
+    "title": "Enjoy Mass Outbreaks of Flamigo!",
+    "date": "2025-01-17",
+    "stAt": 1737072000,
+    "endAt": "1737331199",
+    "url": "https://news.pokemon-home.com/en/page/536.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731646994_38041734477767.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "534",
+    "title": "Challenge Alolan Exeggutor Now!",
+    "date": "2025-01-17",
+    "stAt": 1737072000,
+    "endAt": "1737331199",
+    "url": "https://news.pokemon-home.com/en/page/534.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731646736_39781734550033.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "535",
+    "title": "Prepare for Mass Outbreaks of Flamigo!",
+    "date": "2025-01-13",
+    "stAt": 1736726400,
+    "endAt": "1737071999",
+    "url": "https://news.pokemon-home.com/en/page/535.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731646877_39761734477786.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "533",
+    "title": "Challenge Alolan Exeggutor Soon!",
+    "date": "2025-01-13",
+    "stAt": 1736726400,
+    "endAt": "1737071999",
+    "url": "https://news.pokemon-home.com/en/page/533.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731646508_71641734549672.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "538",
+    "title": "Enjoy Mass Outbreaks of Snakelike Pokémon!",
+    "date": "2025-01-10",
+    "stAt": 1736467200,
+    "endAt": "1736726399",
+    "url": "https://news.pokemon-home.com/en/page/538.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731647214_17481733955814.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "541",
+    "title": "Ranked Battles Season 26 Is Under Way!",
+    "date": "2025-01-06",
+    "stAt": 1736136000,
+    "endAt": "1738367999",
+    "url": "https://news.pokemon-home.com/en/page/541.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731671423_79961733516423.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "537",
+    "title": "Prepare for Mass Outbreaks of Snakelike Pokémon!",
+    "date": "2025-01-06",
+    "stAt": 1736121600,
+    "endAt": "1736467199",
+    "url": "https://news.pokemon-home.com/en/page/537.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731647138_0151733955533.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "531",
+    "title": "Age Divisions for 2025 Official Competitions",
+    "date": "2024-12-23",
+    "stAt": 1734912000,
+    "endAt": "1767193199",
+    "url": "https://news.pokemon-home.com/en/page/531.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731317775_20781732574976.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "523",
+    "title": "Shiny Rayquaza Appears!",
+    "date": "2024-12-20",
+    "stAt": 1734652800,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/en/page/523.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728467705_50831731539124.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "521",
+    "title": "Look for Black-Colored Shiny Pokémon in Mass Outbreaks!",
+    "date": "2024-12-20",
+    "stAt": 1734652800,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/en/page/521.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728465128_76951730762946.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "522",
+    "title": "Shiny Rayquaza Is Approaching!",
+    "date": "2024-12-16",
+    "stAt": 1734307200,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/en/page/522.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728467533_84011731538990.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "520",
+    "title": "Prepare to Look for Black-Colored Shiny Pokémon in Mass Outbreaks!",
+    "date": "2024-12-16",
+    "stAt": 1734307200,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/en/page/520.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728464919_94331730762482.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "516",
+    "title": "Challenge Annihilape and Kingambit Now!",
+    "date": "2024-12-13",
+    "stAt": 1734048000,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/en/page/516.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728040471_59071730414555.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "510",
+    "title": "Enjoy Mass Outbreaks of Girafarig!",
+    "date": "2024-12-13",
+    "stAt": 1734048000,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/en/page/510.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728039348_85361730746348.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "515",
+    "title": "Challenge Annihilape and Kingambit Soon!",
+    "date": "2024-12-09",
+    "stAt": 1733702400,
+    "endAt": "1734047999",
+    "url": "https://news.pokemon-home.com/en/page/515.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728040314_07951730414340.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "509",
+    "title": "Prepare for Mass Outbreaks of Girafarig!",
+    "date": "2024-12-09",
+    "stAt": 1733702400,
+    "endAt": "1734047999",
+    "url": "https://news.pokemon-home.com/en/page/509.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728039146_35981730745105.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "514",
+    "title": "Challenge Azumarill and Clodsire Now!",
+    "date": "2024-12-06",
+    "stAt": 1733443200,
+    "endAt": "1734047999",
+    "url": "https://news.pokemon-home.com/en/page/514.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728040122_75171730409903.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "508",
+    "title": "Enjoy Mass Outbreaks of Wooper!",
+    "date": "2024-12-06",
+    "stAt": 1733443200,
+    "endAt": "1734047999",
+    "url": "https://news.pokemon-home.com/en/page/508.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728038971_89041729880565.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "542",
+    "title": "Maintenance Notice",
+    "date": "2024-12-02",
+    "stAt": 1733097600,
+    "endAt": "1733270399",
+    "url": "https://news.pokemon-home.com/en/page/542.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "513",
+    "title": "Challenge Azumarill and Clodsire Soon!",
+    "date": "2024-12-02",
+    "stAt": 1733097600,
+    "endAt": "1733443199",
+    "url": "https://news.pokemon-home.com/en/page/513.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728039939_55111730408608.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "507",
+    "title": "Prepare for Mass Outbreaks of Wooper!",
+    "date": "2024-12-02",
+    "stAt": 1733097600,
+    "endAt": "1733443199",
+    "url": "https://news.pokemon-home.com/en/page/507.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728038754_44741729880076.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "529",
+    "title": "Ranked Battles Season 25 Is Under Way!",
+    "date": "2024-12-01",
+    "stAt": 1733025600,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/en/page/529.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1730082146_99841731541202.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "530",
+    "title": "Regulation Set G",
+    "date": "2024-12-01",
+    "stAt": 1733011200,
+    "endAt": "1746057599",
+    "url": "https://news.pokemon-home.com/en/page/530.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1730190250_46091731640592.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "518",
+    "title": "Level Up with Mass Outbreaks of Chansey!",
+    "date": "2024-11-29",
+    "stAt": 1732838400,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/en/page/518.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728270077_9321729714868.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "512",
+    "title": "Challenge Corviknight and Bellibolt Now!",
+    "date": "2024-11-29",
+    "stAt": 1732838400,
+    "endAt": "1733443199",
+    "url": "https://news.pokemon-home.com/en/page/512.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728039766_54451730405704.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "506",
+    "title": "Enjoy Mass Outbreaks of Tinkatink!",
+    "date": "2024-11-29",
+    "stAt": 1732838400,
+    "endAt": "1733443199",
+    "url": "https://news.pokemon-home.com/en/page/506.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728038085_92311730142914.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "532",
+    "title": "Take On the 2025 Grand Challenge III!",
+    "date": "2024-11-25",
+    "stAt": 1732492800,
+    "endAt": "1733702399",
+    "url": "https://news.pokemon-home.com/en/page/532.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1731362011_76921733419667.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "517",
+    "title": "Prepare to Level Up with Mass Outbreaks of Chansey!",
+    "date": "2024-11-25",
+    "stAt": 1732492800,
+    "endAt": "1732838399",
+    "url": "https://news.pokemon-home.com/en/page/517.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728269892_85371729712476.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "511",
+    "title": "Challenge Corviknight and Bellibolt Soon!",
+    "date": "2024-11-25",
+    "stAt": 1732492800,
+    "endAt": "1732838399",
+    "url": "https://news.pokemon-home.com/en/page/511.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728039580_82971730405395.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "505",
+    "title": "Prepare for Mass Outbreaks of Tinkatink!",
+    "date": "2024-11-25",
+    "stAt": 1732492800,
+    "endAt": "1732838399",
+    "url": "https://news.pokemon-home.com/en/page/505.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728037929_0541730142809.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "502",
+    "title": "Face a Mighty Torterra!",
+    "date": "2024-11-22",
+    "stAt": 1732233600,
+    "endAt": "1732492799",
+    "url": "https://news.pokemon-home.com/en/page/502.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726706021_74031729797481.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "483",
+    "title": "Coming Soon: Shiny Rayquaza Appears!",
+    "date": "2024-11-18",
+    "stAt": 1731938400,
+    "endAt": "1734652799",
+    "url": "https://news.pokemon-home.com/en/page/483.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1723597976_13761730165718.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "501",
+    "title": "Face a Mighty Torterra!",
+    "date": "2024-11-15",
+    "stAt": 1731628800,
+    "endAt": "1731887999",
+    "url": "https://news.pokemon-home.com/en/page/501.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726705828_17131729796625.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "500",
+    "title": "Prepare to Face a Mighty Torterra!",
+    "date": "2024-11-11",
+    "stAt": 1731283200,
+    "endAt": "1731628799",
+    "url": "https://news.pokemon-home.com/en/page/500.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726705631_40791729796008.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "499",
+    "title": "Face a Mighty Feraligatr!",
+    "date": "2024-11-08",
+    "stAt": 1731024000,
+    "endAt": "1731283199",
+    "url": "https://news.pokemon-home.com/en/page/499.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726705338_941728949135.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "504",
+    "title": "Ranked Battles Season 24 Is Under Way!",
+    "date": "2024-11-01",
+    "stAt": 1730433600,
+    "endAt": "1733011199",
+    "url": "https://news.pokemon-home.com/en/page/504.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1727855790_77321729558840.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "498",
+    "title": "Face a Mighty Feraligatr!",
+    "date": "2024-11-01",
+    "stAt": 1730419200,
+    "endAt": "1730678399",
+    "url": "https://news.pokemon-home.com/en/page/498.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726705161_85731728948360.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "503",
+    "title": "Compete in the Team Star Challenge!",
+    "date": "2024-10-28",
+    "stAt": 1730073600,
+    "endAt": "1731283199",
+    "url": "https://news.pokemon-home.com/en/page/503.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1727351211_12021729570851.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "497",
+    "title": "Prepare to Face a Mighty Feraligatr!",
+    "date": "2024-10-28",
+    "stAt": 1730073600,
+    "endAt": "1730419199",
+    "url": "https://news.pokemon-home.com/en/page/497.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726704963_55171728947518.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "496",
+    "title": "Enjoy Mass Outbreaks of Ghost-Type Pokémon!",
+    "date": "2024-10-28",
+    "stAt": 1730073600,
+    "endAt": "1730419199",
+    "url": "https://news.pokemon-home.com/en/page/496.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726206366_92561728515975.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "494",
+    "title": "Enjoy Tricks and Treats from Gengar!",
+    "date": "2024-10-28",
+    "stAt": 1730073600,
+    "endAt": "1730419199",
+    "url": "https://news.pokemon-home.com/en/page/494.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726205949_73311728689646.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "528",
+    "title": "Maintenance Notice",
+    "date": "2024-10-25",
+    "stAt": 1729814400,
+    "endAt": "1730159999",
+    "url": "https://news.pokemon-home.com/en/page/528.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "495",
+    "title": "Prepare for Mass Outbreaks of Ghost-Type Pokémon!",
+    "date": "2024-10-21",
+    "stAt": 1729468800,
+    "endAt": "1730073599",
+    "url": "https://news.pokemon-home.com/en/page/495.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726206235_40851728505136.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "493",
+    "title": "Prepare for Tricks and Treats from Gengar!",
+    "date": "2024-10-21",
+    "stAt": 1729468800,
+    "endAt": "1730073599",
+    "url": "https://news.pokemon-home.com/en/page/493.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726205689_78371728504360.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "492",
+    "title": "Challenge Hard-to-Find Pokémon Now!",
+    "date": "2024-10-18",
+    "stAt": 1729209600,
+    "endAt": "1729468799",
+    "url": "https://news.pokemon-home.com/en/page/492.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726125204_40741728332910.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "490",
+    "title": "Enjoy Mass Outbreaks of Hard-to-Find Pokémon!",
+    "date": "2024-10-18",
+    "stAt": 1729209600,
+    "endAt": "1729468799",
+    "url": "https://news.pokemon-home.com/en/page/490.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726123899_66551727975359.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "482",
+    "title": "Get Gifts for Completing Pokédexes from Specific Games! First Up: <i>Pokémon Scarlet</i> and <i>Pokémon Violet</i>!",
+    "date": "2024-10-16",
+    "stAt": 1729072800,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/en/page/482.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1723202539_07521728066824.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "481",
+    "title": "Update Info for Mobile Devices (Ver. 3.2.2)",
+    "date": "2024-10-16",
+    "stAt": 1729040400,
+    "endAt": "1731715199",
+    "url": "https://news.pokemon-home.com/en/page/481.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "519",
+    "title": "Take On the 2025 Grand Challenge II!",
+    "date": "2024-10-16",
+    "stAt": 1729036800,
+    "endAt": "1730073599",
+    "url": "https://news.pokemon-home.com/en/page/519.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1728278707_51411728592291.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "491",
+    "title": "Challenge Hard-to-Find Pokémon Soon!",
+    "date": "2024-10-14",
+    "stAt": 1728864000,
+    "endAt": "1729209599",
+    "url": "https://news.pokemon-home.com/en/page/491.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726125078_98521727975099.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "489",
+    "title": "Prepare for Mass Outbreaks of Hard-to-Find Pokémon!",
+    "date": "2024-10-14",
+    "stAt": 1728864000,
+    "endAt": "1729209599",
+    "url": "https://news.pokemon-home.com/en/page/489.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726123769_23631727974963.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "480",
+    "title": "Maintenance Notice",
+    "date": "2024-10-14",
+    "stAt": 1728864000,
+    "endAt": "1729036799",
+    "url": "https://news.pokemon-home.com/en/page/480.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "487",
+    "title": "Face a Mighty Infernape!",
+    "date": "2024-10-11",
+    "stAt": 1728604800,
+    "endAt": "1728863999",
+    "url": "https://news.pokemon-home.com/en/page/487.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1725590074_44111726611949.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "486",
+    "title": "Face a Mighty Infernape!",
+    "date": "2024-10-04",
+    "stAt": 1728000000,
+    "endAt": "1728259199",
+    "url": "https://news.pokemon-home.com/en/page/486.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1725589914_18781727127612.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "484",
+    "title": "Ranked Battles Season 23 Is Under Way!",
+    "date": "2024-10-01",
+    "stAt": 1727755200,
+    "endAt": "1730419199",
+    "url": "https://news.pokemon-home.com/en/page/484.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1725445396_07151726690278.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "485",
+    "title": "Prepare to Face a Mighty Infernape!",
+    "date": "2024-09-30",
+    "stAt": 1727654400,
+    "endAt": "1727999999",
+    "url": "https://news.pokemon-home.com/en/page/485.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1725589819_57711726610457.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "478",
+    "title": "Face a Mighty Serperior!",
+    "date": "2024-09-27",
+    "stAt": 1727395200,
+    "endAt": "1727654399",
+    "url": "https://news.pokemon-home.com/en/page/478.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1722566619_39521724107802.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "477",
+    "title": "Face a Mighty Serperior!",
+    "date": "2024-09-20",
+    "stAt": 1726790400,
+    "endAt": "1727049599",
+    "url": "https://news.pokemon-home.com/en/page/477.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1722566479_05971724107254.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "476",
+    "title": "Prepare to Face a Mighty Serperior!",
+    "date": "2024-09-16",
+    "stAt": 1726444800,
+    "endAt": "1726790399",
+    "url": "https://news.pokemon-home.com/en/page/476.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1722566232_99441724106993.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "475",
+    "title": "Face a Mighty Incineroar!",
+    "date": "2024-09-13",
+    "stAt": 1726185600,
+    "endAt": "1726444799",
+    "url": "https://news.pokemon-home.com/en/page/475.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1722566061_2931723848829.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "488",
+    "title": "Take On the 2025 Grand Challenge I!",
+    "date": "2024-09-12",
+    "stAt": 1726099200,
+    "endAt": "1727049599",
+    "url": "https://news.pokemon-home.com/en/page/488.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1726022119_59331726075829.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "474",
+    "title": "Face a Mighty Incineroar!",
+    "date": "2024-09-06",
+    "stAt": 1725580800,
+    "endAt": "1725839999",
+    "url": "https://news.pokemon-home.com/en/page/474.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1722565905_36141723844016.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "473",
+    "title": "Prepare to Face a Mighty Incineroar!",
+    "date": "2024-09-02",
+    "stAt": 1725235200,
+    "endAt": "1725580799",
+    "url": "https://news.pokemon-home.com/en/page/473.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1722564622_24091723841877.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "472",
+    "title": "Ranked Battles Season 22 Is Under Way!",
+    "date": "2024-09-01",
+    "stAt": 1725163200,
+    "endAt": "1727740799",
+    "url": "https://news.pokemon-home.com/en/page/472.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1721960174_94141723140029.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "479",
+    "title": "Compatibility Changes for the Mobile Device Version of Pokémon HOME",
+    "date": "2024-09-01",
+    "stAt": 1725148800,
+    "endAt": "1729036799",
+    "url": "https://news.pokemon-home.com/en/page/479.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "467",
+    "title": "Challenge Powerhouse Pokémon!",
+    "date": "2024-08-23",
+    "stAt": 1724371200,
+    "endAt": "1725235199",
+    "url": "https://news.pokemon-home.com/en/page/467.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1718678493_74341721859067.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "466",
+    "title": "Prepare to Challenge Powerhouse Pokémon!",
+    "date": "2024-08-19",
+    "stAt": 1724025600,
+    "endAt": "1724371199",
+    "url": "https://news.pokemon-home.com/en/page/466.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1718678336_33941721859035.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "465",
+    "title": "Celebrate the 2024 World Championships!",
+    "date": "2024-08-09",
+    "stAt": 1723161600,
+    "endAt": "1724371199",
+    "url": "https://news.pokemon-home.com/en/page/465.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1718678048_93071721435994.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "464",
+    "title": "Prepare to Celebrate the 2024 World Championships!",
+    "date": "2024-08-05",
+    "stAt": 1722816000,
+    "endAt": "1723161599",
+    "url": "https://news.pokemon-home.com/en/page/464.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1718677884_95071721432542.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "468",
+    "title": "Ranked Battles Season 21 Is Under Way!",
+    "date": "2024-08-01",
+    "stAt": 1722484800,
+    "endAt": "1725148799",
+    "url": "https://news.pokemon-home.com/en/page/468.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1719394543_85731721153928.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "471",
+    "title": "Regulation Set H",
+    "date": "2024-08-01",
+    "stAt": 1722470400,
+    "endAt": "1736121599",
+    "url": "https://news.pokemon-home.com/en/page/471.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1720577607_29431721674103.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "470",
+    "title": "Update Info for Mobile Devices (Ver. 3.2.1)",
+    "date": "2024-08-01",
+    "stAt": 1722470400,
+    "endAt": "1725148799",
+    "url": "https://news.pokemon-home.com/en/page/470.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "469",
+    "title": "Maintenance Notice",
+    "date": "2024-07-29",
+    "stAt": 1722211200,
+    "endAt": "1722470399",
+    "url": "https://news.pokemon-home.com/en/page/469.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "463",
+    "title": "Order Up Some Fun with Pokémon!",
+    "date": "2024-07-26",
+    "stAt": 1721952000,
+    "endAt": "1723161599",
+    "url": "https://news.pokemon-home.com/en/page/463.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1718273920_56811721065346.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "462",
+    "title": "Prepare to Order Up Some Fun with Pokémon!",
+    "date": "2024-07-22",
+    "stAt": 1721606400,
+    "endAt": "1721951999",
+    "url": "https://news.pokemon-home.com/en/page/462.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1718273661_88021720728257.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "461",
+    "title": "Search for Pikachu and Friends!",
+    "date": "2024-07-12",
+    "stAt": 1720742400,
+    "endAt": "1721951999",
+    "url": "https://news.pokemon-home.com/en/page/461.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1718171038_56841719600686.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "460",
+    "title": "Prepare to Search for Pikachu and Friends!",
+    "date": "2024-07-08",
+    "stAt": 1720396800,
+    "endAt": "1720742399",
+    "url": "https://news.pokemon-home.com/en/page/460.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1718170011_9021719600781.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "459",
+    "title": "Coming Soon: Special Tera Raid Battles and Mass Outbreaks in Four Seasonal Events!",
+    "date": "2024-07-08",
+    "stAt": 1720396800,
+    "endAt": "1725235199",
+    "url": "https://news.pokemon-home.com/en/page/459.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1718097698_26461720202176.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "441",
+    "title": "Face a Mighty Sceptile!",
+    "date": "2024-07-05",
+    "stAt": 1720137600,
+    "endAt": "1720396799",
+    "url": "https://news.pokemon-home.com/en/page/441.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1708504339_45871717016188.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "458",
+    "title": "Ranked Battles Season 20 Is Under Way!",
+    "date": "2024-07-01",
+    "stAt": 1719806400,
+    "endAt": "1722470399",
+    "url": "https://news.pokemon-home.com/en/page/458.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1716447451_58581718321677.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "440",
+    "title": "Face a Mighty Sceptile!",
+    "date": "2024-06-28",
+    "stAt": 1719532800,
+    "endAt": "1719791999",
+    "url": "https://news.pokemon-home.com/en/page/440.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1708504119_92071717016038.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "439",
+    "title": "Prepare to Face a Mighty Sceptile!",
+    "date": "2024-06-24",
+    "stAt": 1719187200,
+    "endAt": "1719532799",
+    "url": "https://news.pokemon-home.com/en/page/439.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1708503879_37381716511119.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "438",
+    "title": "Face a Mighty Emboar!",
+    "date": "2024-06-21",
+    "stAt": 1718928000,
+    "endAt": "1719187199",
+    "url": "https://news.pokemon-home.com/en/page/438.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1708503445_46191716252159.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "437",
+    "title": "Face a Mighty Emboar!",
+    "date": "2024-06-14",
+    "stAt": 1718323200,
+    "endAt": "1718582399",
+    "url": "https://news.pokemon-home.com/en/page/437.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1708503202_85361716250063.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "457",
+    "title": "Maintenance Notice",
+    "date": "2024-06-10",
+    "stAt": 1717977600,
+    "endAt": "1718243999",
+    "url": "https://news.pokemon-home.com/en/page/457.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "436",
+    "title": "Prepare to Face a Mighty Emboar!",
+    "date": "2024-06-10",
+    "stAt": 1717977600,
+    "endAt": "1718323199",
+    "url": "https://news.pokemon-home.com/en/page/436.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1708502998_31891716249203.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "456",
+    "title": "Enjoy Mass Outbreaks of Water-Type Pokémon!",
+    "date": "2024-06-07",
+    "stAt": 1717718400,
+    "endAt": "1717977599",
+    "url": "https://news.pokemon-home.com/en/page/456.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1713937558_56141715808672.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "454",
+    "title": "Face a Mighty Swampert!",
+    "date": "2024-06-07",
+    "stAt": 1717718400,
+    "endAt": "1717977599",
+    "url": "https://news.pokemon-home.com/en/page/454.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1713835492_31431715800336.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "455",
+    "title": "Prepare for Mass Outbreaks of Water-Type Pokémon!",
+    "date": "2024-06-03",
+    "stAt": 1717372800,
+    "endAt": "1717718399",
+    "url": "https://news.pokemon-home.com/en/page/455.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1713936972_61911715807962.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "451",
+    "title": "Ranked Battles Season 19 is Under Way!",
+    "date": "2024-06-01",
+    "stAt": 1717214400,
+    "endAt": "1719791999",
+    "url": "https://news.pokemon-home.com/en/page/451.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1713244772_321715656759.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "453",
+    "title": "Face a Mighty Swampert!",
+    "date": "2024-05-31",
+    "stAt": 1717113600,
+    "endAt": "1717372799",
+    "url": "https://news.pokemon-home.com/en/page/453.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1713835083_35241715799982.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "452",
+    "title": "Prepare to Face a Mighty Swampert!",
+    "date": "2024-05-27",
+    "stAt": 1716768000,
+    "endAt": "1717113599",
+    "url": "https://news.pokemon-home.com/en/page/452.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1713834772_37871715799835.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "435",
+    "title": "Challenge Sandy Shocks and Iron Thorns Now!",
+    "date": "2024-05-24",
+    "stAt": 1716508800,
+    "endAt": "1716767999",
+    "url": "https://news.pokemon-home.com/en/page/435.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1708501585_50521714426095.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "434",
+    "title": "Challenge Sandy Shocks and Iron Thorns Soon!",
+    "date": "2024-05-20",
+    "stAt": 1716163200,
+    "endAt": "1716508799",
+    "url": "https://news.pokemon-home.com/en/page/434.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1708501396_1031714425390.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "431",
+    "title": "Face a Mighty Primarina!",
+    "date": "2024-05-17",
+    "stAt": 1715904000,
+    "endAt": "1716163199",
+    "url": "https://news.pokemon-home.com/en/page/431.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707879377_46771713394158.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "430",
+    "title": "Face a Mighty Primarina!",
+    "date": "2024-05-10",
+    "stAt": 1715299200,
+    "endAt": "1715558399",
+    "url": "https://news.pokemon-home.com/en/page/430.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707879139_34311713393415.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "449",
+    "title": "Update Info for Mobile Devices (Ver. 3.2.0)",
+    "date": "2024-05-08",
+    "stAt": 1715133600,
+    "endAt": "1735657199",
+    "url": "https://news.pokemon-home.com/en/page/449.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "429",
+    "title": "Prepare to Face a Mighty Primarina!",
+    "date": "2024-05-07",
+    "stAt": 1715040000,
+    "endAt": "1715299199",
+    "url": "https://news.pokemon-home.com/en/page/429.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707878147_17351713388903.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "450",
+    "title": "Maintenance Notice",
+    "date": "2024-05-06",
+    "stAt": 1714953600,
+    "endAt": "1715133599",
+    "url": "https://news.pokemon-home.com/en/page/450.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "448",
+    "title": "Ranked Battles Season 18 is Under Way!",
+    "date": "2024-05-01",
+    "stAt": 1714536000,
+    "endAt": "1717199999",
+    "url": "https://news.pokemon-home.com/en/page/448.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1711674830_44311715100200.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "428",
+    "title": "Challenge Walking Wake and Iron Leaves Now!",
+    "date": "2024-04-26",
+    "stAt": 1714089600,
+    "endAt": "1715039999",
+    "url": "https://news.pokemon-home.com/en/page/428.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707877598_95431711490534.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "426",
+    "title": "Strike Gold with Mass Outbreaks of Pokémon!",
+    "date": "2024-04-26",
+    "stAt": 1714089600,
+    "endAt": "1715039999",
+    "url": "https://news.pokemon-home.com/en/page/426.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707877007_01251711659989.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "427",
+    "title": "Challenge Walking Wake and Iron Leaves Soon!",
+    "date": "2024-04-22",
+    "stAt": 1713744000,
+    "endAt": "1714089599",
+    "url": "https://news.pokemon-home.com/en/page/427.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707877331_89071711489875.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "425",
+    "title": "Prepare to Strike Gold with Mass Outbreaks of Pokémon!",
+    "date": "2024-04-22",
+    "stAt": 1713744000,
+    "endAt": "1714089599",
+    "url": "https://news.pokemon-home.com/en/page/425.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707876765_04451711658710.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "424",
+    "title": "Face a Mighty Meganium!",
+    "date": "2024-04-12",
+    "stAt": 1712880000,
+    "endAt": "1713139199",
+    "url": "https://news.pokemon-home.com/en/page/424.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707876501_17311710881389.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "423",
+    "title": "Face a Mighty Meganium!",
+    "date": "2024-04-05",
+    "stAt": 1712275200,
+    "endAt": "1712534399",
+    "url": "https://news.pokemon-home.com/en/page/423.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707876222_721710880324.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "432",
+    "title": "Ranked Battles Season 17 Is Under Way!",
+    "date": "2024-04-01",
+    "stAt": 1711944000,
+    "endAt": "1714521599",
+    "url": "https://news.pokemon-home.com/en/page/432.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1708327396_74091710873743.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "444",
+    "title": "Regulation Set G",
+    "date": "2024-04-01",
+    "stAt": 1711929600,
+    "endAt": "1725148799",
+    "url": "https://news.pokemon-home.com/en/page/444.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1709809353_4081711655828.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "422",
+    "title": "Prepare to Face a Mighty Meganium!",
+    "date": "2024-04-01",
+    "stAt": 1711929600,
+    "endAt": "1712275199",
+    "url": "https://news.pokemon-home.com/en/page/422.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707875996_21241710878894.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "421",
+    "title": "Enjoy Mass Outbreaks of Adorable Pokémon!",
+    "date": "2024-03-29",
+    "stAt": 1711670400,
+    "endAt": "1711929599",
+    "url": "https://news.pokemon-home.com/en/page/421.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707446019_02511710810634.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "420",
+    "title": "Prepare for Mass Outbreaks of Adorable Pokémon!",
+    "date": "2024-03-25",
+    "stAt": 1711324800,
+    "endAt": "1711670399",
+    "url": "https://news.pokemon-home.com/en/page/420.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707445728_4321710810510.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "446",
+    "title": "Maintenance Notice",
+    "date": "2024-03-22",
+    "stAt": 1711065600,
+    "endAt": "1711501199",
+    "url": "https://news.pokemon-home.com/en/page/446.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "445",
+    "title": "Legal Compliance for Thailand",
+    "date": "2024-03-22",
+    "stAt": 1711065600,
+    "endAt": "1714521599",
+    "url": "https://news.pokemon-home.com/en/page/445.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "419",
+    "title": "Challenge Brute Bonnet and Iron Hands Now!",
+    "date": "2024-03-22",
+    "stAt": 1711065600,
+    "endAt": "1711324799",
+    "url": "https://news.pokemon-home.com/en/page/419.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707444963_68611710364757.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "418",
+    "title": "Challenge Brute Bonnet and Iron Hands Soon!",
+    "date": "2024-03-18",
+    "stAt": 1710720000,
+    "endAt": "1711065599",
+    "url": "https://news.pokemon-home.com/en/page/418.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707444800_7251710363957.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "411",
+    "title": "Take On the 2024 Global Challenge III!",
+    "date": "2024-03-14",
+    "stAt": 1710374400,
+    "endAt": "1711929599",
+    "url": "https://news.pokemon-home.com/en/page/411.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1705297710_48161709749985.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "414",
+    "title": "Celebrate Pokémon Day with a Mighty Charizard!",
+    "date": "2024-03-13",
+    "stAt": 1710288000,
+    "endAt": "1710719999",
+    "url": "https://news.pokemon-home.com/en/page/414.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1705471005_99881709665384.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "413",
+    "title": "Celebrate Pokémon Day with a Mighty Blastoise!",
+    "date": "2024-03-06",
+    "stAt": 1709683200,
+    "endAt": "1710287999",
+    "url": "https://news.pokemon-home.com/en/page/413.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1705470833_33181709167954.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "417",
+    "title": "Ranked Battles Season 16 Is Under Way!",
+    "date": "2024-03-01",
+    "stAt": 1709265600,
+    "endAt": "1711929599",
+    "url": "https://news.pokemon-home.com/en/page/417.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1707190097_88181709240012.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "443",
+    "title": "Compatibility changes for the mobile device version of Pokémon HOME",
+    "date": "2024-03-01",
+    "stAt": 1709251200,
+    "endAt": "1717199999",
+    "url": "https://news.pokemon-home.com/en/page/443.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "442",
+    "title": "Maintenance Notice",
+    "date": "2024-03-01",
+    "stAt": 1709251200,
+    "endAt": "1709693999",
+    "url": "https://news.pokemon-home.com/en/page/442.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "412",
+    "title": "Celebrate Pokémon Day with a Mighty Venusaur!",
+    "date": "2024-02-28",
+    "stAt": 1709078400,
+    "endAt": "1709683199",
+    "url": "https://news.pokemon-home.com/en/page/412.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1705469784_5251708639057.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "415",
+    "title": "Celebrate Pokémon Day with a Special Tera Raid Battle Event!",
+    "date": "2024-02-27",
+    "stAt": 1709046000,
+    "endAt": "1710287999",
+    "url": "https://news.pokemon-home.com/en/page/415.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1705472860_13611708976227.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "408",
+    "title": "Enjoy Mass Outbreaks of...Poké Balls?!",
+    "date": "2024-02-23",
+    "stAt": 1708646400,
+    "endAt": "1709078399",
+    "url": "https://news.pokemon-home.com/en/page/408.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1704966564_16091707352729.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "407",
+    "title": "Prepare for Mass Outbreaks of...Poké Balls?!",
+    "date": "2024-02-21",
+    "stAt": 1708473600,
+    "endAt": "1708646399",
+    "url": "https://news.pokemon-home.com/en/page/407.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1704966450_16061707352561.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "404",
+    "title": "Challenge Hard-to-Find Pokémon Now!",
+    "date": "2024-02-16",
+    "stAt": 1708041600,
+    "endAt": "1708300799",
+    "url": "https://news.pokemon-home.com/en/page/404.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1703588554_81671707183870.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "410",
+    "title": "Take On the 2024 Global Challenge II!",
+    "date": "2024-02-15",
+    "stAt": 1707955200,
+    "endAt": "1709510399",
+    "url": "https://news.pokemon-home.com/en/page/410.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1705297565_50211707866362.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "403",
+    "title": "Challenge Hard-to-Find Pokémon Soon!",
+    "date": "2024-02-12",
+    "stAt": 1707696000,
+    "endAt": "1708041599",
+    "url": "https://news.pokemon-home.com/en/page/403.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1703588434_66811707183728.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "402",
+    "title": "Enjoy Sweet Valentines from Luvdisc!",
+    "date": "2024-02-12",
+    "stAt": 1707696000,
+    "endAt": "1708041599",
+    "url": "https://news.pokemon-home.com/en/page/402.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1703588311_00381706830613.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "397",
+    "title": "Face a Mighty Empoleon!",
+    "date": "2024-02-09",
+    "stAt": 1707436800,
+    "endAt": "1707695999",
+    "url": "https://news.pokemon-home.com/en/page/397.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1702974867_88281705966997.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "401",
+    "title": "Prepare for Sweet Valentines from Luvdisc!",
+    "date": "2024-02-05",
+    "stAt": 1707091200,
+    "endAt": "1707695999",
+    "url": "https://news.pokemon-home.com/en/page/401.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1703588170_44161706830580.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "396",
+    "title": "Face a Mighty Empoleon!",
+    "date": "2024-02-02",
+    "stAt": 1706832000,
+    "endAt": "1707091199",
+    "url": "https://news.pokemon-home.com/en/page/396.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1702974763_88021705966094.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "416",
+    "title": "Ranked Battles Season 15 Is Under Way!",
+    "date": "2024-02-01",
+    "stAt": 1706760000,
+    "endAt": "1709251199",
+    "url": "https://news.pokemon-home.com/en/page/416.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1706162508_2161706754675.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "395",
+    "title": "Prepare to Face a Mighty Empoleon!",
+    "date": "2024-01-29",
+    "stAt": 1706486400,
+    "endAt": "1706831999",
+    "url": "https://news.pokemon-home.com/en/page/395.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1702974640_09471705965084.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "393",
+    "title": "Enjoy Mass Outbreaks of Hard-to-Find Pokémon!",
+    "date": "2024-01-26",
+    "stAt": 1706227200,
+    "endAt": "1706486399",
+    "url": "https://news.pokemon-home.com/en/page/393.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1702608726_12841705457442.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "355",
+    "title": "Challenge Flutter Mane and Iron Jugulis Now!",
+    "date": "2024-01-26",
+    "stAt": 1706227200,
+    "endAt": "1706486399",
+    "url": "https://news.pokemon-home.com/en/page/355.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1696416601_04361705462700.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "409",
+    "title": "Take On the 2024 Global Challenge I!",
+    "date": "2024-01-22",
+    "stAt": 1705881600,
+    "endAt": "1707091199",
+    "url": "https://news.pokemon-home.com/en/page/409.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1705297395_60231705691541.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "392",
+    "title": "Prepare for Mass Outbreaks of Hard-to-Find Pokémon!",
+    "date": "2024-01-22",
+    "stAt": 1705881600,
+    "endAt": "1706227199",
+    "url": "https://news.pokemon-home.com/en/page/392.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1702608616_52511705456013.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "354",
+    "title": "Challenge Flutter Mane and Iron Jugulis Soon!",
+    "date": "2024-01-22",
+    "stAt": 1705881600,
+    "endAt": "1706227199",
+    "url": "https://news.pokemon-home.com/en/page/354.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1696416427_98381705462291.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "390",
+    "title": "Face a Mighty Blaziken!",
+    "date": "2024-01-19",
+    "stAt": 1705622400,
+    "endAt": "1705881599",
+    "url": "https://news.pokemon-home.com/en/page/390.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1702448407_90191704908176.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "389",
+    "title": "Face a Mighty Blaziken!",
+    "date": "2024-01-12",
+    "stAt": 1705017600,
+    "endAt": "1705276799",
+    "url": "https://news.pokemon-home.com/en/page/389.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1702448290_30431704908061.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "391",
+    "title": "Maintenance Notice",
+    "date": "2024-01-11",
+    "stAt": 1704981600,
+    "endAt": "1705021199",
+    "url": "https://news.pokemon-home.com/en/page/391.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "385",
+    "title": "Claim a Mythical Pecha Berry!",
+    "date": "2024-01-11",
+    "stAt": 1704981600,
+    "endAt": "2556111599",
+    "url": "https://news.pokemon-home.com/en/page/385.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1701420922_05771704912186.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "388",
+    "title": "Prepare to Face a Mighty Blaziken!",
+    "date": "2024-01-08",
+    "stAt": 1704672000,
+    "endAt": "1705017599",
+    "url": "https://news.pokemon-home.com/en/page/388.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1702448106_09331704475554.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "399",
+    "title": "Ranked Battles Season 14 Is Under Way!",
+    "date": "2024-01-04",
+    "stAt": 1704340800,
+    "endAt": "1706745599",
+    "url": "https://news.pokemon-home.com/en/page/399.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1703222900_27471703223021.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "405",
+    "title": "Regarding a Bug Affecting Dragon Cheer",
+    "date": "2024-01-04",
+    "stAt": 1704326400,
+    "endAt": "1706749199",
+    "url": "https://news.pokemon-home.com/en/page/405.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1703670410_90291704401897.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "400",
+    "title": "Maintenance Notice",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1703552399",
+    "url": "https://news.pokemon-home.com/en/page/400.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "386",
+    "title": "Age Divisions for 2024 Official Competitions",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1735657199",
+    "url": "https://news.pokemon-home.com/en/page/386.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1701421604_68421702938492.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "380",
+    "title": "Enjoy Mass Outbreaks of Dragon-Type Pokémon!",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1704326399",
+    "url": "https://news.pokemon-home.com/en/page/380.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1700212518_88061702589989.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "378",
+    "title": "Compete in the Blueberry Prologue!",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1705276799",
+    "url": "https://news.pokemon-home.com/en/page/378.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1699953624_41091702937168.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "377",
+    "title": "Regulation Set F",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1714521599",
+    "url": "https://news.pokemon-home.com/en/page/377.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1699953442_16911703204345.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "375",
+    "title": "Challenge Walking Wake and Iron Leaves Now!",
+    "date": "2023-12-25",
+    "stAt": 1703462400,
+    "endAt": "1704671999",
+    "url": "https://news.pokemon-home.com/en/page/375.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1699342992_60361702500463.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "373",
+    "title": "Enjoy Mass Outbreaks of Delibird!",
+    "date": "2023-12-22",
+    "stAt": 1703203200,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/en/page/373.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1699342446_02791702590401.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "371",
+    "title": "Face a Mighty Iron Bundle!",
+    "date": "2023-12-22",
+    "stAt": 1703203200,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/en/page/371.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1699342222_53721702585958.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "398",
+    "title": "Regarding Bugs in a Recent Update and How We Will Address Them",
+    "date": "2023-12-20",
+    "stAt": 1703044800,
+    "endAt": "1706749199",
+    "url": "https://news.pokemon-home.com/en/page/398.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1702983019_09071703108582.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "379",
+    "title": "Prepare for Mass Outbreaks of Dragon-Type Pokémon!",
+    "date": "2023-12-18",
+    "stAt": 1702857600,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/en/page/379.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1700212395_17511702675645.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "374",
+    "title": "Challenge Walking Wake and Iron Leaves Soon!",
+    "date": "2023-12-18",
+    "stAt": 1702857600,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/en/page/374.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1699342888_59991702497913.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "372",
+    "title": "Prepare for Mass Outbreaks of Delibird!",
+    "date": "2023-12-18",
+    "stAt": 1702857600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/en/page/372.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1699342321_40131702589550.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "370",
+    "title": "Prepare to Face a Mighty Iron Bundle!",
+    "date": "2023-12-18",
+    "stAt": 1702857600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/en/page/370.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1699342126_32751702585891.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "381",
+    "title": "Update Notice",
+    "date": "2023-12-14",
+    "stAt": 1702515600,
+    "endAt": "1735657199",
+    "url": "https://news.pokemon-home.com/en/page/381.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "367",
+    "title": "Get a Master Ball and Catch a Legendary Pokémon!",
+    "date": "2023-12-14",
+    "stAt": 1702515600,
+    "endAt": "1704326399",
+    "url": "https://news.pokemon-home.com/en/page/367.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1697791769_54421701993962.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "387",
+    "title": "Maintenance Notice",
+    "date": "2023-12-11",
+    "stAt": 1702252800,
+    "endAt": "1702515599",
+    "url": "https://news.pokemon-home.com/en/page/387.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "364",
+    "title": "Get Festive with Mass Outbreaks of Pokémon!",
+    "date": "2023-12-08",
+    "stAt": 1701993600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/en/page/364.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1697791172_87691701760439.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "363",
+    "title": "Challenge Dialga and Palkia Now!",
+    "date": "2023-12-08",
+    "stAt": 1701993600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/en/page/363.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1697790854_67211701721574.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "366",
+    "title": "A Shiny Lucario Appears!",
+    "date": "2023-12-07",
+    "stAt": 1701957600,
+    "endAt": "1704326399",
+    "url": "https://news.pokemon-home.com/en/page/366.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1697791578_23621701904619.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "365",
+    "title": "Add the Mythical Pokémon Darkrai to Your Team!",
+    "date": "2023-12-07",
+    "stAt": 1701957600,
+    "endAt": "1703203199",
+    "url": "https://news.pokemon-home.com/en/page/365.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1697791385_44571701904469.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "383",
+    "title": "Update Info for Mobile Devices (Ver. 3.1.2)",
+    "date": "2023-12-04",
+    "stAt": 1701651600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/en/page/383.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "376",
+    "title": "Regulation Set F",
+    "date": "2023-12-01",
+    "stAt": 1701403200,
+    "endAt": "1703462399",
+    "url": "https://news.pokemon-home.com/en/page/376.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1699953234_47511701405020.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "353",
+    "title": "Ranked Battles Season 13 Is Under Way!",
+    "date": "2023-12-01",
+    "stAt": 1701403200,
+    "endAt": "1704326399",
+    "url": "https://news.pokemon-home.com/en/page/353.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1695801483_23071701127008.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "382",
+    "title": "Maintenance Notice",
+    "date": "2023-12-01",
+    "stAt": 1701388800,
+    "endAt": "1701651599",
+    "url": "https://news.pokemon-home.com/en/page/382.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "306",
+    "title": "Face a Mighty Hisuian Samurott!",
+    "date": "2023-12-01",
+    "stAt": 1701388800,
+    "endAt": "1701647999",
+    "url": "https://news.pokemon-home.com/en/page/306.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028960_12341699662171.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "305",
+    "title": "Face a Mighty Hisuian Samurott!",
+    "date": "2023-11-24",
+    "stAt": 1700784000,
+    "endAt": "1701043199",
+    "url": "https://news.pokemon-home.com/en/page/305.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028894_28881700082832.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "304",
+    "title": "Prepare to Face a Mighty Hisuian Samurott!",
+    "date": "2023-11-20",
+    "stAt": 1700438400,
+    "endAt": "1700783999",
+    "url": "https://news.pokemon-home.com/en/page/304.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028823_1161699660606.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "362",
+    "title": "Enjoy Mass Outbreaks of Eevee!",
+    "date": "2023-11-17",
+    "stAt": 1700179200,
+    "endAt": "1700524799",
+    "url": "https://news.pokemon-home.com/en/page/362.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1697719788_19491699394093.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "360",
+    "title": "Face a Mighty Eevee!",
+    "date": "2023-11-17",
+    "stAt": 1700179200,
+    "endAt": "1700524799",
+    "url": "https://news.pokemon-home.com/en/page/360.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1697718034_80131699645343.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "361",
+    "title": "Prepare for Mass Outbreaks of Eevee!",
+    "date": "2023-11-13",
+    "stAt": 1699833600,
+    "endAt": "1700179199",
+    "url": "https://news.pokemon-home.com/en/page/361.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1697718528_65751699393288.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "359",
+    "title": "Prepare to Face a Mighty Eevee!",
+    "date": "2023-11-13",
+    "stAt": 1699833600,
+    "endAt": "1700179199",
+    "url": "https://news.pokemon-home.com/en/page/359.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1697717577_17981699398848.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "303",
+    "title": "Face a Mighty Hisuian Typhlosion!",
+    "date": "2023-11-10",
+    "stAt": 1699574400,
+    "endAt": "1699833599",
+    "url": "https://news.pokemon-home.com/en/page/303.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028751_07491698100965.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "302",
+    "title": "Face a Mighty Hisuian Typhlosion!",
+    "date": "2023-11-03",
+    "stAt": 1698969600,
+    "endAt": "1699228799",
+    "url": "https://news.pokemon-home.com/en/page/302.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028671_99011698100385.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "352",
+    "title": "Ranked Battles Season 12 Is Under Way!",
+    "date": "2023-11-01",
+    "stAt": 1698811200,
+    "endAt": "1701388799",
+    "url": "https://news.pokemon-home.com/en/page/352.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1695799562_5261698188706.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "301",
+    "title": "Prepare to Face a Mighty Hisuian Typhlosion!",
+    "date": "2023-10-30",
+    "stAt": 1698624000,
+    "endAt": "1698969599",
+    "url": "https://news.pokemon-home.com/en/page/301.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028608_59891698100089.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "350",
+    "title": "Enjoy Mass Outbreaks of Ghost-Type Pokémon!",
+    "date": "2023-10-27",
+    "stAt": 1698364800,
+    "endAt": "1698796799",
+    "url": "https://news.pokemon-home.com/en/page/350.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1695608368_04181697498383.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "348",
+    "title": "Enjoy Tricks and Treats from Mismagius!",
+    "date": "2023-10-27",
+    "stAt": 1698364800,
+    "endAt": "1698796799",
+    "url": "https://news.pokemon-home.com/en/page/348.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1695607350_27161697058320.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "356",
+    "title": "Compete in the Trick Magic Online Competition!",
+    "date": "2023-10-23",
+    "stAt": 1698019200,
+    "endAt": "1699228799",
+    "url": "https://news.pokemon-home.com/en/page/356.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1696909729_87171698338193.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "349",
+    "title": "Prepare for Mass Outbreaks of Ghost-Type Pokémon!",
+    "date": "2023-10-23",
+    "stAt": 1698019200,
+    "endAt": "1698364799",
+    "url": "https://news.pokemon-home.com/en/page/349.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1695608170_83511697497555.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "347",
+    "title": "Prepare for Tricks and Treats from Mismagius!",
+    "date": "2023-10-23",
+    "stAt": 1698019200,
+    "endAt": "1698364799",
+    "url": "https://news.pokemon-home.com/en/page/347.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1695607246_65861697058219.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "344",
+    "title": "Get Happy with Blissey!",
+    "date": "2023-10-20",
+    "stAt": 1697760000,
+    "endAt": "1698019199",
+    "url": "https://news.pokemon-home.com/en/page/344.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1694489244_67621696978183.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "341",
+    "title": "Prepare to Get Happy with Blissey!",
+    "date": "2023-10-16",
+    "stAt": 1697414400,
+    "endAt": "1697759999",
+    "url": "https://news.pokemon-home.com/en/page/341.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1694417298_91151696976466.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "300",
+    "title": "Face a Mighty Hisuian Decidueye!",
+    "date": "2023-10-13",
+    "stAt": 1697155200,
+    "endAt": "1697414399",
+    "url": "https://news.pokemon-home.com/en/page/300.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028536_9081695877819.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "358",
+    "title": "Maintenance Notice",
+    "date": "2023-10-11",
+    "stAt": 1697004000,
+    "endAt": "1697075999",
+    "url": "https://news.pokemon-home.com/en/page/358.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "299",
+    "title": "Face a Mighty Hisuian Decidueye!",
+    "date": "2023-10-06",
+    "stAt": 1696550400,
+    "endAt": "1696809599",
+    "url": "https://news.pokemon-home.com/en/page/299.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028470_69961695877289.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "343",
+    "title": "Compete in the Kitakami Prologue!",
+    "date": "2023-10-02",
+    "stAt": 1696204800,
+    "endAt": "1696809599",
+    "url": "https://news.pokemon-home.com/en/page/343.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1694427504_50061696534940.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "297",
+    "title": "Prepare to Face a Mighty Hisuian Decidueye!",
+    "date": "2023-10-02",
+    "stAt": 1696204800,
+    "endAt": "1697155199",
+    "url": "https://news.pokemon-home.com/en/page/297.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028293_98151695875711.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "351",
+    "title": "Ranked Battles Season 11 Is Under Way!",
+    "date": "2023-10-01",
+    "stAt": 1696132800,
+    "endAt": "1698796799",
+    "url": "https://news.pokemon-home.com/en/page/351.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1695789683_17711696025112.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "340",
+    "title": "Regulation Set E",
+    "date": "2023-10-01",
+    "stAt": 1696132800,
+    "endAt": "1704239999",
+    "url": "https://news.pokemon-home.com/en/page/340.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1693974879_15561701922723.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "332",
+    "title": "Mass Outbreaks of Clefairy!",
+    "date": "2023-09-29",
+    "stAt": 1695945600,
+    "endAt": "1696204799",
+    "url": "https://news.pokemon-home.com/en/page/332.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689769272_68861695162615.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "346",
+    "title": "Update Notice (Ver. 3.1.1)",
+    "date": "2023-09-27",
+    "stAt": 1695776400,
+    "endAt": "1701651599",
+    "url": "https://news.pokemon-home.com/en/page/346.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "345",
+    "title": "Maintenance Notice",
+    "date": "2023-09-25",
+    "stAt": 1695600000,
+    "endAt": "1695776399",
+    "url": "https://news.pokemon-home.com/en/page/345.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "342",
+    "title": "Prepare for the Kitakami Prologue!",
+    "date": "2023-09-25",
+    "stAt": 1695600000,
+    "endAt": "1696204799",
+    "url": "https://news.pokemon-home.com/en/page/342.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1694427351_20081695329836.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "331",
+    "title": "Mass Outbreaks of Clefairy!",
+    "date": "2023-09-25",
+    "stAt": 1695600000,
+    "endAt": "1695945599",
+    "url": "https://news.pokemon-home.com/en/page/331.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689768882_3021695161804.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "294",
+    "title": "Challenge Slither Wing and Iron Moth Now!",
+    "date": "2023-09-22",
+    "stAt": 1695340800,
+    "endAt": "1695599999",
+    "url": "https://news.pokemon-home.com/en/page/294.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028091_81811694630565.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "293",
+    "title": "Challenge Slither Wing and Iron Moth Soon!",
+    "date": "2023-09-18",
+    "stAt": 1694995200,
+    "endAt": "1695340799",
+    "url": "https://news.pokemon-home.com/en/page/293.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683027982_42691694629475.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "338",
+    "title": "Update Notice (ver. 3.1.0)",
+    "date": "2023-09-13",
+    "stAt": 1694566800,
+    "endAt": "1702515599",
+    "url": "https://news.pokemon-home.com/en/page/338.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "339",
+    "title": "Maintenance Notice",
+    "date": "2023-09-08",
+    "stAt": 1694131200,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/en/page/339.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "337",
+    "title": "Ranked Battles Season 10 Is Under Way!",
+    "date": "2023-09-01",
+    "stAt": 1693540800,
+    "endAt": "1696118399",
+    "url": "https://news.pokemon-home.com/en/page/337.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1692697775_11651694601482.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "336",
+    "title": "Advance Notice: Regulation Set E",
+    "date": "2023-09-01",
+    "stAt": 1693540800,
+    "endAt": "1696132799",
+    "url": "https://news.pokemon-home.com/en/page/336.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1692267701_65151694400238.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "329",
+    "title": "Face a Mighty Mewtwo!",
+    "date": "2023-09-01",
+    "stAt": 1693526400,
+    "endAt": "1694995199",
+    "url": "https://news.pokemon-home.com/en/page/329.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689230798_27251692044193.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "335",
+    "title": "Effects of Ability-Changing Items Being Reverted When Transferring Pokémon between Games via Pokémon HOME",
+    "date": "2023-08-21",
+    "stAt": 1692576000,
+    "endAt": "1696118399",
+    "url": "https://news.pokemon-home.com/en/page/335.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "328",
+    "title": "Lead-Up to a Mighty Mewtwo Showdown: A Show of Supporters!",
+    "date": "2023-08-18",
+    "stAt": 1692316800,
+    "endAt": "1693526399",
+    "url": "https://news.pokemon-home.com/en/page/328.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689230284_47671692294515.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "324",
+    "title": "End of Battle Data Updates for <i>Pokémon Sword</i> and <i>Pokémon Shield</i>",
+    "date": "2023-08-14",
+    "stAt": 1691971200,
+    "endAt": "1698764399",
+    "url": "https://news.pokemon-home.com/en/page/324.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SW",
+      "SH"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "327",
+    "title": "Lead-Up to a Mighty Mewtwo Showdown: Prepare the Offense!",
+    "date": "2023-08-09",
+    "stAt": 1691539200,
+    "endAt": "1692316799",
+    "url": "https://news.pokemon-home.com/en/page/327.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689230020_84421691181705.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "326",
+    "title": "Prepare to Face a Mighty Mewtwo!",
+    "date": "2023-08-08",
+    "stAt": 1691502000,
+    "endAt": "1693526399",
+    "url": "https://news.pokemon-home.com/en/page/326.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689229458_02171692400740.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "325",
+    "title": "Add Your Very Own Mew to Your Team!",
+    "date": "2023-08-08",
+    "stAt": 1691502000,
+    "endAt": "1695049199",
+    "url": "https://news.pokemon-home.com/en/page/325.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689228355_03131692400149.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "334",
+    "title": "Maintenance Notice",
+    "date": "2023-08-04",
+    "stAt": 1691107200,
+    "endAt": "1691456399",
+    "url": "https://news.pokemon-home.com/en/page/334.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "330",
+    "title": "Regarding Abnormal Exp. Point Values for Pokémon Transferred from Pokémon GO to Pokémon HOME",
+    "date": "2023-08-04",
+    "stAt": 1691107200,
+    "endAt": "1693493999",
+    "url": "https://news.pokemon-home.com/en/page/330.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "266",
+    "title": "Face a Mighty Rillaboom!",
+    "date": "2023-08-04",
+    "stAt": 1691107200,
+    "endAt": "1691366399",
+    "url": "https://news.pokemon-home.com/en/page/266.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676038156_52331690395028.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "333",
+    "title": "Ranked Battles Season 9 Is Under Way!",
+    "date": "2023-08-01",
+    "stAt": 1690862400,
+    "endAt": "1693526399",
+    "url": "https://news.pokemon-home.com/en/page/333.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1690515202_80311695872823.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "265",
+    "title": "Face a Mighty Rillaboom!",
+    "date": "2023-07-28",
+    "stAt": 1690502400,
+    "endAt": "1690761599",
+    "url": "https://news.pokemon-home.com/en/page/265.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037795_88621690394334.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "264",
+    "title": "Prepare to Face a Mighty Rillaboom!",
+    "date": "2023-07-17",
+    "stAt": 1689552000,
+    "endAt": "1691107199",
+    "url": "https://news.pokemon-home.com/en/page/264.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037542_68141689286134.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "263",
+    "title": "Face a Mighty Delphox!",
+    "date": "2023-07-14",
+    "stAt": 1689292800,
+    "endAt": "1689551999",
+    "url": "https://news.pokemon-home.com/en/page/263.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037411_62981689282246.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "262",
+    "title": "Face a Mighty Delphox!",
+    "date": "2023-07-07",
+    "stAt": 1688688000,
+    "endAt": "1688947199",
+    "url": "https://news.pokemon-home.com/en/page/262.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037318_07131688675507.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "323",
+    "title": "Regarding some alpha Pokémon caught in <i>Pokémon Legends: Arceus</i> not being able receive the Jumbo Mark",
+    "date": "2023-07-04",
+    "stAt": 1688455800,
+    "endAt": "1690815599",
+    "url": "https://news.pokemon-home.com/en/page/323.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "322",
+    "title": "Update info for mobile devices (ver. 3.0.1)",
+    "date": "2023-07-04",
+    "stAt": 1688432400,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/en/page/322.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "261",
+    "title": "Prepare to Face a Mighty Delphox!",
+    "date": "2023-07-03",
+    "stAt": 1688342400,
+    "endAt": "1689292799",
+    "url": "https://news.pokemon-home.com/en/page/261.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037144_40261688100358.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "320",
+    "title": "Ranked Battles Season 8 Is Under Way!",
+    "date": "2023-07-01",
+    "stAt": 1688184000,
+    "endAt": "1690847999",
+    "url": "https://news.pokemon-home.com/en/page/320.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1687960226_9511687960294.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "321",
+    "title": "Maintenance Notice",
+    "date": "2023-06-30",
+    "stAt": 1688083200,
+    "endAt": "1688432399",
+    "url": "https://news.pokemon-home.com/en/page/321.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "298",
+    "title": "Challenge Chest Form Gimmighoul Soon!",
+    "date": "2023-06-21",
+    "stAt": 1687359600,
+    "endAt": "1688342399",
+    "url": "https://news.pokemon-home.com/en/page/298.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028409_42461686861399.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "319",
+    "title": "Regarding Abnormal Exp. Point Values for Pokémon Transferred from Pokémon GO to Pokémon HOME",
+    "date": "2023-06-21",
+    "stAt": 1687316400,
+    "endAt": "1693493999",
+    "url": "https://news.pokemon-home.com/en/page/319.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "317",
+    "title": "Regarding Move Description Updates",
+    "date": "2023-06-19",
+    "stAt": 1687132800,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/en/page/317.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1685686196_57451686936370.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "316",
+    "title": "Challenge Great Tusk and Iron Treads Now!",
+    "date": "2023-06-16",
+    "stAt": 1686873600,
+    "endAt": "1687132799",
+    "url": "https://news.pokemon-home.com/en/page/316.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1685417114_14161686267151.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "315",
+    "title": "Face a Mighty Chesnaught!",
+    "date": "2023-06-16",
+    "stAt": 1686873600,
+    "endAt": "1687132799",
+    "url": "https://news.pokemon-home.com/en/page/315.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1685416890_13311685996149.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "314",
+    "title": "Challenge Great Tusk and Iron Treads Soon!",
+    "date": "2023-06-07",
+    "stAt": 1686106800,
+    "endAt": "1686873599",
+    "url": "https://news.pokemon-home.com/en/page/314.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1685416564_2771686333345.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "313",
+    "title": "Prepare to Face a Mighty Chesnaught!",
+    "date": "2023-06-07",
+    "stAt": 1686106800,
+    "endAt": "1686873599",
+    "url": "https://news.pokemon-home.com/en/page/313.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1685416403_9591685745432.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "310",
+    "title": "Regulation Set D",
+    "date": "2023-06-01",
+    "stAt": 1685592000,
+    "endAt": "1696118399",
+    "url": "https://news.pokemon-home.com/en/page/310.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1685014875_48941695337596.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "278",
+    "title": "Play in Ranked Battles Season 7",
+    "date": "2023-06-01",
+    "stAt": 1685592000,
+    "endAt": "1688169599",
+    "url": "https://news.pokemon-home.com/en/page/278.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1678855509_72181684194167.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "312",
+    "title": "Update Notice (ver. 3.0.0)",
+    "date": "2023-05-30",
+    "stAt": 1685408400,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/en/page/312.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "311",
+    "title": "Get Sprigatito, Fuecoco, and Quaxly with Hidden Abilities!",
+    "date": "2023-05-30",
+    "stAt": 1685408400,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/en/page/311.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1685360280_37691685360444.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "308",
+    "title": "Maintenance Notice",
+    "date": "2023-05-26",
+    "stAt": 1685059200,
+    "endAt": "1685408399",
+    "url": "https://news.pokemon-home.com/en/page/308.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "307",
+    "title": "Compatibility changes for the mobile device version of Pokémon HOME",
+    "date": "2023-05-26",
+    "stAt": 1685059200,
+    "endAt": "1688169599",
+    "url": "https://news.pokemon-home.com/en/page/307.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "292",
+    "title": "Challenge Great Tusk and Iron Treads Now!",
+    "date": "2023-05-19",
+    "stAt": 1684454400,
+    "endAt": "1684713599",
+    "url": "https://news.pokemon-home.com/en/page/292.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683027595_69861684515980.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "260",
+    "title": "Face a Mighty Chesnaught!",
+    "date": "2023-05-19",
+    "stAt": 1684454400,
+    "endAt": "1684713599",
+    "url": "https://news.pokemon-home.com/en/page/260.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037042_35281684515845.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "291",
+    "title": "Challenge Great Tusk and Iron Treads Soon!",
+    "date": "2023-05-15",
+    "stAt": 1684108800,
+    "endAt": "1684454399",
+    "url": "https://news.pokemon-home.com/en/page/291.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683027375_31521683583214.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "259",
+    "title": "Face a Mighty Chesnaught!",
+    "date": "2023-05-12",
+    "stAt": 1683849600,
+    "endAt": "1684108799",
+    "url": "https://news.pokemon-home.com/en/page/259.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676036922_89571682628173.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "258",
+    "title": "Prepare to Face a Mighty Chesnaught!",
+    "date": "2023-05-08",
+    "stAt": 1683504000,
+    "endAt": "1684454399",
+    "url": "https://news.pokemon-home.com/en/page/258.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676036835_13821682628981.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  }
+]
