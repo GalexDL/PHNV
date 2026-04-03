@@ -1,5 +1,37 @@
 [
   {
+    "id": "748",
+    "title": "Nous vous offrons des spécimens Barons de Germignon, Gruikui et Kaiminus !",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/fr/page/748.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1773073437_33391773345491.png",
+    "kindTxt": "Actualités",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "747",
+    "title": "Annonce de mise à jour (ver. 4.0.0)",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1788447599",
+    "url": "https://news.pokemon-home.com/fr/page/747.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_fr.png",
+    "kindTxt": "Mise à jour",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "680",
     "title": "Affrontez un Majaspic redoutable !",
     "date": "2026-04-03",
@@ -6748,40 +6780,6 @@
     "endAt": "1684454399",
     "url": "https://news.pokemon-home.com/fr/page/291.html",
     "banner": "https://news.pokemon-home.com/fr/page/banner/3_1683027375_31521683583344.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "259",
-    "title": "Affrontez un Blindépique robuste !",
-    "date": "2023-05-12",
-    "stAt": 1683849600,
-    "endAt": "1684108799",
-    "url": "https://news.pokemon-home.com/fr/page/259.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1676036922_89571683138811.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "258",
-    "title": "Préparez-vous à affronter un Blindépique robuste !",
-    "date": "2023-05-08",
-    "stAt": 1683504000,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/fr/page/258.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1676036835_13821683138518.jpg",
     "kindTxt": "Autre(s) logiciel(s)",
     "infoTab": 2,
     "infoKind": 8,
