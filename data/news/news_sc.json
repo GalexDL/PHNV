@@ -1,5 +1,37 @@
 [
   {
+    "id": "748",
+    "title": "赠送头目“菊草叶”、“暖暖猪”和“小锯鳄”！",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/sc/page/748.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1773073437_33391774583650.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "747",
+    "title": "更新公告（ver 4.0.0）",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1788447599",
+    "url": "https://news.pokemon-home.com/sc/page/747.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_sc.png",
+    "kindTxt": "更新",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "680",
     "title": "最强的君主蛇在黑色结晶的太晶团体战再次登场中！",
     "date": "2026-04-03",
@@ -6744,40 +6776,6 @@
     "endAt": "1683503999",
     "url": "https://news.pokemon-home.com/sc/page/257.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1676036718_51691681990409.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "277",
-    "title": "2023年5月赛季（赛季6）现正举行！",
-    "date": "2023-05-01",
-    "stAt": 1682913600,
-    "endAt": "1685577599",
-    "url": "https://news.pokemon-home.com/sc/page/277.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1678855429_08851681899188.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "286",
-    "title": "波荡水＆铁斑叶出现中！",
-    "date": "2023-05-01",
-    "stAt": 1682899200,
-    "endAt": "1684108799",
-    "url": "https://news.pokemon-home.com/sc/page/286.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1679469846_2111681901084.jpg",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
