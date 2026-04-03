@@ -1,5 +1,53 @@
 [
   {
+    "id": "749",
+    "title": "「ポケモンについて知る」の関連動画が追加されました！",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1788447599",
+    "url": "https://news.pokemon-home.com/ja/page/749.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/1/@news_ja.png",
+    "kindTxt": "お知らせ",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "748",
+    "title": "オヤブンの「チコリータ」「ポカブ」「ワニノコ」をプレゼント！",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/ja/page/748.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773073437_33391773073573.png",
+    "kindTxt": "お知らせ",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "747",
+    "title": "アップデートのお知らせ（ver 4.0.0）",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1788447599",
+    "url": "https://news.pokemon-home.com/ja/page/747.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_ja.png",
+    "kindTxt": "アップデート",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "680",
     "title": "黒い結晶のテラレイドバトルに最強のジャローダが再登場中！",
     "date": "2026-04-03",
@@ -6753,23 +6801,6 @@
     "isImportant": 0
   },
   {
-    "id": "310",
-    "title": "レギュレーションＤについて",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/ja/page/310.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685014875_48941694604623.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
     "id": "278",
     "title": "2023年6月シーズン（シーズン7）開催中！",
     "date": "2023-06-01",
@@ -6777,39 +6808,6 @@
     "endAt": "1688169599",
     "url": "https://news.pokemon-home.com/ja/page/278.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1678855509_72181678855528.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "312",
-    "title": "アップデートのお知らせ（ver 3.0.0）",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/ja/page/312.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "アップデート",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "311",
-    "title": "隠れ特性の「ニャオハ」「ホゲータ」「クワッス」をプレゼント！",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1924959599",
-    "url": "https://news.pokemon-home.com/ja/page/311.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685360280_37691685360398.png",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
