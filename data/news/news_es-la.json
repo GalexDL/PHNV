@@ -1,0 +1,115 @@
+[
+  {
+    "id": "720",
+    "title": "¡Empezó la 9.ª temporada!",
+    "date": "2026-04-02",
+    "stAt": 1775109600,
+    "endAt": "1776909599",
+    "url": "https://news.pokemon-home.com/es-la/page/720.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1771322229_40011773776041.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "745",
+    "title": "Tareas de mantenimiento",
+    "date": "2026-04-01",
+    "stAt": 1775001600,
+    "endAt": "1775087999",
+    "url": "https://news.pokemon-home.com/es-la/page/745.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_es-la.png",
+    "kindTxt": "Mantenimiento",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "719",
+    "title": "¡9.ª temporada de Combates Clasificatorios!",
+    "date": "2026-03-26",
+    "stAt": 1774504800,
+    "endAt": "1775109599",
+    "url": "https://news.pokemon-home.com/es-la/page/719.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1771322088_22091773775633.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "743",
+    "title": "¡Participa en el torneo en línea Desafío Global I de 2026!",
+    "date": "2026-03-06",
+    "stAt": 1772773200,
+    "endAt": "1780844399",
+    "url": "https://news.pokemon-home.com/es-la/page/743.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1771555677_80331773711362.jpg",
+    "kindTxt": "Torneos en línea",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "741",
+    "title": "Categorías de edad para los torneos oficiales de 2026",
+    "date": "2026-03-06",
+    "stAt": 1772773200,
+    "endAt": "1798729199",
+    "url": "https://news.pokemon-home.com/es-la/page/741.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1771553258_31721773273249.jpg",
+    "kindTxt": "Noticias",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "718",
+    "title": "¡Obtén un Dragonite como regalo por descarga temprana! ",
+    "date": "2026-02-27",
+    "stAt": 1772202600,
+    "endAt": "1788188399",
+    "url": "https://news.pokemon-home.com/es-la/page/718.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1770950364_04091772748402.jpg",
+    "kindTxt": "Campaña",
+    "infoTab": 5,
+    "infoKind": 6,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "716",
+    "title": "Usa a tus Pokémon de <i>Leyendas Pokémon: Z-A</i> en <i>Pokémon Champions</i>",
+    "date": "2026-02-27",
+    "stAt": 1772202600,
+    "endAt": "32503647599",
+    "url": "https://news.pokemon-home.com/es-la/page/716.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1770937769_51011771879205.jpg",
+    "kindTxt": "Noticias",
+    "infoTab": 4,
+    "infoKind": 7,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  }
+]
