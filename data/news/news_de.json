@@ -1,5 +1,37 @@
 [
   {
+    "id": "748",
+    "title": "Erhalte Elite-Endivie, Elite-Floink und Elite-Karnimani als Geschenk!",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/de/page/748.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1773073437_33391773826120.png",
+    "kindTxt": "Neuigkeiten",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "747",
+    "title": "Informationen zum Update (Ver. 4.0.0)",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1788447599",
+    "url": "https://news.pokemon-home.com/de/page/747.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_de.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "680",
     "title": "Nimm es mit einem mächtigen Serpiroyal auf!",
     "date": "2026-04-03",
@@ -6748,40 +6780,6 @@
     "endAt": "1684454399",
     "url": "https://news.pokemon-home.com/de/page/291.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1683027375_31521683583543.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "259",
-    "title": "Tritt einem mächtigen Brigaron entgegen!",
-    "date": "2023-05-12",
-    "stAt": 1683849600,
-    "endAt": "1684108799",
-    "url": "https://news.pokemon-home.com/de/page/259.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1676036922_89571683138749.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "258",
-    "title": "Tritt einem mächtigen Brigaron entgegen!",
-    "date": "2023-05-08",
-    "stAt": 1683504000,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/de/page/258.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1676036835_13821683138613.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
