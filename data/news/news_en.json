@@ -1,5 +1,37 @@
 [
   {
+    "id": "748",
+    "title": "Receive an Alpha Chikorita, an Alpha Tepig, and an Alpha Totodile as Gifts!",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/en/page/748.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1773073437_33391773870944.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "747",
+    "title": "Update Notice (Ver. 4.0.0)",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1788447599",
+    "url": "https://news.pokemon-home.com/en/page/747.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_en.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "680",
     "title": "Face a Mighty Serperior!",
     "date": "2026-04-03",
@@ -6747,40 +6779,6 @@
     "endAt": "1684713599",
     "url": "https://news.pokemon-home.com/en/page/260.html",
     "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037042_35281684515845.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "291",
-    "title": "Challenge Great Tusk and Iron Treads Soon!",
-    "date": "2023-05-15",
-    "stAt": 1684108800,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/en/page/291.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683027375_31521683583214.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "259",
-    "title": "Face a Mighty Chesnaught!",
-    "date": "2023-05-12",
-    "stAt": 1683849600,
-    "endAt": "1684108799",
-    "url": "https://news.pokemon-home.com/en/page/259.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676036922_89571682628173.jpg",
     "kindTxt": "Other Games",
     "infoTab": 2,
     "infoKind": 8,
