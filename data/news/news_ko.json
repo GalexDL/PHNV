@@ -1,5 +1,53 @@
 [
   {
+    "id": "749",
+    "title": "「포켓몬 알아보기」에 관련 동영상이 추가되었습니다!",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1788447599",
+    "url": "https://news.pokemon-home.com/ko/page/749.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/1/@news_ko.png",
+    "kindTxt": "소식",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "748",
+    "title": "우두머리 「치코리타」, 「뚜꾸리」, 「리아코」를 선물!",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/ko/page/748.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1773073437_33391773103469.png",
+    "kindTxt": "소식",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "747",
+    "title": "업데이트 알림(Ver.4.0.0)",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1788447599",
+    "url": "https://news.pokemon-home.com/ko/page/747.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_ko.png",
+    "kindTxt": "업데이트",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "680",
     "title": "검은 결정 테라 레이드배틀에 최강의 샤로다가 재등장 중!",
     "date": "2026-04-03",
@@ -6725,57 +6773,6 @@
     "endAt": "1684713599",
     "url": "https://news.pokemon-home.com/ko/page/260.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676037042_35281684495336.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "291",
-    "title": "【예고】픽업! 위대한엄니&무쇠바퀴",
-    "date": "2023-05-15",
-    "stAt": 1684108800,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/ko/page/291.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1683027375_31521683780423.png",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "259",
-    "title": "검은 결정 테라 레이드배틀에 최강의 브리가론이 출현 중!",
-    "date": "2023-05-12",
-    "stAt": 1683849600,
-    "endAt": "1684108799",
-    "url": "https://news.pokemon-home.com/ko/page/259.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676036922_89571682661009.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "258",
-    "title": "【예고】검은 결정 테라 레이드배틀에 최강의 브리가론이 출현!",
-    "date": "2023-05-08",
-    "stAt": 1683504000,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/ko/page/258.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676036835_13821682660946.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
