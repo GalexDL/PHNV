@@ -1,5 +1,37 @@
 [
   {
+    "id": "748",
+    "title": "¡Un Chikorita alfa, un Tepig alfa y un Totodile alfa de regalo!",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/es/page/748.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1773073437_33391773854584.png",
+    "kindTxt": "Avisos",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "747",
+    "title": "Aviso de actualización (ver. 4.0.0)",
+    "date": "2026-04-03",
+    "stAt": 1775196000,
+    "endAt": "1788447599",
+    "url": "https://news.pokemon-home.com/es/page/747.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_es.png",
+    "kindTxt": "Actualización",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "680",
     "title": "¡Enfréntate al formidable Serperior!",
     "date": "2026-04-03",
@@ -6748,40 +6780,6 @@
     "endAt": "1684454399",
     "url": "https://news.pokemon-home.com/es/page/291.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1683027375_31521683750923.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "259",
-    "title": "¡Enfréntate al formidable Chesnaught!",
-    "date": "2023-05-12",
-    "stAt": 1683849600,
-    "endAt": "1684108799",
-    "url": "https://news.pokemon-home.com/es/page/259.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1676036922_89571682628259.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "258",
-    "title": "¡Prepárate para hacerle frente al increíble Chesnaught!",
-    "date": "2023-05-08",
-    "stAt": 1683504000,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/es/page/258.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1676036835_13821682629079.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
