@@ -1,5 +1,85 @@
 [
   {
+    "id": "753",
+    "title": "Season M-1 Battle Passes ",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/en/page/753.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1773323677_69991775083437.jpg",
+    "kindTxt": "Battle Pass",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "752",
+    "title": "The Warm-Up Challenge Is Coming!​",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1776045599",
+    "url": "https://news.pokemon-home.com/en/page/752.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1773319388_60511775495277.jpg",
+    "kindTxt": "Online Competition",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "751",
+    "title": "Regulation Set M-A",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/en/page/751.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1773200273_82971775497035.jpg",
+    "kindTxt": "Regulations",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "750",
+    "title": "Regular Roster M-A",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/en/page/750.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1773197375_5791775450812.jpg",
+    "kindTxt": "Roster",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "746",
+    "title": "​​Ranked Battles Season M-1 Underway!​",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/en/page/746.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1772605530_40081775500803.jpg",
+    "kindTxt": "Ranked Battles",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "748",
     "title": "Receive an Alpha Chikorita, an Alpha Tepig, and an Alpha Totodile as Gifts!",
     "date": "2026-04-03",
@@ -297,12 +377,12 @@
   },
   {
     "id": "718",
-    "title": "Receive Dragonite as an early-download bonus!",
+    "title": "Receive Dragonite and 100 Quick Coupons as an early-download bonus!",
     "date": "2026-02-27",
     "stAt": 1772202600,
     "endAt": "1788188399",
     "url": "https://news.pokemon-home.com/en/page/718.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1770950364_04091772681327.jpg",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1770950364_04091774560231.jpg",
     "kindTxt": "Campaign",
     "infoTab": 5,
     "infoKind": 6,
