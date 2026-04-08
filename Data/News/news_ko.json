@@ -1,5 +1,85 @@
 [
   {
+    "id": "753",
+    "title": "배틀 패스 「시즌 M-1」에 대해",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/ko/page/753.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1773323677_69991773997260.jpg",
+    "kindTxt": "배틀 패스",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "752",
+    "title": "「Warm-Up Challenge」 개최!",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1776045599",
+    "url": "https://news.pokemon-home.com/ko/page/752.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1773319388_60511775454943.jpg",
+    "kindTxt": "온라인 대회",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "751",
+    "title": "「레귤레이션 M-A」에 대해",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/ko/page/751.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1773200273_82971775450591.jpg",
+    "kindTxt": "레귤레이션",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "750",
+    "title": "스탠더드 셀렉트 M-A에 대해",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/ko/page/750.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1773197375_5791775088744.jpg",
+    "kindTxt": "셀렉트",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "746",
+    "title": "랭크배틀  시즌 M-1 개최 중!",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/ko/page/746.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1772605530_40081775443875.jpg",
+    "kindTxt": "랭크배틀",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "749",
     "title": "「포켓몬 알아보기」에 관련 동영상이 추가되었습니다!",
     "date": "2026-04-03",
@@ -219,7 +299,7 @@
     "stAt": 1772773200,
     "endAt": "1780844399",
     "url": "https://news.pokemon-home.com/ko/page/743.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1771555677_80331773026114.jpg",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1771555677_80331775108483.jpg",
     "kindTxt": "온라인 대회",
     "infoTab": 5,
     "infoKind": 13,
@@ -313,12 +393,12 @@
   },
   {
     "id": "718",
-    "title": "조기 다운로드 특전으로 「망나뇽」을 선물!",
+    "title": "사전 다운로드 특전으로 「망나뇽」과 「패스트 쿠폰」 100장을 선물!",
     "date": "2026-02-27",
     "stAt": 1772202600,
     "endAt": "1788188399",
     "url": "https://news.pokemon-home.com/ko/page/718.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1770950364_04091772001053.jpg",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1770950364_04091774417727.jpg",
     "kindTxt": "캠페인",
     "infoTab": 5,
     "infoKind": 6,
