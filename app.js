@@ -10,6 +10,17 @@ const $ = id => document.getElementById(id);
 const LANGS = ['en','ja','fr','de','es','es-la','it','ko','tc','sc'];
 const GAMES = ['HM','CHP','LZA','SC','VI','LA','BD','SP','SW','SH','LGP','LGE','GO'];
 const GAME_NAMES = { HM: 'Home', CHP: 'Champions' };
+const LANG_TWEET_HASHTAGS = {
+  ja: '#JPPKMNHM',
+  ko: '#KOPKMNHM',
+  it: '#ITPKMNHM',
+  es: '#ESPKMNHM',
+  de: '#DEPKMNHM',
+  fr: '#FRPKMNHM',
+  tc: '#TCPKMNHM',
+  sc: '#SCPKMNHM',
+  'es-la': '#ESLAPKMNHM',
+};
 const ITEMS_PER_PAGE = 100;
 const GAME_IMG_BASE = 'https://news.pokemon-home.com/resources/image/title_';
 const TWO_WEEKS = 1209600000; // 14 days in milliseconds
@@ -109,6 +120,23 @@ const formatGames = g =>
 // Tweeting Functions
 // ===============================
 
+function buildTweetText(article, lang) {
+  let tweetText = (article.title || '');
+  if (article.stAt) tweetText += '\n\nPost Date: ' + formatTs(article.stAt);
+  if (article.endAt) tweetText += '\nPost Expires: ' + formatTs(article.endAt);
+  if (article.linkRom) {
+    const codes = Array.isArray(article.linkRom) ? article.linkRom : [article.linkRom];
+    const gameNames = codes.map(c => GAME_NAMES[c] || c).join(', ');
+    tweetText += '\nGame: ' + gameNames;
+  }
+
+  const langHashtag = LANG_TWEET_HASHTAGS[lang];
+  if (langHashtag) tweetText += '\n' + langHashtag;
+
+  tweetText += '\n\n' + (article.url || '');
+  return tweetText;
+}
+
 // This function helps you quickly open tweet windows for all languages for a specific news article.
 function tweetAllLangs(article) {
   const matches = article.url?.match(/\/page\/(\d+)\.html/);
@@ -137,16 +165,8 @@ function tweetAllLangs(article) {
         
         const found = langData.find(a => a.id === articleId);
         if (!found) continue;
-        
-        let tweetText = (found.title || '');
-        if (found.stAt) tweetText += '\n\nPost Date: ' + formatTs(found.stAt);
-        if (found.endAt) tweetText += '\nPost Expires: ' + formatTs(found.endAt);
-        if (found.linkRom) {
-          const codes = Array.isArray(found.linkRom) ? found.linkRom : [found.linkRom];
-          const gameNames = codes.map(c => GAME_NAMES[c] || c).join(', ');
-          tweetText += '\nGame: ' + gameNames;
-        }
-        tweetText += '\n\n' + (found.url || '');
+
+        const tweetText = buildTweetText(found, lang);
         const params = new URLSearchParams({ text: tweetText });
         const url = 'https://twitter.com/intent/tweet?' + params.toString();
         
@@ -330,15 +350,8 @@ function renderList() {
     }
 
     if (devMode) {
-      let tweetText = (it.title || '');
-      if (it.stAt) tweetText += '\n\nPost Date: ' + formatTs(it.stAt);
-      if (it.endAt) tweetText += '\nExpiration: ' + formatTs(it.endAt);
-      if (it.linkRom) {
-        const codes = Array.isArray(it.linkRom) ? it.linkRom : [it.linkRom];
-        const gameNames = codes.map(c => GAME_NAMES[c] || c).join(', ');
-        tweetText += '\nGame: ' + gameNames;
-      }
-      tweetText += '\n\n' + (it.url || '');
+      const lang = $('lang')?.value || 'en';
+      const tweetText = buildTweetText(it, lang);
       const params = new URLSearchParams({ text: tweetText });
       //Tweet Single
       const tweetLink = el('a', {
