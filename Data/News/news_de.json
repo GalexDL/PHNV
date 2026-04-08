@@ -1,5 +1,85 @@
 [
   {
+    "id": "753",
+    "title": "Kampfpässe für Saison M-1",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/de/page/753.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1773323677_69991774640219.jpg",
+    "kindTxt": "Kampfpass",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "752",
+    "title": "Die Warm-up-Challenge findet bald statt!​",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1776045599",
+    "url": "https://news.pokemon-home.com/de/page/752.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1773319388_60511775495520.jpg",
+    "kindTxt": "Online-Turnier",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "751",
+    "title": "Regelsatz M-A",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/de/page/751.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1773200273_82971775450903.jpg",
+    "kindTxt": "Kampfregeln",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "750",
+    "title": "Standardauswahl M-A",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/de/page/750.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1773197375_5791775450919.jpg",
+    "kindTxt": "Auswahl",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "746",
+    "title": "​​Saison M-1 der Rangkämpfe ist im Gange!​",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/de/page/746.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1772605530_40081775500924.jpg",
+    "kindTxt": "Rangkämpfe",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "748",
     "title": "Erhalte Elite-Endivie, Elite-Floink und Elite-Karnimani als Geschenk!",
     "date": "2026-04-03",
@@ -45,6 +125,22 @@
     "linkRom": [
       "SC",
       "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "754",
+    "title": "Behebung eines bestätigten Fehlers (Ver. 4.0.0)",
+    "date": "2026-04-02",
+    "stAt": 1775131200,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/de/page/754.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Neuigkeiten",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
     ],
     "isImportant": 0
   },
@@ -281,12 +377,12 @@
   },
   {
     "id": "718",
-    "title": "Erhalte Dragoran als Bonus für frühe Downloads!",
+    "title": "Erhalte Dragoran und 100 Schnellcoupons als Bonus für frühe Downloads!",
     "date": "2026-02-27",
     "stAt": 1772202600,
     "endAt": "1788188399",
     "url": "https://news.pokemon-home.com/de/page/718.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1770950364_04091772748331.jpg",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1770950364_04091774560375.jpg",
     "kindTxt": "Aktion",
     "infoTab": 5,
     "infoKind": 6,
@@ -6763,23 +6859,6 @@
     "endAt": "1684713599",
     "url": "https://news.pokemon-home.com/de/page/260.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1676037042_35281684534411.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "291",
-    "title": "Nimm es bald mit Riesenzahn und Eisenrad auf!",
-    "date": "2023-05-15",
-    "stAt": 1684108800,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/de/page/291.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1683027375_31521683583543.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
