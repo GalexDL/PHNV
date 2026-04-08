@@ -1,5 +1,85 @@
 [
   {
+    "id": "753",
+    "title": "「バトルパス シーズンM-1」について",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/ja/page/753.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773323677_69991775559864.jpg",
+    "kindTxt": "バトルパス",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "752",
+    "title": "「ウォームアップチャレンジ」開催！",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1776045599",
+    "url": "https://news.pokemon-home.com/ja/page/752.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773319388_60511775531021.jpg",
+    "kindTxt": "オンライン大会",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "751",
+    "title": "「レギュレーションM-A」について",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/ja/page/751.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773200273_82971775450270.jpg",
+    "kindTxt": "レギュレーション",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "750",
+    "title": "「スタンダードセレクトM-A」について",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/ja/page/750.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773197375_5791775527801.jpg",
+    "kindTxt": "セレクト",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "746",
+    "title": "「ランクバトル シーズンM-1」開催中！",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/ja/page/746.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1772605530_40081775538386.jpg",
+    "kindTxt": "ランクバトル",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "749",
     "title": "「ポケモンについて知る」の関連動画が追加されました！",
     "date": "2026-04-03",
@@ -219,7 +299,7 @@
     "stAt": 1772773200,
     "endAt": "1780844399",
     "url": "https://news.pokemon-home.com/ja/page/743.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771555677_80331773728579.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771555677_80331774588666.jpg",
     "kindTxt": "オンライン大会",
     "infoTab": 5,
     "infoKind": 13,
@@ -267,7 +347,7 @@
     "stAt": 1772773200,
     "endAt": "1780844399",
     "url": "https://news.pokemon-home.com/ja/page/740.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771551655_19321773728168.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771551655_19321774588520.jpg",
     "kindTxt": "チャンピオンシップス",
     "infoTab": 5,
     "infoKind": 14,
@@ -345,12 +425,12 @@
   },
   {
     "id": "718",
-    "title": "早期ダウンロード特典として「カイリュー」をプレゼント！",
+    "title": "早期ダウンロード特典として「カイリュー」と「ファストクーポン」100枚をプレゼント！",
     "date": "2026-02-27",
     "stAt": 1772202600,
     "endAt": "1788188399",
     "url": "https://news.pokemon-home.com/ja/page/718.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1770950364_04091772000541.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1770950364_04091774336605.jpg",
     "kindTxt": "キャンペーン",
     "infoTab": 5,
     "infoKind": 6,
