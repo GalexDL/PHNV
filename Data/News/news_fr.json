@@ -1,5 +1,85 @@
 [
   {
+    "id": "753",
+    "title": "Pass de combat saison M-1 ",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/fr/page/753.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1773323677_69991774887121.jpg",
+    "kindTxt": "Pass de combat",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "752",
+    "title": "Le Défi d’Échauffement démarre bientôt !​",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1776045599",
+    "url": "https://news.pokemon-home.com/fr/page/752.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1773319388_60511775495270.jpg",
+    "kindTxt": "Compétition en ligne",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "751",
+    "title": "Règlement M-A",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/fr/page/751.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1773200273_82971775450430.jpg",
+    "kindTxt": "Règlement",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "750",
+    "title": "Sélection de base M-A",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/fr/page/750.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1773197375_5791775450863.jpg",
+    "kindTxt": "Sélection",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "746",
+    "title": "​​La saison M-1 des combats classés est en cours !​",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/fr/page/746.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1772605530_40081775500875.jpg",
+    "kindTxt": "Combats classés",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "748",
     "title": "Nous vous offrons des spécimens Barons de Germignon, Gruikui et Kaiminus !",
     "date": "2026-04-03",
@@ -45,6 +125,22 @@
     "linkRom": [
       "SC",
       "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "754",
+    "title": "Identification d’un problème (ver 4.0.0)",
+    "date": "2026-04-02",
+    "stAt": 1775131200,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/fr/page/754.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Actualités",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
     ],
     "isImportant": 0
   },
@@ -281,12 +377,12 @@
   },
   {
     "id": "718",
-    "title": "Recevez un Dracolosse en bonus de téléchargement anticipé ! ",
+    "title": "Recevez un Dracolosse et 100 Coupons de Vitesse en bonus de téléchargement anticipé !",
     "date": "2026-02-27",
     "stAt": 1772202600,
     "endAt": "1788188399",
     "url": "https://news.pokemon-home.com/fr/page/718.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1770950364_04091772748212.jpg",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1770950364_04091774560304.jpg",
     "kindTxt": "Campagne",
     "infoTab": 5,
     "infoKind": 6,
@@ -6763,23 +6859,6 @@
     "endAt": "1684713599",
     "url": "https://news.pokemon-home.com/fr/page/260.html",
     "banner": "https://news.pokemon-home.com/fr/page/banner/3_1676037042_35281684534340.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "291",
-    "title": "Affrontez bientôt Fort-Ivoire et Roue-de-Fer !",
-    "date": "2023-05-15",
-    "stAt": 1684108800,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/fr/page/291.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1683027375_31521683583344.jpg",
     "kindTxt": "Autre(s) logiciel(s)",
     "infoTab": 2,
     "infoKind": 8,
