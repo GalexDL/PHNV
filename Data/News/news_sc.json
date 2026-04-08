@@ -1,5 +1,85 @@
 [
   {
+    "id": "753",
+    "title": "关于对战证“赛季M-1”",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/sc/page/753.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1773323677_69991774514225.jpg",
+    "kindTxt": "对战证",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "752",
+    "title": "“热身挑战”即将举办！",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1776045599",
+    "url": "https://news.pokemon-home.com/sc/page/752.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1773319388_60511775465614.jpg",
+    "kindTxt": "线上大赛",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "751",
+    "title": "关于“赛制M-A”",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/sc/page/751.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1773200273_82971775451241.jpg",
+    "kindTxt": "赛制",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "750",
+    "title": "关于标准精选M-A",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/sc/page/750.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1773197375_5791775451266.jpg",
+    "kindTxt": "精选",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "746",
+    "title": "级别对战赛季M-1举办中！",
+    "date": "2026-04-08",
+    "stAt": 1775613600,
+    "endAt": "1778637599",
+    "url": "https://news.pokemon-home.com/sc/page/746.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1772605530_40081775560077.jpg",
+    "kindTxt": "级别对战",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "748",
     "title": "赠送头目“菊草叶”、“暖暖猪”和“小锯鳄”！",
     "date": "2026-04-03",
@@ -203,7 +283,7 @@
     "stAt": 1772773200,
     "endAt": "1780844399",
     "url": "https://news.pokemon-home.com/sc/page/743.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1771555677_80331773312755.jpg",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1771555677_80331775466110.jpg",
     "kindTxt": "线上大赛",
     "infoTab": 5,
     "infoKind": 13,
@@ -297,12 +377,12 @@
   },
   {
     "id": "718",
-    "title": "抢先下载可获赠特典“快龙”！",
+    "title": "抢先下载可获赠特典“快龙”和100张“加速优惠券”！",
     "date": "2026-02-27",
     "stAt": 1772202600,
     "endAt": "1788188399",
     "url": "https://news.pokemon-home.com/sc/page/718.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1770950364_04091772001099.jpg",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1770950364_04091775042472.jpg",
     "kindTxt": "企划活动",
     "infoTab": 5,
     "infoKind": 6,
