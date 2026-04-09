@@ -1,5 +1,21 @@
 [
   {
+    "id": "758",
+    "title": "現在発生している不具合について",
+    "date": "2026-04-09",
+    "stAt": 1775714400,
+    "endAt": "1807196399",
+    "url": "https://news.pokemon-home.com/ja/page/758.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775633840_37681775713313.png",
+    "kindTxt": "不具合",
+    "infoTab": 5,
+    "infoKind": 18,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 1
+  },
+  {
     "id": "753",
     "title": "「バトルパス シーズンM-1」について",
     "date": "2026-04-08",
@@ -22,7 +38,7 @@
     "stAt": 1775613600,
     "endAt": "1776045599",
     "url": "https://news.pokemon-home.com/ja/page/752.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773319388_60511775531021.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773319388_60511775616896.jpg",
     "kindTxt": "オンライン大会",
     "infoTab": 5,
     "infoKind": 13,
