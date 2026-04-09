@@ -1,5 +1,21 @@
 [
   {
+    "id": "758",
+    "title": "현재 발생 중인 이상 현상에 대해",
+    "date": "2026-04-09",
+    "stAt": 1775714400,
+    "endAt": "1807196399",
+    "url": "https://news.pokemon-home.com/ko/page/758.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1775633840_37681775718754.png",
+    "kindTxt": "오류",
+    "infoTab": 5,
+    "infoKind": 18,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 1
+  },
+  {
     "id": "753",
     "title": "배틀 패스 「시즌 M-1」에 대해",
     "date": "2026-04-08",
@@ -22,7 +38,7 @@
     "stAt": 1775613600,
     "endAt": "1776045599",
     "url": "https://news.pokemon-home.com/ko/page/752.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1773319388_60511775454943.jpg",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1773319388_60511775617046.jpg",
     "kindTxt": "온라인 대회",
     "infoTab": 5,
     "infoKind": 13,
