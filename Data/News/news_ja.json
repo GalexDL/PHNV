@@ -1,5 +1,22 @@
 [
   {
+    "id": "681",
+    "title": "黒い結晶のテラレイドバトルに最強のエンブオーが再登場中！",
+    "date": "2026-04-10",
+    "stAt": 1775779200,
+    "endAt": "1776383999",
+    "url": "https://news.pokemon-home.com/ja/page/681.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763481949_46341763481973.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "758",
     "title": "現在発生している不具合について",
     "date": "2026-04-09",
@@ -6893,23 +6910,6 @@
     "infoKind": 9,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "278",
-    "title": "2023年6月シーズン（シーズン7）開催中！",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/ja/page/278.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1678855509_72181678855528.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
