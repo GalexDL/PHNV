@@ -1,5 +1,22 @@
 [
   {
+    "id": "681",
+    "title": "最強的炎武王在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-04-10",
+    "stAt": 1775779200,
+    "endAt": "1776383999",
+    "url": "https://news.pokemon-home.com/tc/page/681.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763481949_46341769766812.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "753",
     "title": "關於對戰證「賽季M-1」",
     "date": "2026-04-08",
@@ -6839,23 +6856,6 @@
     "endAt": "1684454399",
     "url": "https://news.pokemon-home.com/tc/page/258.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676036835_13821681392752.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "257",
-    "title": "最強的千面避役在黑色結晶的太晶團體戰出現中！",
-    "date": "2023-05-05",
-    "stAt": 1683244800,
-    "endAt": "1683503999",
-    "url": "https://news.pokemon-home.com/tc/page/257.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676036718_51691681392313.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
