@@ -1,5 +1,22 @@
 [
   {
+    "id": "681",
+    "title": "Affrontez un Roitiflam redoutable !",
+    "date": "2026-04-10",
+    "stAt": 1775779200,
+    "endAt": "1776383999",
+    "url": "https://news.pokemon-home.com/fr/page/681.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1763481949_46341769042609.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "753",
     "title": "Pass de combat saison M-1 ",
     "date": "2026-04-08",
@@ -6842,23 +6859,6 @@
     "endAt": "1684713599",
     "url": "https://news.pokemon-home.com/fr/page/292.html",
     "banner": "https://news.pokemon-home.com/fr/page/banner/3_1683027595_69861684534512.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "260",
-    "title": "Affrontez un Blindépique robuste !",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/fr/page/260.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1676037042_35281684534340.jpg",
     "kindTxt": "Autre(s) logiciel(s)",
     "infoTab": 2,
     "infoKind": 8,
