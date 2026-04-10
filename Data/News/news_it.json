@@ -1,5 +1,22 @@
 [
   {
+    "id": "681",
+    "title": "Affronta un fortissimo Emboar!",
+    "date": "2026-04-10",
+    "stAt": 1775779200,
+    "endAt": "1776383999",
+    "url": "https://news.pokemon-home.com/it/page/681.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1763481949_46341769042644.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "753",
     "title": "Pass lotta della stagione M-1 ",
     "date": "2026-04-08",
@@ -6842,23 +6859,6 @@
     "endAt": "1684713599",
     "url": "https://news.pokemon-home.com/it/page/292.html",
     "banner": "https://news.pokemon-home.com/it/page/banner/4_1683027595_69861684534550.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "260",
-    "title": "Affronta un fortissimo Chesnaught!",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/it/page/260.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1676037042_35281684534374.jpg",
     "kindTxt": "Altri giochi",
     "infoTab": 2,
     "infoKind": 8,
