@@ -1,5 +1,22 @@
 [
   {
+    "id": "681",
+    "title": "Nimm es mit einem mächtigen Flambirex auf!",
+    "date": "2026-04-10",
+    "stAt": 1775779200,
+    "endAt": "1776383999",
+    "url": "https://news.pokemon-home.com/de/page/681.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1763481949_46341769042680.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "753",
     "title": "Kampfpässe für Saison M-1",
     "date": "2026-04-08",
@@ -6831,23 +6848,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "292",
-    "title": "Nimm es jetzt mit Riesenzahn und Eisenrad auf!",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/de/page/292.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1683027595_69861684534578.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   },
