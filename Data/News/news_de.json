@@ -17,6 +17,22 @@
     "isImportant": 0
   },
   {
+    "id": "758",
+    "title": "Bezüglich derzeitiger Fehler ",
+    "date": "2026-04-09",
+    "stAt": 1775714400,
+    "endAt": "1807196399",
+    "url": "https://news.pokemon-home.com/de/page/758.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1775633840_37681775843047.png",
+    "kindTxt": "Fehler",
+    "infoTab": 5,
+    "infoKind": 18,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 1
+  },
+  {
     "id": "753",
     "title": "Kampfpässe für Saison M-1",
     "date": "2026-04-08",
