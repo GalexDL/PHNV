@@ -1,5 +1,21 @@
 [
   {
+    "id": "763",
+    "title": "スマートフォン版『Pokémon HOME』のフレンド交換における不具合について",
+    "date": "2026-04-11",
+    "stAt": 1775916000,
+    "endAt": "1777561199",
+    "url": "https://news.pokemon-home.com/ja/page/763.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "お知らせ",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "681",
     "title": "黒い結晶のテラレイドバトルに最強のエンブオーが再登場中！",
     "date": "2026-04-10",
@@ -18,12 +34,12 @@
   },
   {
     "id": "758",
-    "title": "現在発生している不具合について",
+    "title": "現在発生している不具合について（4/10更新）",
     "date": "2026-04-09",
     "stAt": 1775714400,
     "endAt": "1807196399",
     "url": "https://news.pokemon-home.com/ja/page/758.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775633840_37681775713313.png",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775633840_37681775782646.png",
     "kindTxt": "不具合",
     "infoTab": 5,
     "infoKind": 18,
@@ -39,7 +55,7 @@
     "stAt": 1775613600,
     "endAt": "1778637599",
     "url": "https://news.pokemon-home.com/ja/page/753.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773323677_69991775559864.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773323677_69991775808393.jpg",
     "kindTxt": "バトルパス",
     "infoTab": 5,
     "infoKind": 16,
@@ -103,7 +119,7 @@
     "stAt": 1775613600,
     "endAt": "1778637599",
     "url": "https://news.pokemon-home.com/ja/page/746.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1772605530_40081775538386.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1772605530_40081775808246.jpg",
     "kindTxt": "ランクバトル",
     "infoTab": 5,
     "infoKind": 11,
@@ -6894,22 +6910,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "318",
-    "title": "「ポケモンジャパンチャンピオンシップス2023」ゲーム部門 一部概要変更のお知らせ",
-    "date": "2023-06-06",
-    "stAt": 1686020400,
-    "endAt": "1686441599",
-    "url": "https://news.pokemon-home.com/ja/page/318.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1686016221_99941686020705.png",
-    "kindTxt": "その他お知らせ",
-    "infoTab": 3,
-    "infoKind": 9,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
