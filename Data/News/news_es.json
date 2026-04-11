@@ -17,6 +17,22 @@
     "isImportant": 0
   },
   {
+    "id": "758",
+    "title": "Información sobre errores ",
+    "date": "2026-04-09",
+    "stAt": 1775714400,
+    "endAt": "1807196399",
+    "url": "https://news.pokemon-home.com/es/page/758.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1775633840_37681775843206.png",
+    "kindTxt": "Problema",
+    "infoTab": 5,
+    "infoKind": 18,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 1
+  },
+  {
     "id": "753",
     "title": "Pases de combate de la temporada M-1 ",
     "date": "2026-04-08",
