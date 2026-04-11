@@ -17,6 +17,22 @@
     "isImportant": 0
   },
   {
+    "id": "758",
+    "title": "关于目前发生的异常问题（4/10更新）",
+    "date": "2026-04-09",
+    "stAt": 1775714400,
+    "endAt": "1807196399",
+    "url": "https://news.pokemon-home.com/sc/page/758.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1775633840_37681775793852.png",
+    "kindTxt": "异常问题",
+    "infoTab": 5,
+    "infoKind": 18,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 1
+  },
+  {
     "id": "753",
     "title": "关于对战证“赛季M-1”",
     "date": "2026-04-08",
