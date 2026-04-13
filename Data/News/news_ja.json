@@ -1,5 +1,21 @@
 [
   {
+    "id": "755",
+    "title": "スマートフォン版アップデートのお知らせ（ver 4.0.1）",
+    "date": "2026-04-13",
+    "stAt": 1776072600,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/ja/page/755.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_ja.png",
+    "kindTxt": "お知らせ",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "763",
     "title": "スマートフォン版『Pokémon HOME』のフレンド交換における不具合について",
     "date": "2026-04-11",
@@ -6887,23 +6903,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/ja/page/314.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685416564_2771685416600.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "313",
-    "title": "【予告】黒い結晶のテラレイドバトルに最強のブリガロンが出現！",
-    "date": "2023-06-07",
-    "stAt": 1686106800,
-    "endAt": "1686873599",
-    "url": "https://news.pokemon-home.com/ja/page/313.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685416403_9591685416427.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
