@@ -1,5 +1,37 @@
 [
   {
+    "id": "755",
+    "title": "스마트폰 버전 업데이트 알림(Ver.4.0.1)",
+    "date": "2026-04-13",
+    "stAt": 1776072600,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/ko/page/755.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_ko.png",
+    "kindTxt": "소식",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "763",
+    "title": "스마트폰 버전 「Pokémon HOME」의 친구 교환과 관련된 이상 현상에 대해",
+    "date": "2026-04-11",
+    "stAt": 1775916000,
+    "endAt": "1777561199",
+    "url": "https://news.pokemon-home.com/ko/page/763.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "소식",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "681",
     "title": "검은 결정 테라 레이드배틀에 최강의 염무왕이 재등장 중!",
     "date": "2026-04-10",
@@ -39,7 +71,7 @@
     "stAt": 1775613600,
     "endAt": "1778637599",
     "url": "https://news.pokemon-home.com/ko/page/753.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1773323677_69991773997260.jpg",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1773323677_69991776069176.jpg",
     "kindTxt": "배틀 패스",
     "infoTab": 5,
     "infoKind": 16,
@@ -6842,39 +6874,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "307",
-    "title": "스마트폰 버전 대응 OS/단말기 변경 알림",
-    "date": "2023-05-26",
-    "stAt": 1685059200,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/ko/page/307.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "소식",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "292",
-    "title": "픽업! 위대한엄니&무쇠바퀴",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/ko/page/292.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1683027595_69861684492133.png",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
