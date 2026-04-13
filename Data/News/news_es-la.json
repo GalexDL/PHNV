@@ -1,5 +1,21 @@
 [
   {
+    "id": "755",
+    "title": "Actualización para dispositivos móviles (ver. 4.0.1)",
+    "date": "2026-04-13",
+    "stAt": 1776072600,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/es-la/page/755.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_es-la.png",
+    "kindTxt": "Noticias",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "758",
     "title": "Información sobre errores ",
     "date": "2026-04-09",
