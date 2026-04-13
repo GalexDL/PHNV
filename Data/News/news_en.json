@@ -1,5 +1,21 @@
 [
   {
+    "id": "755",
+    "title": "Update Info for Mobile Devices (Ver. 4.0.1)",
+    "date": "2026-04-13",
+    "stAt": 1776072600,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/en/page/755.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_en.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "681",
     "title": "Face a Mighty Emboar!",
     "date": "2026-04-10",
@@ -6864,23 +6880,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "292",
-    "title": "Challenge Great Tusk and Iron Treads Now!",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/en/page/292.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683027595_69861684515980.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
