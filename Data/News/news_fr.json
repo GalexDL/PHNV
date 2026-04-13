@@ -1,5 +1,21 @@
 [
   {
+    "id": "755",
+    "title": "Mise à jour de la version mobile (ver. 4.0.1)",
+    "date": "2026-04-13",
+    "stAt": 1776072600,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/fr/page/755.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_fr.png",
+    "kindTxt": "Actualités",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "681",
     "title": "Affrontez un Roitiflam redoutable !",
     "date": "2026-04-10",
@@ -6864,23 +6880,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "292",
-    "title": "Affrontez Fort-Ivoire et Roue-de-Fer dès maintenant !",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/fr/page/292.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1683027595_69861684534512.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
