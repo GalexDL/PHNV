@@ -1,5 +1,21 @@
 [
   {
+    "id": "755",
+    "title": "Informationen zum Update für mobile Geräte (Ver. 4.0.1)",
+    "date": "2026-04-13",
+    "stAt": 1776072600,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/de/page/755.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_de.png",
+    "kindTxt": "Neuigkeiten",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "681",
     "title": "Nimm es mit einem mächtigen Flambirex auf!",
     "date": "2026-04-10",
@@ -6864,23 +6880,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "260",
-    "title": "Tritt einem mächtigen Brigaron entgegen!",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/de/page/260.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1676037042_35281684534411.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
