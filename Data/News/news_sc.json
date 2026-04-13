@@ -1,5 +1,21 @@
 [
   {
+    "id": "755",
+    "title": "智能手机版数据更新公告（ver 4.0.1）",
+    "date": "2026-04-13",
+    "stAt": 1776072600,
+    "endAt": "1790780399",
+    "url": "https://news.pokemon-home.com/sc/page/755.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_sc.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "681",
     "title": "最强的炎武王在黑色结晶的太晶团体战再次登场中！",
     "date": "2026-04-10",
@@ -6855,23 +6871,6 @@
     "endAt": "1684108799",
     "url": "https://news.pokemon-home.com/sc/page/259.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1676036922_89571683600896.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "258",
-    "title": "【预告】黑色结晶的太晶团体战将出现最强的布里卡隆！",
-    "date": "2023-05-08",
-    "stAt": 1683504000,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/sc/page/258.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1676036835_13821681990082.jpg",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
