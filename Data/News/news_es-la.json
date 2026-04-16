@@ -1,5 +1,21 @@
 [
   {
+    "id": "734",
+    "title": "¡10.ª temporada de Combates Clasificatorios!",
+    "date": "2026-04-16",
+    "stAt": 1776319200,
+    "endAt": "1776923999",
+    "url": "https://news.pokemon-home.com/es-la/page/734.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1771468026_53141774479816.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "755",
     "title": "Actualización para dispositivos móviles (ver. 4.0.1)",
     "date": "2026-04-13",
@@ -7,6 +23,22 @@
     "endAt": "1790780399",
     "url": "https://news.pokemon-home.com/es-la/page/755.html",
     "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_es-la.png",
+    "kindTxt": "Noticias",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "763",
+    "title": "Error en el intercambio con amistades en la versión para dispositivos móviles de <i>Pokémon HOME</i>",
+    "date": "2026-04-11",
+    "stAt": 1775916000,
+    "endAt": "1777561199",
+    "url": "https://news.pokemon-home.com/es-la/page/763.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
     "kindTxt": "Noticias",
     "infoTab": 1,
     "infoKind": 7,
