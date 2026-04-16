@@ -1,5 +1,21 @@
 [
   {
+    "id": "734",
+    "title": "【予告】シーズン10開催決定！",
+    "date": "2026-04-16",
+    "stAt": 1776319200,
+    "endAt": "1776923999",
+    "url": "https://news.pokemon-home.com/ja/page/734.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771468026_53141772419283.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "755",
     "title": "スマートフォン版アップデートのお知らせ（ver 4.0.1）",
     "date": "2026-04-13",
@@ -6886,23 +6902,6 @@
     "endAt": "1687132799",
     "url": "https://news.pokemon-home.com/ja/page/315.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685416890_13311685416997.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "314",
-    "title": "【予告】ピックアップ！イダイナキバ＆テツノワダチ",
-    "date": "2023-06-07",
-    "stAt": 1686106800,
-    "endAt": "1686873599",
-    "url": "https://news.pokemon-home.com/ja/page/314.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685416564_2771685416600.png",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
