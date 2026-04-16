@@ -1,5 +1,21 @@
 [
   {
+    "id": "734",
+    "title": "【預告】賽季10確定舉辦！",
+    "date": "2026-04-16",
+    "stAt": 1776319200,
+    "endAt": "1776923999",
+    "url": "https://news.pokemon-home.com/tc/page/734.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771468026_53141775470794.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "755",
     "title": "智慧型手機版更新公告（ver 4.0.1）",
     "date": "2026-04-13",
@@ -7,6 +23,22 @@
     "endAt": "1790780399",
     "url": "https://news.pokemon-home.com/tc/page/755.html",
     "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_tc.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "763",
+    "title": "關於智慧型手機版『Pokémon HOME』的朋友交換發生的異常問題",
+    "date": "2026-04-11",
+    "stAt": 1775916000,
+    "endAt": "1777561199",
+    "url": "https://news.pokemon-home.com/tc/page/763.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
     "kindTxt": "通知",
     "infoTab": 1,
     "infoKind": 7,
@@ -55,7 +87,7 @@
     "stAt": 1775613600,
     "endAt": "1778637599",
     "url": "https://news.pokemon-home.com/tc/page/753.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1773323677_69991774514259.jpg",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1773323677_69991776077700.jpg",
     "kindTxt": "對戰證",
     "infoTab": 5,
     "infoKind": 16,
@@ -6837,40 +6869,6 @@
     "endAt": "1684713599",
     "url": "https://news.pokemon-home.com/tc/page/260.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037042_35281684725698.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "291",
-    "title": "【預告】精選特輯！雄偉牙＆鐵轍跡",
-    "date": "2023-05-15",
-    "stAt": 1684108800,
-    "endAt": "1684454399",
-    "url": "https://news.pokemon-home.com/tc/page/291.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683027375_31521683880052.png",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "259",
-    "title": "最強的布里卡隆在黑色結晶的太晶團體戰出現中！",
-    "date": "2023-05-12",
-    "stAt": 1683849600,
-    "endAt": "1684108799",
-    "url": "https://news.pokemon-home.com/tc/page/259.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676036922_89571681393092.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
