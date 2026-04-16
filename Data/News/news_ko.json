@@ -1,5 +1,21 @@
 [
   {
+    "id": "734",
+    "title": "【예고】시즌 10 개최 결정!",
+    "date": "2026-04-16",
+    "stAt": 1776319200,
+    "endAt": "1776923999",
+    "url": "https://news.pokemon-home.com/ko/page/734.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1771468026_53141772504603.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "755",
     "title": "스마트폰 버전 업데이트 알림(Ver.4.0.1)",
     "date": "2026-04-13",
@@ -135,7 +151,7 @@
     "stAt": 1775613600,
     "endAt": "1778637599",
     "url": "https://news.pokemon-home.com/ko/page/746.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1772605530_40081775443875.jpg",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1772605530_40081776240846.jpg",
     "kindTxt": "랭크배틀",
     "infoTab": 5,
     "infoKind": 11,
@@ -6858,22 +6874,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "308",
-    "title": "점검 실시 알림",
-    "date": "2023-05-26",
-    "stAt": 1685059200,
-    "endAt": "1685408399",
-    "url": "https://news.pokemon-home.com/ko/page/308.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "점검",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
