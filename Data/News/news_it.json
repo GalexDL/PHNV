@@ -1,5 +1,21 @@
 [
   {
+    "id": "734",
+    "title": "Stagione 10 in arrivo!",
+    "date": "2026-04-16",
+    "stAt": 1776319200,
+    "endAt": "1776923999",
+    "url": "https://news.pokemon-home.com/it/page/734.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1771468026_53141774479426.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "755",
     "title": "Aggiornamento dell'app per dispositivi mobili (ver. 4.0.1)",
     "date": "2026-04-13",
@@ -7,6 +23,22 @@
     "endAt": "1790780399",
     "url": "https://news.pokemon-home.com/it/page/755.html",
     "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_it.png",
+    "kindTxt": "Novità",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "763",
+    "title": "Avviso relativo a un problema riscontrato negli scambi con amici nella versione per dispositivi mobili di <i>Pokémon HOME</i>",
+    "date": "2026-04-11",
+    "stAt": 1775916000,
+    "endAt": "1777561199",
+    "url": "https://news.pokemon-home.com/it/page/763.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
     "kindTxt": "Novità",
     "infoTab": 1,
     "infoKind": 7,
@@ -6848,38 +6880,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "308",
-    "title": "Avviso di manutenzione",
-    "date": "2023-05-26",
-    "stAt": 1685059200,
-    "endAt": "1685408399",
-    "url": "https://news.pokemon-home.com/it/page/308.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Manutenzione",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "307",
-    "title": "Cambiamenti di compatibilità per dispositivi mobili di <i>Pokémon HOME</i>",
-    "date": "2023-05-26",
-    "stAt": 1685059200,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/it/page/307.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Novità",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
