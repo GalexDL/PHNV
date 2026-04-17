@@ -1,5 +1,22 @@
 [
   {
+    "id": "682",
+    "title": "黒い結晶のテラレイドバトルに最強のダイケンキが再登場中！",
+    "date": "2026-04-17",
+    "stAt": 1776384000,
+    "endAt": "1776988799",
+    "url": "https://news.pokemon-home.com/ja/page/682.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763482259_33941763482294.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "734",
     "title": "【予告】シーズン10開催決定！",
     "date": "2026-04-16",
@@ -6885,23 +6902,6 @@
     "endAt": "1687132799",
     "url": "https://news.pokemon-home.com/ja/page/316.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685417114_14161685417135.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "315",
-    "title": "黒い結晶のテラレイドバトルに最強のブリガロンが出現中！",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/ja/page/315.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685416890_13311685416997.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
