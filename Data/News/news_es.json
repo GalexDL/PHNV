@@ -1,5 +1,22 @@
 [
   {
+    "id": "682",
+    "title": "¡Enfréntate al formidable Samurott!",
+    "date": "2026-04-17",
+    "stAt": 1776384000,
+    "endAt": "1776988799",
+    "url": "https://news.pokemon-home.com/es/page/682.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1763482259_33941769044147.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "734",
     "title": "¡10.ª temporada de Combates Clasificatorios!",
     "date": "2026-04-16",
@@ -6847,22 +6864,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "312",
-    "title": "Actualización (ver. 3.0.0)",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/es/page/312.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Actualización",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   },
