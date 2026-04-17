@@ -1,5 +1,22 @@
 [
   {
+    "id": "682",
+    "title": "最強的大劍鬼在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-04-17",
+    "stAt": 1776384000,
+    "endAt": "1776988799",
+    "url": "https://news.pokemon-home.com/tc/page/682.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763482259_33941769765573.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "734",
     "title": "【預告】賽季10確定舉辦！",
     "date": "2026-04-16",
@@ -6841,23 +6858,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "292",
-    "title": "精選特輯！雄偉牙＆鐵轍跡",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/tc/page/292.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683027595_69861684725580.png",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   },
