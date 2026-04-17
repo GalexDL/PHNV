@@ -1,5 +1,22 @@
 [
   {
+    "id": "682",
+    "title": "검은 결정 테라 레이드배틀에 최강의 대검귀가 재등장 중!",
+    "date": "2026-04-17",
+    "stAt": 1776384000,
+    "endAt": "1776988799",
+    "url": "https://news.pokemon-home.com/ko/page/682.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763482259_33941763621823.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "734",
     "title": "【예고】시즌 10 개최 결정!",
     "date": "2026-04-16",
@@ -6857,23 +6874,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "311",
-    "title": "숨겨진 특성의 「나오하」, 「뜨아거」, 「꾸왁스」를 선물!",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1924959599",
-    "url": "https://news.pokemon-home.com/ko/page/311.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1685360280_37691685361068.png",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
