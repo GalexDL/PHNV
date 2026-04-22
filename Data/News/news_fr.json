@@ -49,22 +49,6 @@
     "isImportant": 0
   },
   {
-    "id": "763",
-    "title": "Problème affectant les échanges entre amis sur la version mobile de <i>Pokémon HOME</i>",
-    "date": "2026-04-11",
-    "stAt": 1775916000,
-    "endAt": "1777561199",
-    "url": "https://news.pokemon-home.com/fr/page/763.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Actualités",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
     "id": "681",
     "title": "Affrontez un Roitiflam redoutable !",
     "date": "2026-04-10",
@@ -6880,6 +6864,23 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "311",
+    "title": "Recevez Poussacha, Chochodile et Coiffeton dotés de talents cachés !",
+    "date": "2023-05-30",
+    "stAt": 1685408400,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/fr/page/311.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1685360280_37691685360519.png",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
     ],
     "isImportant": 0
   }
