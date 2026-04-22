@@ -49,22 +49,6 @@
     "isImportant": 0
   },
   {
-    "id": "763",
-    "title": "Notice Regarding a Friend Trade Issue in the Mobile Device Version of Pokémon HOME",
-    "date": "2026-04-11",
-    "stAt": 1775916000,
-    "endAt": "1777561199",
-    "url": "https://news.pokemon-home.com/en/page/763.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "News",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
     "id": "681",
     "title": "Face a Mighty Emboar!",
     "date": "2026-04-10",
@@ -6864,6 +6848,22 @@
     "linkRom": [
       "SC",
       "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "312",
+    "title": "Update Notice (ver. 3.0.0)",
+    "date": "2023-05-30",
+    "stAt": 1685408400,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/en/page/312.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
     ],
     "isImportant": 0
   },
