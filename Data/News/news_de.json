@@ -49,22 +49,6 @@
     "isImportant": 0
   },
   {
-    "id": "763",
-    "title": "Fehler beim Durchführen des Freundestauschs in der Mobilgerät-Version von <i>Pokémon HOME</i>",
-    "date": "2026-04-11",
-    "stAt": 1775916000,
-    "endAt": "1777561199",
-    "url": "https://news.pokemon-home.com/de/page/763.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Neuigkeiten",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
     "id": "681",
     "title": "Nimm es mit einem mächtigen Flambirex auf!",
     "date": "2026-04-10",
@@ -6864,6 +6848,22 @@
     "linkRom": [
       "SC",
       "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "312",
+    "title": "Informationen zum Update (Ver. 3.0.0)",
+    "date": "2023-05-30",
+    "stAt": 1685408400,
+    "endAt": "1694566799",
+    "url": "https://news.pokemon-home.com/de/page/312.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
+    "kindTxt": "Update",
+    "infoTab": 1,
+    "infoKind": 4,
+    "linkRom": [
+      "HM"
     ],
     "isImportant": 0
   },
