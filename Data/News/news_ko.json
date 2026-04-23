@@ -1,5 +1,22 @@
 [
   {
+    "id": "764",
+    "title": "「Pokémon Champions」 업데이트 데이터(Ver.1.0.3) 배포 안내",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1808459999",
+    "url": "https://news.pokemon-home.com/ko/page/764.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1776408472_4041776837679.png",
+    "kindTxt": "업데이트",
+    "infoTab": 4,
+    "infoKind": 4,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "735",
     "title": "시즌 10 개최 중!",
     "date": "2026-04-23",
@@ -127,7 +144,7 @@
     "linkRom": [
       "CHP"
     ],
-    "isImportant": 1
+    "isImportant": 0
   },
   {
     "id": "753",
