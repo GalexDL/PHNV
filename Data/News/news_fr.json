@@ -1,5 +1,21 @@
 [
   {
+    "id": "735",
+    "title": "La saison 10 est en cours !",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1778723999",
+    "url": "https://news.pokemon-home.com/fr/page/735.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1771468227_00371774480228.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "682",
     "title": "Affrontez un Clamiral redoutable !",
     "date": "2026-04-17",
@@ -6864,23 +6880,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "311",
-    "title": "Recevez Poussacha, Chochodile et Coiffeton dotés de talents cachés !",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1924959599",
-    "url": "https://news.pokemon-home.com/fr/page/311.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1685360280_37691685360519.png",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
