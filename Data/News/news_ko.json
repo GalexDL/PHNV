@@ -1,5 +1,21 @@
 [
   {
+    "id": "735",
+    "title": "시즌 10 개최 중!",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1778723999",
+    "url": "https://news.pokemon-home.com/ko/page/735.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1771468227_00371772504796.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "765",
     "title": "스마트폰 버전 「Pokémon HOME」의 친구 교환 기능 복구 대해",
     "date": "2026-04-23",
@@ -6851,23 +6867,6 @@
     "endAt": "1696118399",
     "url": "https://news.pokemon-home.com/ko/page/310.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1685014875_48941694656121.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "278",
-    "title": "2023년 6월 시즌(시즌 7) 개최 중!",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/ko/page/278.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1678855509_72181679376904.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
