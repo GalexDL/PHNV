@@ -1,5 +1,21 @@
 [
   {
+    "id": "765",
+    "title": "スマートフォン版『Pokémon HOME』のフレンド交換の復旧について",
+    "date": "2026-04-23",
+    "stAt": 1776909600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/ja/page/765.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/1/@news_ja.png",
+    "kindTxt": "お知らせ",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "682",
     "title": "黒い結晶のテラレイドバトルに最強のダイケンキが再登場中！",
     "date": "2026-04-17",
@@ -6885,23 +6901,6 @@
     "endAt": "1694566799",
     "url": "https://news.pokemon-home.com/ja/page/317.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685686196_57451685686256.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "316",
-    "title": "ピックアップ！イダイナキバ＆テツノワダチ",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/ja/page/316.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685417114_14161685417135.png",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
