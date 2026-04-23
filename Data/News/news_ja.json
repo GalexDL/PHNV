@@ -1,5 +1,22 @@
 [
   {
+    "id": "764",
+    "title": "『Pokémon Champions』更新データ（Ver.1.0.3）配信のお知らせ",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1808459999",
+    "url": "https://news.pokemon-home.com/ja/page/764.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1776408472_4041776408796.png",
+    "kindTxt": "アップデート",
+    "infoTab": 4,
+    "infoKind": 4,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "735",
     "title": "シーズン10開催中！",
     "date": "2026-04-23",
@@ -115,19 +132,19 @@
   },
   {
     "id": "758",
-    "title": "現在発生している不具合について（4/10更新）",
+    "title": "現在発生している不具合について（4/23更新）",
     "date": "2026-04-09",
     "stAt": 1775714400,
     "endAt": "1807196399",
     "url": "https://news.pokemon-home.com/ja/page/758.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775633840_37681775782646.png",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775633840_37681776924230.png",
     "kindTxt": "不具合",
     "infoTab": 5,
     "infoKind": 18,
     "linkRom": [
       "CHP"
     ],
-    "isImportant": 1
+    "isImportant": 0
   },
   {
     "id": "753",
