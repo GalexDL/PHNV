@@ -1,5 +1,21 @@
 [
   {
+    "id": "735",
+    "title": "賽季10舉辦中！",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1778723999",
+    "url": "https://news.pokemon-home.com/tc/page/735.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771468227_00371775731027.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "682",
     "title": "最強的大劍鬼在黑色結晶的太晶團體戰再次登場中！",
     "date": "2026-04-17",
@@ -6858,23 +6874,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "260",
-    "title": "最強的布里卡隆在黑色結晶的太晶團體戰出現中！",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/tc/page/260.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037042_35281684725698.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
