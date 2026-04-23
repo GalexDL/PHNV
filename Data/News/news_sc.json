@@ -1,5 +1,21 @@
 [
   {
+    "id": "735",
+    "title": "赛季10举办中！",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1778723999",
+    "url": "https://news.pokemon-home.com/sc/page/735.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1771468227_00371775730667.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "682",
     "title": "最强的大剑鬼在黑色结晶的太晶团体战再次登场中！",
     "date": "2026-04-17",
@@ -6858,23 +6874,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "292",
-    "title": "精选特辑！雄伟牙＆铁辙迹",
-    "date": "2023-05-19",
-    "stAt": 1684454400,
-    "endAt": "1684713599",
-    "url": "https://news.pokemon-home.com/sc/page/292.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1683027595_69861684723500.png",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
