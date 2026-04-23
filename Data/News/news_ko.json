@@ -1,5 +1,21 @@
 [
   {
+    "id": "765",
+    "title": "스마트폰 버전 「Pokémon HOME」의 친구 교환 기능 복구 대해",
+    "date": "2026-04-23",
+    "stAt": 1776909600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/ko/page/765.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/1/@news_ko.png",
+    "kindTxt": "소식",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "682",
     "title": "검은 결정 테라 레이드배틀에 최강의 대검귀가 재등장 중!",
     "date": "2026-04-17",
@@ -6858,22 +6874,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "312",
-    "title": "업데이트 알림(Ver.3.0.0)",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/ko/page/312.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "업데이트",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
