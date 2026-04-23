@@ -1,5 +1,21 @@
 [
   {
+    "id": "735",
+    "title": "シーズン10開催中！",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1778723999",
+    "url": "https://news.pokemon-home.com/ja/page/735.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771468227_00371772419470.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "765",
     "title": "スマートフォン版『Pokémon HOME』のフレンド交換の復旧について",
     "date": "2026-04-23",
@@ -6890,23 +6906,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "317",
-    "title": "わざの説明文の誤りについて",
-    "date": "2023-06-19",
-    "stAt": 1687132800,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/ja/page/317.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1685686196_57451685686256.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
