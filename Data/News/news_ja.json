@@ -1,5 +1,38 @@
 [
   {
+    "id": "756",
+    "title": "メンテナンス実施のお知らせ",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777247999",
+    "url": "https://news.pokemon-home.com/ja/page/756.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_ja.png",
+    "kindTxt": "お知らせ",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "683",
+    "title": "黒い結晶のテラレイドバトルに最強のブリガロンが再登場中！",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777593599",
+    "url": "https://news.pokemon-home.com/ja/page/683.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763482382_87171763482408.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "764",
     "title": "『Pokémon Champions』更新データ（Ver.1.0.3）配信のお知らせ",
     "date": "2026-04-23",
@@ -169,7 +202,7 @@
     "stAt": 1775613600,
     "endAt": "1776045599",
     "url": "https://news.pokemon-home.com/ja/page/752.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773319388_60511775616896.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1773319388_60511776947818.jpg",
     "kindTxt": "オンライン大会",
     "infoTab": 5,
     "infoKind": 13,
@@ -6888,39 +6921,6 @@
     "kindTxt": "メンテナンス",
     "infoTab": 1,
     "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "298",
-    "title": "宝物発見！？コレクレー（はこフォルム）が出現中！",
-    "date": "2023-06-21",
-    "stAt": 1687359600,
-    "endAt": "1688342399",
-    "url": "https://news.pokemon-home.com/ja/page/298.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1683028409_42461683028432.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "319",
-    "title": "『Pokémon GO』から『Pokémon HOME』に転送したポケモンの経験値が異常になる不具合について",
-    "date": "2023-06-21",
-    "stAt": 1687316400,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/ja/page/319.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "お知らせ",
-    "infoTab": 1,
-    "infoKind": 7,
     "linkRom": [
       "HM"
     ],
