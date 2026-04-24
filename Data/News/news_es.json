@@ -1,5 +1,38 @@
 [
   {
+    "id": "756",
+    "title": "Labores de mantenimiento",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777247999",
+    "url": "https://news.pokemon-home.com/es/page/756.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_es.png",
+    "kindTxt": "Avisos",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "683",
+    "title": "¡Enfréntate al formidable Chesnaught!",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777593599",
+    "url": "https://news.pokemon-home.com/es/page/683.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1763482382_87171769045927.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "735",
     "title": "¡Ha empezado la 10.ª temporada!",
     "date": "2026-04-23",
@@ -6834,23 +6867,6 @@
     "isImportant": 0
   },
   {
-    "id": "310",
-    "title": "Reglamento D",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/es/page/310.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1685014875_48941695337673.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
     "id": "278",
     "title": "Participa en la 7.ª temporada de Combates Clasificatorios",
     "date": "2023-06-01",
@@ -6858,23 +6874,6 @@
     "endAt": "1688169599",
     "url": "https://news.pokemon-home.com/es/page/278.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1678855509_72181684194251.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "311",
-    "title": "¡Consigue a Sprigatito, Fuecoco y Quaxly con sus habilidades ocultas!",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1924959599",
-    "url": "https://news.pokemon-home.com/es/page/311.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1685360280_37691685361041.png",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
