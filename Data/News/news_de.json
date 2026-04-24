@@ -1,5 +1,21 @@
 [
   {
+    "id": "759",
+    "title": "Spezialauswahl zur Globalen Challenge 2026",
+    "date": "2026-04-24",
+    "stAt": 1776996000,
+    "endAt": "1777859999",
+    "url": "https://news.pokemon-home.com/de/page/759.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1775724036_69011776818485.jpg",
+    "kindTxt": "Auswahl",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "756",
     "title": "Hinweis zu Wartungsarbeiten",
     "date": "2026-04-24",
