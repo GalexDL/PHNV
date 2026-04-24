@@ -1,5 +1,38 @@
 [
   {
+    "id": "756",
+    "title": "Annonce de maintenance",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777247999",
+    "url": "https://news.pokemon-home.com/fr/page/756.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_fr.png",
+    "kindTxt": "Actualités",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "683",
+    "title": "Affrontez un Blindépique redoutable !",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777593599",
+    "url": "https://news.pokemon-home.com/fr/page/683.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1763482382_87171769045878.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "735",
     "title": "La saison 10 est en cours !",
     "date": "2026-04-23",
@@ -6834,23 +6867,6 @@
     "isImportant": 0
   },
   {
-    "id": "310",
-    "title": "Règlement D",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/fr/page/310.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1685014875_48941695337615.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
     "id": "278",
     "title": "Participez à la saison 7 des combats classés",
     "date": "2023-06-01",
@@ -6864,22 +6880,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "312",
-    "title": "Mise à jour (version 3.0.0)",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/fr/page/312.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Mise à jour",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
