@@ -1,5 +1,21 @@
 [
   {
+    "id": "759",
+    "title": "Selección especial Desafío Global de 2026",
+    "date": "2026-04-24",
+    "stAt": 1776996000,
+    "endAt": "1777859999",
+    "url": "https://news.pokemon-home.com/es-la/page/759.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1775724036_69011776818689.jpg",
+    "kindTxt": "Selecciones",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "756",
     "title": "Tareas de mantenimiento",
     "date": "2026-04-24",
