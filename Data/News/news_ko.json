@@ -1,5 +1,22 @@
 [
   {
+    "id": "766",
+    "title": "점검 종료 알림",
+    "date": "2026-04-24",
+    "stAt": 1777003200,
+    "endAt": "1778659199",
+    "url": "https://news.pokemon-home.com/ko/page/766.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1776998915_95011777000410.png",
+    "kindTxt": "점검",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "759",
     "title": "「스페셜 셀렉트 Global Challenge 2026」에 대해",
     "date": "2026-04-24",
