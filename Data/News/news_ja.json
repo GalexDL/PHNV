@@ -1,5 +1,21 @@
 [
   {
+    "id": "759",
+    "title": "「スペシャルセレクト グローバルチャレンジ2026」について",
+    "date": "2026-04-24",
+    "stAt": 1776996000,
+    "endAt": "1777859999",
+    "url": "https://news.pokemon-home.com/ja/page/759.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775724036_69011776655004.jpg",
+    "kindTxt": "セレクト",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "756",
     "title": "メンテナンス実施のお知らせ",
     "date": "2026-04-24",
@@ -479,7 +495,7 @@
     "stAt": 1772773200,
     "endAt": "1780844399",
     "url": "https://news.pokemon-home.com/ja/page/743.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771555677_80331774588666.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771555677_80331776996192.jpg",
     "kindTxt": "オンライン大会",
     "infoTab": 5,
     "infoKind": 13,
