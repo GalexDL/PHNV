@@ -1,5 +1,21 @@
 [
   {
+    "id": "759",
+    "title": "關於「特別精選Global Challenge 2026」",
+    "date": "2026-04-24",
+    "stAt": 1776996000,
+    "endAt": "1777859999",
+    "url": "https://news.pokemon-home.com/tc/page/759.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1775724036_69011776417621.jpg",
+    "kindTxt": "精選",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "756",
     "title": "系統維護公告",
     "date": "2026-04-24",
