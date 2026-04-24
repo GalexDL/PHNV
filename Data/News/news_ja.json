@@ -1,5 +1,22 @@
 [
   {
+    "id": "766",
+    "title": "​​メンテナンス終了のお知らせ",
+    "date": "2026-04-24",
+    "stAt": 1777003200,
+    "endAt": "1778659199",
+    "url": "https://news.pokemon-home.com/ja/page/766.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1776998915_95011776999285.png",
+    "kindTxt": "メンテナンス",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "759",
     "title": "「スペシャルセレクト グローバルチャレンジ2026」について",
     "date": "2026-04-24",
