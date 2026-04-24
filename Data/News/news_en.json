@@ -1,5 +1,38 @@
 [
   {
+    "id": "756",
+    "title": "Maintenance Notice",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777247999",
+    "url": "https://news.pokemon-home.com/en/page/756.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_en.png",
+    "kindTxt": "News",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "683",
+    "title": "Face a Mighty Chesnaught!",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777593599",
+    "url": "https://news.pokemon-home.com/en/page/683.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763482382_87171769045857.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "735",
     "title": "Season 10 Underway!",
     "date": "2026-04-23",
@@ -6841,40 +6874,6 @@
     "endAt": "1696118399",
     "url": "https://news.pokemon-home.com/en/page/310.html",
     "banner": "https://news.pokemon-home.com/en/page/banner/2_1685014875_48941695337596.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "278",
-    "title": "Play in Ranked Battles Season 7",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/en/page/278.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1678855509_72181684194167.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "311",
-    "title": "Get Sprigatito, Fuecoco, and Quaxly with Hidden Abilities!",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1924959599",
-    "url": "https://news.pokemon-home.com/en/page/311.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1685360280_37691685360444.png",
     "kindTxt": "Other Games",
     "infoTab": 2,
     "infoKind": 8,
