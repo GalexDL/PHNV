@@ -1,5 +1,55 @@
 [
   {
+    "id": "756",
+    "title": "系统维护公告",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777247999",
+    "url": "https://news.pokemon-home.com/sc/page/756.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_sc.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "683",
+    "title": "最强的布里卡隆在黑色结晶的太晶团体战再次登场中！",
+    "date": "2026-04-24",
+    "stAt": 1776988800,
+    "endAt": "1777593599",
+    "url": "https://news.pokemon-home.com/sc/page/683.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1763482382_87171769765230.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "764",
+    "title": "《Pokémon Champions》更新数据（Ver.1.0.3）发布通知",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1808459999",
+    "url": "https://news.pokemon-home.com/sc/page/764.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1776408472_4041776944850.png",
+    "kindTxt": "更新",
+    "infoTab": 4,
+    "infoKind": 4,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "735",
     "title": "赛季10举办中！",
     "date": "2026-04-23",
@@ -12,6 +62,22 @@
     "infoKind": 8,
     "linkRom": [
       "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "765",
+    "title": "关于智能手机版《Pokémon HOME》的好友交换的修复",
+    "date": "2026-04-23",
+    "stAt": 1776909600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/sc/page/765.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/1/@news_sc.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
     ],
     "isImportant": 0
   },
@@ -6823,55 +6889,6 @@
     "kindTxt": "更新",
     "infoTab": 1,
     "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "311",
-    "title": "赠送有隐藏特性的“新叶喵”、“呆火鳄”和“润水鸭”！",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1924959599",
-    "url": "https://news.pokemon-home.com/sc/page/311.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685360280_37691685361097.png",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "308",
-    "title": "系统维护公告",
-    "date": "2023-05-26",
-    "stAt": 1685059200,
-    "endAt": "1685408399",
-    "url": "https://news.pokemon-home.com/sc/page/308.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "维护",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "307",
-    "title": "智能手机版对应OS／设备变更公告",
-    "date": "2023-05-26",
-    "stAt": 1685059200,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/sc/page/307.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "通知",
-    "infoTab": 1,
-    "infoKind": 7,
     "linkRom": [
       "HM"
     ],
