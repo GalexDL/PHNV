@@ -1,5 +1,21 @@
 [
   {
+    "id": "759",
+    "title": "2026 Global Challenge Special Roster",
+    "date": "2026-04-24",
+    "stAt": 1776996000,
+    "endAt": "1777859999",
+    "url": "https://news.pokemon-home.com/en/page/759.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1775724036_69011776818421.jpg",
+    "kindTxt": "Roster",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "756",
     "title": "Maintenance Notice",
     "date": "2026-04-24",
