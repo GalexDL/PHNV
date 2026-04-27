@@ -1,5 +1,21 @@
 [
   {
+    "id": "757",
+    "title": "『Pokémon LEGENDS Z-A』の「ソフト図鑑」完成でプレゼント！",
+    "date": "2026-04-27",
+    "stAt": 1777269600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/ja/page/757.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775223567_28691775223833.png",
+    "kindTxt": "お知らせ",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "766",
     "title": "​​メンテナンス終了のお知らせ",
     "date": "2026-04-24",
@@ -512,7 +528,7 @@
     "stAt": 1772773200,
     "endAt": "1780844399",
     "url": "https://news.pokemon-home.com/ja/page/743.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771555677_80331776996192.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771555677_80331777007971.jpg",
     "kindTxt": "オンライン大会",
     "infoTab": 5,
     "infoKind": 13,
@@ -6940,22 +6956,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "321",
-    "title": "メンテナンス実施のお知らせ",
-    "date": "2023-06-30",
-    "stAt": 1688083200,
-    "endAt": "1688432399",
-    "url": "https://news.pokemon-home.com/ja/page/321.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "メンテナンス",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
