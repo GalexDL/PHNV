@@ -1,5 +1,21 @@
 [
   {
+    "id": "757",
+    "title": "¡Regalos por completar las Pokédex de <i>Leyendas Pokémon: Z-A</i>!",
+    "date": "2026-04-27",
+    "stAt": 1777269600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/es/page/757.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1775223567_28691776262223.png",
+    "kindTxt": "Avisos",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "759",
     "title": "Selección especial Desafío Global de 2026",
     "date": "2026-04-24",
@@ -6873,23 +6889,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/es/page/313.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1685416403_9591685746232.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "278",
-    "title": "Participa en la 7.ª temporada de Combates Clasificatorios",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/es/page/278.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1678855509_72181684194251.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
