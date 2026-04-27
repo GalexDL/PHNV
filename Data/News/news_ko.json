@@ -1,5 +1,21 @@
 [
   {
+    "id": "757",
+    "title": "「Pokémon LEGENDS Z-A」의 「게임도감」을 완성하고 선물을 받자!",
+    "date": "2026-04-27",
+    "stAt": 1777269600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/ko/page/757.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1775223567_28691775459909.png",
+    "kindTxt": "소식",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "766",
     "title": "점검 종료 알림",
     "date": "2026-04-24",
@@ -6899,23 +6915,6 @@
     "endAt": "1687132799",
     "url": "https://news.pokemon-home.com/ko/page/315.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1685416890_13311685496897.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "314",
-    "title": "【예고】픽업! 위대한엄니&무쇠바퀴",
-    "date": "2023-06-07",
-    "stAt": 1686106800,
-    "endAt": "1686873599",
-    "url": "https://news.pokemon-home.com/ko/page/314.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1685416564_2771685496460.png",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
