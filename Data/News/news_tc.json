@@ -1,5 +1,21 @@
 [
   {
+    "id": "757",
+    "title": "完成『寶可夢傳說 Z-A』的「軟體圖鑑」來獲得禮物！",
+    "date": "2026-04-27",
+    "stAt": 1777269600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/tc/page/757.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1775223567_28691776238535.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "759",
     "title": "關於「特別精選Global Challenge 2026」",
     "date": "2026-04-24",
@@ -6885,23 +6901,6 @@
     "endAt": "1688169599",
     "url": "https://news.pokemon-home.com/tc/page/278.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1678855509_72181681391838.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "311",
-    "title": "贈送擁有隱藏特性的「新葉喵」、「呆火鱷」和「潤水鴨」！",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1924959599",
-    "url": "https://news.pokemon-home.com/tc/page/311.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685360280_37691685361127.png",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
