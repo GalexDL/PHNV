@@ -1,5 +1,21 @@
 [
   {
+    "id": "757",
+    "title": "Complétez les Pokédex de <i>Légendes Pokémon : Z-A</i> pour recevoir un cadeau !",
+    "date": "2026-04-27",
+    "stAt": 1777269600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/fr/page/757.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1775223567_28691776331919.png",
+    "kindTxt": "Actualités",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "759",
     "title": "Sélection spéciale du Défi Mondial 2026 ",
     "date": "2026-04-24",
@@ -6873,23 +6889,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/fr/page/313.html",
     "banner": "https://news.pokemon-home.com/fr/page/banner/3_1685416403_9591685745758.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "278",
-    "title": "Participez à la saison 7 des combats classés",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/fr/page/278.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1678855509_72181684194186.jpg",
     "kindTxt": "Autre(s) logiciel(s)",
     "infoTab": 2,
     "infoKind": 8,
