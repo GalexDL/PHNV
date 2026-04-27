@@ -1,5 +1,21 @@
 [
   {
+    "id": "757",
+    "title": "¡Regalos por completar los Pokédex de <i>Leyendas Pokémon: Z-A</i>!",
+    "date": "2026-04-27",
+    "stAt": 1777269600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/es-la/page/757.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1775223567_28691776348660.png",
+    "kindTxt": "Noticias",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "759",
     "title": "Selección especial Desafío Global de 2026",
     "date": "2026-04-24",
