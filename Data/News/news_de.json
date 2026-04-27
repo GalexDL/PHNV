@@ -1,5 +1,21 @@
 [
   {
+    "id": "757",
+    "title": "Erhalte ein Geschenk für die Vervollständigung der Pokédexe von <i>Pokémon-Legenden: Z-A</i>!",
+    "date": "2026-04-27",
+    "stAt": 1777269600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/de/page/757.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1775223567_28691776078769.png",
+    "kindTxt": "Neuigkeiten",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "759",
     "title": "Spezialauswahl zur Globalen Challenge 2026",
     "date": "2026-04-24",
@@ -6873,23 +6889,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/de/page/313.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1685416403_9591686333659.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "278",
-    "title": "Nimm an Saison 7 der Rangkämpfe teil",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/de/page/278.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1678855509_72181684194229.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
