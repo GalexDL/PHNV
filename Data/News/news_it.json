@@ -1,5 +1,21 @@
 [
   {
+    "id": "757",
+    "title": "Completa i Pokédex di <i>Leggende Pokémon: Z-A</i> per ricevere dei regali!",
+    "date": "2026-04-27",
+    "stAt": 1777269600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/it/page/757.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1775223567_28691776163402.png",
+    "kindTxt": "Novità",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "759",
     "title": "Selezione speciale della Sfida globale 2026 ",
     "date": "2026-04-24",
@@ -6873,23 +6889,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/it/page/313.html",
     "banner": "https://news.pokemon-home.com/it/page/banner/4_1685416403_9591685745912.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "310",
-    "title": "Regolamento D",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/it/page/310.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1685014875_48941695337637.jpg",
     "kindTxt": "Altri giochi",
     "infoTab": 2,
     "infoKind": 8,
