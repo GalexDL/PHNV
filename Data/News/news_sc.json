@@ -1,5 +1,21 @@
 [
   {
+    "id": "757",
+    "title": "完成《宝可梦传说 Z-A》的“软件图鉴”来获得礼物！",
+    "date": "2026-04-27",
+    "stAt": 1777269600,
+    "endAt": "1924959599",
+    "url": "https://news.pokemon-home.com/sc/page/757.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1775223567_28691776154541.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "759",
     "title": "关于“特别精选 Global Challenge 2026”",
     "date": "2026-04-24",
@@ -6891,22 +6907,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "312",
-    "title": "更新通告（ver.3.0.0）",
-    "date": "2023-05-30",
-    "stAt": 1685408400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/sc/page/312.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "更新",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
