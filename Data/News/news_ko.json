@@ -1,5 +1,22 @@
 [
   {
+    "id": "684",
+    "title": "검은 결정 테라 레이드배틀에 최강의 마폭시가 재등장 중!",
+    "date": "2026-05-01",
+    "stAt": 1777593600,
+    "endAt": "1778198399",
+    "url": "https://news.pokemon-home.com/ko/page/684.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763482507_1081763621972.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "757",
     "title": "「Pokémon LEGENDS Z-A」의 「게임도감」을 완성하고 선물을 받자!",
     "date": "2026-04-27",
@@ -6881,23 +6898,6 @@
     "endAt": "1694566799",
     "url": "https://news.pokemon-home.com/ko/page/317.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1685686196_57451686114558.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "316",
-    "title": "픽업! 위대한엄니&무쇠바퀴",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/ko/page/316.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1685417114_14161685497107.png",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
