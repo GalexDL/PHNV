@@ -1,5 +1,22 @@
 [
   {
+    "id": "684",
+    "title": "¡Enfréntate al formidable Delphox!",
+    "date": "2026-05-01",
+    "stAt": 1777593600,
+    "endAt": "1778198399",
+    "url": "https://news.pokemon-home.com/es/page/684.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1763482507_1081769046452.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "757",
     "title": "¡Regalos por completar las Pokédex de <i>Leyendas Pokémon: Z-A</i>!",
     "date": "2026-04-27",
@@ -6872,23 +6889,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/es/page/314.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1685416564_2771685744002.png",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "313",
-    "title": "¡Prepárate para hacerle frente al increíble Chesnaught!",
-    "date": "2023-06-07",
-    "stAt": 1686106800,
-    "endAt": "1686873599",
-    "url": "https://news.pokemon-home.com/es/page/313.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1685416403_9591685746232.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
