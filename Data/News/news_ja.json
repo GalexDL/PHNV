@@ -1,5 +1,22 @@
 [
   {
+    "id": "684",
+    "title": "黒い結晶のテラレイドバトルに最強のマフォクシーが再登場中！",
+    "date": "2026-05-01",
+    "stAt": 1777593600,
+    "endAt": "1778198399",
+    "url": "https://news.pokemon-home.com/ja/page/684.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763482507_1081763482534.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "757",
     "title": "『Pokémon LEGENDS Z-A』の「ソフト図鑑」完成でプレゼント！",
     "date": "2026-04-27",
@@ -6933,23 +6950,6 @@
     "endAt": "1689292799",
     "url": "https://news.pokemon-home.com/ja/page/261.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676037144_40261688100329.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "320",
-    "title": "2023年7月シーズン（シーズン8）開催中！",
-    "date": "2023-07-01",
-    "stAt": 1688184000,
-    "endAt": "1690847999",
-    "url": "https://news.pokemon-home.com/ja/page/320.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1687960226_9511687960253.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
