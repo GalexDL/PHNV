@@ -1,5 +1,22 @@
 [
   {
+    "id": "684",
+    "title": "最强的妖火红狐在黑色结晶的太晶团体战再次登场中！",
+    "date": "2026-05-01",
+    "stAt": 1777593600,
+    "endAt": "1778198399",
+    "url": "https://news.pokemon-home.com/sc/page/684.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1763482507_1081769765133.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "757",
     "title": "完成《宝可梦传说 Z-A》的“软件图鉴”来获得礼物！",
     "date": "2026-04-27",
@@ -6867,23 +6884,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/sc/page/313.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685416403_9591685678333.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "310",
-    "title": "关于规则D",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/sc/page/310.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685014875_48941694662064.jpg",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
