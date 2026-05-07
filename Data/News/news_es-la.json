@@ -1,5 +1,21 @@
 [
   {
+    "id": "736",
+    "title": "¡11.ª temporada de Combates Clasificatorios!",
+    "date": "2026-05-07",
+    "stAt": 1778133600,
+    "endAt": "1778738399",
+    "url": "https://news.pokemon-home.com/es-la/page/736.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1771468395_81161774483010.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "757",
     "title": "¡Regalos por completar los Pokédex de <i>Leyendas Pokémon: Z-A</i>!",
     "date": "2026-04-27",
@@ -44,6 +60,23 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "764",
+    "title": "Aviso de actualización a la versión 1.0.3 de <i>Pokémon Champions</i>",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1808459999",
+    "url": "https://news.pokemon-home.com/es-la/page/764.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1776408472_4041777920738.png",
+    "kindTxt": "Actualización",
+    "infoTab": 4,
+    "infoKind": 4,
+    "linkRom": [
+      "HM",
+      "CHP"
     ],
     "isImportant": 0
   },
