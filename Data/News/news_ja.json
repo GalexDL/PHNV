@@ -1,5 +1,21 @@
 [
   {
+    "id": "736",
+    "title": "【予告】シーズン11開催決定！",
+    "date": "2026-05-07",
+    "stAt": 1778133600,
+    "endAt": "1778738399",
+    "url": "https://news.pokemon-home.com/ja/page/736.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771468395_81161773196826.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "684",
     "title": "黒い結晶のテラレイドバトルに最強のマフォクシーが再登場中！",
     "date": "2026-05-01",
@@ -6939,23 +6955,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "261",
-    "title": "【予告】黒い結晶のテラレイドバトルに最強のマフォクシーが出現！",
-    "date": "2023-07-03",
-    "stAt": 1688342400,
-    "endAt": "1689292799",
-    "url": "https://news.pokemon-home.com/ja/page/261.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676037144_40261688100329.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
