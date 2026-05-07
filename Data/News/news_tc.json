@@ -1,5 +1,21 @@
 [
   {
+    "id": "736",
+    "title": "【預告】賽季11確定舉辦！",
+    "date": "2026-05-07",
+    "stAt": 1778133600,
+    "endAt": "1778738399",
+    "url": "https://news.pokemon-home.com/tc/page/736.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771468395_81161776850295.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "684",
     "title": "最強的妖火紅狐在黑色結晶的太晶團體戰再次登場中！",
     "date": "2026-05-01",
@@ -6884,23 +6900,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/tc/page/313.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685416403_9591685520969.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "310",
-    "title": "關於規則D",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/tc/page/310.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685014875_48941694662023.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
