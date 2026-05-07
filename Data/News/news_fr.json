@@ -1,5 +1,21 @@
 [
   {
+    "id": "736",
+    "title": "La saison 11 démarre bientôt !",
+    "date": "2026-05-07",
+    "stAt": 1778133600,
+    "endAt": "1778738399",
+    "url": "https://news.pokemon-home.com/fr/page/736.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1771468395_81161774481980.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "684",
     "title": "Affrontez un Goupelin redoutable !",
     "date": "2026-05-01",
@@ -78,6 +94,23 @@
     "linkRom": [
       "SC",
       "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "764",
+    "title": "Contenu de la mise à jour de <i>Pokémon Champions</i> version 1.0.3",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1808459999",
+    "url": "https://news.pokemon-home.com/fr/page/764.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1776408472_4041777590700.png",
+    "kindTxt": "Mise à jour",
+    "infoTab": 4,
+    "infoKind": 4,
+    "linkRom": [
+      "HM",
+      "CHP"
     ],
     "isImportant": 0
   },
@@ -6872,23 +6905,6 @@
     "endAt": "1687132799",
     "url": "https://news.pokemon-home.com/fr/page/315.html",
     "banner": "https://news.pokemon-home.com/fr/page/banner/3_1685416890_13311686266152.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "313",
-    "title": "Préparez-vous à affronter un Blindépique robuste !",
-    "date": "2023-06-07",
-    "stAt": 1686106800,
-    "endAt": "1686873599",
-    "url": "https://news.pokemon-home.com/fr/page/313.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1685416403_9591685745758.jpg",
     "kindTxt": "Autre(s) logiciel(s)",
     "infoTab": 2,
     "infoKind": 8,
