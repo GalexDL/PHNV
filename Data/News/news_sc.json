@@ -1,5 +1,21 @@
 [
   {
+    "id": "736",
+    "title": "【预告】已决定将举办赛季11！",
+    "date": "2026-05-07",
+    "stAt": 1778133600,
+    "endAt": "1778738399",
+    "url": "https://news.pokemon-home.com/sc/page/736.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1771468395_81161776850168.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "684",
     "title": "最强的妖火红狐在黑色结晶的太晶团体战再次登场中！",
     "date": "2026-05-01",
@@ -6884,23 +6900,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/sc/page/313.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685416403_9591685678333.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "278",
-    "title": "2023年6月赛季（赛季7）现正举行！",
-    "date": "2023-06-01",
-    "stAt": 1685592000,
-    "endAt": "1688169599",
-    "url": "https://news.pokemon-home.com/sc/page/278.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1678855509_72181685415067.jpg",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
