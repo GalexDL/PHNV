@@ -1,5 +1,21 @@
 [
   {
+    "id": "736",
+    "title": "¡11.ª temporada de Combates Clasificatorios!",
+    "date": "2026-05-07",
+    "stAt": 1778133600,
+    "endAt": "1778738399",
+    "url": "https://news.pokemon-home.com/es/page/736.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1771468395_81161774482866.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "684",
     "title": "¡Enfréntate al formidable Delphox!",
     "date": "2026-05-01",
@@ -78,6 +94,23 @@
     "linkRom": [
       "SC",
       "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "764",
+    "title": "Aviso de actualización a la versión 1.0.3 de <i>Pokémon Champions</i>",
+    "date": "2026-04-23",
+    "stAt": 1776924000,
+    "endAt": "1808459999",
+    "url": "https://news.pokemon-home.com/es/page/764.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1776408472_4041777590877.png",
+    "kindTxt": "Actualización",
+    "infoTab": 4,
+    "infoKind": 4,
+    "linkRom": [
+      "HM",
+      "CHP"
     ],
     "isImportant": 0
   },
@@ -6872,23 +6905,6 @@
     "endAt": "1687132799",
     "url": "https://news.pokemon-home.com/es/page/315.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1685416890_13311686265861.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "314",
-    "title": "¡Muy pronto podrás medirte con Colmilargo y Ferrodada!",
-    "date": "2023-06-07",
-    "stAt": 1686106800,
-    "endAt": "1686873599",
-    "url": "https://news.pokemon-home.com/es/page/314.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1685416564_2771685744002.png",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
