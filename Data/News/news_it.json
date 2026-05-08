@@ -1,5 +1,22 @@
 [
   {
+    "id": "685",
+    "title": "Affronta un fortissimo Greninja!",
+    "date": "2026-05-08",
+    "stAt": 1778198400,
+    "endAt": "1778803199",
+    "url": "https://news.pokemon-home.com/it/page/685.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1763482627_50831769047254.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "736",
     "title": "Stagione 11 in arrivo!",
     "date": "2026-05-07",
@@ -6871,23 +6888,6 @@
     "endAt": "1694566799",
     "url": "https://news.pokemon-home.com/it/page/317.html",
     "banner": "https://news.pokemon-home.com/it/page/banner/4_1685686196_57451686851507.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "316",
-    "title": "Sfida Grandizanne e Solcoferreo!",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/it/page/316.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1685417114_14161685994880.jpg",
     "kindTxt": "Altri giochi",
     "infoTab": 2,
     "infoKind": 8,
