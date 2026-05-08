@@ -1,5 +1,22 @@
 [
   {
+    "id": "685",
+    "title": "¡Enfréntate al formidable Greninja!",
+    "date": "2026-05-08",
+    "stAt": 1778198400,
+    "endAt": "1778803199",
+    "url": "https://news.pokemon-home.com/es/page/685.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1763482627_50831769047294.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "736",
     "title": "¡11.ª temporada de Combates Clasificatorios!",
     "date": "2026-05-07",
@@ -6888,23 +6905,6 @@
     "endAt": "1687132799",
     "url": "https://news.pokemon-home.com/es/page/316.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1685417114_14161685994925.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "315",
-    "title": "¡Enfréntate al formidable Chesnaught!",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/es/page/315.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1685416890_13311686265861.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
