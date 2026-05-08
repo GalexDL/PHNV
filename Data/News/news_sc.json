@@ -1,5 +1,22 @@
 [
   {
+    "id": "685",
+    "title": "最强的甲贺忍蛙在黑色结晶的太晶团体战再次登场中！",
+    "date": "2026-05-08",
+    "stAt": 1778198400,
+    "endAt": "1778803199",
+    "url": "https://news.pokemon-home.com/sc/page/685.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1763482627_50831769764744.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "736",
     "title": "【预告】已决定将举办赛季11！",
     "date": "2026-05-07",
@@ -6883,23 +6900,6 @@
     "endAt": "1686873599",
     "url": "https://news.pokemon-home.com/sc/page/314.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685416564_2771685678698.png",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "313",
-    "title": "【预告】黑色结晶的太晶团体战将出现最强的布里卡隆！",
-    "date": "2023-06-07",
-    "stAt": 1686106800,
-    "endAt": "1686873599",
-    "url": "https://news.pokemon-home.com/sc/page/313.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685416403_9591685678333.jpg",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
