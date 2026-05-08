@@ -1,5 +1,22 @@
 [
   {
+    "id": "685",
+    "title": "검은 결정 테라 레이드배틀에 최강의 개굴닌자가 재등장 중!",
+    "date": "2026-05-08",
+    "stAt": 1778198400,
+    "endAt": "1778803199",
+    "url": "https://news.pokemon-home.com/ko/page/685.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763482627_50831763622113.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "736",
     "title": "【예고】시즌 11 개최 결정!",
     "date": "2026-05-07",
@@ -6903,23 +6920,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "317",
-    "title": "기술 설명문 내 잘못된 표기에 대해",
-    "date": "2023-06-19",
-    "stAt": 1687132800,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/ko/page/317.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1685686196_57451686114558.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
