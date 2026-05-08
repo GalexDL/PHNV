@@ -1,5 +1,22 @@
 [
   {
+    "id": "685",
+    "title": "Face a Mighty Greninja!",
+    "date": "2026-05-08",
+    "stAt": 1778198400,
+    "endAt": "1778803199",
+    "url": "https://news.pokemon-home.com/en/page/685.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763482627_50831769047219.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "736",
     "title": "Season 11 Coming Soon!",
     "date": "2026-05-07",
@@ -6888,23 +6905,6 @@
     "endAt": "1687132799",
     "url": "https://news.pokemon-home.com/en/page/316.html",
     "banner": "https://news.pokemon-home.com/en/page/banner/2_1685417114_14161686267151.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "315",
-    "title": "Face a Mighty Chesnaught!",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/en/page/315.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1685416890_13311685996149.jpg",
     "kindTxt": "Other Games",
     "infoTab": 2,
     "infoKind": 8,
