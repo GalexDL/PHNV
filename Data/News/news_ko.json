@@ -1,5 +1,22 @@
 [
   {
+    "id": "768",
+    "title": "점검 실시 알림",
+    "date": "2026-05-11",
+    "stAt": 1778464800,
+    "endAt": "1778651999",
+    "url": "https://news.pokemon-home.com/ko/page/768.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1778036596_68021778216264.png",
+    "kindTxt": "점검",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "685",
     "title": "검은 결정 테라 레이드배틀에 최강의 개굴닌자가 재등장 중!",
     "date": "2026-05-08",
