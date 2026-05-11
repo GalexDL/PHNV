@@ -1,5 +1,21 @@
 [
   {
+    "id": "767",
+    "title": "스마트폰 버전 업데이트 알림(Ver.4.0.2)",
+    "date": "2026-05-11",
+    "stAt": 1778479200,
+    "endAt": "1783954799",
+    "url": "https://news.pokemon-home.com/ko/page/767.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_ko.png",
+    "kindTxt": "소식",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "768",
     "title": "점검 실시 알림",
     "date": "2026-05-11",
@@ -6921,22 +6937,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "319",
-    "title": "「Pokémon GO」에서 「Pokémon HOME」으로 전송한 포켓몬의 경험치가 이상해지는 이상 현상에 대해",
-    "date": "2023-06-21",
-    "stAt": 1687316400,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/ko/page/319.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "소식",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
