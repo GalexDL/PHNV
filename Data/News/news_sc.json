@@ -1,5 +1,21 @@
 [
   {
+    "id": "767",
+    "title": "智能手机版数据更新公告（ver 4.0.2）",
+    "date": "2026-05-11",
+    "stAt": 1778479200,
+    "endAt": "1783954799",
+    "url": "https://news.pokemon-home.com/sc/page/767.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_sc.png",
+    "kindTxt": "通知",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "768",
     "title": "维护通知",
     "date": "2026-05-11",
@@ -6900,23 +6916,6 @@
     "endAt": "1687132799",
     "url": "https://news.pokemon-home.com/sc/page/315.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685416890_13311686653574.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "314",
-    "title": "【预告】精选特辑！雄伟牙＆铁辙迹",
-    "date": "2023-06-07",
-    "stAt": 1686106800,
-    "endAt": "1686873599",
-    "url": "https://news.pokemon-home.com/sc/page/314.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685416564_2771685678698.png",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
