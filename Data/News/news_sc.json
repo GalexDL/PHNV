@@ -1,5 +1,22 @@
 [
   {
+    "id": "768",
+    "title": "维护通知",
+    "date": "2026-05-11",
+    "stAt": 1778464800,
+    "endAt": "1778651999",
+    "url": "https://news.pokemon-home.com/sc/page/768.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1778036596_68021778142297.png",
+    "kindTxt": "维护",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "685",
     "title": "最强的甲贺忍蛙在黑色结晶的太晶团体战再次登场中！",
     "date": "2026-05-08",
