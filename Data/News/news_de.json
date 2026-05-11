@@ -1,5 +1,21 @@
 [
   {
+    "id": "767",
+    "title": "Informationen zum Update für mobile Geräte (Ver. 4.0.2)",
+    "date": "2026-05-11",
+    "stAt": 1778479200,
+    "endAt": "1783954799",
+    "url": "https://news.pokemon-home.com/de/page/767.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_de.png",
+    "kindTxt": "Neuigkeiten",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "685",
     "title": "Nimm es mit einem mächtigen Quajutsu auf!",
     "date": "2026-05-08",
@@ -6888,23 +6904,6 @@
     "endAt": "1694566799",
     "url": "https://news.pokemon-home.com/de/page/317.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1685686196_57451686851928.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "315",
-    "title": "Tritt einem mächtigen Brigaron entgegen!",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/de/page/315.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1685416890_13311686265986.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
