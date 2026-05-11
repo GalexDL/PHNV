@@ -1,5 +1,21 @@
 [
   {
+    "id": "767",
+    "title": "スマートフォン版アップデートのお知らせ（ver 4.0.2）",
+    "date": "2026-05-11",
+    "stAt": 1778479200,
+    "endAt": "1783954799",
+    "url": "https://news.pokemon-home.com/ja/page/767.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/2/@update_ja.png",
+    "kindTxt": "お知らせ",
+    "infoTab": 1,
+    "infoKind": 7,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "768",
     "title": "メンテナンス実施のお知らせ",
     "date": "2026-05-11",
@@ -6957,22 +6973,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "323",
-    "title": "『Pokémon LEGENDS アルセウス』で捕まえたオヤブンの一部が「でっかいあかし」を入手できない不具合について",
-    "date": "2023-07-04",
-    "stAt": 1688455800,
-    "endAt": "1690815599",
-    "url": "https://news.pokemon-home.com/ja/page/323.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "お知らせ",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
