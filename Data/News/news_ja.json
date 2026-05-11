@@ -1,5 +1,22 @@
 [
   {
+    "id": "768",
+    "title": "メンテナンス実施のお知らせ",
+    "date": "2026-05-11",
+    "stAt": 1778464800,
+    "endAt": "1778651999",
+    "url": "https://news.pokemon-home.com/ja/page/768.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1778036596_68021778037060.png",
+    "kindTxt": "メンテナンス",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "685",
     "title": "黒い結晶のテラレイドバトルに最強のゲッコウガが再登場中！",
     "date": "2026-05-08",
