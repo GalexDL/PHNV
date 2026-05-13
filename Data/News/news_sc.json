@@ -1,5 +1,70 @@
 [
   {
+    "id": "769",
+    "title": "维护结束通知",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1810187999",
+    "url": "https://news.pokemon-home.com/sc/page/769.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1778253513_96781778652128.png",
+    "kindTxt": "维护",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "762",
+    "title": "“月度挑战系列赛 2026.05”举办！",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1780279199",
+    "url": "https://news.pokemon-home.com/sc/page/762.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1775810819_96511778595155.jpg",
+    "kindTxt": "线上大赛",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "761",
+    "title": "关于“对战证 赛季M-2” ",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/sc/page/761.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1775809569_87391777356482.jpg",
+    "kindTxt": "对战证",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "760",
+    "title": "“级别对战赛季M-2”举办中！",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/sc/page/760.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1775801018_431777026112.jpg",
+    "kindTxt": "级别对战",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "767",
     "title": "智能手机版数据更新公告（ver 4.0.2）",
     "date": "2026-05-11",
