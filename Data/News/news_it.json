@@ -1,5 +1,53 @@
 [
   {
+    "id": "762",
+    "title": "È in arrivo la Sfida mensile di maggio 2026!",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1780279199",
+    "url": "https://news.pokemon-home.com/it/page/762.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1775810819_96511778604760.jpg",
+    "kindTxt": "Gare Online",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "761",
+    "title": "Pass lotta della stagione M-2",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/it/page/761.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1775809569_87391777420944.jpg",
+    "kindTxt": "Pass lotta",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "760",
+    "title": "​​È in corso la stagione M-2 delle Lotte Competitive!​",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/it/page/760.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1775801018_431777422437.jpg",
+    "kindTxt": "Lotte Competitive",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "767",
     "title": "Aggiornamento dell'app per dispositivi mobili (ver. 4.0.2)",
     "date": "2026-05-11",
