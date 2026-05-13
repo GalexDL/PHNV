@@ -1,5 +1,53 @@
 [
   {
+    "id": "762",
+    "title": "Die Monatliche Challenge-Serie – Mai 2026 findet bald statt!",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1780279199",
+    "url": "https://news.pokemon-home.com/de/page/762.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1775810819_96511778594261.jpg",
+    "kindTxt": "Online-Turnier",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "761",
+    "title": "Kampfpässe für Saison M-2",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/de/page/761.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1775809569_87391777420996.jpg",
+    "kindTxt": "Kampfpass",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "760",
+    "title": "​​Saison M-2 der Rangkämpfe ist im Gange!​",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/de/page/760.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1775801018_431777422488.jpg",
+    "kindTxt": "Rangkämpfe",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "767",
     "title": "Informationen zum Update für mobile Geräte (Ver. 4.0.2)",
     "date": "2026-05-11",
