@@ -1,5 +1,53 @@
 [
   {
+    "id": "762",
+    "title": "¡La Serie de Retos Mensuales - Mayo 2026 está a punto de empezar!",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1780279199",
+    "url": "https://news.pokemon-home.com/es/page/762.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1775810819_96511778594399.jpg",
+    "kindTxt": "Torneo en línea",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "761",
+    "title": "Pases de combate de la temporada M-2",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/es/page/761.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1775809569_87391777421039.jpg",
+    "kindTxt": "Pase de combate",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "760",
+    "title": "​​Ha empezado la temporada M-2 de Combates Clasificatorios​",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/es/page/760.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1775801018_431777422534.jpg",
+    "kindTxt": "Combates Clasificatorios",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "767",
     "title": "Actualización para dispositivos móviles (ver. 4.0.2)",
     "date": "2026-05-11",
