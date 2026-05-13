@@ -1,5 +1,70 @@
 [
   {
+    "id": "769",
+    "title": "系統維護結束通知",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1810187999",
+    "url": "https://news.pokemon-home.com/tc/page/769.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1778253513_96781778652153.png",
+    "kindTxt": "系統維護",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "762",
+    "title": "「每月挑戰系列賽 2026.05」登場！",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1780279199",
+    "url": "https://news.pokemon-home.com/tc/page/762.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1775810819_96511778595341.jpg",
+    "kindTxt": "線上大賽",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "761",
+    "title": "關於「對戰證賽季M-2」",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/tc/page/761.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1775809569_87391777356499.jpg",
+    "kindTxt": "對戰證",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "760",
+    "title": "「級別對戰賽季M-2」現正舉辦中！",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/tc/page/760.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1775801018_431777026145.jpg",
+    "kindTxt": "級別對戰",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "767",
     "title": "智慧型手機版更新公告（ver4.0.2）",
     "date": "2026-05-11",
