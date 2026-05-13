@@ -1,5 +1,70 @@
 [
   {
+    "id": "769",
+    "title": "점검 종료 알림",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1810187999",
+    "url": "https://news.pokemon-home.com/ko/page/769.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1778253513_96781778652106.png",
+    "kindTxt": "점검",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "762",
+    "title": "「Monthly Challenge Series 2026.05」 개최!",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1780279199",
+    "url": "https://news.pokemon-home.com/ko/page/762.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1775810819_96511778594935.jpg",
+    "kindTxt": "온라인 대회",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "761",
+    "title": "배틀 패스 「시즌 M-2」에 대해",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/ko/page/761.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1775809569_87391777353134.jpg",
+    "kindTxt": "배틀 패스",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "760",
+    "title": "「랭크배틀 시즌 M-2」 개최 중!",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/ko/page/760.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1775801018_431776240405.jpg",
+    "kindTxt": "랭크배틀",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "767",
     "title": "스마트폰 버전 업데이트 알림(Ver.4.0.2)",
     "date": "2026-05-11",
