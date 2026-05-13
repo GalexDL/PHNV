@@ -1,5 +1,53 @@
 [
   {
+    "id": "762",
+    "title": "The Monthly Challenge Series May 2026 Is Coming!",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1780279199",
+    "url": "https://news.pokemon-home.com/en/page/762.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1775810819_96511778603871.jpg",
+    "kindTxt": "Online Competition",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "761",
+    "title": "Season M-2 Battle Passes",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/en/page/761.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1775809569_87391777420817.jpg",
+    "kindTxt": "Battle Pass",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "760",
+    "title": "​​Ranked Battles Season M-2 Underway!​",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/en/page/760.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1775801018_431777581473.jpg",
+    "kindTxt": "Ranked Battles",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "767",
     "title": "Update Info for Mobile Devices (Ver. 4.0.2)",
     "date": "2026-05-11",
