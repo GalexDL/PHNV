@@ -1,5 +1,70 @@
 [
   {
+    "id": "769",
+    "title": "​​メンテナンス終了のお知らせ",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1810187999",
+    "url": "https://news.pokemon-home.com/ja/page/769.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1778253513_96781778652079.png",
+    "kindTxt": "メンテナンス",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "762",
+    "title": "「マンスリーチャレンジシリーズ 2026.05」開催！",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1780279199",
+    "url": "https://news.pokemon-home.com/ja/page/762.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775810819_96511778593895.jpg",
+    "kindTxt": "オンライン大会",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "761",
+    "title": "「バトルパス シーズンM-2」について",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/ja/page/761.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775809569_87391778651082.jpg",
+    "kindTxt": "バトルパス",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "760",
+    "title": "「ランクバトル シーズンM-2」開催中！",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/ja/page/760.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1775801018_431778650773.jpg",
+    "kindTxt": "ランクバトル",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "767",
     "title": "スマートフォン版アップデートのお知らせ（ver 4.0.2）",
     "date": "2026-05-11",
