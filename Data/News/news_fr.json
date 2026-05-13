@@ -1,5 +1,53 @@
 [
   {
+    "id": "762",
+    "title": "Le Défi Mensuel de mai 2026 va bientôt commencer !",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1780279199",
+    "url": "https://news.pokemon-home.com/fr/page/762.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1775810819_96511778594151.jpg",
+    "kindTxt": "Compétition en ligne",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "761",
+    "title": "Pass de combat saison M-2",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/fr/page/761.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1775809569_87391777420881.jpg",
+    "kindTxt": "Pass de combat",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "760",
+    "title": "​​La saison M-2 des combats classés est en cours !​",
+    "date": "2026-05-13",
+    "stAt": 1778652000,
+    "endAt": "1781661599",
+    "url": "https://news.pokemon-home.com/fr/page/760.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1775801018_431777422396.jpg",
+    "kindTxt": "Combats classés",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "767",
     "title": "Mise à jour de la version mobile (ver. 4.0.2)",
     "date": "2026-05-11",
