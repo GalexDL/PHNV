@@ -1,5 +1,21 @@
 [
   {
+    "id": "737",
+    "title": "賽季11舉辦中！",
+    "date": "2026-05-14",
+    "stAt": 1778738400,
+    "endAt": "1780538399",
+    "url": "https://news.pokemon-home.com/tc/page/737.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771469240_96961776847701.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "769",
     "title": "系統維護結束通知",
     "date": "2026-05-13",
@@ -6947,23 +6963,6 @@
     "endAt": "1694566799",
     "url": "https://news.pokemon-home.com/tc/page/317.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685686196_57451686888147.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "316",
-    "title": "精選特輯！雄偉牙＆鐵轍跡",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/tc/page/316.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685417114_14161685521651.png",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
