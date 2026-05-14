@@ -1,5 +1,21 @@
 [
   {
+    "id": "737",
+    "title": "시즌 11 개최 중!",
+    "date": "2026-05-14",
+    "stAt": 1778738400,
+    "endAt": "1780538399",
+    "url": "https://news.pokemon-home.com/ko/page/737.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1771469240_96961774230949.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "769",
     "title": "점검 종료 알림",
     "date": "2026-05-13",
@@ -6985,23 +7001,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "298",
-    "title": "보물 발견!? 모으령(상자폼)이 출현 중!",
-    "date": "2023-06-21",
-    "stAt": 1687359600,
-    "endAt": "1688342399",
-    "url": "https://news.pokemon-home.com/ko/page/298.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1683028409_42461687222872.png",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
