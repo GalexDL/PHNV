@@ -1,5 +1,21 @@
 [
   {
+    "id": "737",
+    "title": "赛季11举办中！",
+    "date": "2026-05-14",
+    "stAt": 1778738400,
+    "endAt": "1780538399",
+    "url": "https://news.pokemon-home.com/sc/page/737.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1771469240_96961776847577.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "769",
     "title": "维护结束通知",
     "date": "2026-05-13",
@@ -6964,23 +6980,6 @@
     "endAt": "1687132799",
     "url": "https://news.pokemon-home.com/sc/page/316.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685417114_14161686654055.png",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "315",
-    "title": "最强的布里卡隆在黑色结晶的太晶团体战出现中！",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/sc/page/315.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685416890_13311686653574.jpg",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
