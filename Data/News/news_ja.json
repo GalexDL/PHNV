@@ -1,5 +1,21 @@
 [
   {
+    "id": "737",
+    "title": "シーズン11開催中！",
+    "date": "2026-05-14",
+    "stAt": 1778738400,
+    "endAt": "1780538399",
+    "url": "https://news.pokemon-home.com/ja/page/737.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771469240_96961774511514.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "769",
     "title": "​​メンテナンス終了のお知らせ",
     "date": "2026-05-13",
@@ -7015,23 +7031,6 @@
     "endAt": "1689551999",
     "url": "https://news.pokemon-home.com/ja/page/263.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676037411_62981688101145.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "262",
-    "title": "黒い結晶のテラレイドバトルに最強のマフォクシーが出現中！",
-    "date": "2023-07-07",
-    "stAt": 1688688000,
-    "endAt": "1688947199",
-    "url": "https://news.pokemon-home.com/ja/page/262.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676037318_07131688101014.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
