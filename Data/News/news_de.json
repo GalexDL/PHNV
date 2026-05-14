@@ -1,5 +1,21 @@
 [
   {
+    "id": "737",
+    "title": "Saison 11 ist im Gange!",
+    "date": "2026-05-14",
+    "stAt": 1778738400,
+    "endAt": "1780538399",
+    "url": "https://news.pokemon-home.com/de/page/737.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1771469240_96961774483624.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "762",
     "title": "Die Monatliche Challenge-Serie – Mai 2026 findet bald statt!",
     "date": "2026-05-13",
@@ -6941,23 +6957,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "317",
-    "title": "Aktualisierung von Attackenbeschreibungen",
-    "date": "2023-06-19",
-    "stAt": 1687132800,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/de/page/317.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1685686196_57451686851928.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
