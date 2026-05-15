@@ -1,5 +1,22 @@
 [
   {
+    "id": "686",
+    "title": "Affrontez un Archéduc redoutable !",
+    "date": "2026-05-15",
+    "stAt": 1778803200,
+    "endAt": "1779407999",
+    "url": "https://news.pokemon-home.com/fr/page/686.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1763482742_25281773363042.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "737",
     "title": "La saison 11 est en cours !",
     "date": "2026-05-14",
@@ -6941,22 +6958,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "319",
-    "title": "Concernant des valeurs anormales de Points d'Expérience des Pokémon transférés depuis <i>Pokémon GO</i> vers <i>Pokémon HOME</i>",
-    "date": "2023-06-21",
-    "stAt": 1687316400,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/fr/page/319.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Actualités",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
