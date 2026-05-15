@@ -1,5 +1,22 @@
 [
   {
+    "id": "686",
+    "title": "最強的狙射樹梟在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-05-15",
+    "stAt": 1778803200,
+    "endAt": "1779407999",
+    "url": "https://news.pokemon-home.com/tc/page/686.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763482742_25281774866228.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "737",
     "title": "賽季11舉辦中！",
     "date": "2026-05-14",
@@ -6963,23 +6980,6 @@
     "endAt": "1694566799",
     "url": "https://news.pokemon-home.com/tc/page/317.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685686196_57451686888147.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "315",
-    "title": "最強的布里卡隆在黑色結晶的太晶團體戰出現中！",
-    "date": "2023-06-16",
-    "stAt": 1686873600,
-    "endAt": "1687132799",
-    "url": "https://news.pokemon-home.com/tc/page/315.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1685416890_13311685521549.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
