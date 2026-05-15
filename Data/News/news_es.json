@@ -1,5 +1,22 @@
 [
   {
+    "id": "686",
+    "title": "¡Enfréntate al formidable Decidueye!",
+    "date": "2026-05-15",
+    "stAt": 1778803200,
+    "endAt": "1779407999",
+    "url": "https://news.pokemon-home.com/es/page/686.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1763482742_25281773363145.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "737",
     "title": "¡Ha empezado la 11.ª temporada!",
     "date": "2026-05-14",
@@ -6941,22 +6958,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "319",
-    "title": "Acerca de las anomalías en los Puntos de Experiencia de algunos Pokémon transferidos de <i>Pokémon GO</i> a <i>Pokémon Home</i>",
-    "date": "2023-06-21",
-    "stAt": 1687316400,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/es/page/319.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Avisos",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
