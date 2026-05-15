@@ -1,5 +1,22 @@
 [
   {
+    "id": "686",
+    "title": "검은 결정 테라 레이드배틀에 최강의 모크나이퍼가 재등장 중!",
+    "date": "2026-05-15",
+    "stAt": 1778803200,
+    "endAt": "1779407999",
+    "url": "https://news.pokemon-home.com/ko/page/686.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763482742_25281763623452.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "737",
     "title": "시즌 11 개최 중!",
     "date": "2026-05-14",
@@ -6985,22 +7002,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "321",
-    "title": "점검 실시 알림",
-    "date": "2023-06-30",
-    "stAt": 1688083200,
-    "endAt": "1688432399",
-    "url": "https://news.pokemon-home.com/ko/page/321.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "점검",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
