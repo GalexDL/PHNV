@@ -1,5 +1,22 @@
 [
   {
+    "id": "686",
+    "title": "黒い結晶のテラレイドバトルに最強のジュナイパーが再登場中！",
+    "date": "2026-05-15",
+    "stAt": 1778803200,
+    "endAt": "1779407999",
+    "url": "https://news.pokemon-home.com/ja/page/686.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763482742_25281763482762.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "737",
     "title": "シーズン11開催中！",
     "date": "2026-05-14",
@@ -7014,23 +7031,6 @@
     "endAt": "1691107199",
     "url": "https://news.pokemon-home.com/ja/page/264.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676037542_68141689238793.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "263",
-    "title": "黒い結晶のテラレイドバトルに最強のマフォクシーが出現中！",
-    "date": "2023-07-14",
-    "stAt": 1689292800,
-    "endAt": "1689551999",
-    "url": "https://news.pokemon-home.com/ja/page/263.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676037411_62981688101145.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
