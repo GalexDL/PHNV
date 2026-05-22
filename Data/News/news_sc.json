@@ -1,5 +1,22 @@
 [
   {
+    "id": "687",
+    "title": "最强的炽焰咆哮虎在黑色结晶的太晶团体战再次登场中！",
+    "date": "2026-05-22",
+    "stAt": 1779408000,
+    "endAt": "1780012799",
+    "url": "https://news.pokemon-home.com/sc/page/687.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1763482838_29241774866361.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "686",
     "title": "最强的狙射树枭在黑色结晶的太晶团体战再次登场中！",
     "date": "2026-05-15",
@@ -6969,23 +6986,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "317",
-    "title": "关于招式说明文的错误",
-    "date": "2023-06-19",
-    "stAt": 1687132800,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/sc/page/317.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1685686196_57451686810645.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
