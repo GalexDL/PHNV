@@ -1,5 +1,22 @@
 [
   {
+    "id": "687",
+    "title": "Nimm es mit einem mächtigen Fuegro auf!",
+    "date": "2026-05-22",
+    "stAt": 1779408000,
+    "endAt": "1780012799",
+    "url": "https://news.pokemon-home.com/de/page/687.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1763482838_29241773362396.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "686",
     "title": "Nimm es mit einem mächtigen Silvarro auf!",
     "date": "2026-05-15",
@@ -6941,23 +6958,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "298",
-    "title": "Stelle dich bald Gierspenst in seiner Truhenform!",
-    "date": "2023-06-21",
-    "stAt": 1687359600,
-    "endAt": "1688342399",
-    "url": "https://news.pokemon-home.com/de/page/298.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1683028409_42461686861839.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
