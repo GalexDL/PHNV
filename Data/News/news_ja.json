@@ -1,5 +1,22 @@
 [
   {
+    "id": "687",
+    "title": "黒い結晶のテラレイドバトルに最強のガオガエンが再登場中！",
+    "date": "2026-05-22",
+    "stAt": 1779408000,
+    "endAt": "1780012799",
+    "url": "https://news.pokemon-home.com/ja/page/687.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763482838_29241763482859.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "686",
     "title": "黒い結晶のテラレイドバトルに最強のジュナイパーが再登場中！",
     "date": "2026-05-15",
@@ -7014,23 +7031,6 @@
     "endAt": "1690761599",
     "url": "https://news.pokemon-home.com/ja/page/265.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676037795_88621689158652.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "264",
-    "title": "【予告】黒い結晶のテラレイドバトルに最強のゴリランダーが出現！",
-    "date": "2023-07-17",
-    "stAt": 1689552000,
-    "endAt": "1691107199",
-    "url": "https://news.pokemon-home.com/ja/page/264.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676037542_68141689238793.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
