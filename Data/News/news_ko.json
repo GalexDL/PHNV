@@ -1,5 +1,22 @@
 [
   {
+    "id": "687",
+    "title": "검은 결정 테라 레이드배틀에 최강의 어흥염이 재등장 중!",
+    "date": "2026-05-22",
+    "stAt": 1779408000,
+    "endAt": "1780012799",
+    "url": "https://news.pokemon-home.com/ko/page/687.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763482838_29241763623557.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "686",
     "title": "검은 결정 테라 레이드배틀에 최강의 모크나이퍼가 재등장 중!",
     "date": "2026-05-15",
@@ -6979,23 +6996,6 @@
     "endAt": "1689292799",
     "url": "https://news.pokemon-home.com/ko/page/261.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676037144_40261688100455.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "320",
-    "title": "2023년 7월 시즌(시즌 8) 개최 중!",
-    "date": "2023-07-01",
-    "stAt": 1688184000,
-    "endAt": "1690847999",
-    "url": "https://news.pokemon-home.com/ko/page/320.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1687960226_9511688001121.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
