@@ -1,5 +1,22 @@
 [
   {
+    "id": "687",
+    "title": "Affrontez un Félinferno redoutable !",
+    "date": "2026-05-22",
+    "stAt": 1779408000,
+    "endAt": "1780012799",
+    "url": "https://news.pokemon-home.com/fr/page/687.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1763482838_29241773362369.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "686",
     "title": "Affrontez un Archéduc redoutable !",
     "date": "2026-05-15",
@@ -6941,23 +6958,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "298",
-    "title": "Vous pourrez bientôt affronter Mordudor (Forme Coffre) !",
-    "date": "2023-06-21",
-    "stAt": 1687359600,
-    "endAt": "1688342399",
-    "url": "https://news.pokemon-home.com/fr/page/298.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1683028409_42461686861380.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
