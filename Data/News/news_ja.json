@@ -1,5 +1,21 @@
 [
   {
+    "id": "781",
+    "title": "メンテナンス実施のお知らせ",
+    "date": "2026-05-25",
+    "stAt": 1779667200,
+    "endAt": "1779839999",
+    "url": "https://news.pokemon-home.com/ja/page/781.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_ja.png",
+    "kindTxt": "メンテナンス",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "687",
     "title": "黒い結晶のテラレイドバトルに最強のガオガエンが再登場中！",
     "date": "2026-05-22",
@@ -7014,23 +7030,6 @@
     "endAt": "1693526399",
     "url": "https://news.pokemon-home.com/ja/page/333.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1690515202_80311695872801.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "265",
-    "title": "黒い結晶のテラレイドバトルに最強のゴリランダーが出現中！",
-    "date": "2023-07-28",
-    "stAt": 1690502400,
-    "endAt": "1690761599",
-    "url": "https://news.pokemon-home.com/ja/page/265.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676037795_88621689158652.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
