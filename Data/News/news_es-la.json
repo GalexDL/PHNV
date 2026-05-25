@@ -1,5 +1,21 @@
 [
   {
+    "id": "781",
+    "title": "Maintenance Notice",
+    "date": "2026-05-25",
+    "stAt": 1779667200,
+    "endAt": "1779839999",
+    "url": "https://news.pokemon-home.com/es-la/page/781.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_es-la.png",
+    "kindTxt": "Mantenimiento",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "737",
     "title": "¡Empezó la 11.ª temporada!",
     "date": "2026-05-14",
@@ -22,7 +38,7 @@
     "stAt": 1778652000,
     "endAt": "1780279199",
     "url": "https://news.pokemon-home.com/es-la/page/762.html",
-    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1775810819_96511778594455.jpg",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1775810819_96511779435390.jpg",
     "kindTxt": "Torneos en línea",
     "infoTab": 5,
     "infoKind": 13,
