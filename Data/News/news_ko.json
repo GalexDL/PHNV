@@ -1,5 +1,21 @@
 [
   {
+    "id": "781",
+    "title": "점검 실시 알림",
+    "date": "2026-05-25",
+    "stAt": 1779667200,
+    "endAt": "1779839999",
+    "url": "https://news.pokemon-home.com/ko/page/781.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_ko.png",
+    "kindTxt": "점검",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "687",
     "title": "검은 결정 테라 레이드배틀에 최강의 어흥염이 재등장 중!",
     "date": "2026-05-22",
@@ -6985,23 +7001,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "261",
-    "title": "【예고】검은 결정 테라 레이드배틀에 최강의 마폭시가 출현!",
-    "date": "2023-07-03",
-    "stAt": 1688342400,
-    "endAt": "1689292799",
-    "url": "https://news.pokemon-home.com/ko/page/261.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676037144_40261688100455.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
