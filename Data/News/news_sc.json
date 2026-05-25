@@ -1,5 +1,21 @@
 [
   {
+    "id": "781",
+    "title": "系统维护公告",
+    "date": "2026-05-25",
+    "stAt": 1779667200,
+    "endAt": "1779839999",
+    "url": "https://news.pokemon-home.com/sc/page/781.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_sc.png",
+    "kindTxt": "维护",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "687",
     "title": "最强的炽焰咆哮虎在黑色结晶的太晶团体战再次登场中！",
     "date": "2026-05-22",
@@ -6970,22 +6986,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "319",
-    "title": "关于从《Pokémon GO》传送到《Pokémon HOME》的宝可梦经验值出现异常的问题",
-    "date": "2023-06-21",
-    "stAt": 1687316400,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/sc/page/319.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "通知",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
