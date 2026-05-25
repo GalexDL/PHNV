@@ -1,5 +1,21 @@
 [
   {
+    "id": "781",
+    "title": "Annonce de maintenance",
+    "date": "2026-05-25",
+    "stAt": 1779667200,
+    "endAt": "1779839999",
+    "url": "https://news.pokemon-home.com/fr/page/781.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_fr.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "687",
     "title": "Affrontez un Félinferno redoutable !",
     "date": "2026-05-22",
@@ -56,7 +72,7 @@
     "stAt": 1778652000,
     "endAt": "1780279199",
     "url": "https://news.pokemon-home.com/fr/page/762.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1775810819_96511778594151.jpg",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1775810819_96511779435688.jpg",
     "kindTxt": "Compétition en ligne",
     "infoTab": 5,
     "infoKind": 13,
@@ -6942,22 +6958,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "321",
-    "title": "Annonce de maintenance",
-    "date": "2023-06-30",
-    "stAt": 1688083200,
-    "endAt": "1688432399",
-    "url": "https://news.pokemon-home.com/fr/page/321.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Maintenance",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
