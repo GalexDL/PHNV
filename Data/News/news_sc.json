@@ -1,5 +1,21 @@
 [
   {
+    "id": "738",
+    "title": "【预告】已决定将举办赛季12！",
+    "date": "2026-05-28",
+    "stAt": 1779948000,
+    "endAt": "1780552799",
+    "url": "https://news.pokemon-home.com/sc/page/738.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1771469347_64451779085064.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "781",
     "title": "系统维护公告",
     "date": "2026-05-25",
@@ -6969,23 +6985,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "298",
-    "title": "发现宝物！？索财灵（宝箱形态）出现中！",
-    "date": "2023-06-21",
-    "stAt": 1687359600,
-    "endAt": "1688342399",
-    "url": "https://news.pokemon-home.com/sc/page/298.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1683028409_42461686810336.png",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
