@@ -1,5 +1,21 @@
 [
   {
+    "id": "738",
+    "title": "【예고】시즌 12 개최 결정!",
+    "date": "2026-05-28",
+    "stAt": 1779948000,
+    "endAt": "1780552799",
+    "url": "https://news.pokemon-home.com/ko/page/738.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1771469347_64451774230986.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "781",
     "title": "점검 실시 알림",
     "date": "2026-05-25",
@@ -6983,22 +6999,6 @@
     "kindTxt": "소식",
     "infoTab": 1,
     "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "322",
-    "title": "스마트폰 버전 업데이트 알림(Ver.3.0.1)",
-    "date": "2023-07-04",
-    "stAt": 1688432400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/ko/page/322.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "업데이트",
-    "infoTab": 1,
-    "infoKind": 4,
     "linkRom": [
       "HM"
     ],
