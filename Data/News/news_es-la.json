@@ -1,7 +1,23 @@
 [
   {
+    "id": "738",
+    "title": "¡12.ª temporada de Combates Clasificatorios!",
+    "date": "2026-05-28",
+    "stAt": 1779948000,
+    "endAt": "1780552799",
+    "url": "https://news.pokemon-home.com/es-la/page/738.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1771469347_64451776297287.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "781",
-    "title": "Maintenance Notice",
+    "title": "Tareas de mantenimiento",
     "date": "2026-05-25",
     "stAt": 1779667200,
     "endAt": "1779839999",
