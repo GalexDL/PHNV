@@ -1,5 +1,21 @@
 [
   {
+    "id": "738",
+    "title": "【預告】賽季12確定舉辦！",
+    "date": "2026-05-28",
+    "stAt": 1779948000,
+    "endAt": "1780552799",
+    "url": "https://news.pokemon-home.com/tc/page/738.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771469347_64451779085109.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "781",
     "title": "系統維護公告",
     "date": "2026-05-25",
@@ -6969,23 +6985,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "298",
-    "title": "發現寶物！？索財靈（寶箱形態）出現中！",
-    "date": "2023-06-21",
-    "stAt": 1687359600,
-    "endAt": "1688342399",
-    "url": "https://news.pokemon-home.com/tc/page/298.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028409_42461685520632.png",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
