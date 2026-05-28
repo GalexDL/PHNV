@@ -1,5 +1,21 @@
 [
   {
+    "id": "738",
+    "title": "【予告】シーズン12開催決定！",
+    "date": "2026-05-28",
+    "stAt": 1779948000,
+    "endAt": "1780552799",
+    "url": "https://news.pokemon-home.com/ja/page/738.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771469347_64451773197118.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "781",
     "title": "メンテナンス実施のお知らせ",
     "date": "2026-05-25",
@@ -7013,23 +7029,6 @@
     "endAt": "1691366399",
     "url": "https://news.pokemon-home.com/ja/page/266.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676038156_52331689158717.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "333",
-    "title": "2023年8月シーズン（シーズン9）開催中！",
-    "date": "2023-08-01",
-    "stAt": 1690862400,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/ja/page/333.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1690515202_80311695872801.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
