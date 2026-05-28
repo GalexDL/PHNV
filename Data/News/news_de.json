@@ -1,5 +1,21 @@
 [
   {
+    "id": "738",
+    "title": "Saison 12 beginnt bald!",
+    "date": "2026-05-28",
+    "stAt": 1779948000,
+    "endAt": "1780552799",
+    "url": "https://news.pokemon-home.com/de/page/738.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1771469347_64451776297235.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "781",
     "title": "Hinweis zu Wartungsarbeiten",
     "date": "2026-05-25",
@@ -6935,23 +6951,6 @@
     "endAt": "1689292799",
     "url": "https://news.pokemon-home.com/de/page/261.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1676037144_40261688100411.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "320",
-    "title": "Saison 8 der Rangkämpfe läuft!",
-    "date": "2023-07-01",
-    "stAt": 1688184000,
-    "endAt": "1690847999",
-    "url": "https://news.pokemon-home.com/de/page/320.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1687960226_9511687960406.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
