@@ -1,5 +1,21 @@
 [
   {
+    "id": "738",
+    "title": "Stagione 12 in arrivo!",
+    "date": "2026-05-28",
+    "stAt": 1779948000,
+    "endAt": "1780552799",
+    "url": "https://news.pokemon-home.com/it/page/738.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1771469347_64451776297211.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "781",
     "title": "Avviso di manutenzione",
     "date": "2026-05-25",
@@ -6935,23 +6951,6 @@
     "endAt": "1689292799",
     "url": "https://news.pokemon-home.com/it/page/261.html",
     "banner": "https://news.pokemon-home.com/it/page/banner/4_1676037144_40261688100393.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "320",
-    "title": "È iniziata la stagione 8 delle Lotte Competitive!",
-    "date": "2023-07-01",
-    "stAt": 1688184000,
-    "endAt": "1690847999",
-    "url": "https://news.pokemon-home.com/it/page/320.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1687960226_9511687960361.jpg",
     "kindTxt": "Altri giochi",
     "infoTab": 2,
     "infoKind": 8,
