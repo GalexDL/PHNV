@@ -1,5 +1,22 @@
 [
   {
+    "id": "688",
+    "title": "最强的西狮海壬在黑色结晶的太晶团体战再次登场中！",
+    "date": "2026-05-29",
+    "stAt": 1780012800,
+    "endAt": "1780617599",
+    "url": "https://news.pokemon-home.com/sc/page/688.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1763482937_86961774866725.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "738",
     "title": "【预告】已决定将举办赛季12！",
     "date": "2026-05-28",
@@ -6969,22 +6986,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "321",
-    "title": "系统维护公告",
-    "date": "2023-06-30",
-    "stAt": 1688083200,
-    "endAt": "1688432399",
-    "url": "https://news.pokemon-home.com/sc/page/321.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "维护",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
