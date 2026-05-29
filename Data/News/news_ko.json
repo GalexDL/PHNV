@@ -1,5 +1,22 @@
 [
   {
+    "id": "688",
+    "title": "검은 결정 테라 레이드배틀에 최강의 누리레느가 재등장 중!",
+    "date": "2026-05-29",
+    "stAt": 1780012800,
+    "endAt": "1780617599",
+    "url": "https://news.pokemon-home.com/ko/page/688.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763482937_86961763623633.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "738",
     "title": "【예고】시즌 12 개최 결정!",
     "date": "2026-05-28",
@@ -6985,22 +7002,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "323",
-    "title": "「Pokémon LEGENDS 아르세우스」에서 잡은 우두머리 포켓몬 중 일부가 「커다란증표」를 입수할 수 없는 이상 현상에 대해",
-    "date": "2023-07-04",
-    "stAt": 1688455800,
-    "endAt": "1690815599",
-    "url": "https://news.pokemon-home.com/ko/page/323.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "소식",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
