@@ -1,5 +1,22 @@
 [
   {
+    "id": "688",
+    "title": "黒い結晶のテラレイドバトルに最強のアシレーヌが再登場中！",
+    "date": "2026-05-29",
+    "stAt": 1780012800,
+    "endAt": "1780617599",
+    "url": "https://news.pokemon-home.com/ja/page/688.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763482937_86961763482958.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "738",
     "title": "【予告】シーズン12開催決定！",
     "date": "2026-05-28",
@@ -7018,23 +7035,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "266",
-    "title": "黒い結晶のテラレイドバトルに最強のゴリランダーが出現中！",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1691366399",
-    "url": "https://news.pokemon-home.com/ja/page/266.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1676038156_52331689158717.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
