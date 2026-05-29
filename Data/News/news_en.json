@@ -1,5 +1,22 @@
 [
   {
+    "id": "688",
+    "title": "Face a Mighty Primarina!",
+    "date": "2026-05-29",
+    "stAt": 1780012800,
+    "endAt": "1780617599",
+    "url": "https://news.pokemon-home.com/en/page/688.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763482937_86961773876261.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "738",
     "title": "Season 12 Coming Soon!",
     "date": "2026-05-28",
@@ -6940,23 +6957,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "261",
-    "title": "Prepare to Face a Mighty Delphox!",
-    "date": "2023-07-03",
-    "stAt": 1688342400,
-    "endAt": "1689292799",
-    "url": "https://news.pokemon-home.com/en/page/261.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037144_40261688100358.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
