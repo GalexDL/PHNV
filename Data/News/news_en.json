@@ -1,5 +1,21 @@
 [
   {
+    "id": "773",
+    "title": "Mega Evolve Raichu in a Campaign Celebrating the Release of the Mobile Version of the Game!",
+    "date": "2026-06-03",
+    "stAt": 1780491600,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/en/page/773.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779114924_99761780095866.jpg",
+    "kindTxt": "Campaign",
+    "infoTab": 5,
+    "infoKind": 6,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "688",
     "title": "Face a Mighty Primarina!",
     "date": "2026-05-29",
