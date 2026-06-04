@@ -1,12 +1,28 @@
 [
   {
+    "id": "739",
+    "title": "シーズン12開催中！",
+    "date": "2026-06-04",
+    "stAt": 1780552800,
+    "endAt": "1782352799",
+    "url": "https://news.pokemon-home.com/ja/page/739.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1771469844_25591779858274.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "773",
     "title": "スマートフォン版配信記念キャンペーンで、ライチュウをメガシンカさせよう！",
     "date": "2026-06-03",
     "stAt": 1780491600,
     "endAt": "1788314399",
     "url": "https://news.pokemon-home.com/ja/page/773.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779114924_99761780022383.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779114924_99761780491799.jpg",
     "kindTxt": "キャンペーン",
     "infoTab": 5,
     "infoKind": 6,
@@ -7033,22 +7049,6 @@
     "kindTxt": "メンテナンス",
     "infoTab": 1,
     "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "330",
-    "title": "『Pokémon GO』から『Pokémon HOME』に転送したポケモンの経験値が異常になる不具合への対応について",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/ja/page/330.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "お知らせ",
-    "infoTab": 1,
-    "infoKind": 7,
     "linkRom": [
       "HM"
     ],
