@@ -1,12 +1,28 @@
 [
   {
+    "id": "739",
+    "title": "赛季12举办中！",
+    "date": "2026-06-04",
+    "stAt": 1780552800,
+    "endAt": "1782352799",
+    "url": "https://news.pokemon-home.com/sc/page/739.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1771469844_25591779699495.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "773",
     "title": "参与欢庆智能手机版发布企划活动，让雷丘超级进化吧！",
     "date": "2026-06-03",
     "stAt": 1780491600,
     "endAt": "1788314399",
     "url": "https://news.pokemon-home.com/sc/page/773.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1779114924_99761780277145.jpg",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1779114924_99761780491881.jpg",
     "kindTxt": "企划活动",
     "infoTab": 5,
     "infoKind": 6,
@@ -6979,23 +6995,6 @@
     "endAt": "1689292799",
     "url": "https://news.pokemon-home.com/sc/page/261.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1676037144_40261688100476.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "320",
-    "title": "2023年7月赛季（赛季8）现正举行！",
-    "date": "2023-07-01",
-    "stAt": 1688184000,
-    "endAt": "1690847999",
-    "url": "https://news.pokemon-home.com/sc/page/320.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1687960226_9511688028644.jpg",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
