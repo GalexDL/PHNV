@@ -1,5 +1,21 @@
 [
   {
+    "id": "739",
+    "title": "Saison 12 ist im Gange!",
+    "date": "2026-06-04",
+    "stAt": 1780552800,
+    "endAt": "1782352799",
+    "url": "https://news.pokemon-home.com/de/page/739.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1771469844_25591776368107.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "773",
     "title": "Lass Raichu dank einer Sonderaktion zur Veröffentlichung der Mobilgerät-Version des Spiels die Mega-Entwicklung durchführen!",
     "date": "2026-06-03",
@@ -6955,22 +6971,6 @@
     "kindTxt": "Neuigkeiten",
     "infoTab": 1,
     "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "322",
-    "title": "Informationen zum Update für mobile Geräte (Ver. 3.0.1)",
-    "date": "2023-07-04",
-    "stAt": 1688432400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/de/page/322.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Update",
-    "infoTab": 1,
-    "infoKind": 4,
     "linkRom": [
       "HM"
     ],
