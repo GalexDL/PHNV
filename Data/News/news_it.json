@@ -1,5 +1,21 @@
 [
   {
+    "id": "739",
+    "title": "È iniziata la stagione 12!",
+    "date": "2026-06-04",
+    "stAt": 1780552800,
+    "endAt": "1782352799",
+    "url": "https://news.pokemon-home.com/it/page/739.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1771469844_25591776368076.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "773",
     "title": "Fai megaevolvere Raichu per festeggiare l'uscita della versione per dispositivi mobili del gioco!",
     "date": "2026-06-03",
@@ -6955,22 +6971,6 @@
     "kindTxt": "Novità",
     "infoTab": 1,
     "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "322",
-    "title": "Aggiornamento dell'app per dispositivi mobili (ver. 3.0.1)",
-    "date": "2023-07-04",
-    "stAt": 1688432400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/it/page/322.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Aggiornamenti",
-    "infoTab": 1,
-    "infoKind": 4,
     "linkRom": [
       "HM"
     ],
