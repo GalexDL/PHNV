@@ -1,12 +1,28 @@
 [
   {
+    "id": "739",
+    "title": "賽季12舉辦中！",
+    "date": "2026-06-04",
+    "stAt": 1780552800,
+    "endAt": "1782352799",
+    "url": "https://news.pokemon-home.com/tc/page/739.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1771469844_25591779699589.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "773",
     "title": "參加智慧型手機版發佈紀念企畫，讓雷丘超級進化吧！",
     "date": "2026-06-03",
     "stAt": 1780491600,
     "endAt": "1788314399",
     "url": "https://news.pokemon-home.com/tc/page/773.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779114924_99761780277163.jpg",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779114924_99761780491902.jpg",
     "kindTxt": "企畫",
     "infoTab": 5,
     "infoKind": 6,
@@ -6979,23 +6995,6 @@
     "endAt": "1689292799",
     "url": "https://news.pokemon-home.com/tc/page/261.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037144_40261688100494.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "320",
-    "title": "2023年7月賽季（賽季8）舉辦中！",
-    "date": "2023-07-01",
-    "stAt": 1688184000,
-    "endAt": "1690847999",
-    "url": "https://news.pokemon-home.com/tc/page/320.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1687960226_9511687960544.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
