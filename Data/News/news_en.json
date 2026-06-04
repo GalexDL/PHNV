@@ -1,5 +1,21 @@
 [
   {
+    "id": "739",
+    "title": "Season 12 Underway!",
+    "date": "2026-06-04",
+    "stAt": 1780552800,
+    "endAt": "1782352799",
+    "url": "https://news.pokemon-home.com/en/page/739.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1771469844_25591776367959.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "773",
     "title": "Mega Evolve Raichu in a Campaign Celebrating the Release of the Mobile Version of the Game!",
     "date": "2026-06-03",
@@ -6955,22 +6971,6 @@
     "kindTxt": "News",
     "infoTab": 1,
     "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "322",
-    "title": "Update info for mobile devices (ver. 3.0.1)",
-    "date": "2023-07-04",
-    "stAt": 1688432400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/en/page/322.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Update",
-    "infoTab": 1,
-    "infoKind": 4,
     "linkRom": [
       "HM"
     ],
