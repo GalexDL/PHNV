@@ -1,5 +1,21 @@
 [
   {
+    "id": "739",
+    "title": "¡Empezó la 12.ª temporada!",
+    "date": "2026-06-04",
+    "stAt": 1780552800,
+    "endAt": "1782352799",
+    "url": "https://news.pokemon-home.com/es-la/page/739.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1771469844_25591776368296.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "773",
     "title": "¡Haz que Raichu megaevolucione con la campaña de celebración del lanzamiento de la versión para dispositivos móviles!",
     "date": "2026-06-03",
