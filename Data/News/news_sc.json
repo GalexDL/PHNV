@@ -1,5 +1,22 @@
 [
   {
+    "id": "689",
+    "title": "最强的轰擂金刚猩在黑色结晶的太晶团体战再次登场中！",
+    "date": "2026-06-05",
+    "stAt": 1780617600,
+    "endAt": "1781222399",
+    "url": "https://news.pokemon-home.com/sc/page/689.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1763483027_63011774867010.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "739",
     "title": "赛季12举办中！",
     "date": "2026-06-04",
@@ -6984,23 +7001,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "261",
-    "title": "【预告】黑色结晶的太晶团体战将出现最强的妖火红狐！",
-    "date": "2023-07-03",
-    "stAt": 1688342400,
-    "endAt": "1689292799",
-    "url": "https://news.pokemon-home.com/sc/page/261.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1676037144_40261688100476.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
