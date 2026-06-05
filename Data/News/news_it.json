@@ -1,5 +1,22 @@
 [
   {
+    "id": "689",
+    "title": "Affronta un fortissimo Rillaboom!",
+    "date": "2026-06-05",
+    "stAt": 1780617600,
+    "endAt": "1781222399",
+    "url": "https://news.pokemon-home.com/it/page/689.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1763483027_63011773362058.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "739",
     "title": "È iniziata la stagione 12!",
     "date": "2026-06-04",
@@ -6957,22 +6974,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "323",
-    "title": "Impossibilità di ottenere l'Emblema Grande e Grosso per alcuni Pokémon alfa catturati in <i>Leggende Pokémon: Arceus</i>",
-    "date": "2023-07-04",
-    "stAt": 1688455800,
-    "endAt": "1690815599",
-    "url": "https://news.pokemon-home.com/it/page/323.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Novità",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
