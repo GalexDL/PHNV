@@ -1,5 +1,22 @@
 [
   {
+    "id": "689",
+    "title": "검은 결정 테라 레이드배틀에 최강의 고릴타가 재등장 중!",
+    "date": "2026-06-05",
+    "stAt": 1780617600,
+    "endAt": "1781222399",
+    "url": "https://news.pokemon-home.com/ko/page/689.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763483027_63011763623694.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "739",
     "title": "시즌 12 개최 중!",
     "date": "2026-06-04",
@@ -6994,23 +7011,6 @@
     "endAt": "1691107199",
     "url": "https://news.pokemon-home.com/ko/page/264.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676037542_68141689238526.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "263",
-    "title": "검은 결정 테라 레이드배틀에 최강의 마폭시가 출현 중!",
-    "date": "2023-07-14",
-    "stAt": 1689292800,
-    "endAt": "1689551999",
-    "url": "https://news.pokemon-home.com/ko/page/263.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676037411_62981688607939.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
