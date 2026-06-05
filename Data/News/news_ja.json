@@ -1,5 +1,22 @@
 [
   {
+    "id": "689",
+    "title": "黒い結晶のテラレイドバトルに最強のゴリランダーが再登場中！",
+    "date": "2026-06-05",
+    "stAt": 1780617600,
+    "endAt": "1781222399",
+    "url": "https://news.pokemon-home.com/ja/page/689.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763483027_63011763483059.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "739",
     "title": "シーズン12開催中！",
     "date": "2026-06-04",
@@ -7035,22 +7052,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "334",
-    "title": "メンテナンス実施のお知らせ",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1691456399",
-    "url": "https://news.pokemon-home.com/ja/page/334.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "メンテナンス",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
