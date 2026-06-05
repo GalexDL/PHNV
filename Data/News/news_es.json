@@ -1,5 +1,22 @@
 [
   {
+    "id": "689",
+    "title": "¡Enfréntate al formidable Rillaboom!",
+    "date": "2026-06-05",
+    "stAt": 1780617600,
+    "endAt": "1781222399",
+    "url": "https://news.pokemon-home.com/es/page/689.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1763483027_63011773362083.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "739",
     "title": "¡Ha empezado la 12.ª temporada!",
     "date": "2026-06-04",
@@ -6957,22 +6974,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "323",
-    "title": "Acerca de ciertos Pokémon alfa capturados en <i>Leyendas Pokémon: Arceus</i> que no podían recibir el Emblema Enormidad",
-    "date": "2023-07-04",
-    "stAt": 1688455800,
-    "endAt": "1690815599",
-    "url": "https://news.pokemon-home.com/es/page/323.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Avisos",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
