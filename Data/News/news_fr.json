@@ -1,5 +1,22 @@
 [
   {
+    "id": "689",
+    "title": "Affrontez un Gorythmic redoutable !",
+    "date": "2026-06-05",
+    "stAt": 1780617600,
+    "endAt": "1781222399",
+    "url": "https://news.pokemon-home.com/fr/page/689.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1763483027_63011773362046.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "739",
     "title": "La saison 12 est en cours !",
     "date": "2026-06-04",
@@ -6957,22 +6974,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "323",
-    "title": "Concernant certains des Pokémon Barons attrapés dans <i>Légendes Pokémon : Arceus</i> ne pouvant pas recevoir d'Insigne Maxi",
-    "date": "2023-07-04",
-    "stAt": 1688455800,
-    "endAt": "1690815599",
-    "url": "https://news.pokemon-home.com/fr/page/323.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Actualités",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
