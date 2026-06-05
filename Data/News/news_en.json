@@ -1,5 +1,22 @@
 [
   {
+    "id": "689",
+    "title": "Face a Mighty Rillaboom!",
+    "date": "2026-06-05",
+    "stAt": 1780617600,
+    "endAt": "1781222399",
+    "url": "https://news.pokemon-home.com/en/page/689.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763483027_63011773362033.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "739",
     "title": "Season 12 Underway!",
     "date": "2026-06-04",
@@ -6957,22 +6974,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "323",
-    "title": "Regarding some alpha Pokémon caught in <i>Pokémon Legends: Arceus</i> not being able receive the Jumbo Mark",
-    "date": "2023-07-04",
-    "stAt": 1688455800,
-    "endAt": "1690815599",
-    "url": "https://news.pokemon-home.com/en/page/323.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "News",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
