@@ -1,5 +1,22 @@
 [
   {
+    "id": "690",
+    "title": "검은 결정 테라 레이드배틀에 최강의 에이스번이 재등장 중!",
+    "date": "2026-06-12",
+    "stAt": 1781222400,
+    "endAt": "1781827199",
+    "url": "https://news.pokemon-home.com/ko/page/690.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763483182_64951763623771.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "689",
     "title": "검은 결정 테라 레이드배틀에 최강의 고릴타가 재등장 중!",
     "date": "2026-06-05",
@@ -6994,23 +7011,6 @@
     "endAt": "1690761599",
     "url": "https://news.pokemon-home.com/ko/page/265.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676037795_88621689238645.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "264",
-    "title": "【예고】검은 결정 테라 레이드배틀에 최강의 고릴타가 출현!",
-    "date": "2023-07-17",
-    "stAt": 1689552000,
-    "endAt": "1691107199",
-    "url": "https://news.pokemon-home.com/ko/page/264.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676037542_68141689238526.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
