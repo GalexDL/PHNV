@@ -1,5 +1,21 @@
 [
   {
+    "id": "770",
+    "title": "¡Consigue el Blastoise especial del NAIC!",
+    "date": "2026-06-12",
+    "stAt": 1781272800,
+    "endAt": "1781506799",
+    "url": "https://news.pokemon-home.com/es/page/770.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1778541537_82721781044642.jpg",
+    "kindTxt": "Avisos",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "690",
     "title": "¡Enfréntate al formidable Cinderace!",
     "date": "2026-06-12",
