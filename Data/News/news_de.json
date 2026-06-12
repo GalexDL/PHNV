@@ -1,5 +1,21 @@
 [
   {
+    "id": "770",
+    "title": "Erhalte ein besonderes NAIC-Turtok!",
+    "date": "2026-06-12",
+    "stAt": 1781272800,
+    "endAt": "1781506799",
+    "url": "https://news.pokemon-home.com/de/page/770.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1778541537_82721781044608.jpg",
+    "kindTxt": "Neuigkeiten",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "690",
     "title": "Nimm es mit einem mächtigen Liberlo auf!",
     "date": "2026-06-12",
