@@ -1,5 +1,21 @@
 [
   {
+    "id": "770",
+    "title": "¡Consigue el Blastoise especial del NAIC!",
+    "date": "2026-06-12",
+    "stAt": 1781272800,
+    "endAt": "1781506799",
+    "url": "https://news.pokemon-home.com/es-la/page/770.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1778541537_82721781044893.jpg",
+    "kindTxt": "Noticias",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "739",
     "title": "¡Empezó la 12.ª temporada!",
     "date": "2026-06-04",
