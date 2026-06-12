@@ -1,5 +1,22 @@
 [
   {
+    "id": "690",
+    "title": "最强的闪焰王牌在黑色结晶的太晶团体战再次登场中！",
+    "date": "2026-06-12",
+    "stAt": 1781222400,
+    "endAt": "1781827199",
+    "url": "https://news.pokemon-home.com/sc/page/690.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1763483182_64951774867701.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "689",
     "title": "最强的轰擂金刚猩在黑色结晶的太晶团体战再次登场中！",
     "date": "2026-06-05",
@@ -6983,22 +7000,6 @@
     "kindTxt": "通知",
     "infoTab": 1,
     "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "322",
-    "title": "智能手机版数据更新公告（ver3.0.1）",
-    "date": "2023-07-04",
-    "stAt": 1688432400,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/sc/page/322.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "更新",
-    "infoTab": 1,
-    "infoKind": 4,
     "linkRom": [
       "HM"
     ],
