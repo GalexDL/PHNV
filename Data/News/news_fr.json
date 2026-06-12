@@ -1,5 +1,22 @@
 [
   {
+    "id": "690",
+    "title": "Affrontez un Pyrobut redoutable !",
+    "date": "2026-06-12",
+    "stAt": 1781222400,
+    "endAt": "1781827199",
+    "url": "https://news.pokemon-home.com/fr/page/690.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1763483182_64951773107282.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "689",
     "title": "Affrontez un Gorythmic redoutable !",
     "date": "2026-06-05",
@@ -6951,23 +6968,6 @@
     "endAt": "1689551999",
     "url": "https://news.pokemon-home.com/fr/page/263.html",
     "banner": "https://news.pokemon-home.com/fr/page/banner/3_1676037411_62981689282281.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "262",
-    "title": "Affrontez un Goupelin prodigieux !",
-    "date": "2023-07-07",
-    "stAt": 1688688000,
-    "endAt": "1688947199",
-    "url": "https://news.pokemon-home.com/fr/page/262.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1676037318_07131688675578.jpg",
     "kindTxt": "Autre(s) logiciel(s)",
     "infoTab": 2,
     "infoKind": 8,
