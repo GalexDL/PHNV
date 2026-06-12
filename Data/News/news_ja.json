@@ -1,5 +1,22 @@
 [
   {
+    "id": "690",
+    "title": "黒い結晶のテラレイドバトルに最強のエースバーンが再登場中！",
+    "date": "2026-06-12",
+    "stAt": 1781222400,
+    "endAt": "1781827199",
+    "url": "https://news.pokemon-home.com/ja/page/690.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763483182_64951763483201.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "689",
     "title": "黒い結晶のテラレイドバトルに最強のゴリランダーが再登場中！",
     "date": "2026-06-05",
@@ -7012,23 +7029,6 @@
     "endAt": "1692316799",
     "url": "https://news.pokemon-home.com/ja/page/327.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1689230020_84421691464472.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "326",
-    "title": "【予告】襲来！最強のミュウツー",
-    "date": "2023-08-08",
-    "stAt": 1691502000,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/ja/page/326.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1689229458_02171689229487.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
