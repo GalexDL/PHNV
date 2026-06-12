@@ -1,5 +1,22 @@
 [
   {
+    "id": "690",
+    "title": "Nimm es mit einem mächtigen Liberlo auf!",
+    "date": "2026-06-12",
+    "stAt": 1781222400,
+    "endAt": "1781827199",
+    "url": "https://news.pokemon-home.com/de/page/690.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1763483182_64951773107327.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "689",
     "title": "Nimm es mit einem mächtigen Gortrom auf!",
     "date": "2026-06-05",
@@ -6951,23 +6968,6 @@
     "endAt": "1689551999",
     "url": "https://news.pokemon-home.com/de/page/263.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1676037411_62981689282340.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "262",
-    "title": "Tritt einem mächtigen Fennexis entgegen!",
-    "date": "2023-07-07",
-    "stAt": 1688688000,
-    "endAt": "1688947199",
-    "url": "https://news.pokemon-home.com/de/page/262.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1676037318_07131688675793.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
