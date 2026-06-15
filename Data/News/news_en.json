@@ -1,5 +1,22 @@
 [
   {
+    "id": "774",
+    "title": "Maintenance Notice",
+    "date": "2026-06-15",
+    "stAt": 1781488800,
+    "endAt": "1781675999",
+    "url": "https://news.pokemon-home.com/en/page/774.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779115763_5111781201635.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "770",
     "title": "Get a Special NAIC Blastoise!",
     "date": "2026-06-12",
