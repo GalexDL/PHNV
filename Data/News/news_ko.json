@@ -1,5 +1,22 @@
 [
   {
+    "id": "774",
+    "title": "점검 실시 알림",
+    "date": "2026-06-15",
+    "stAt": 1781488800,
+    "endAt": "1781675999",
+    "url": "https://news.pokemon-home.com/ko/page/774.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1779115763_5111779937802.png",
+    "kindTxt": "점검",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "690",
     "title": "검은 결정 테라 레이드배틀에 최강의 에이스번이 재등장 중!",
     "date": "2026-06-12",
