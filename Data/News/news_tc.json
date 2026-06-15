@@ -1,5 +1,38 @@
 [
   {
+    "id": "784",
+    "title": "Nintendo Switch版與智慧型手機版的連動",
+    "date": "2026-06-15",
+    "stAt": 1781488800,
+    "endAt": "33338584799",
+    "url": "https://news.pokemon-home.com/tc/page/784.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781100961_38581781252805.png",
+    "kindTxt": "通知",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "774",
+    "title": "系統維護實施通知",
+    "date": "2026-06-15",
+    "stAt": 1781488800,
+    "endAt": "1781675999",
+    "url": "https://news.pokemon-home.com/tc/page/774.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779115763_5111779267171.png",
+    "kindTxt": "系統維護",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "690",
     "title": "最強的閃焰王牌在黑色結晶的太晶團體戰再次登場中！",
     "date": "2026-06-12",
