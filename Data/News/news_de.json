@@ -1,5 +1,102 @@
 [
   {
+    "id": "780",
+    "title": "Die Monatliche Challenge-Serie Juni 2026 findet bald statt!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1782698399",
+    "url": "https://news.pokemon-home.com/de/page/780.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779125203_491781249338.jpg",
+    "kindTxt": "Online-Turnier",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "779",
+    "title": "Kampfpässe für Saison M-3",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/de/page/779.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779124921_33981780615648.jpg",
+    "kindTxt": "Kampfpass",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "778",
+    "title": "Saison M-3 der Rangkämpfe ist im Gange!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/de/page/778.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779124614_33921781248660.jpg",
+    "kindTxt": "Rangkämpfe",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "777",
+    "title": "Standardauswahl M-B",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/de/page/777.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779124241_87661780096939.jpg",
+    "kindTxt": "Auswahl",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "Regelsatz M-B",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/de/page/776.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779123873_30081781247076.jpg",
+    "kindTxt": "Kampfregeln",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "775",
+    "title": "Wartungsarbeiten abgeschlossen",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1813244399",
+    "url": "https://news.pokemon-home.com/de/page/775.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779123694_7751781562526.png",
+    "kindTxt": "Wartung",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "774",
     "title": "Wartungsarbeiten",
     "date": "2026-06-15",
