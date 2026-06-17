@@ -1,5 +1,102 @@
 [
   {
+    "id": "780",
+    "title": "¡La Serie de Desafíos Mensuales de junio de 2026 está a punto de empezar!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1782698399",
+    "url": "https://news.pokemon-home.com/es-la/page/780.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1779125203_491781249397.jpg",
+    "kindTxt": "Torneos en línea",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "779",
+    "title": "Pases de combate de la temporada M-3",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/es-la/page/779.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1779124921_33981780615747.jpg",
+    "kindTxt": "Pase de combate",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "778",
+    "title": "¡La temporada M-3 de Combates Clasificatorios ya está en marcha!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/es-la/page/778.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1779124614_33921781248710.jpg",
+    "kindTxt": "Combates Clasificatorios",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "777",
+    "title": "Selección estándar M-B",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/es-la/page/777.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1779124241_87661780097017.jpg",
+    "kindTxt": "Selecciones",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "Reglamento M-B",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/es-la/page/776.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1779123873_30081781247129.jpg",
+    "kindTxt": "Reglamentos",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "775",
+    "title": "Aviso de finalización de mantenimiento",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1813244399",
+    "url": "https://news.pokemon-home.com/es-la/page/775.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1779123694_7751781562598.png",
+    "kindTxt": "Mantenimiento",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "774",
     "title": "Aviso de mantenimiento",
     "date": "2026-06-15",
