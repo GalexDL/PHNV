@@ -1,5 +1,102 @@
 [
   {
+    "id": "780",
+    "title": "The Monthly Challenge Series June 2026 Is Coming!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1782698399",
+    "url": "https://news.pokemon-home.com/en/page/780.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779125203_491781249181.jpg",
+    "kindTxt": "Online Competition",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "779",
+    "title": "Season M-3 Battle Passes",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/en/page/779.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779124921_33981780615485.jpg",
+    "kindTxt": "Battle Pass",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "778",
+    "title": "Ranked Battles Season M-3 Underway!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/en/page/778.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779124614_33921781248554.jpg",
+    "kindTxt": "Ranked Battles",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "777",
+    "title": "Regular Roster M-B",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/en/page/777.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779124241_87661780096712.jpg",
+    "kindTxt": "Roster",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "Regulation Set M-B",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/en/page/776.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779123873_30081781306338.jpg",
+    "kindTxt": "Regulations",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "775",
+    "title": "Maintenance Completion Notice",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1813244399",
+    "url": "https://news.pokemon-home.com/en/page/775.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779123694_7751781562384.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "774",
     "title": "Maintenance Notice",
     "date": "2026-06-15",
