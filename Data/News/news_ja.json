@@ -1,5 +1,118 @@
 [
   {
+    "id": "783",
+    "title": "メンバーシップで追加される戦闘曲について",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1835503199",
+    "url": "https://news.pokemon-home.com/ja/page/783.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1780997765_80711781100208.png",
+    "kindTxt": "お知らせ",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "780",
+    "title": "「マンスリーチャレンジシリーズ 2026.06」開催！",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1782698399",
+    "url": "https://news.pokemon-home.com/ja/page/780.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779125203_491781249084.jpg",
+    "kindTxt": "オンライン大会",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "779",
+    "title": "「バトルパス シーズンM-3」について",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/ja/page/779.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779124921_33981779761763.jpg",
+    "kindTxt": "バトルパス",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "778",
+    "title": "「ランクバトル シーズンM-3」 開催中！",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/ja/page/778.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779124614_33921781248415.jpg",
+    "kindTxt": "ランクバトル",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "777",
+    "title": "「スタンダードセレクトM-B」について",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/ja/page/777.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779124241_87661779958775.jpg",
+    "kindTxt": "セレクト",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "「レギュレーションM-B」について",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/ja/page/776.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779123873_30081781246834.jpg",
+    "kindTxt": "レギュレーション",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "775",
+    "title": "6月17日（水）『Pokémon Champions』更新データ配信のお知らせ",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1813244399",
+    "url": "https://news.pokemon-home.com/ja/page/775.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779123694_7751781267454.png",
+    "kindTxt": "メンテナンス",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "784",
     "title": "スマートフォン版をNintendo Switch版と同じアカウントで遊ぶには",
     "date": "2026-06-15",
