@@ -1,5 +1,118 @@
 [
   {
+    "id": "783",
+    "title": "關於會員服務中將追加的戰鬥音樂",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1835503199",
+    "url": "https://news.pokemon-home.com/tc/page/783.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1780997765_80711781600216.png",
+    "kindTxt": "通知",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "780",
+    "title": "「每月挑戰系列賽 2026.06」登場！",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1782698399",
+    "url": "https://news.pokemon-home.com/tc/page/780.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779125203_491781264609.jpg",
+    "kindTxt": "線上大賽",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "779",
+    "title": "關於「對戰證賽季M-3」",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/tc/page/779.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779124921_33981781263724.jpg",
+    "kindTxt": "對戰證",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "778",
+    "title": "「級別對戰賽季M-3」現正舉辦中！",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/tc/page/778.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779124614_33921781260616.jpg",
+    "kindTxt": "級別對戰",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "777",
+    "title": "關於標準精選M-B",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/tc/page/777.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779124241_87661781259513.jpg",
+    "kindTxt": "精選",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "關於「賽制M-B」",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/tc/page/776.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779123873_30081781257114.jpg",
+    "kindTxt": "賽制",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "775",
+    "title": "6月17日《Pokémon Champions》更新資料發佈公告",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1813244399",
+    "url": "https://news.pokemon-home.com/tc/page/775.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779123694_7751781505888.png",
+    "kindTxt": "系統維護",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "784",
     "title": "Nintendo Switch版與智慧型手機版的連動",
     "date": "2026-06-15",
