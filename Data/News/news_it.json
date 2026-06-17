@@ -1,5 +1,102 @@
 [
   {
+    "id": "780",
+    "title": "È in arrivo la Sfida mensile di giugno 2026!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1782698399",
+    "url": "https://news.pokemon-home.com/it/page/780.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1779125203_491781249308.jpg",
+    "kindTxt": "Gare Online",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "779",
+    "title": "Pass lotta della stagione M-3",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/it/page/779.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1779124921_33981780615590.jpg",
+    "kindTxt": "Pass lotta",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "778",
+    "title": "È in corso la stagione M-3 delle Lotte Competitive!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/it/page/778.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1779124614_33921781248632.jpg",
+    "kindTxt": "Lotte Competitive",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "777",
+    "title": "Selezione base M-B",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/it/page/777.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1779124241_87661780096837.jpg",
+    "kindTxt": "Selezioni",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "Regolamento M-B",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/it/page/776.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1779123873_30081781247048.jpg",
+    "kindTxt": "Regolamento",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "775",
+    "title": "Manutenzione completata",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1813244399",
+    "url": "https://news.pokemon-home.com/it/page/775.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1779123694_7751781562472.png",
+    "kindTxt": "Manutenzione",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "774",
     "title": "Avviso di manutenzione",
     "date": "2026-06-15",
