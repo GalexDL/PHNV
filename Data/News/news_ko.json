@@ -1,5 +1,134 @@
 [
   {
+    "id": "783",
+    "title": "멤버십에 추가되는 배틀 음악에 대해",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1835503199",
+    "url": "https://news.pokemon-home.com/ko/page/783.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1780997765_80711781242510.png",
+    "kindTxt": "소식",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "780",
+    "title": "「Monthly Challenge Series 2026.06」 개최!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1782698399",
+    "url": "https://news.pokemon-home.com/ko/page/780.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1779125203_491781249422.jpg",
+    "kindTxt": "온라인 대회",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "779",
+    "title": "배틀 패스 「시즌 M-3」에 대해",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/ko/page/779.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1779124921_33981779865776.jpg",
+    "kindTxt": "배틀 패스",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "778",
+    "title": "「랭크배틀 시즌 M-3」 개최 중!",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1783475999",
+    "url": "https://news.pokemon-home.com/ko/page/778.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1779124614_33921781248730.jpg",
+    "kindTxt": "랭크배틀",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "777",
+    "title": "스탠더드 셀렉트 M-B에 대해",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/ko/page/777.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1779124241_87661779938760.jpg",
+    "kindTxt": "셀렉트",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "「레귤레이션 M-B」에 대해",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788314399",
+    "url": "https://news.pokemon-home.com/ko/page/776.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1779123873_30081781247155.jpg",
+    "kindTxt": "레귤레이션",
+    "infoTab": 5,
+    "infoKind": 12,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "775",
+    "title": "6월 17일(수) 「Pokémon Champions」 업데이트 데이터 배포 안내",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1813244399",
+    "url": "https://news.pokemon-home.com/ko/page/775.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1779123694_7751781481862.png",
+    "kindTxt": "점검",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "784",
+    "title": "스마트폰 버전을 Nintendo Switch 버전과 동일한 어카운트로 플레이하려면?",
+    "date": "2026-06-15",
+    "stAt": 1781488800,
+    "endAt": "33338584799",
+    "url": "https://news.pokemon-home.com/ko/page/784.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781100961_38581781255052.png",
+    "kindTxt": "소식",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "774",
     "title": "점검 실시 알림",
     "date": "2026-06-15",
