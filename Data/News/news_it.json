@@ -1,5 +1,21 @@
 [
   {
+    "id": "771",
+    "title": "Stagione 13 in arrivo!",
+    "date": "2026-06-18",
+    "stAt": 1781762400,
+    "endAt": "1782367199",
+    "url": "https://news.pokemon-home.com/it/page/771.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1779010561_1661780612527.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "780",
     "title": "È in arrivo la Sfida mensile di giugno 2026!",
     "date": "2026-06-17",
@@ -7081,23 +7097,6 @@
     "endAt": "1691107199",
     "url": "https://news.pokemon-home.com/it/page/264.html",
     "banner": "https://news.pokemon-home.com/it/page/banner/4_1676037542_68141689287157.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "263",
-    "title": "Affronta un fortissimo Delphox!",
-    "date": "2023-07-14",
-    "stAt": 1689292800,
-    "endAt": "1689551999",
-    "url": "https://news.pokemon-home.com/it/page/263.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1676037411_62981689282703.jpg",
     "kindTxt": "Altri giochi",
     "infoTab": 2,
     "infoKind": 8,
