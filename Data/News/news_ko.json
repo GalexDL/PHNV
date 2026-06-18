@@ -1,5 +1,21 @@
 [
   {
+    "id": "771",
+    "title": "【예고】시즌 13 개최 결정!",
+    "date": "2026-06-18",
+    "stAt": 1781762400,
+    "endAt": "1782367199",
+    "url": "https://news.pokemon-home.com/ko/page/771.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1779010561_1661780883169.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "783",
     "title": "멤버십에 추가되는 배틀 음악에 대해",
     "date": "2026-06-17",
@@ -7140,23 +7156,6 @@
     "endAt": "1693526399",
     "url": "https://news.pokemon-home.com/ko/page/333.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1690515202_80311695872941.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "265",
-    "title": "검은 결정 테라 레이드배틀에 최강의 고릴타가 출현 중!",
-    "date": "2023-07-28",
-    "stAt": 1690502400,
-    "endAt": "1690761599",
-    "url": "https://news.pokemon-home.com/ko/page/265.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676037795_88621689238645.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
