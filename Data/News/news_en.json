@@ -1,5 +1,21 @@
 [
   {
+    "id": "771",
+    "title": "Season 13 Coming Soon!",
+    "date": "2026-06-18",
+    "stAt": 1781762400,
+    "endAt": "1782367199",
+    "url": "https://news.pokemon-home.com/en/page/771.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779010561_1661780612473.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "780",
     "title": "The Monthly Challenge Series June 2026 Is Coming!",
     "date": "2026-06-17",
@@ -7081,23 +7097,6 @@
     "endAt": "1691107199",
     "url": "https://news.pokemon-home.com/en/page/264.html",
     "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037542_68141689286134.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "263",
-    "title": "Face a Mighty Delphox!",
-    "date": "2023-07-14",
-    "stAt": 1689292800,
-    "endAt": "1689551999",
-    "url": "https://news.pokemon-home.com/en/page/263.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037411_62981689282246.jpg",
     "kindTxt": "Other Games",
     "infoTab": 2,
     "infoKind": 8,
