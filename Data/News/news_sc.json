@@ -1,5 +1,21 @@
 [
   {
+    "id": "771",
+    "title": "【预告】已决定将举办赛季13！",
+    "date": "2026-06-18",
+    "stAt": 1781762400,
+    "endAt": "1782367199",
+    "url": "https://news.pokemon-home.com/sc/page/771.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1779010561_1661781077847.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "783",
     "title": "关于会员服务中追加的战斗音乐",
     "date": "2026-06-17",
@@ -7132,22 +7148,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "323",
-    "title": "关于在《宝可梦传说 阿尔宙斯》中捉到的部分头目无法获得“大个子之证”的异常问题",
-    "date": "2023-07-04",
-    "stAt": 1688455800,
-    "endAt": "1690815599",
-    "url": "https://news.pokemon-home.com/sc/page/323.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "通知",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
