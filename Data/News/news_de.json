@@ -1,5 +1,21 @@
 [
   {
+    "id": "771",
+    "title": "Saison 13 beginnt bald!",
+    "date": "2026-06-18",
+    "stAt": 1781762400,
+    "endAt": "1782367199",
+    "url": "https://news.pokemon-home.com/de/page/771.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779010561_1661780612547.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "780",
     "title": "Die Monatliche Challenge-Serie Juni 2026 findet bald statt!",
     "date": "2026-06-17",
@@ -7081,23 +7097,6 @@
     "endAt": "1691107199",
     "url": "https://news.pokemon-home.com/de/page/264.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1676037542_68141689287192.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "263",
-    "title": "Tritt einem mächtigen Fennexis entgegen!",
-    "date": "2023-07-14",
-    "stAt": 1689292800,
-    "endAt": "1689551999",
-    "url": "https://news.pokemon-home.com/de/page/263.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1676037411_62981689282340.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
