@@ -1,5 +1,21 @@
 [
   {
+    "id": "771",
+    "title": "La saison 13 démarre bientôt !",
+    "date": "2026-06-18",
+    "stAt": 1781762400,
+    "endAt": "1782367199",
+    "url": "https://news.pokemon-home.com/fr/page/771.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1779010561_1661780612505.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "780",
     "title": "Le Défi Mensuel de juin 2026 va bientôt commencer !",
     "date": "2026-06-17",
@@ -7081,23 +7097,6 @@
     "endAt": "1691107199",
     "url": "https://news.pokemon-home.com/fr/page/264.html",
     "banner": "https://news.pokemon-home.com/fr/page/banner/3_1676037542_68141689286174.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "263",
-    "title": "Affrontez un Goupelin prodigieux !",
-    "date": "2023-07-14",
-    "stAt": 1689292800,
-    "endAt": "1689551999",
-    "url": "https://news.pokemon-home.com/fr/page/263.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1676037411_62981689282281.jpg",
     "kindTxt": "Autre(s) logiciel(s)",
     "infoTab": 2,
     "infoKind": 8,
