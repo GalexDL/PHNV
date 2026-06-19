@@ -1,5 +1,22 @@
 [
   {
+    "id": "691",
+    "title": "¡Enfréntate al formidable Inteleon!",
+    "date": "2026-06-19",
+    "stAt": 1781827200,
+    "endAt": "1782431999",
+    "url": "https://news.pokemon-home.com/es/page/691.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1763483285_42741773105148.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "771",
     "title": "¡13.ª temporada de Combates Clasificatorios!",
     "date": "2026-06-18",
@@ -12,6 +29,22 @@
     "infoKind": 8,
     "linkRom": [
       "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "783",
+    "title": "Música de combate exclusiva de la membresía",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1835503199",
+    "url": "https://news.pokemon-home.com/es/page/783.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1780997765_80711781737406.png",
+    "kindTxt": "Avisos",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
     ],
     "isImportant": 0
   },
@@ -7080,23 +7113,6 @@
     "endAt": "1690761599",
     "url": "https://news.pokemon-home.com/es/page/265.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1676037795_88621690394890.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "264",
-    "title": "¡Prepárate para hacerle frente al increíble Rillaboom!",
-    "date": "2023-07-17",
-    "stAt": 1689552000,
-    "endAt": "1691107199",
-    "url": "https://news.pokemon-home.com/es/page/264.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1676037542_68141689286588.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
