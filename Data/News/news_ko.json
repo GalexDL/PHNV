@@ -1,5 +1,22 @@
 [
   {
+    "id": "691",
+    "title": "검은 결정 테라 레이드배틀에 최강의 인텔리레온이 재등장 중!",
+    "date": "2026-06-19",
+    "stAt": 1781827200,
+    "endAt": "1782431999",
+    "url": "https://news.pokemon-home.com/ko/page/691.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763483285_42741763623855.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "771",
     "title": "【예고】시즌 13 개최 결정!",
     "date": "2026-06-18",
@@ -7139,23 +7156,6 @@
     "endAt": "1691366399",
     "url": "https://news.pokemon-home.com/ko/page/266.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676038156_52331689238752.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "333",
-    "title": "2023년 8월 시즌(시즌 9) 개최 중!",
-    "date": "2023-08-01",
-    "stAt": 1690862400,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/ko/page/333.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1690515202_80311695872941.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
