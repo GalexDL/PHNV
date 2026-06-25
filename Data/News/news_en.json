@@ -1,5 +1,21 @@
 [
   {
+    "id": "772",
+    "title": "Season 13 Underway!",
+    "date": "2026-06-25",
+    "stAt": 1782367200,
+    "endAt": "1784167199",
+    "url": "https://news.pokemon-home.com/en/page/772.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779011937_09411780612745.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "691",
     "title": "Face a Mighty Inteleon!",
     "date": "2026-06-19",
@@ -33,13 +49,29 @@
     "isImportant": 0
   },
   {
+    "id": "783",
+    "title": "Membership Perk: Additional Battle Songs",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1835503199",
+    "url": "https://news.pokemon-home.com/en/page/783.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1780997765_80711781739570.png",
+    "kindTxt": "News",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "780",
     "title": "The Monthly Challenge Series June 2026 Is Coming!",
     "date": "2026-06-17",
     "stAt": 1781676000,
     "endAt": "1782698399",
     "url": "https://news.pokemon-home.com/en/page/780.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779125203_491781249181.jpg",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779125203_491781841407.jpg",
     "kindTxt": "Online Competition",
     "infoTab": 5,
     "infoKind": 13,
@@ -7080,23 +7112,6 @@
     "endAt": "1693526399",
     "url": "https://news.pokemon-home.com/en/page/333.html",
     "banner": "https://news.pokemon-home.com/en/page/banner/2_1690515202_80311695872823.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "265",
-    "title": "Face a Mighty Rillaboom!",
-    "date": "2023-07-28",
-    "stAt": 1690502400,
-    "endAt": "1690761599",
-    "url": "https://news.pokemon-home.com/en/page/265.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676037795_88621690394334.jpg",
     "kindTxt": "Other Games",
     "infoTab": 2,
     "infoKind": 8,
