@@ -1,5 +1,21 @@
 [
   {
+    "id": "772",
+    "title": "¡Ha empezado la 13.ª temporada!",
+    "date": "2026-06-25",
+    "stAt": 1782367200,
+    "endAt": "1784167199",
+    "url": "https://news.pokemon-home.com/es/page/772.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1779011937_09411780612832.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "691",
     "title": "¡Enfréntate al formidable Inteleon!",
     "date": "2026-06-19",
@@ -55,7 +71,7 @@
     "stAt": 1781676000,
     "endAt": "1782698399",
     "url": "https://news.pokemon-home.com/es/page/780.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1779125203_491781249371.jpg",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1779125203_491781842178.jpg",
     "kindTxt": "Torneo en línea",
     "infoTab": 5,
     "infoKind": 13,
@@ -7096,23 +7112,6 @@
     "endAt": "1693526399",
     "url": "https://news.pokemon-home.com/es/page/333.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1690515202_80311695872920.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "265",
-    "title": "¡Enfréntate al formidable Rillaboom!",
-    "date": "2023-07-28",
-    "stAt": 1690502400,
-    "endAt": "1690761599",
-    "url": "https://news.pokemon-home.com/es/page/265.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1676037795_88621690394890.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
