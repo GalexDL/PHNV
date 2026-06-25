@@ -1,5 +1,21 @@
 [
   {
+    "id": "772",
+    "title": "Saison 13 ist im Gange!",
+    "date": "2026-06-25",
+    "stAt": 1782367200,
+    "endAt": "1784167199",
+    "url": "https://news.pokemon-home.com/de/page/772.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779011937_09411780612809.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "691",
     "title": "Nimm es mit einem mächtigen Intelleon auf!",
     "date": "2026-06-19",
@@ -55,7 +71,7 @@
     "stAt": 1781676000,
     "endAt": "1782698399",
     "url": "https://news.pokemon-home.com/de/page/780.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779125203_491781249338.jpg",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1779125203_491781842097.jpg",
     "kindTxt": "Online-Turnier",
     "infoTab": 5,
     "infoKind": 13,
@@ -7096,23 +7112,6 @@
     "endAt": "1693526399",
     "url": "https://news.pokemon-home.com/de/page/333.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1690515202_80311695872901.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "265",
-    "title": "Tritt einem mächtigen Gortrom entgegen!",
-    "date": "2023-07-28",
-    "stAt": 1690502400,
-    "endAt": "1690761599",
-    "url": "https://news.pokemon-home.com/de/page/265.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1676037795_88621690394835.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
