@@ -1,5 +1,21 @@
 [
   {
+    "id": "772",
+    "title": "¡Empezó la 13.ª temporada!",
+    "date": "2026-06-25",
+    "stAt": 1782367200,
+    "endAt": "1784167199",
+    "url": "https://news.pokemon-home.com/es-la/page/772.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1779011937_09411780612858.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "771",
     "title": "¡13.ª temporada de Combates Clasificatorios!",
     "date": "2026-06-18",
@@ -16,13 +32,29 @@
     "isImportant": 0
   },
   {
+    "id": "783",
+    "title": "Música de combate exclusiva de la membresía",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1835503199",
+    "url": "https://news.pokemon-home.com/es-la/page/783.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1780997765_80711781821301.png",
+    "kindTxt": "Noticias",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "780",
     "title": "¡La Serie de Desafíos Mensuales de junio de 2026 está a punto de empezar!",
     "date": "2026-06-17",
     "stAt": 1781676000,
     "endAt": "1782698399",
     "url": "https://news.pokemon-home.com/es-la/page/780.html",
-    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1779125203_491781249397.jpg",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1779125203_491781842264.jpg",
     "kindTxt": "Torneos en línea",
     "infoTab": 5,
     "infoKind": 13,
