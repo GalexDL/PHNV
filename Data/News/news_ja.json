@@ -1,5 +1,21 @@
 [
   {
+    "id": "772",
+    "title": "シーズン13開催中！",
+    "date": "2026-06-25",
+    "stAt": 1782367200,
+    "endAt": "1784167199",
+    "url": "https://news.pokemon-home.com/ja/page/772.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779011937_09411780552515.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "691",
     "title": "黒い結晶のテラレイドバトルに最強のインテレオンが再登場中！",
     "date": "2026-06-19",
@@ -7180,23 +7196,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "324",
-    "title": "『ポケットモンスター ソード・シールド』のバトルデータ更新終了について",
-    "date": "2023-08-14",
-    "stAt": 1691971200,
-    "endAt": "1698764399",
-    "url": "https://news.pokemon-home.com/ja/page/324.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SW",
-      "SH"
     ],
     "isImportant": 0
   }
