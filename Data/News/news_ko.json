@@ -1,5 +1,21 @@
 [
   {
+    "id": "772",
+    "title": "시즌 13 개최 중!",
+    "date": "2026-06-25",
+    "stAt": 1782367200,
+    "endAt": "1784167199",
+    "url": "https://news.pokemon-home.com/ko/page/772.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1779011937_09411780883595.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "691",
     "title": "검은 결정 테라 레이드배틀에 최강의 인텔리레온이 재등장 중!",
     "date": "2026-06-19",
@@ -7145,23 +7161,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "266",
-    "title": "검은 결정 테라 레이드배틀에 최강의 고릴타가 출현 중!",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1691366399",
-    "url": "https://news.pokemon-home.com/ko/page/266.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1676038156_52331689238752.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
