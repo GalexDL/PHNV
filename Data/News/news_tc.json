@@ -1,5 +1,21 @@
 [
   {
+    "id": "772",
+    "title": "賽季13舉辦中！",
+    "date": "2026-06-25",
+    "stAt": 1782367200,
+    "endAt": "1784167199",
+    "url": "https://news.pokemon-home.com/tc/page/772.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1779011937_09411781070652.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "691",
     "title": "最強的千面避役在黑色結晶的太晶團體戰再次登場中！",
     "date": "2026-06-19",
@@ -7125,23 +7141,6 @@
     "endAt": "1691107199",
     "url": "https://news.pokemon-home.com/tc/page/264.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037542_68141689151911.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "263",
-    "title": "最強的妖火紅狐在黑色結晶的太晶團體戰出現中！",
-    "date": "2023-07-14",
-    "stAt": 1689292800,
-    "endAt": "1689551999",
-    "url": "https://news.pokemon-home.com/tc/page/263.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037411_62981688536571.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
