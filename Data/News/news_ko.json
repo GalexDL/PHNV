@@ -1,5 +1,22 @@
 [
   {
+    "id": "692",
+    "title": "검은 결정 테라 레이드배틀에 최강의 모크나이퍼(히스이의 모습)가 재등장 중!",
+    "date": "2026-06-26",
+    "stAt": 1782432000,
+    "endAt": "1783036799",
+    "url": "https://news.pokemon-home.com/ko/page/692.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763483405_80061763623944.png",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "772",
     "title": "시즌 13 개최 중!",
     "date": "2026-06-25",
@@ -7143,22 +7160,6 @@
     "kindTxt": "점검",
     "infoTab": 1,
     "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "330",
-    "title": "「Pokémon GO」에서 「Pokémon HOME」으로 전송한 포켓몬의 경험치가 이상해지는 이상 현상 대응에 대해",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/ko/page/330.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "소식",
-    "infoTab": 1,
-    "infoKind": 7,
     "linkRom": [
       "HM"
     ],
