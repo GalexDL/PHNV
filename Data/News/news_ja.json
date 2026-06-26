@@ -1,5 +1,22 @@
 [
   {
+    "id": "692",
+    "title": "黒い結晶のテラレイドバトルに最強のジュナイパー（ヒスイのすがた）が再登場中！",
+    "date": "2026-06-26",
+    "stAt": 1782432000,
+    "endAt": "1783036799",
+    "url": "https://news.pokemon-home.com/ja/page/692.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763483405_80061763483432.png",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "772",
     "title": "シーズン13開催中！",
     "date": "2026-06-25",
@@ -7179,23 +7196,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "328",
-    "title": "輝けサポーター！最強のミュウツーへのウォームアップ！",
-    "date": "2023-08-18",
-    "stAt": 1692316800,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/ja/page/328.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1689230284_47671691464558.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
