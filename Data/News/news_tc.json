@@ -1,5 +1,22 @@
 [
   {
+    "id": "692",
+    "title": "最強的狙射樹梟（洗翠的樣子）在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-06-26",
+    "stAt": 1782432000,
+    "endAt": "1783036799",
+    "url": "https://news.pokemon-home.com/tc/page/692.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763483405_80061774868323.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "772",
     "title": "賽季13舉辦中！",
     "date": "2026-06-25",
@@ -7124,23 +7141,6 @@
     "endAt": "1690761599",
     "url": "https://news.pokemon-home.com/tc/page/265.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037795_88621689152079.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "264",
-    "title": "【預告】黑色結晶的太晶團體戰將出現最強的轟擂金剛猩！",
-    "date": "2023-07-17",
-    "stAt": 1689552000,
-    "endAt": "1691107199",
-    "url": "https://news.pokemon-home.com/tc/page/264.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676037542_68141689151911.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
