@@ -1,5 +1,21 @@
 [
   {
+    "id": "782",
+    "title": "Labores de mantenimiento del sistema",
+    "date": "2026-06-30",
+    "stAt": 1782777600,
+    "endAt": "1783295999",
+    "url": "https://news.pokemon-home.com/es/page/782.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_es.png",
+    "kindTxt": "Mantenimiento",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "692",
     "title": "¡Enfréntate al formidable Decidueye de Hisui!",
     "date": "2026-06-26",
@@ -7101,23 +7117,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "266",
-    "title": "¡Enfréntate al formidable Rillaboom!",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1691366399",
-    "url": "https://news.pokemon-home.com/es/page/266.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1676038156_52331690395236.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
