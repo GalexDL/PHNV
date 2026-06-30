@@ -1,5 +1,21 @@
 [
   {
+    "id": "782",
+    "title": "系统维护公告",
+    "date": "2026-06-30",
+    "stAt": 1782777600,
+    "endAt": "1783295999",
+    "url": "https://news.pokemon-home.com/sc/page/782.html",
+    "banner": "https://news.pokemon-home.com/resources/banner/gp/3/@maintenance_sc.png",
+    "kindTxt": "维护",
+    "infoTab": 1,
+    "infoKind": 3,
+    "linkRom": [
+      "HM"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "692",
     "title": "最强的狙射树枭（洗翠的样子）在黑色结晶的太晶团体战再次登场中！",
     "date": "2026-06-26",
@@ -7124,23 +7140,6 @@
     "endAt": "1693526399",
     "url": "https://news.pokemon-home.com/sc/page/333.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1690515202_80311695872961.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "265",
-    "title": "最强的轰擂金刚猩在黑色结晶的太晶团体战出现中！",
-    "date": "2023-07-28",
-    "stAt": 1690502400,
-    "endAt": "1690761599",
-    "url": "https://news.pokemon-home.com/sc/page/265.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1676037795_88621690343883.jpg",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
