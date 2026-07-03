@@ -1,5 +1,22 @@
 [
   {
+    "id": "693",
+    "title": "¡Enfréntate al formidable Typhlosion de Hisui!",
+    "date": "2026-07-03",
+    "stAt": 1783036800,
+    "endAt": "1783641599",
+    "url": "https://news.pokemon-home.com/es/page/693.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1763483552_15571772849068.png",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "782",
     "title": "Labores de mantenimiento del sistema",
     "date": "2026-06-30",
@@ -7085,22 +7102,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "334",
-    "title": "<b>Labores de mantenimiento</b>",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1691456399",
-    "url": "https://news.pokemon-home.com/es/page/334.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Mantenimiento",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   },
