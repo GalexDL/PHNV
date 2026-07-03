@@ -1,5 +1,22 @@
 [
   {
+    "id": "693",
+    "title": "最強的火爆獸（洗翠的樣子）在黑色結晶的太晶團體戰再次登場中！",
+    "date": "2026-07-03",
+    "stAt": 1783036800,
+    "endAt": "1783641599",
+    "url": "https://news.pokemon-home.com/tc/page/693.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1763483552_15571774869435.png",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "782",
     "title": "系統維護公告",
     "date": "2026-06-30",
@@ -7123,23 +7140,6 @@
     "endAt": "1691366399",
     "url": "https://news.pokemon-home.com/tc/page/266.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1676038156_52331690970112.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "333",
-    "title": "2023年8月賽季（賽季9）舉辦中！",
-    "date": "2023-08-01",
-    "stAt": 1690862400,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/tc/page/333.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1690515202_80311695872981.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
