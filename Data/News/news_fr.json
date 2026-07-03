@@ -1,5 +1,22 @@
 [
   {
+    "id": "693",
+    "title": "Affrontez un Typhlosion de Hisui redoutable !",
+    "date": "2026-07-03",
+    "stAt": 1783036800,
+    "endAt": "1783641599",
+    "url": "https://news.pokemon-home.com/fr/page/693.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1763483552_15571772849117.png",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "782",
     "title": "Annonce de maintenance du système",
     "date": "2026-06-30",
@@ -7101,23 +7118,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "266",
-    "title": "Affrontez un Gorythmic tapageur !",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1691366399",
-    "url": "https://news.pokemon-home.com/fr/page/266.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1676038156_52331690395093.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
