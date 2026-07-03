@@ -1,5 +1,22 @@
 [
   {
+    "id": "693",
+    "title": "검은 결정 테라 레이드배틀에 최강의 블레이범(히스이의 모습)이 재등장 중!",
+    "date": "2026-07-03",
+    "stAt": 1783036800,
+    "endAt": "1783641599",
+    "url": "https://news.pokemon-home.com/ko/page/693.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763483552_15571763624020.png",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "782",
     "title": "시스템 점검 실시 알림",
     "date": "2026-06-30",
@@ -7122,23 +7139,6 @@
     "endAt": "1692316799",
     "url": "https://news.pokemon-home.com/ko/page/327.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1689230020_84421691464495.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "326",
-    "title": "【예고】습격! 최강의 뮤츠",
-    "date": "2023-08-08",
-    "stAt": 1691502000,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/ko/page/326.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1689229458_02171690955256.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
