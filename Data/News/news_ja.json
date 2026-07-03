@@ -1,5 +1,22 @@
 [
   {
+    "id": "693",
+    "title": "黒い結晶のテラレイドバトルに最強のバクフーン（ヒスイのすがた）が再登場中！",
+    "date": "2026-07-03",
+    "stAt": 1783036800,
+    "endAt": "1783641599",
+    "url": "https://news.pokemon-home.com/ja/page/693.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763483552_15571763483578.png",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "782",
     "title": "システムメンテナンス実施のお知らせ",
     "date": "2026-06-30",
@@ -7173,23 +7190,6 @@
     "endAt": "1696132799",
     "url": "https://news.pokemon-home.com/ja/page/336.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1692267701_65151694400226.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "329",
-    "title": "襲来！最強のミュウツー",
-    "date": "2023-09-01",
-    "stAt": 1693526400,
-    "endAt": "1694995199",
-    "url": "https://news.pokemon-home.com/ja/page/329.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1689230798_27251692592621.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
