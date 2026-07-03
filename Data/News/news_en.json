@@ -1,5 +1,22 @@
 [
   {
+    "id": "693",
+    "title": "Face a Mighty Hisuian Typhlosion!",
+    "date": "2026-07-03",
+    "stAt": 1783036800,
+    "endAt": "1783641599",
+    "url": "https://news.pokemon-home.com/en/page/693.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1763483552_15571772849130.png",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "782",
     "title": "System Maintenance Notice",
     "date": "2026-06-30",
@@ -7101,23 +7118,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "266",
-    "title": "Face a Mighty Rillaboom!",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1691366399",
-    "url": "https://news.pokemon-home.com/en/page/266.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1676038156_52331690395028.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
