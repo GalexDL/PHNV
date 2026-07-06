@@ -1,5 +1,22 @@
 [
   {
+    "id": "798",
+    "title": "系統維護實施通知",
+    "date": "2026-07-06",
+    "stAt": 1783303200,
+    "endAt": "1783490399",
+    "url": "https://news.pokemon-home.com/tc/page/798.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781688746_05651781769719.png",
+    "kindTxt": "系統維護",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "693",
     "title": "最強的火爆獸（洗翠的樣子）在黑色結晶的太晶團體戰再次登場中！",
     "date": "2026-07-03",
