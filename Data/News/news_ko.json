@@ -1,5 +1,22 @@
 [
   {
+    "id": "798",
+    "title": "점검 실시 알림",
+    "date": "2026-07-06",
+    "stAt": 1783303200,
+    "endAt": "1783490399",
+    "url": "https://news.pokemon-home.com/ko/page/798.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781688746_05651782956048.png",
+    "kindTxt": "점검",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "693",
     "title": "검은 결정 테라 레이드배틀에 최강의 블레이범(히스이의 모습)이 재등장 중!",
     "date": "2026-07-03",
