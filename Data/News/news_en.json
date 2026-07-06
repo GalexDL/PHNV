@@ -1,5 +1,22 @@
 [
   {
+    "id": "798",
+    "title": "Maintenance Notice",
+    "date": "2026-07-06",
+    "stAt": 1783303200,
+    "endAt": "1783490399",
+    "url": "https://news.pokemon-home.com/en/page/798.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1781688746_05651782259452.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "693",
     "title": "Face a Mighty Hisuian Typhlosion!",
     "date": "2026-07-03",
