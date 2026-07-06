@@ -1,5 +1,22 @@
 [
   {
+    "id": "798",
+    "title": "メンテナンス実施のお知らせ",
+    "date": "2026-07-06",
+    "stAt": 1783303200,
+    "endAt": "1783490399",
+    "url": "https://news.pokemon-home.com/ja/page/798.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781688746_05651781690935.png",
+    "kindTxt": "メンテナンス",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "693",
     "title": "黒い結晶のテラレイドバトルに最強のバクフーン（ヒスイのすがた）が再登場中！",
     "date": "2026-07-03",
