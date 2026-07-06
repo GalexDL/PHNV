@@ -1,5 +1,22 @@
 [
   {
+    "id": "798",
+    "title": "Aviso de mantenimiento",
+    "date": "2026-07-06",
+    "stAt": 1783303200,
+    "endAt": "1783490399",
+    "url": "https://news.pokemon-home.com/es-la/page/798.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1781688746_05651782342134.png",
+    "kindTxt": "Mantenimiento",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "782",
     "title": "Tareas de mantenimiento del sistema",
     "date": "2026-06-30",
