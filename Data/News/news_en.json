@@ -1,5 +1,69 @@
 [
   {
+    "id": "801",
+    "title": "Maintenance Completion Notice",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1815058799",
+    "url": "https://news.pokemon-home.com/en/page/801.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1782872167_3411783451698.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 5,
+    "infoKind": 3,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "797",
+    "title": "The Monthly Challenge Series July 2026 Is Coming!",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785117599",
+    "url": "https://news.pokemon-home.com/en/page/797.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1781688618_20441783485647.jpg",
+    "kindTxt": "Online Competition",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "796",
+    "title": "Season M-4 Battle Passes",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/en/page/796.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1781686412_33911783027626.jpg",
+    "kindTxt": "Battle Pass",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "795",
+    "title": "Ranked Battles Season M-4 Underway!",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/en/page/795.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1781685749_49271783382062.jpg",
+    "kindTxt": "Ranked Battles",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "798",
     "title": "Maintenance Notice",
     "date": "2026-07-06",
