@@ -1,5 +1,69 @@
 [
   {
+    "id": "801",
+    "title": "Aviso de finalización de mantenimiento",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1815058799",
+    "url": "https://news.pokemon-home.com/es-la/page/801.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1782872167_3411783451832.png",
+    "kindTxt": "Mantenimiento",
+    "infoTab": 5,
+    "infoKind": 3,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "797",
+    "title": "¡La Serie de Desafíos Mensuales - Julio 2026 está a punto de empezar!",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785117599",
+    "url": "https://news.pokemon-home.com/es-la/page/797.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1781688618_20441783485726.jpg",
+    "kindTxt": "Torneos en línea",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "796",
+    "title": "Pases de combate de la temporada M-4",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/es-la/page/796.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1781686412_33911783027854.jpg",
+    "kindTxt": "Pase de combate",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "795",
+    "title": "¡La temporada M-4 de Combates Clasificatorios ya está en marcha!",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/es-la/page/795.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1781685749_49271783485183.jpg",
+    "kindTxt": "Combates Clasificatorios",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "798",
     "title": "Aviso de mantenimiento",
     "date": "2026-07-06",
