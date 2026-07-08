@@ -1,5 +1,69 @@
 [
   {
+    "id": "801",
+    "title": "Manutenzione completata",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1815058799",
+    "url": "https://news.pokemon-home.com/it/page/801.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1782872167_3411783451745.png",
+    "kindTxt": "Manutenzione",
+    "infoTab": 5,
+    "infoKind": 3,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "797",
+    "title": "È in arrivo la Sfida mensile di luglio 2026!",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785117599",
+    "url": "https://news.pokemon-home.com/it/page/797.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781688618_20441783485527.jpg",
+    "kindTxt": "Gare Online",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "796",
+    "title": "Pass lotta della stagione M-4",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/it/page/796.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781686412_33911783027677.jpg",
+    "kindTxt": "Pass lotta",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "795",
+    "title": "È in corso la stagione M-4 delle Lotte Competitive!",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/it/page/795.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781685749_49271783485054.jpg",
+    "kindTxt": "Lotte Competitive",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "798",
     "title": "Avviso di manutenzione",
     "date": "2026-07-06",
