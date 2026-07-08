@@ -1,5 +1,69 @@
 [
   {
+    "id": "801",
+    "title": "7月8日（水）『Pokémon Champions』更新データ配信のお知らせ",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1815058799",
+    "url": "https://news.pokemon-home.com/ja/page/801.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1782872167_3411782872248.png",
+    "kindTxt": "メンテナンス",
+    "infoTab": 5,
+    "infoKind": 3,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "797",
+    "title": "「マンスリーチャレンジシリーズ 2026.07」開催！",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785117599",
+    "url": "https://news.pokemon-home.com/ja/page/797.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781688618_20441783479895.jpg",
+    "kindTxt": "オンライン大会",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "796",
+    "title": "「バトルパス シーズンM-4」について",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/ja/page/796.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781686412_33911782802249.jpg",
+    "kindTxt": "バトルパス",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "795",
+    "title": "「ランクバトル シーズンM-4」 開催中！",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/ja/page/795.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781685749_49271783043104.jpg",
+    "kindTxt": "ランクバトル",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "798",
     "title": "メンテナンス実施のお知らせ",
     "date": "2026-07-06",
