@@ -1,5 +1,69 @@
 [
   {
+    "id": "801",
+    "title": "Avis de fin de maintenance",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1815058799",
+    "url": "https://news.pokemon-home.com/fr/page/801.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1782872167_3411783451723.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 5,
+    "infoKind": 3,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "797",
+    "title": "Le Défi Mensuel de juillet 2026 va bientôt commencer !",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785117599",
+    "url": "https://news.pokemon-home.com/fr/page/797.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1781688618_20441783485391.jpg",
+    "kindTxt": "Compétition en ligne",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "796",
+    "title": "Pass de combat saison M-4",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/fr/page/796.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1781686412_33911783027620.jpg",
+    "kindTxt": "Pass de combat",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "795",
+    "title": "La saison M-4 des combats classés est en cours !",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/fr/page/795.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1781685749_49271783484956.jpg",
+    "kindTxt": "Combats classés",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "798",
     "title": "Avis de maintenance",
     "date": "2026-07-06",
