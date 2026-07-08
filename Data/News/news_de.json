@@ -1,5 +1,69 @@
 [
   {
+    "id": "801",
+    "title": "Wartungsarbeiten abgeschlossen",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1815058799",
+    "url": "https://news.pokemon-home.com/de/page/801.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1782872167_3411783451770.png",
+    "kindTxt": "Wartung",
+    "infoTab": 5,
+    "infoKind": 3,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "797",
+    "title": "Die Monatliche Challenge-Serie Juli 2026 findet bald statt!",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785117599",
+    "url": "https://news.pokemon-home.com/de/page/797.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1781688618_20441783485676.jpg",
+    "kindTxt": "Online-Turnier",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "796",
+    "title": "Kampfpässe für Saison M-4",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/de/page/796.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1781686412_33911783027761.jpg",
+    "kindTxt": "Kampfpass",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "795",
+    "title": "Saison M-4 der Rangkämpfe ist im Gange!",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/de/page/795.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1781685749_49271783485083.jpg",
+    "kindTxt": "Rangkämpfe",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "798",
     "title": "Wartungshinweis",
     "date": "2026-07-06",
