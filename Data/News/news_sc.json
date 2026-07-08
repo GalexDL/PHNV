@@ -1,5 +1,69 @@
 [
   {
+    "id": "801",
+    "title": "7月8日《Pokémon Champions》更新数据发布通知",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1815058799",
+    "url": "https://news.pokemon-home.com/sc/page/801.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1782872167_3411782901771.png",
+    "kindTxt": "维护",
+    "infoTab": 5,
+    "infoKind": 3,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "797",
+    "title": "“月度挑战系列赛 2026.07”举办！",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785117599",
+    "url": "https://news.pokemon-home.com/sc/page/797.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781688618_20441783045156.jpg",
+    "kindTxt": "线上大赛",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "796",
+    "title": "关于“对战证 赛季M-4”",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/sc/page/796.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781686412_33911782807222.jpg",
+    "kindTxt": "对战证",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "795",
+    "title": "“级别对战赛季M-4”举办中！",
+    "date": "2026-07-08",
+    "stAt": 1783490400,
+    "endAt": "1785895199",
+    "url": "https://news.pokemon-home.com/sc/page/795.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781685749_49271783043354.jpg",
+    "kindTxt": "级别对战",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "798",
     "title": "维护通知",
     "date": "2026-07-06",
