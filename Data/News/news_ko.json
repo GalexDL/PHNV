@@ -1,5 +1,21 @@
 [
   {
+    "id": "789",
+    "title": "【예고】시즌 14(특별 시즌) 개최 결정!",
+    "date": "2026-07-09",
+    "stAt": 1783576800,
+    "endAt": "1784181599",
+    "url": "https://news.pokemon-home.com/ko/page/789.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781245811_18771781577752.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "801",
     "title": "7월 8일(수) 「Pokémon Champions」 업데이트 데이터 배포 안내",
     "date": "2026-07-08",
@@ -7220,23 +7236,6 @@
     "endAt": "1692316799",
     "url": "https://news.pokemon-home.com/ko/page/327.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1689230020_84421691464495.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "325",
-    "title": "나만의 뮤를 동료로 만들자!",
-    "date": "2023-08-08",
-    "stAt": 1691502000,
-    "endAt": "1695049199",
-    "url": "https://news.pokemon-home.com/ko/page/325.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1689228355_03131690954819.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
