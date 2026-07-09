@@ -1,5 +1,21 @@
 [
   {
+    "id": "789",
+    "title": "Saison 14 beginnt bald!",
+    "date": "2026-07-09",
+    "stAt": 1783576800,
+    "endAt": "1784181599",
+    "url": "https://news.pokemon-home.com/de/page/789.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1781245811_18771782855228.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "801",
     "title": "Wartungsarbeiten abgeschlossen",
     "date": "2026-07-08",
@@ -7183,22 +7199,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "330",
-    "title": "Maßnahmen bezüglich der fehlerhaften EP-Werte von Pokémon, die aus <i>Pokémon GO</i> auf <i>Pokémon HOME</i> übertragen wurden",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/de/page/330.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Neuigkeiten",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
