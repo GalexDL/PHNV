@@ -1,5 +1,21 @@
 [
   {
+    "id": "789",
+    "title": "La saison 14 démarre bientôt !",
+    "date": "2026-07-09",
+    "stAt": 1783576800,
+    "endAt": "1784181599",
+    "url": "https://news.pokemon-home.com/fr/page/789.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1781245811_18771782855127.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "801",
     "title": "Avis de fin de maintenance",
     "date": "2026-07-08",
@@ -7183,22 +7199,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "334",
-    "title": "<b>Annonce de maintenance</b>",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1691456399",
-    "url": "https://news.pokemon-home.com/fr/page/334.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Maintenance",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
