@@ -1,5 +1,21 @@
 [
   {
+    "id": "789",
+    "title": "¡14.ª temporada de Combates Clasificatorios!",
+    "date": "2026-07-09",
+    "stAt": 1783576800,
+    "endAt": "1784181599",
+    "url": "https://news.pokemon-home.com/es/page/789.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1781245811_18771782855266.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "801",
     "title": "Aviso de finalización del mantenimiento",
     "date": "2026-07-08",
@@ -7183,22 +7199,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "330",
-    "title": "Resolución de las anomalías en los Puntos de Experiencia de algunos Pokémon transferidos de <i>Pokémon GO</i> a <i>Pokémon HOME</i>",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/es/page/330.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Avisos",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
