@@ -1,5 +1,21 @@
 [
   {
+    "id": "789",
+    "title": "【予告】特別なシーズン（14）開催決定！",
+    "date": "2026-07-09",
+    "stAt": 1783576800,
+    "endAt": "1784181599",
+    "url": "https://news.pokemon-home.com/ja/page/789.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781245811_18771781667346.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "801",
     "title": "7月8日（水）『Pokémon Champions』更新データ配信のお知らせ",
     "date": "2026-07-08",
@@ -7254,23 +7270,6 @@
     "endAt": "1696118399",
     "url": "https://news.pokemon-home.com/ja/page/337.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1692697775_11651694601029.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "336",
-    "title": "【予告】レギュレーションＥについて",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696132799",
-    "url": "https://news.pokemon-home.com/ja/page/336.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1692267701_65151694400226.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
