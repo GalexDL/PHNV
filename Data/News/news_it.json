@@ -1,5 +1,90 @@
 [
   {
+    "id": "788",
+    "title": "Preparati per delle comparse massicce di Pokémon di tipo Acqua con vari emblemi!",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/it/page/788.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781166764_64941783372841.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "787",
+    "title": "Si pesca! Preparati per delle comparse massicce al Lago Gran Caldero!",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/it/page/787.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781166592_69081783372066.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "786",
+    "title": "Preparati ad affrontare un fortissimo... Magikarp?!",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/it/page/786.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781166292_24481783381359.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "785",
+    "title": "Preparati a immergerti in uno speciale evento stagionale!",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/it/page/785.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781166057_41821783380933.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "694",
+    "title": "Affronta un fortissimo Samurott di Hisui!",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/it/page/694.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1763483660_3361772847761.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "789",
     "title": "Stagione 14 in arrivo!",
     "date": "2026-07-09",
@@ -7114,91 +7199,6 @@
     "infoKind": 7,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "328",
-    "title": "La sfida contro Mewtwo si avvicina: stelle del supporto!",
-    "date": "2023-08-18",
-    "stAt": 1692316800,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/it/page/328.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1689230284_47671692294553.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "324",
-    "title": "Cessazione degli aggiornamenti della schermata lotte per <i>Pokémon Spada</i> e <i>Pokémon Scudo</i>",
-    "date": "2023-08-14",
-    "stAt": 1691971200,
-    "endAt": "1698764399",
-    "url": "https://news.pokemon-home.com/it/page/324.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SW",
-      "SH"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "327",
-    "title": "La sfida contro Mewtwo si avvicina: pronti all'offensiva!",
-    "date": "2023-08-09",
-    "stAt": 1691539200,
-    "endAt": "1692316799",
-    "url": "https://news.pokemon-home.com/it/page/327.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1689230020_84421691182077.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "326",
-    "title": "Preparati ad affrontare un fortissimo Mewtwo!",
-    "date": "2023-08-08",
-    "stAt": 1691502000,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/it/page/326.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1689229458_02171691174200.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "325",
-    "title": "Aggiungi un Mew tutto tuo alla squadra!",
-    "date": "2023-08-08",
-    "stAt": 1691502000,
-    "endAt": "1695049199",
-    "url": "https://news.pokemon-home.com/it/page/325.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1689228355_03131692400349.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
