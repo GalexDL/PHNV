@@ -1,5 +1,90 @@
 [
   {
+    "id": "788",
+    "title": "【预告】快来找一找！戴着各种证章的水属性宝可梦大量出现！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/sc/page/788.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781166764_64941783593109.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "787",
+    "title": "【预告】满满当当！？在大锅湖会有宝可梦大量出现！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/sc/page/787.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781166592_69081783592516.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "786",
+    "title": "【预告】跳跃！“最强”？的鲤鱼王！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/sc/page/786.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781166292_24481783592065.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "785",
+    "title": "【预告】和水属性的宝可梦一起享受夏天吧！举办特别的活动特设太晶团体战和大量出现活动！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/sc/page/785.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781166057_41821783588295.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "694",
+    "title": "最强的大剑鬼（洗翠的样子）在黑色结晶的太晶团体战再次登场中！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/sc/page/694.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1763483660_3361774869991.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "789",
     "title": "【预告】已决定将举办特殊赛季（14）！",
     "date": "2026-07-09",
@@ -7143,90 +7228,6 @@
     "linkRom": [
       "SW",
       "SH"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "327",
-    "title": "目标是成为攻击手！热身备战最强的超梦！",
-    "date": "2023-08-09",
-    "stAt": 1691539200,
-    "endAt": "1692316799",
-    "url": "https://news.pokemon-home.com/sc/page/327.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1689230020_84421691464512.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "326",
-    "title": "【预告】来袭！最强的超梦",
-    "date": "2023-08-08",
-    "stAt": 1691502000,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/sc/page/326.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1689229458_02171691134253.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "325",
-    "title": "让仅属于你的梦幻成为伙伴吧！",
-    "date": "2023-08-08",
-    "stAt": 1691502000,
-    "endAt": "1695049199",
-    "url": "https://news.pokemon-home.com/sc/page/325.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1689228355_03131691132266.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "330",
-    "title": "关于从《Pokémon GO》传送到《Pokémon HOME》的宝可梦经验值出现异常问题的对应措施",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1693493999",
-    "url": "https://news.pokemon-home.com/sc/page/330.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "通知",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "266",
-    "title": "最强的轰擂金刚猩在黑色结晶的太晶团体战出现中！",
-    "date": "2023-08-04",
-    "stAt": 1691107200,
-    "endAt": "1691366399",
-    "url": "https://news.pokemon-home.com/sc/page/266.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1676038156_52331690965761.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
