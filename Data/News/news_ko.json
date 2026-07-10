@@ -1,5 +1,90 @@
 [
   {
+    "id": "788",
+    "title": "【예고】찾아보자! 다양한 증표를 가진 물타입 포켓몬이 대량발생!",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ko/page/788.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781166764_64941782956445.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "787",
+    "title": "【예고】물 반 포켓몬 반!? 오야 호수에서 대량발생!",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ko/page/787.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781166592_69081782956228.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "786",
+    "title": "【예고】튀어올라라! 최강의 잉어킹...!?",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ko/page/786.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781166292_24481782956019.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "785",
+    "title": "【예고】물타입 포켓몬들과 함께 여름을 즐기자! 특별한 이벤트 테라 레이드배틀과 이벤트 대량발생을 개최!",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ko/page/785.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781166057_41821782956128.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "694",
+    "title": "검은 결정 테라 레이드배틀에 최강의 대검귀(히스이의 모습)가 재등장 중!",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ko/page/694.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1763483660_3361763624091.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "789",
     "title": "【예고】시즌 14(특별 시즌) 개최 결정!",
     "date": "2026-07-09",
@@ -7152,90 +7237,6 @@
     "endAt": "1696132799",
     "url": "https://news.pokemon-home.com/ko/page/336.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1692267701_65151694400284.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "329",
-    "title": "습격! 최강의 뮤츠",
-    "date": "2023-09-01",
-    "stAt": 1693526400,
-    "endAt": "1694995199",
-    "url": "https://news.pokemon-home.com/ko/page/329.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1689230798_27251692595760.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "335",
-    "title": "「특성을 바꾸는 도구」의 효과가 다른 소프트웨어에서 반영되지 않는 이상 현상에 대해",
-    "date": "2023-08-21",
-    "stAt": 1692576000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/ko/page/335.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "소식",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "328",
-    "title": "빛나라 서포터! 최강의 뮤츠 웜업!",
-    "date": "2023-08-18",
-    "stAt": 1692316800,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/ko/page/328.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1689230284_47671691464574.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "324",
-    "title": "「포켓몬스터소드・실드」 배틀 데이터 갱신 종료에 대해",
-    "date": "2023-08-14",
-    "stAt": 1691971200,
-    "endAt": "1698764399",
-    "url": "https://news.pokemon-home.com/ko/page/324.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SW",
-      "SH"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "327",
-    "title": "노려라 어태커! 최강의 뮤츠 웜업!",
-    "date": "2023-08-09",
-    "stAt": 1691539200,
-    "endAt": "1692316799",
-    "url": "https://news.pokemon-home.com/ko/page/327.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1689230020_84421691464495.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
