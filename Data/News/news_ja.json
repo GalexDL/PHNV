@@ -1,5 +1,90 @@
 [
   {
+    "id": "788",
+    "title": "【予告】探してみよう！　色々なあかしを持ったみずタイプのポケモン大量発生！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ja/page/788.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781166764_64941783309621.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "787",
+    "title": "【予告】すし詰め状態！？　オージャの湖で大量発生！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ja/page/787.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781166592_69081783309569.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "786",
+    "title": "【予告】はねる！「さいきょう」？のコイキング！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ja/page/786.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781166292_24481783579121.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "785",
+    "title": "【予告】みずタイプのポケモンと夏を楽しもう！特別なイベントテラレイドバトルとイベント大量発生を開催！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ja/page/785.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781166057_41821783578858.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "694",
+    "title": "黒い結晶のテラレイドバトルに最強のダイケンキ（ヒスイのすがた）が再登場中！",
+    "date": "2026-07-10",
+    "stAt": 1783641600,
+    "endAt": "1784246399",
+    "url": "https://news.pokemon-home.com/ja/page/694.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1763483660_3361763483689.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "789",
     "title": "【予告】特別なシーズン（14）開催決定！",
     "date": "2026-07-09",
@@ -7187,89 +7272,6 @@
     "endAt": "1695945599",
     "url": "https://news.pokemon-home.com/ja/page/331.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1689768882_3021689768909.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "294",
-    "title": "ピックアップ！チヲハウハネ＆テツノドクガ",
-    "date": "2023-09-22",
-    "stAt": 1695340800,
-    "endAt": "1695599999",
-    "url": "https://news.pokemon-home.com/ja/page/294.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1683028091_81811693992561.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "293",
-    "title": "【予告】ピックアップ！チヲハウハネ＆テツノドクガ",
-    "date": "2023-09-18",
-    "stAt": 1694995200,
-    "endAt": "1695340799",
-    "url": "https://news.pokemon-home.com/ja/page/293.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1683027982_42691693992350.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "338",
-    "title": "アップデートのお知らせ（ver 3.1.0）",
-    "date": "2023-09-13",
-    "stAt": 1694566800,
-    "endAt": "1702515599",
-    "url": "https://news.pokemon-home.com/ja/page/338.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "アップデート",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "339",
-    "title": "メンテナンス実施のお知らせ",
-    "date": "2023-09-08",
-    "stAt": 1694131200,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/ja/page/339.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "メンテナンス",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "337",
-    "title": "2023年9月シーズン（シーズン10）開催中！",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/ja/page/337.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1692697775_11651694601029.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
