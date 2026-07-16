@@ -1,5 +1,21 @@
 [
   {
+    "id": "790",
+    "title": "特殊賽季（14）舉辦中！",
+    "date": "2026-07-16",
+    "stAt": 1784181600,
+    "endAt": "1785981599",
+    "url": "https://news.pokemon-home.com/tc/page/790.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781246680_02771782818931.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "811",
     "title": "系統維護實施通知",
     "date": "2026-07-16",
@@ -7228,23 +7244,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "324",
-    "title": "『寶可夢 劍／盾』對戰資料停止更新公告",
-    "date": "2023-08-14",
-    "stAt": 1691971200,
-    "endAt": "1698764399",
-    "url": "https://news.pokemon-home.com/tc/page/324.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SW",
-      "SH"
     ],
     "isImportant": 0
   }
