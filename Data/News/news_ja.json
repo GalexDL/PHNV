@@ -1,5 +1,22 @@
 [
   {
+    "id": "811",
+    "title": "メンテナンス実施のお知らせ",
+    "date": "2026-07-16",
+    "stAt": 1784167200,
+    "endAt": "1784267999",
+    "url": "https://news.pokemon-home.com/ja/page/811.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1784025120_75081784025168.png",
+    "kindTxt": "メンテナンス",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "788",
     "title": "【予告】探してみよう！　色々なあかしを持ったみずタイプのポケモン大量発生！",
     "date": "2026-07-10",
