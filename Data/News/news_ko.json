@@ -1,5 +1,22 @@
 [
   {
+    "id": "811",
+    "title": "점검 실시 알림",
+    "date": "2026-07-16",
+    "stAt": 1784167200,
+    "endAt": "1784267999",
+    "url": "https://news.pokemon-home.com/ko/page/811.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1784025120_75081784073806.png",
+    "kindTxt": "점검",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "788",
     "title": "【예고】찾아보자! 다양한 증표를 가진 물타입 포켓몬이 대량발생!",
     "date": "2026-07-10",
