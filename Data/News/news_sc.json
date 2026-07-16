@@ -1,5 +1,21 @@
 [
   {
+    "id": "790",
+    "title": "特殊赛季（14）举办中！",
+    "date": "2026-07-16",
+    "stAt": 1784181600,
+    "endAt": "1785981599",
+    "url": "https://news.pokemon-home.com/sc/page/790.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781246680_02771782818883.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "811",
     "title": "维护通知",
     "date": "2026-07-16",
@@ -7228,23 +7244,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "324",
-    "title": "关于终止《宝可梦 剑／盾》的对战数据更新",
-    "date": "2023-08-14",
-    "stAt": 1691971200,
-    "endAt": "1698764399",
-    "url": "https://news.pokemon-home.com/sc/page/324.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SW",
-      "SH"
     ],
     "isImportant": 0
   }
