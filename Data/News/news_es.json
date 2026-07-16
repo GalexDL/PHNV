@@ -1,5 +1,22 @@
 [
   {
+    "id": "811",
+    "title": "Aviso de mantenimiento",
+    "date": "2026-07-16",
+    "stAt": 1784167200,
+    "endAt": "1784267999",
+    "url": "https://news.pokemon-home.com/es/page/811.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1784025120_75081784131963.png",
+    "kindTxt": "Mantenimiento",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "788",
     "title": "¡Prepárate para unas apariciones masivas de Pokémon de tipo Agua con distintos emblemas!",
     "date": "2026-07-10",
