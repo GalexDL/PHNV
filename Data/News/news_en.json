@@ -1,5 +1,22 @@
 [
   {
+    "id": "811",
+    "title": "Maintenance Notice",
+    "date": "2026-07-16",
+    "stAt": 1784167200,
+    "endAt": "1784267999",
+    "url": "https://news.pokemon-home.com/en/page/811.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1784025120_75081784050987.png",
+    "kindTxt": "Maintenance",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "788",
     "title": "Prepare for Mass Outbreaks of Water-Type Pokémon with Various Marks!",
     "date": "2026-07-10",
