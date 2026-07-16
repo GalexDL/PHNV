@@ -1,5 +1,21 @@
 [
   {
+    "id": "790",
+    "title": "시즌 14(특별 시즌) 개최 중!",
+    "date": "2026-07-16",
+    "stAt": 1784181600,
+    "endAt": "1785981599",
+    "url": "https://news.pokemon-home.com/ko/page/790.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781246680_02771781577983.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "811",
     "title": "점검 실시 알림",
     "date": "2026-07-16",
@@ -7237,23 +7253,6 @@
     "endAt": "1696118399",
     "url": "https://news.pokemon-home.com/ko/page/337.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1692697775_11651694656013.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "336",
-    "title": "【예고】레귤레이션 E에 대해",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696132799",
-    "url": "https://news.pokemon-home.com/ko/page/336.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1692267701_65151694400284.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
