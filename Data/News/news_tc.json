@@ -1,5 +1,22 @@
 [
   {
+    "id": "811",
+    "title": "系統維護實施通知",
+    "date": "2026-07-16",
+    "stAt": 1784167200,
+    "endAt": "1784267999",
+    "url": "https://news.pokemon-home.com/tc/page/811.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1784025120_75081784082631.png",
+    "kindTxt": "系統維護",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "788",
     "title": "【預告】找一找！擁有證章的各種水屬性寶可夢大量出現！",
     "date": "2026-07-10",
