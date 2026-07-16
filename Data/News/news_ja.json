@@ -1,5 +1,21 @@
 [
   {
+    "id": "790",
+    "title": "特別なシーズン（14）開催中！",
+    "date": "2026-07-16",
+    "stAt": 1784181600,
+    "endAt": "1785981599",
+    "url": "https://news.pokemon-home.com/ja/page/790.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781246680_02771781667465.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "811",
     "title": "メンテナンス実施のお知らせ",
     "date": "2026-07-16",
@@ -7261,23 +7277,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "342",
-    "title": "【予告】「キタカミプロローグ」開催！",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/ja/page/342.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1694427351_20081695288726.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   },
