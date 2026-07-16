@@ -1,5 +1,21 @@
 [
   {
+    "id": "790",
+    "title": "¡Ha empezado la 14.ª temporada!",
+    "date": "2026-07-16",
+    "stAt": 1784181600,
+    "endAt": "1785981599",
+    "url": "https://news.pokemon-home.com/es/page/790.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1781246680_02771782857200.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "811",
     "title": "Aviso de mantenimiento",
     "date": "2026-07-16",
@@ -7200,22 +7216,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "335",
-    "title": "Los efectos de los objetos que permiten cambiar la habilidad de un Pokémon a veces no se aplican al transferirlo a otro juego mediante <i>Pokémon HOME</i>.",
-    "date": "2023-08-21",
-    "stAt": 1692576000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/es/page/335.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Avisos",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
