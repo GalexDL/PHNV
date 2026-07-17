@@ -1,5 +1,73 @@
 [
   {
+    "id": "794",
+    "title": "找一找！擁有證章的各種水屬性寶可夢大量出現中！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/tc/page/794.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781265892_46181782989281.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "793",
+    "title": "大鍋滿滿！？在大鍋湖有寶可夢大量出現中！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/tc/page/793.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781265776_94431782989520.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "792",
+    "title": "躍起！「最強」？的鯉魚王！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/tc/page/792.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781265666_89351782986823.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "791",
+    "title": "和水屬性寶可夢一起享受夏天吧！特別的活動特設太晶團體戰和大量出現活動舉辦中！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/tc/page/791.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781265508_86391782989793.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "790",
     "title": "特殊賽季（14）舉辦中！",
     "date": "2026-07-16",
@@ -7164,23 +7232,6 @@
     "isImportant": 0
   },
   {
-    "id": "337",
-    "title": "2023年9月賽季（賽季10）舉辦中！",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/tc/page/337.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1692697775_11651694603007.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
     "id": "336",
     "title": "【預告】關於規則E",
     "date": "2023-09-01",
@@ -7188,56 +7239,6 @@
     "endAt": "1696132799",
     "url": "https://news.pokemon-home.com/tc/page/336.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1692267701_65151694400324.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "329",
-    "title": "來襲！最強的超夢",
-    "date": "2023-09-01",
-    "stAt": 1693526400,
-    "endAt": "1694995199",
-    "url": "https://news.pokemon-home.com/tc/page/329.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689230798_27251692950407.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "335",
-    "title": "「變更特性的道具」的效果有時在其他的軟體不會被反映",
-    "date": "2023-08-21",
-    "stAt": 1692576000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/tc/page/335.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "通知",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "328",
-    "title": "閃耀吧！支援手！暖身準備迎戰最強的超夢！",
-    "date": "2023-08-18",
-    "stAt": 1692316800,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/tc/page/328.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689230284_47671692166146.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
