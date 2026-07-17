@@ -1,5 +1,73 @@
 [
   {
+    "id": "794",
+    "title": "찾아보자! 다양한 증표를 가진 물타입 포켓몬이 대량발생 중!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/ko/page/794.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781265892_46181782958023.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "793",
+    "title": "물 반 포켓몬 반!? 오야 호수에서 대량발생 중!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/ko/page/793.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781265776_94431782957916.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "792",
+    "title": "튀어올라라! 최강의 잉어킹...!?",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/ko/page/792.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781265666_89351782957755.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "791",
+    "title": "물타입 포켓몬들과 함께 여름을 즐기자! 특별한 이벤트 테라 레이드배틀과 이벤트 대량발생을 개최 중!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/ko/page/791.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781265508_86391782956698.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "790",
     "title": "시즌 14(특별 시즌) 개최 중!",
     "date": "2026-07-16",
@@ -7187,72 +7255,6 @@
     "endAt": "1695599999",
     "url": "https://news.pokemon-home.com/ko/page/294.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1683028091_81811694658035.png",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "293",
-    "title": "【예고】픽업! 땅을기는날개&무쇠독나방",
-    "date": "2023-09-18",
-    "stAt": 1694995200,
-    "endAt": "1695340799",
-    "url": "https://news.pokemon-home.com/ko/page/293.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1683027982_42691694657881.png",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "338",
-    "title": "업데이트 알림(Ver.3.1.0)",
-    "date": "2023-09-13",
-    "stAt": 1694566800,
-    "endAt": "1702515599",
-    "url": "https://news.pokemon-home.com/ko/page/338.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "업데이트",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "339",
-    "title": "점검 실시 알림",
-    "date": "2023-09-08",
-    "stAt": 1694131200,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/ko/page/339.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "점검",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "337",
-    "title": "2023년 9월 시즌(시즌 10) 개최 중!",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/ko/page/337.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1692697775_11651694656013.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
