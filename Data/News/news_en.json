@@ -1,5 +1,73 @@
 [
   {
+    "id": "794",
+    "title": "Enjoy Mass Outbreaks of Water-Type Pokémon with Various Marks!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/en/page/794.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1781265892_46181783372720.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "793",
+    "title": "Fish On! Enjoy Mass Outbreaks at Casseroya Lake!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/en/page/793.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1781265776_94431783372139.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "792",
+    "title": "Face a Mighty...Magikarp?!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/en/page/792.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1781265666_89351783381419.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "791",
+    "title": "Splash into a Special Seasonal Event Now!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/en/page/791.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1781265508_86391783381016.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "790",
     "title": "Season 14 Underway!",
     "date": "2026-07-16",
@@ -7149,73 +7217,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "339",
-    "title": "Maintenance Notice",
-    "date": "2023-09-08",
-    "stAt": 1694131200,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/en/page/339.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Maintenance",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "337",
-    "title": "Ranked Battles Season 10 Is Under Way!",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/en/page/337.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1692697775_11651694601482.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "336",
-    "title": "Advance Notice: Regulation Set E",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696132799",
-    "url": "https://news.pokemon-home.com/en/page/336.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1692267701_65151694400238.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "329",
-    "title": "Face a Mighty Mewtwo!",
-    "date": "2023-09-01",
-    "stAt": 1693526400,
-    "endAt": "1694995199",
-    "url": "https://news.pokemon-home.com/en/page/329.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689230798_27251692044193.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
