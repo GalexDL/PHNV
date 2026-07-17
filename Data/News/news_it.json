@@ -1,5 +1,73 @@
 [
   {
+    "id": "794",
+    "title": "Divertiti con le comparse massicce di Pokémon di tipo Acqua con vari emblemi!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/it/page/794.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781265892_46181783372743.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "793",
+    "title": "Si pesca! Divertiti con le comparse massicce al Lago Gran Caldero!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/it/page/793.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781265776_94431783372178.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "792",
+    "title": "Affronta un fortissimo... Magikarp?!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/it/page/792.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781265666_89351783381459.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "791",
+    "title": "Immergiti in uno speciale evento stagionale!",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/it/page/791.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1781265508_86391783381049.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "790",
     "title": "È iniziata la stagione 14!",
     "date": "2026-07-16",
@@ -7149,73 +7217,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "339",
-    "title": "<b>Avviso di manutenzione</b>",
-    "date": "2023-09-08",
-    "stAt": 1694131200,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/it/page/339.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Manutenzione",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "337",
-    "title": "È iniziata la stagione 10 delle Lotte Competitive!",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/it/page/337.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1692697775_11651694601524.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "336",
-    "title": "Preannuncio: regolamento E",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696132799",
-    "url": "https://news.pokemon-home.com/it/page/336.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1692267701_65151694400254.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "329",
-    "title": "Affronta un fortissimo Mewtwo!",
-    "date": "2023-09-01",
-    "stAt": 1693526400,
-    "endAt": "1694995199",
-    "url": "https://news.pokemon-home.com/it/page/329.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1689230798_27251692044305.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
