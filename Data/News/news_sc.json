@@ -1,5 +1,73 @@
 [
   {
+    "id": "794",
+    "title": "快来找一找！戴着各种证章的水属性宝可梦大量出现中！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/sc/page/794.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781265892_46181782989271.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "793",
+    "title": "满满当当！？在大锅湖有宝可梦大量出现中！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/sc/page/793.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781265776_94431782988000.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "792",
+    "title": "跳跃！“最强”？的鲤鱼王！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/sc/page/792.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781265666_89351782986834.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "791",
+    "title": "和水属性的宝可梦一起享受夏天吧！特别的活动特设太晶团体战和大量出现活动现正举办中！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/sc/page/791.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1781265508_86391782985010.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "790",
     "title": "特殊赛季（14）举办中！",
     "date": "2026-07-16",
@@ -7171,73 +7239,6 @@
     "endAt": "1696118399",
     "url": "https://news.pokemon-home.com/sc/page/337.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1692697775_11651695363359.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "336",
-    "title": "【预告】关于规则E",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696132799",
-    "url": "https://news.pokemon-home.com/sc/page/336.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1692267701_65151695363518.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "329",
-    "title": "来袭！最强的超梦",
-    "date": "2023-09-01",
-    "stAt": 1693526400,
-    "endAt": "1694995199",
-    "url": "https://news.pokemon-home.com/sc/page/329.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1689230798_27251693285330.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "335",
-    "title": "“改变特性的道具”的效果未在其他软件中反映的情况",
-    "date": "2023-08-21",
-    "stAt": 1692576000,
-    "endAt": "1696118399",
-    "url": "https://news.pokemon-home.com/sc/page/335.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "通知",
-    "infoTab": 1,
-    "infoKind": 7,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "328",
-    "title": "闪耀吧，支援手！热身备战最强的超梦！",
-    "date": "2023-08-18",
-    "stAt": 1692316800,
-    "endAt": "1693526399",
-    "url": "https://news.pokemon-home.com/sc/page/328.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1689230284_47671692158788.jpg",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
