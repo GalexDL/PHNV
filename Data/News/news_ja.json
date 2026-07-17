@@ -1,5 +1,73 @@
 [
   {
+    "id": "794",
+    "title": "探してみよう！　色々なあかしを持ったみずタイプのポケモン大量発生中！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/ja/page/794.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781265892_46181784247444.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "793",
+    "title": "すし詰め状態！？　オージャの湖で大量発生中！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/ja/page/793.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781265776_94431784247363.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "792",
+    "title": "はねる！「さいきょう」？のコイキング！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/ja/page/792.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781265666_89351784247280.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "791",
+    "title": "みずタイプのポケモンと夏を楽しもう！特別なイベントテラレイドバトルとイベント大量発生を開催中！",
+    "date": "2026-07-17",
+    "stAt": 1784246400,
+    "endAt": "1786060799",
+    "url": "https://news.pokemon-home.com/ja/page/791.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781265508_86391784246937.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "790",
     "title": "特別なシーズン（14）開催中！",
     "date": "2026-07-16",
@@ -7222,72 +7290,6 @@
     "endAt": "1704239999",
     "url": "https://news.pokemon-home.com/ja/page/340.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1693974879_15561701922693.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "332",
-    "title": "ピッピ大量発生！お月見パーティーを楽しもう！",
-    "date": "2023-09-29",
-    "stAt": 1695945600,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/ja/page/332.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1689769272_68861689769292.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "346",
-    "title": "アップデートのお知らせ（ver 3.1.1）",
-    "date": "2023-09-27",
-    "stAt": 1695776400,
-    "endAt": "1701651599",
-    "url": "https://news.pokemon-home.com/ja/page/346.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "アップデート",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "345",
-    "title": "メンテナンス実施のお知らせ",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695776399",
-    "url": "https://news.pokemon-home.com/ja/page/345.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "メンテナンス",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "331",
-    "title": "【予告】ピッピ大量発生！お月見パーティーを楽しもう！",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695945599",
-    "url": "https://news.pokemon-home.com/ja/page/331.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1689768882_3021689768909.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
