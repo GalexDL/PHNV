@@ -1,5 +1,21 @@
 [
   {
+    "id": "799",
+    "title": "【予告】特別なシーズン（15）開催決定！",
+    "date": "2026-07-31",
+    "stAt": 1785470400,
+    "endAt": "1785995999",
+    "url": "https://news.pokemon-home.com/ja/page/799.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1782480632_71971784783670.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "806",
     "title": "【予告】挑もう！パルデア地方の強力なポケモンたち！特別なイベントテラレイドバトルとイベント大量発生を4週連続で開催！",
     "date": "2026-07-31",
@@ -7273,23 +7289,6 @@
     "endAt": "1697155199",
     "url": "https://news.pokemon-home.com/ja/page/297.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1683028293_98151694416529.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "340",
-    "title": "レギュレーションＥについて",
-    "date": "2023-10-01",
-    "stAt": 1696132800,
-    "endAt": "1704239999",
-    "url": "https://news.pokemon-home.com/ja/page/340.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1693974879_15561701922693.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
