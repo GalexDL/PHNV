@@ -1,12 +1,29 @@
 [
   {
+    "id": "806",
+    "title": "【예고】도전하라! 팔데아지방의 강력한 포켓몬들! 특별한 이벤트 테라 레이드배틀과 이벤트 대량발생을 4주 연속 개최!",
+    "date": "2026-07-31",
+    "stAt": 1785456000,
+    "endAt": "1787875199",
+    "url": "https://news.pokemon-home.com/ko/page/806.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1783604724_82671784770159.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "794",
     "title": "찾아보자! 다양한 증표를 가진 물타입 포켓몬이 대량발생 중!",
     "date": "2026-07-17",
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/ko/page/794.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781265892_46181782958023.jpg",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781265892_46181785314793.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
@@ -57,7 +74,7 @@
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/ko/page/791.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781265508_86391782956698.jpg",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1781265508_86391785392386.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
@@ -7238,23 +7255,6 @@
     "endAt": "1695945599",
     "url": "https://news.pokemon-home.com/ko/page/331.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1689768882_3021699323721.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "294",
-    "title": "픽업! 땅을기는날개&무쇠독나방",
-    "date": "2023-09-22",
-    "stAt": 1695340800,
-    "endAt": "1695599999",
-    "url": "https://news.pokemon-home.com/ko/page/294.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1683028091_81811694658035.png",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
