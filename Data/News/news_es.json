@@ -1,5 +1,21 @@
 [
   {
+    "id": "799",
+    "title": "¡15.ª temporada de Combates Clasificatorios!",
+    "date": "2026-07-31",
+    "stAt": 1785470400,
+    "endAt": "1785995999",
+    "url": "https://news.pokemon-home.com/es/page/799.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1782480632_71971784830760.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "806",
     "title": "¡El despliegue de potencia de Paldea trae consigo eventos de teraincursiones y apariciones masivas!",
     "date": "2026-07-31",
@@ -7195,23 +7211,6 @@
     "endAt": "1695599999",
     "url": "https://news.pokemon-home.com/es/page/294.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1683028091_81811694630644.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "293",
-    "title": "¡Muy pronto podrás enfrentarte a Reptalada y a Ferropolilla!",
-    "date": "2023-09-18",
-    "stAt": 1694995200,
-    "endAt": "1695340799",
-    "url": "https://news.pokemon-home.com/es/page/293.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1683027982_42691694629587.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
