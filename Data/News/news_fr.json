@@ -1,5 +1,22 @@
 [
   {
+    "id": "806",
+    "title": "Préparez-vous pour l’évènement Paldea en Puissance ! Des apparitions massives et des raids Téracristal évènementiels vous attendent !",
+    "date": "2026-07-31",
+    "stAt": 1785456000,
+    "endAt": "1787875199",
+    "url": "https://news.pokemon-home.com/fr/page/806.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1783604724_82671784938769.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "794",
     "title": "Profitez d’apparitions massives de Pokémon de type Eau dotés de différents insignes !",
     "date": "2026-07-17",
@@ -7201,22 +7218,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "338",
-    "title": "Mise à jour (ver. 3.1.0) ",
-    "date": "2023-09-13",
-    "stAt": 1694566800,
-    "endAt": "1702515599",
-    "url": "https://news.pokemon-home.com/fr/page/338.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Mise à jour",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
