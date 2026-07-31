@@ -1,5 +1,21 @@
 [
   {
+    "id": "799",
+    "title": "【예고】시즌 15(특별 시즌) 개최 결정!",
+    "date": "2026-07-31",
+    "stAt": 1785470400,
+    "endAt": "1785995999",
+    "url": "https://news.pokemon-home.com/ko/page/799.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1782480632_71971784785330.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "806",
     "title": "【예고】도전하라! 팔데아지방의 강력한 포켓몬들! 특별한 이벤트 테라 레이드배틀과 이벤트 대량발생을 4주 연속 개최!",
     "date": "2026-07-31",
@@ -7227,23 +7243,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "342",
-    "title": "【예고】「북신 프롤로그」 개최!",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/ko/page/342.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1694427351_20081695375086.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   },
