@@ -1,12 +1,29 @@
 [
   {
+    "id": "806",
+    "title": "【予告】挑もう！パルデア地方の強力なポケモンたち！特別なイベントテラレイドバトルとイベント大量発生を4週連続で開催！",
+    "date": "2026-07-31",
+    "stAt": 1785456000,
+    "endAt": "1787875199",
+    "url": "https://news.pokemon-home.com/ja/page/806.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1783604724_82671785140874.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "794",
     "title": "探してみよう！　色々なあかしを持ったみずタイプのポケモン大量発生中！",
     "date": "2026-07-17",
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/ja/page/794.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781265892_46181784247444.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781265892_46181785291493.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
@@ -57,7 +74,7 @@
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/ja/page/791.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781265508_86391784246937.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1781265508_86391785378498.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
@@ -7256,23 +7273,6 @@
     "endAt": "1697155199",
     "url": "https://news.pokemon-home.com/ja/page/297.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1683028293_98151694416529.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "351",
-    "title": "2023年10月シーズン（シーズン11）開催中！",
-    "date": "2023-10-01",
-    "stAt": 1696132800,
-    "endAt": "1698796799",
-    "url": "https://news.pokemon-home.com/ja/page/351.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1695789683_17711695789721.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
