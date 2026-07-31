@@ -1,5 +1,22 @@
 [
   {
+    "id": "806",
+    "title": "¡El despliegue de potencia de Paldea trae consigo eventos de teraincursiones y apariciones masivas!",
+    "date": "2026-07-31",
+    "stAt": 1785456000,
+    "endAt": "1787875199",
+    "url": "https://news.pokemon-home.com/es/page/806.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1783604724_82671784938816.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "794",
     "title": "¡Apariciones masivas de Pokémon de tipo Agua con distintos emblemas!",
     "date": "2026-07-17",
@@ -7201,22 +7218,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "338",
-    "title": "Actualización para dispositivos móviles (ver. 3.1.0)",
-    "date": "2023-09-13",
-    "stAt": 1694566800,
-    "endAt": "1702515599",
-    "url": "https://news.pokemon-home.com/es/page/338.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Actualización",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
