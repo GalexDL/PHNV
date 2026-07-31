@@ -1,5 +1,21 @@
 [
   {
+    "id": "799",
+    "title": "La saison 15 démarre bientôt !",
+    "date": "2026-07-31",
+    "stAt": 1785470400,
+    "endAt": "1785995999",
+    "url": "https://news.pokemon-home.com/fr/page/799.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1782480632_71971784830518.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "806",
     "title": "Préparez-vous pour l’évènement Paldea en Puissance ! Des apparitions massives et des raids Téracristal évènementiels vous attendent !",
     "date": "2026-07-31",
@@ -7195,23 +7211,6 @@
     "endAt": "1695599999",
     "url": "https://news.pokemon-home.com/fr/page/294.html",
     "banner": "https://news.pokemon-home.com/fr/page/banner/3_1683028091_81811694630579.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "293",
-    "title": "Affrontez Rampe-Ailes et Mite-de-Fer prochainement !",
-    "date": "2023-09-18",
-    "stAt": 1694995200,
-    "endAt": "1695340799",
-    "url": "https://news.pokemon-home.com/fr/page/293.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1683027982_42691694727221.jpg",
     "kindTxt": "Autre(s) logiciel(s)",
     "infoTab": 2,
     "infoKind": 8,
