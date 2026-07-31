@@ -1,5 +1,22 @@
 [
   {
+    "id": "806",
+    "title": "Assalto a Paldea! Tieniti forte, arriva una raffica di Raid Teracristal e comparse massicce!",
+    "date": "2026-07-31",
+    "stAt": 1785456000,
+    "endAt": "1787875199",
+    "url": "https://news.pokemon-home.com/it/page/806.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1783604724_82671784938785.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "794",
     "title": "Divertiti con le comparse massicce di Pokémon di tipo Acqua con vari emblemi!",
     "date": "2026-07-17",
@@ -7201,22 +7218,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "338",
-    "title": "Aggiornamento alla versione 3.1.0",
-    "date": "2023-09-13",
-    "stAt": 1694566800,
-    "endAt": "1702515599",
-    "url": "https://news.pokemon-home.com/it/page/338.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Aggiornamenti",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
