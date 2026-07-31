@@ -1,5 +1,21 @@
 [
   {
+    "id": "799",
+    "title": "【預告】特殊賽季（15）確定舉辦！",
+    "date": "2026-07-31",
+    "stAt": 1785470400,
+    "endAt": "1785995999",
+    "url": "https://news.pokemon-home.com/tc/page/799.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1782480632_71971785239468.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "806",
     "title": "【預告】迎戰帕底亞地區的強力的寶可夢們！特別的活動特設太晶團體戰和大量出現活動將連續4週登場！",
     "date": "2026-07-31",
@@ -7227,22 +7243,6 @@
     "kindTxt": "更新",
     "infoTab": 1,
     "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "339",
-    "title": "系統維護公告",
-    "date": "2023-09-08",
-    "stAt": 1694131200,
-    "endAt": "1694566799",
-    "url": "https://news.pokemon-home.com/tc/page/339.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "系統維護",
-    "infoTab": 1,
-    "infoKind": 3,
     "linkRom": [
       "HM"
     ],
