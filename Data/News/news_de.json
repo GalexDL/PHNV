@@ -1,5 +1,21 @@
 [
   {
+    "id": "799",
+    "title": "Saison 15 beginnt bald!",
+    "date": "2026-07-31",
+    "stAt": 1785470400,
+    "endAt": "1785995999",
+    "url": "https://news.pokemon-home.com/de/page/799.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1782480632_71971784830666.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "806",
     "title": "Stell dich auf explosive Tera-Raids und Events mit massiven Aufläufen ein!",
     "date": "2026-07-31",
@@ -7195,23 +7211,6 @@
     "endAt": "1695599999",
     "url": "https://news.pokemon-home.com/de/page/294.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1683028091_81811694630628.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "293",
-    "title": "Nimm es bald mit Kriechflügel und Eisenfalter auf!",
-    "date": "2023-09-18",
-    "stAt": 1694995200,
-    "endAt": "1695340799",
-    "url": "https://news.pokemon-home.com/de/page/293.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1683027982_42691694629565.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
