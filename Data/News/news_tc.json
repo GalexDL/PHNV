@@ -1,12 +1,29 @@
 [
   {
+    "id": "806",
+    "title": "【預告】迎戰帕底亞地區的強力的寶可夢們！特別的活動特設太晶團體戰和大量出現活動將連續4週登場！",
+    "date": "2026-07-31",
+    "stAt": 1785456000,
+    "endAt": "1787875199",
+    "url": "https://news.pokemon-home.com/tc/page/806.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1783604724_82671784885697.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "794",
     "title": "找一找！擁有證章的各種水屬性寶可夢大量出現中！",
     "date": "2026-07-17",
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/tc/page/794.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781265892_46181782989281.jpg",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781265892_46181785398620.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
@@ -57,7 +74,7 @@
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/tc/page/791.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781265508_86391782989793.jpg",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781265508_86391785401469.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
@@ -107,7 +124,7 @@
     "stAt": 1783641600,
     "endAt": "1784246399",
     "url": "https://news.pokemon-home.com/tc/page/788.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781166764_64941783592807.jpg",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1781166764_64941785382634.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
@@ -7228,23 +7245,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "336",
-    "title": "【預告】關於規則E",
-    "date": "2023-09-01",
-    "stAt": 1693540800,
-    "endAt": "1696132799",
-    "url": "https://news.pokemon-home.com/tc/page/336.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1692267701_65151694400324.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
