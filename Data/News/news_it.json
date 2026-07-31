@@ -1,5 +1,21 @@
 [
   {
+    "id": "799",
+    "title": "Stagione 15 in arrivo!",
+    "date": "2026-07-31",
+    "stAt": 1785470400,
+    "endAt": "1785995999",
+    "url": "https://news.pokemon-home.com/it/page/799.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1782480632_71971784830603.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "806",
     "title": "Assalto a Paldea! Tieniti forte, arriva una raffica di Raid Teracristal e comparse massicce!",
     "date": "2026-07-31",
@@ -7195,23 +7211,6 @@
     "endAt": "1695599999",
     "url": "https://news.pokemon-home.com/it/page/294.html",
     "banner": "https://news.pokemon-home.com/it/page/banner/4_1683028091_81811694630596.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "293",
-    "title": "Preparati ad affrontare Alirasenti e Falenaferrea!",
-    "date": "2023-09-18",
-    "stAt": 1694995200,
-    "endAt": "1695340799",
-    "url": "https://news.pokemon-home.com/it/page/293.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1683027982_42691694629553.jpg",
     "kindTxt": "Altri giochi",
     "infoTab": 2,
     "infoKind": 8,
