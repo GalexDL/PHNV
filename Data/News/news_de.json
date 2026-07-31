@@ -1,5 +1,22 @@
 [
   {
+    "id": "806",
+    "title": "Stell dich auf explosive Tera-Raids und Events mit massiven Aufläufen ein!",
+    "date": "2026-07-31",
+    "stAt": 1785456000,
+    "endAt": "1787875199",
+    "url": "https://news.pokemon-home.com/de/page/806.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1783604724_82671784938799.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "794",
     "title": "Kühl dich mit massiven Aufläufen von Wasser-Pokémon mit diversen Zeichen ab!",
     "date": "2026-07-17",
@@ -7201,22 +7218,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "338",
-    "title": "Informationen zum Update für mobile Geräte (Ver. 3.1.0)",
-    "date": "2023-09-13",
-    "stAt": 1694566800,
-    "endAt": "1702515599",
-    "url": "https://news.pokemon-home.com/de/page/338.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Update",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
