@@ -1,5 +1,22 @@
 [
   {
+    "id": "802",
+    "title": "メンテナンス実施のお知らせ",
+    "date": "2026-08-03",
+    "stAt": 1785722400,
+    "endAt": "1785909599",
+    "url": "https://news.pokemon-home.com/ja/page/802.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1782874628_18721782881648.png",
+    "kindTxt": "メンテナンス",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "799",
     "title": "【予告】特別なシーズン（15）開催決定！",
     "date": "2026-07-31",
