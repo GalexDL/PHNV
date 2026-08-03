@@ -1,5 +1,22 @@
 [
   {
+    "id": "802",
+    "title": "维护通知",
+    "date": "2026-08-03",
+    "stAt": 1785722400,
+    "endAt": "1785909599",
+    "url": "https://news.pokemon-home.com/sc/page/802.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1782874628_18721783064933.png",
+    "kindTxt": "维护",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "799",
     "title": "【预告】已决定将举办特殊赛季（15）！",
     "date": "2026-07-31",
