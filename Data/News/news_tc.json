@@ -1,5 +1,22 @@
 [
   {
+    "id": "802",
+    "title": "系統維護實施通知",
+    "date": "2026-08-03",
+    "stAt": 1785722400,
+    "endAt": "1785909599",
+    "url": "https://news.pokemon-home.com/tc/page/802.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1782874628_18721783064957.png",
+    "kindTxt": "系統維護",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "799",
     "title": "【預告】特殊賽季（15）確定舉辦！",
     "date": "2026-07-31",
