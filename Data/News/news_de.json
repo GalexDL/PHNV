@@ -1,5 +1,22 @@
 [
   {
+    "id": "802",
+    "title": "Wartungshinweis",
+    "date": "2026-08-03",
+    "stAt": 1785722400,
+    "endAt": "1785909599",
+    "url": "https://news.pokemon-home.com/de/page/802.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1782874628_18721783453320.png",
+    "kindTxt": "Wartung",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "799",
     "title": "Saison 15 beginnt bald!",
     "date": "2026-07-31",
@@ -39,7 +56,7 @@
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/de/page/794.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1781265892_46181783372754.jpg",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1781265892_46181785538795.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
@@ -90,7 +107,7 @@
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/de/page/791.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1781265508_86391783381060.jpg",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1781265508_86391785539546.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
