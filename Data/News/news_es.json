@@ -1,5 +1,22 @@
 [
   {
+    "id": "802",
+    "title": "Aviso de mantenimiento",
+    "date": "2026-08-03",
+    "stAt": 1785722400,
+    "endAt": "1785909599",
+    "url": "https://news.pokemon-home.com/es/page/802.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1782874628_18721783453356.png",
+    "kindTxt": "Mantenimiento",
+    "infoTab": 4,
+    "infoKind": 3,
+    "linkRom": [
+      "HM",
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "799",
     "title": "¡15.ª temporada de Combates Clasificatorios!",
     "date": "2026-07-31",
@@ -39,7 +56,7 @@
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/es/page/794.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1781265892_46181783372766.jpg",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1781265892_46181785538886.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
@@ -90,7 +107,7 @@
     "stAt": 1784246400,
     "endAt": "1786060799",
     "url": "https://news.pokemon-home.com/es/page/791.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1781265508_86391783381072.jpg",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1781265508_86391785539570.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
