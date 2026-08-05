@@ -1,5 +1,69 @@
 [
   {
+    "id": "812",
+    "title": "8월 5일(수) 「Pokémon Champions」 업데이트 데이터 배포 안내",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1817445599",
+    "url": "https://news.pokemon-home.com/ko/page/812.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1784803119_17431785305552.png",
+    "kindTxt": "소식",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "805",
+    "title": "「Monthly Challenge Series 2026.08」 개최!",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/ko/page/805.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1782979118_11941785227618.jpg",
+    "kindTxt": "온라인 대회",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "804",
+    "title": "배틀 패스 「시즌 M-5」에 대해",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/ko/page/804.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1782978613_89171784696862.jpg",
+    "kindTxt": "배틀 패스",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "803",
+    "title": "「랭크배틀 시즌 M-5」 개최 중!",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/ko/page/803.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1782977358_62211785219750.jpg",
+    "kindTxt": "랭크배틀",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "802",
     "title": "점검 실시 알림",
     "date": "2026-08-03",
