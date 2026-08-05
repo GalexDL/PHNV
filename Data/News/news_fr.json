@@ -561,15 +561,31 @@
   },
   {
     "id": "777",
-    "title": "Sélection de base M-B",
+    "title": "Sélection de base M-B (Mise à jour du 5 août)",
     "date": "2026-06-17",
     "stAt": 1781676000,
-    "endAt": "1788314399",
+    "endAt": "1788919199",
     "url": "https://news.pokemon-home.com/fr/page/777.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1779124241_87661780096791.jpg",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1779124241_87661785900946.jpg",
     "kindTxt": "Sélection",
     "infoTab": 5,
     "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "Règlement M-B (Mise à jour du 5 août)",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/fr/page/776.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1779123873_30081785902731.jpg",
+    "kindTxt": "Règlement",
+    "infoTab": 5,
+    "infoKind": 12,
     "linkRom": [
       "CHP"
     ],
