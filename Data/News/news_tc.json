@@ -1,5 +1,69 @@
 [
   {
+    "id": "812",
+    "title": "8月5日《Pokémon Champions》更新資料發佈公告",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1817445599",
+    "url": "https://news.pokemon-home.com/tc/page/812.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1784803119_17431785326592.png",
+    "kindTxt": "通知",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "805",
+    "title": "「每月挑戰系列賽 2026.08」登場！",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/tc/page/805.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1782979118_11941785227699.jpg",
+    "kindTxt": "線上大賽",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "804",
+    "title": "關於「對戰證賽季M-5」",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/tc/page/804.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1782978613_89171784878932.jpg",
+    "kindTxt": "對戰證",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "803",
+    "title": "「級別對戰賽季M-5」現正舉辦中！",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/tc/page/803.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1782977358_62211785219809.jpg",
+    "kindTxt": "級別對戰",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "802",
     "title": "系統維護實施通知",
     "date": "2026-08-03",
