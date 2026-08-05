@@ -1,5 +1,69 @@
 [
   {
+    "id": "812",
+    "title": "Wartungsarbeiten abgeschlossen",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1817445599",
+    "url": "https://news.pokemon-home.com/de/page/812.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1784803119_17431784939921.png",
+    "kindTxt": "Neuigkeiten",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "805",
+    "title": "Die Monatliche Challenge-Serie August 2026 findet bald statt!",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/de/page/805.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1782979118_11941785347605.jpg",
+    "kindTxt": "Online-Turnier",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "804",
+    "title": "Kampfpässe für Saison M-5",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/de/page/804.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1782978613_89171784565263.jpg",
+    "kindTxt": "Kampfpass",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "803",
+    "title": "Saison M-5 der Rangkämpfe ist im Gange!",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/de/page/803.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1782977358_62211785219644.jpg",
+    "kindTxt": "Rangkämpfe",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "802",
     "title": "Wartungshinweis",
     "date": "2026-08-03",
