@@ -561,15 +561,31 @@
   },
   {
     "id": "777",
-    "title": "Regular Roster M-B",
+    "title": "Regular Roster M-B (Updated on August 5)",
     "date": "2026-06-17",
     "stAt": 1781676000,
-    "endAt": "1788314399",
+    "endAt": "1788919199",
     "url": "https://news.pokemon-home.com/en/page/777.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779124241_87661780096712.jpg",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779124241_87661785900862.jpg",
     "kindTxt": "Roster",
     "infoTab": 5,
     "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "Regulation Set M-B (Updated on August 5)",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/en/page/776.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1779123873_30081785900677.jpg",
+    "kindTxt": "Regulations",
+    "infoTab": 5,
+    "infoKind": 12,
     "linkRom": [
       "CHP"
     ],
