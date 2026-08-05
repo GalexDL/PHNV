@@ -1,5 +1,69 @@
 [
   {
+    "id": "812",
+    "title": "Aviso de finalización del mantenimiento",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1817445599",
+    "url": "https://news.pokemon-home.com/es/page/812.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1784803119_17431784851011.png",
+    "kindTxt": "Avisos",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "805",
+    "title": "¡La Serie de Retos Mensuales de agosto de 2026 está a punto de empezar!",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/es/page/805.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1782979118_11941785347541.jpg",
+    "kindTxt": "Torneo en línea",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "804",
+    "title": "Pases de combate de la temporada M-5",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/es/page/804.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1782978613_89171784565301.jpg",
+    "kindTxt": "Pase de combate",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "803",
+    "title": "Ha empezado la temporada M-5 de Combates Clasificatorios",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/es/page/803.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1782977358_62211785219673.jpg",
+    "kindTxt": "Combates Clasificatorios",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "802",
     "title": "Aviso de mantenimiento",
     "date": "2026-08-03",
