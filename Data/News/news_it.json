@@ -1,5 +1,69 @@
 [
   {
+    "id": "812",
+    "title": "Manutenzione completata",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1817445599",
+    "url": "https://news.pokemon-home.com/it/page/812.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1784803119_17431784850989.png",
+    "kindTxt": "Novità",
+    "infoTab": 5,
+    "infoKind": 7,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "805",
+    "title": "È in arrivo la Sfida mensile di agosto 2026!",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/it/page/805.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1782979118_11941785347666.jpg",
+    "kindTxt": "Gare Online",
+    "infoTab": 5,
+    "infoKind": 13,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "804",
+    "title": "Pass lotta della stagione M-5",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/it/page/804.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1782978613_89171784565226.jpg",
+    "kindTxt": "Pass lotta",
+    "infoTab": 5,
+    "infoKind": 16,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "803",
+    "title": "È in corso la stagione M-5 delle Lotte Competitive!",
+    "date": "2026-08-05",
+    "stAt": 1785909600,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/it/page/803.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1782977358_62211785219613.jpg",
+    "kindTxt": "Lotte Competitive",
+    "infoTab": 5,
+    "infoKind": 11,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "802",
     "title": "Avviso di manutenzione",
     "date": "2026-08-03",
