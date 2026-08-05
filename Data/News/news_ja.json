@@ -561,15 +561,31 @@
   },
   {
     "id": "777",
-    "title": "「スタンダードセレクトM-B」について",
+    "title": "「スタンダードセレクトM-B」について（8月5日更新）",
     "date": "2026-06-17",
     "stAt": 1781676000,
-    "endAt": "1788314399",
+    "endAt": "1788919199",
     "url": "https://news.pokemon-home.com/ja/page/777.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779124241_87661779958775.jpg",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779124241_87661785901922.jpg",
     "kindTxt": "セレクト",
     "infoTab": 5,
     "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
+    "id": "776",
+    "title": "「レギュレーションM-B」について（8月5日更新）",
+    "date": "2026-06-17",
+    "stAt": 1781676000,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/ja/page/776.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1779123873_30081785900581.jpg",
+    "kindTxt": "レギュレーション",
+    "infoTab": 5,
+    "infoKind": 12,
     "linkRom": [
       "CHP"
     ],
