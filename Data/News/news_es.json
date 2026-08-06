@@ -1,5 +1,21 @@
 [
   {
+    "id": "800",
+    "title": "¡Ha empezado la 15.ª temporada!",
+    "date": "2026-08-06",
+    "stAt": 1785996000,
+    "endAt": "1787795999",
+    "url": "https://news.pokemon-home.com/es/page/800.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1782481053_40611784831986.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "812",
     "title": "Aviso de finalización del mantenimiento",
     "date": "2026-08-05",
@@ -7275,23 +7291,6 @@
     "endAt": "1695945599",
     "url": "https://news.pokemon-home.com/es/page/331.html",
     "banner": "https://news.pokemon-home.com/es/page/banner/7_1689768882_3021695162271.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "294",
-    "title": "¡Enfréntate a Reptalada y a Ferropolilla!",
-    "date": "2023-09-22",
-    "stAt": 1695340800,
-    "endAt": "1695599999",
-    "url": "https://news.pokemon-home.com/es/page/294.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1683028091_81811694630644.jpg",
     "kindTxt": "Otros juegos",
     "infoTab": 2,
     "infoKind": 8,
