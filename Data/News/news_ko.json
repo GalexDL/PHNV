@@ -1,5 +1,21 @@
 [
   {
+    "id": "800",
+    "title": "시즌 15(특별 시즌) 개최 중!",
+    "date": "2026-08-06",
+    "stAt": 1785996000,
+    "endAt": "1787795999",
+    "url": "https://news.pokemon-home.com/ko/page/800.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1782481053_40611784785379.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "812",
     "title": "8월 5일(수) 「Pokémon Champions」 업데이트 데이터 배포 안내",
     "date": "2026-08-05",
@@ -7324,23 +7340,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "331",
-    "title": "【예고】삐삐 대량발생! 달맞이 파티를 즐기자!",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695945599",
-    "url": "https://news.pokemon-home.com/ko/page/331.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1689768882_3021699323721.jpg",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
