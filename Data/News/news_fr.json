@@ -1,5 +1,21 @@
 [
   {
+    "id": "800",
+    "title": "La saison 15 est en cours !",
+    "date": "2026-08-06",
+    "stAt": 1785996000,
+    "endAt": "1787795999",
+    "url": "https://news.pokemon-home.com/fr/page/800.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1782481053_40611784831710.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "812",
     "title": "Avis de fin de maintenance",
     "date": "2026-08-05",
@@ -7275,23 +7291,6 @@
     "endAt": "1695945599",
     "url": "https://news.pokemon-home.com/fr/page/331.html",
     "banner": "https://news.pokemon-home.com/fr/page/banner/3_1689768882_3021695161925.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "294",
-    "title": "Affrontez Rampe-Ailes et Mite-de-Fer dès maintenant !",
-    "date": "2023-09-22",
-    "stAt": 1695340800,
-    "endAt": "1695599999",
-    "url": "https://news.pokemon-home.com/fr/page/294.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1683028091_81811694630579.jpg",
     "kindTxt": "Autre(s) logiciel(s)",
     "infoTab": 2,
     "infoKind": 8,
