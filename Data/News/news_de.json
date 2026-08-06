@@ -1,5 +1,21 @@
 [
   {
+    "id": "800",
+    "title": "Saison 15 ist im Gange!",
+    "date": "2026-08-06",
+    "stAt": 1785996000,
+    "endAt": "1787795999",
+    "url": "https://news.pokemon-home.com/de/page/800.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1782481053_40611784831938.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "812",
     "title": "Wartungsarbeiten abgeschlossen",
     "date": "2026-08-05",
@@ -7275,23 +7291,6 @@
     "endAt": "1695945599",
     "url": "https://news.pokemon-home.com/de/page/331.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1689768882_3021695162119.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "294",
-    "title": "Nimm es jetzt mit Kriechflügel und Eisenfalter auf!",
-    "date": "2023-09-22",
-    "stAt": 1695340800,
-    "endAt": "1695599999",
-    "url": "https://news.pokemon-home.com/de/page/294.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1683028091_81811694630628.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
