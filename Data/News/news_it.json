@@ -1,5 +1,21 @@
 [
   {
+    "id": "800",
+    "title": "È iniziata la stagione 15!",
+    "date": "2026-08-06",
+    "stAt": 1785996000,
+    "endAt": "1787795999",
+    "url": "https://news.pokemon-home.com/it/page/800.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1782481053_40611784831902.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "812",
     "title": "Manutenzione completata",
     "date": "2026-08-05",
@@ -7275,23 +7291,6 @@
     "endAt": "1695945599",
     "url": "https://news.pokemon-home.com/it/page/331.html",
     "banner": "https://news.pokemon-home.com/it/page/banner/4_1689768882_3021695162067.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "294",
-    "title": "Sfida Alirasenti e Falenaferrea!",
-    "date": "2023-09-22",
-    "stAt": 1695340800,
-    "endAt": "1695599999",
-    "url": "https://news.pokemon-home.com/it/page/294.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1683028091_81811694630596.jpg",
     "kindTxt": "Altri giochi",
     "infoTab": 2,
     "infoKind": 8,
