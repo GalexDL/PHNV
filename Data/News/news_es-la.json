@@ -1,5 +1,21 @@
 [
   {
+    "id": "800",
+    "title": "¡Empezó la 15.ª temporada!",
+    "date": "2026-08-06",
+    "stAt": 1785996000,
+    "endAt": "1787795999",
+    "url": "https://news.pokemon-home.com/es-la/page/800.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1782481053_40611784832007.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "812",
     "title": "Aviso de finalización de mantenimiento",
     "date": "2026-08-05",
