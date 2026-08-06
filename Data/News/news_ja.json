@@ -1,5 +1,21 @@
 [
   {
+    "id": "800",
+    "title": "特別なシーズン（15）開催中！",
+    "date": "2026-08-06",
+    "stAt": 1785996000,
+    "endAt": "1787795999",
+    "url": "https://news.pokemon-home.com/ja/page/800.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1782481053_40611784783706.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "812",
     "title": "8月5日（水）『Pokémon Champions』更新データ配信のお知らせ",
     "date": "2026-08-05",
@@ -7336,23 +7352,6 @@
     "endAt": "1696809599",
     "url": "https://news.pokemon-home.com/ja/page/299.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1683028470_69961694487303.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "343",
-    "title": "「キタカミプロローグ」開催！",
-    "date": "2023-10-02",
-    "stAt": 1696204800,
-    "endAt": "1696809599",
-    "url": "https://news.pokemon-home.com/ja/page/343.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1694427504_50061696220668.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
