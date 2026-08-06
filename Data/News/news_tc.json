@@ -1,5 +1,21 @@
 [
   {
+    "id": "800",
+    "title": "特殊賽季（15）舉辦中！",
+    "date": "2026-08-06",
+    "stAt": 1785996000,
+    "endAt": "1787795999",
+    "url": "https://news.pokemon-home.com/tc/page/800.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1782481053_40611785238878.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "812",
     "title": "8月5日《Pokémon Champions》更新資料發佈公告",
     "date": "2026-08-05",
@@ -7310,22 +7326,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "338",
-    "title": "更新公告（ver3.1.0）",
-    "date": "2023-09-13",
-    "stAt": 1694566800,
-    "endAt": "1702515599",
-    "url": "https://news.pokemon-home.com/tc/page/338.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "更新",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
