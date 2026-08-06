@@ -1,5 +1,21 @@
 [
   {
+    "id": "800",
+    "title": "Season 15 Underway!",
+    "date": "2026-08-06",
+    "stAt": 1785996000,
+    "endAt": "1787795999",
+    "url": "https://news.pokemon-home.com/en/page/800.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1782481053_40611784831622.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "812",
     "title": "Maintenance Completion Notice",
     "date": "2026-08-05",
@@ -7275,23 +7291,6 @@
     "endAt": "1695945599",
     "url": "https://news.pokemon-home.com/en/page/331.html",
     "banner": "https://news.pokemon-home.com/en/page/banner/2_1689768882_3021695161804.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "294",
-    "title": "Challenge Slither Wing and Iron Moth Now!",
-    "date": "2023-09-22",
-    "stAt": 1695340800,
-    "endAt": "1695599999",
-    "url": "https://news.pokemon-home.com/en/page/294.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1683028091_81811694630565.jpg",
     "kindTxt": "Other Games",
     "infoTab": 2,
     "infoKind": 8,
