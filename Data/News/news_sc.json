@@ -1,5 +1,22 @@
 [
   {
+    "id": "807",
+    "title": "挑战帕底亚地区的强大宝可梦们吧！第1弹！矿石宝可梦！晶光花！",
+    "date": "2026-08-07",
+    "stAt": 1786060800,
+    "endAt": "1786665599",
+    "url": "https://news.pokemon-home.com/sc/page/807.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1783604862_24531785480208.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "800",
     "title": "特殊赛季（15）举办中！",
     "date": "2026-08-06",
@@ -7303,23 +7320,6 @@
     "endAt": "1695599999",
     "url": "https://news.pokemon-home.com/sc/page/294.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1683028091_81811695089009.png",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "293",
-    "title": "【预告】精选特辑！爬地翅＆铁毒蛾",
-    "date": "2023-09-18",
-    "stAt": 1694995200,
-    "endAt": "1695340799",
-    "url": "https://news.pokemon-home.com/sc/page/293.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1683027982_42691694684729.png",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
