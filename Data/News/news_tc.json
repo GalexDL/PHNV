@@ -1,5 +1,22 @@
 [
   {
+    "id": "807",
+    "title": "迎戰帕底亞地區的強力的寶可夢們！第1彈！礦石寶可夢晶光花！",
+    "date": "2026-08-07",
+    "stAt": 1786060800,
+    "endAt": "1786665599",
+    "url": "https://news.pokemon-home.com/tc/page/807.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1783604862_24531785480218.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "800",
     "title": "特殊賽季（15）舉辦中！",
     "date": "2026-08-06",
@@ -7303,23 +7320,6 @@
     "endAt": "1695599999",
     "url": "https://news.pokemon-home.com/tc/page/294.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028091_81811694757869.png",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "293",
-    "title": "【預告】精選特輯！爬地翅＆鐵毒蛾",
-    "date": "2023-09-18",
-    "stAt": 1694995200,
-    "endAt": "1695340799",
-    "url": "https://news.pokemon-home.com/tc/page/293.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683027982_42691694684773.png",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
