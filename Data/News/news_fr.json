@@ -1,5 +1,22 @@
 [
   {
+    "id": "807",
+    "title": "Paldea en Puissance, partie 1 : affrontez Floréclat, le Pokémon Minerai !",
+    "date": "2026-08-07",
+    "stAt": 1786060800,
+    "endAt": "1786665599",
+    "url": "https://news.pokemon-home.com/fr/page/807.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1783604862_24531784854004.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "800",
     "title": "La saison 15 est en cours !",
     "date": "2026-08-06",
@@ -7245,22 +7262,6 @@
     "kindTxt": "Mise à jour",
     "infoTab": 1,
     "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "345",
-    "title": "<b>Annonce de maintenance</b>",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695776399",
-    "url": "https://news.pokemon-home.com/fr/page/345.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Maintenance",
-    "infoTab": 1,
-    "infoKind": 3,
     "linkRom": [
       "HM"
     ],
