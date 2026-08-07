@@ -1,5 +1,22 @@
 [
   {
+    "id": "807",
+    "title": "Paldea Power Play Part One: Take On the Ore Pokémon, Glimmora!",
+    "date": "2026-08-07",
+    "stAt": 1786060800,
+    "endAt": "1786665599",
+    "url": "https://news.pokemon-home.com/en/page/807.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1783604862_24531784853990.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "800",
     "title": "Season 15 Underway!",
     "date": "2026-08-06",
@@ -7245,22 +7262,6 @@
     "kindTxt": "Update",
     "infoTab": 1,
     "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "345",
-    "title": "Maintenance Notice",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695776399",
-    "url": "https://news.pokemon-home.com/en/page/345.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Maintenance",
-    "infoTab": 1,
-    "infoKind": 3,
     "linkRom": [
       "HM"
     ],
