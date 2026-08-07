@@ -1,5 +1,22 @@
 [
   {
+    "id": "807",
+    "title": "Assalto a Paldea, prima parte: affronta Glimmora, il Pokémon Minerale!",
+    "date": "2026-08-07",
+    "stAt": 1786060800,
+    "endAt": "1786665599",
+    "url": "https://news.pokemon-home.com/it/page/807.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1783604862_24531784854018.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "800",
     "title": "È iniziata la stagione 15!",
     "date": "2026-08-06",
@@ -7245,22 +7262,6 @@
     "kindTxt": "Aggiornamenti",
     "infoTab": 1,
     "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "345",
-    "title": "<b>Avviso di manutenzione</b>",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695776399",
-    "url": "https://news.pokemon-home.com/it/page/345.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Manutenzione",
-    "infoTab": 1,
-    "infoKind": 3,
     "linkRom": [
       "HM"
     ],
