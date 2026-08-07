@@ -1,5 +1,22 @@
 [
   {
+    "id": "807",
+    "title": "挑もう！パルデア地方の強力なポケモンたち！ 第1弾！こうせきポケモン！キラフロル！",
+    "date": "2026-08-07",
+    "stAt": 1786060800,
+    "endAt": "1786665599",
+    "url": "https://news.pokemon-home.com/ja/page/807.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1783604862_24531785143865.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "800",
     "title": "特別なシーズン（15）開催中！",
     "date": "2026-08-06",
@@ -7352,23 +7369,6 @@
     "endAt": "1696809599",
     "url": "https://news.pokemon-home.com/ja/page/299.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1683028470_69961694487303.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "297",
-    "title": "【予告】黒い結晶のテラレイドバトルに最強のジュナイパー（ヒスイのすがた）が出現！",
-    "date": "2023-10-02",
-    "stAt": 1696204800,
-    "endAt": "1697155199",
-    "url": "https://news.pokemon-home.com/ja/page/297.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1683028293_98151694416529.png",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
