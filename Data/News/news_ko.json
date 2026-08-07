@@ -1,5 +1,22 @@
 [
   {
+    "id": "807",
+    "title": "도전하라! 팔데아지방의 강력한 포켓몬들! 제1탄! 광석포켓몬 킬라플로르!",
+    "date": "2026-08-07",
+    "stAt": 1786060800,
+    "endAt": "1786665599",
+    "url": "https://news.pokemon-home.com/ko/page/807.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1783604862_24531784770316.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "800",
     "title": "시즌 15(특별 시즌) 개최 중!",
     "date": "2026-08-06",
@@ -7322,22 +7339,6 @@
     "kindTxt": "업데이트",
     "infoTab": 1,
     "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "345",
-    "title": "점검 실시 알림",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695776399",
-    "url": "https://news.pokemon-home.com/ko/page/345.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "점검",
-    "infoTab": 1,
-    "infoKind": 3,
     "linkRom": [
       "HM"
     ],
