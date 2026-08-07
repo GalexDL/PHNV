@@ -1,5 +1,22 @@
 [
   {
+    "id": "807",
+    "title": "Parte uno del despliegue de potencia de Paldea: ¡enfréntate a Glimmora, el Pokémon Mineral!",
+    "date": "2026-08-07",
+    "stAt": 1786060800,
+    "endAt": "1786665599",
+    "url": "https://news.pokemon-home.com/es/page/807.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1783604862_24531784854053.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "800",
     "title": "¡Ha empezado la 15.ª temporada!",
     "date": "2026-08-06",
@@ -7245,22 +7262,6 @@
     "kindTxt": "Actualización",
     "infoTab": 1,
     "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "345",
-    "title": "<b>Labores de mantenimiento</b>",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695776399",
-    "url": "https://news.pokemon-home.com/es/page/345.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Mantenimiento",
-    "infoTab": 1,
-    "infoKind": 3,
     "linkRom": [
       "HM"
     ],
