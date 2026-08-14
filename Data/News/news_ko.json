@@ -1,5 +1,22 @@
 [
   {
+    "id": "808",
+    "title": "도전하라! 팔데아지방의 강력한 포켓몬들! 제2탄! 분노숭이포켓몬 저승갓숭!",
+    "date": "2026-08-14",
+    "stAt": 1786665600,
+    "endAt": "1787270399",
+    "url": "https://news.pokemon-home.com/ko/page/808.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1783604975_49731784770418.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "807",
     "title": "도전하라! 팔데아지방의 강력한 포켓몬들! 제1탄! 광석포켓몬 킬라플로르!",
     "date": "2026-08-07",
@@ -7325,22 +7342,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "346",
-    "title": "업데이트 알림(Ver.3.1.1)",
-    "date": "2023-09-27",
-    "stAt": 1695776400,
-    "endAt": "1701651599",
-    "url": "https://news.pokemon-home.com/ko/page/346.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "업데이트",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
