@@ -1,5 +1,22 @@
 [
   {
+    "id": "808",
+    "title": "Paldea en Puissance, partie 2 : affrontez Courrousinge, le Pokémon Singe Furax !",
+    "date": "2026-08-14",
+    "stAt": 1786665600,
+    "endAt": "1787270399",
+    "url": "https://news.pokemon-home.com/fr/page/808.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1783604975_49731784939744.jpg",
+    "kindTxt": "Autre(s) logiciel(s)",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "807",
     "title": "Paldea en Puissance, partie 1 : affrontez Floréclat, le Pokémon Minerai !",
     "date": "2026-08-07",
@@ -7264,23 +7281,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "342",
-    "title": "Préparez-vous pour « Septentria : prologue » !",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/fr/page/342.html",
-    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1694427351_20081695330098.jpg",
-    "kindTxt": "Autre(s) logiciel(s)",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   },
