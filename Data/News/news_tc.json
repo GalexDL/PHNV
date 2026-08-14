@@ -1,5 +1,22 @@
 [
   {
+    "id": "808",
+    "title": "迎戰帕底亞地區的強力的寶可夢們！第２彈！憤怒猴寶可夢棄世猴！",
+    "date": "2026-08-14",
+    "stAt": 1786665600,
+    "endAt": "1787270399",
+    "url": "https://news.pokemon-home.com/tc/page/808.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1783604975_49731785481314.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "807",
     "title": "迎戰帕底亞地區的強力的寶可夢們！第1彈！礦石寶可夢晶光花！",
     "date": "2026-08-07",
@@ -7303,23 +7320,6 @@
     "endAt": "1695945599",
     "url": "https://news.pokemon-home.com/tc/page/331.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689768882_3021694758136.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "294",
-    "title": "精選特輯！爬地翅＆鐵毒蛾",
-    "date": "2023-09-22",
-    "stAt": 1695340800,
-    "endAt": "1695599999",
-    "url": "https://news.pokemon-home.com/tc/page/294.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1683028091_81811694757869.png",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
