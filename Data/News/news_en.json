@@ -1,5 +1,22 @@
 [
   {
+    "id": "808",
+    "title": "Paldea Power Play Part Two: Take On the Rage Monkey Pokémon, Annihilape!",
+    "date": "2026-08-14",
+    "stAt": 1786665600,
+    "endAt": "1787270399",
+    "url": "https://news.pokemon-home.com/en/page/808.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1783604975_49731784939728.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "807",
     "title": "Paldea Power Play Part One: Take On the Ore Pokémon, Glimmora!",
     "date": "2026-08-07",
@@ -7275,23 +7292,6 @@
     "endAt": "1696204799",
     "url": "https://news.pokemon-home.com/en/page/342.html",
     "banner": "https://news.pokemon-home.com/en/page/banner/2_1694427351_20081695329836.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "331",
-    "title": "Mass Outbreaks of Clefairy!",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695945599",
-    "url": "https://news.pokemon-home.com/en/page/331.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689768882_3021695161804.jpg",
     "kindTxt": "Other Games",
     "infoTab": 2,
     "infoKind": 8,
