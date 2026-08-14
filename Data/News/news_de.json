@@ -1,5 +1,22 @@
 [
   {
+    "id": "808",
+    "title": "Nimm es mit dem Zornaffen-Pokémon Epitaff auf!",
+    "date": "2026-08-14",
+    "stAt": 1786665600,
+    "endAt": "1787270399",
+    "url": "https://news.pokemon-home.com/de/page/808.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1783604975_49731784939774.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "807",
     "title": "Nimm es mit dem Erz-Pokémon Lumiflora auf!",
     "date": "2026-08-07",
@@ -7275,23 +7292,6 @@
     "endAt": "1696204799",
     "url": "https://news.pokemon-home.com/de/page/342.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1694427351_20081695330120.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "331",
-    "title": "Massive Aufläufe von Piepi!",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695945599",
-    "url": "https://news.pokemon-home.com/de/page/331.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1689768882_3021695162119.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
