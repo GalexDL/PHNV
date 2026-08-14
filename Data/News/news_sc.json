@@ -1,5 +1,22 @@
 [
   {
+    "id": "808",
+    "title": "挑战帕底亚地区的强大宝可梦们吧！第2弹！愤怒猴宝可梦！弃世猴！",
+    "date": "2026-08-14",
+    "stAt": 1786665600,
+    "endAt": "1787270399",
+    "url": "https://news.pokemon-home.com/sc/page/808.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1783604975_49731785481302.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "807",
     "title": "挑战帕底亚地区的强大宝可梦们吧！第1弹！矿石宝可梦！晶光花！",
     "date": "2026-08-07",
@@ -7303,23 +7320,6 @@
     "endAt": "1695945599",
     "url": "https://news.pokemon-home.com/sc/page/331.html",
     "banner": "https://news.pokemon-home.com/sc/page/banner/9_1689768882_3021694662449.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "294",
-    "title": "精选特辑！爬地翅＆铁毒蛾",
-    "date": "2023-09-22",
-    "stAt": 1695340800,
-    "endAt": "1695599999",
-    "url": "https://news.pokemon-home.com/sc/page/294.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1683028091_81811695089009.png",
     "kindTxt": "其他软件",
     "infoTab": 2,
     "infoKind": 8,
