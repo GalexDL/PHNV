@@ -1,5 +1,22 @@
 [
   {
+    "id": "808",
+    "title": "Assalto a Paldea, seconda parte: affronta Annihilape, il Pokémon Irascimmia!",
+    "date": "2026-08-14",
+    "stAt": 1786665600,
+    "endAt": "1787270399",
+    "url": "https://news.pokemon-home.com/it/page/808.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1783604975_49731784939758.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "807",
     "title": "Assalto a Paldea, prima parte: affronta Glimmora, il Pokémon Minerale!",
     "date": "2026-08-07",
@@ -7264,23 +7281,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "342",
-    "title": "È in arrivo \"Pronti, partenza, Nordivia\"!",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/it/page/342.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1694427351_20081695329930.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   },
