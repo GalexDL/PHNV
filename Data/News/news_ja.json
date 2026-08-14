@@ -1,5 +1,22 @@
 [
   {
+    "id": "808",
+    "title": "挑もう！パルデア地方の強力なポケモンたち！ 第2弾！ふんどざるポケモン！コノヨザル！",
+    "date": "2026-08-14",
+    "stAt": 1786665600,
+    "endAt": "1787270399",
+    "url": "https://news.pokemon-home.com/ja/page/808.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1783604975_49731785144036.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "807",
     "title": "挑もう！パルデア地方の強力なポケモンたち！ 第1弾！こうせきポケモン！キラフロル！",
     "date": "2026-08-07",
@@ -7358,23 +7375,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "299",
-    "title": "黒い結晶のテラレイドバトルに最強のジュナイパー（ヒスイのすがた）が出現中！",
-    "date": "2023-10-06",
-    "stAt": 1696550400,
-    "endAt": "1696809599",
-    "url": "https://news.pokemon-home.com/ja/page/299.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1683028470_69961694487303.png",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
