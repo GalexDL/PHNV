@@ -1,5 +1,22 @@
 [
   {
+    "id": "808",
+    "title": "Parte dos del despliegue de potencia de Paldea: ¡enfréntate a Annihilape, el Pokémon Mono Furia!",
+    "date": "2026-08-14",
+    "stAt": 1786665600,
+    "endAt": "1787270399",
+    "url": "https://news.pokemon-home.com/es/page/808.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1783604975_49731784939787.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "807",
     "title": "Parte uno del despliegue de potencia de Paldea: ¡enfréntate a Glimmora, el Pokémon Mineral!",
     "date": "2026-08-07",
@@ -7264,23 +7281,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "342",
-    "title": "¡Se avecina el torneo Prólogo de Noroteo!",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/es/page/342.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1694427351_20081695330138.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   },
