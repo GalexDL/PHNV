@@ -1,5 +1,21 @@
 [
   {
+    "id": "814",
+    "title": "【預告】特殊賽季（16）確定舉辦！",
+    "date": "2026-08-20",
+    "stAt": 1787205600,
+    "endAt": "1787810399",
+    "url": "https://news.pokemon-home.com/tc/page/814.html",
+    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1784880489_33951786961773.jpg",
+    "kindTxt": "其他軟體",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "808",
     "title": "迎戰帕底亞地區的強力的寶可夢們！第２彈！憤怒猴寶可夢棄世猴！",
     "date": "2026-08-14",
@@ -7303,23 +7319,6 @@
     "endAt": "1696204799",
     "url": "https://news.pokemon-home.com/tc/page/342.html",
     "banner": "https://news.pokemon-home.com/tc/page/banner/10_1694427351_20081695282933.jpg",
-    "kindTxt": "其他軟體",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "331",
-    "title": "【預告】皮皮大量出現！加入賞月派對一起玩吧！",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695945599",
-    "url": "https://news.pokemon-home.com/tc/page/331.html",
-    "banner": "https://news.pokemon-home.com/tc/page/banner/10_1689768882_3021694758136.jpg",
     "kindTxt": "其他軟體",
     "infoTab": 2,
     "infoKind": 8,
