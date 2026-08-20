@@ -1,5 +1,21 @@
 [
   {
+    "id": "814",
+    "title": "Stagione speciale (stagione 16) in arrivo!",
+    "date": "2026-08-20",
+    "stAt": 1787205600,
+    "endAt": "1787810399",
+    "url": "https://news.pokemon-home.com/it/page/814.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1784880489_33951786648278.jpg",
+    "kindTxt": "Altri giochi",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "808",
     "title": "Assalto a Paldea, seconda parte: affronta Annihilape, il Pokémon Irascimmia!",
     "date": "2026-08-14",
@@ -7281,23 +7297,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "331",
-    "title": "Comparse massicce di Clefairy!",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695945599",
-    "url": "https://news.pokemon-home.com/it/page/331.html",
-    "banner": "https://news.pokemon-home.com/it/page/banner/4_1689768882_3021695162067.jpg",
-    "kindTxt": "Altri giochi",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
