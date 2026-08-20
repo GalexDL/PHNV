@@ -1,5 +1,21 @@
 [
   {
+    "id": "814",
+    "title": "【预告】已决定将举办特殊赛季（16）！",
+    "date": "2026-08-20",
+    "stAt": 1787205600,
+    "endAt": "1787810399",
+    "url": "https://news.pokemon-home.com/sc/page/814.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1784880489_33951786961700.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "808",
     "title": "挑战帕底亚地区的强大宝可梦们吧！第2弹！愤怒猴宝可梦！弃世猴！",
     "date": "2026-08-14",
@@ -7292,23 +7308,6 @@
     "infoKind": 3,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "342",
-    "title": "【预告】“北上揭幕战”即将举行！",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/sc/page/342.html",
-    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1694427351_20081695286694.jpg",
-    "kindTxt": "其他软件",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   },
