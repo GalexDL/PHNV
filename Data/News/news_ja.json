@@ -1,5 +1,21 @@
 [
   {
+    "id": "814",
+    "title": "【予告】特別なシーズン（16）開催決定！",
+    "date": "2026-08-20",
+    "stAt": 1787205600,
+    "endAt": "1787810399",
+    "url": "https://news.pokemon-home.com/ja/page/814.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1784880489_33951785740905.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "808",
     "title": "挑もう！パルデア地方の強力なポケモンたち！ 第2弾！ふんどざるポケモン！コノヨザル！",
     "date": "2026-08-14",
@@ -7359,22 +7375,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "358",
-    "title": "メンテナンス実施のお知らせ",
-    "date": "2023-10-11",
-    "stAt": 1697004000,
-    "endAt": "1697075999",
-    "url": "https://news.pokemon-home.com/ja/page/358.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "メンテナンス",
-    "infoTab": 1,
-    "infoKind": 3,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
