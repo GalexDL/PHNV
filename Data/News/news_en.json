@@ -1,5 +1,21 @@
 [
   {
+    "id": "814",
+    "title": "Special Season (Season 16) Coming Soon!",
+    "date": "2026-08-20",
+    "stAt": 1787205600,
+    "endAt": "1787810399",
+    "url": "https://news.pokemon-home.com/en/page/814.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1784880489_33951786648226.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "808",
     "title": "Paldea Power Play Part Two: Take On the Rage Monkey Pokémon, Annihilape!",
     "date": "2026-08-14",
@@ -7281,23 +7297,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "342",
-    "title": "Prepare for the Kitakami Prologue!",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/en/page/342.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1694427351_20081695329836.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
