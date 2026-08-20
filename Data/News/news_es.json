@@ -1,5 +1,21 @@
 [
   {
+    "id": "814",
+    "title": "¡Temporada especial de Combates Clasificatorios!",
+    "date": "2026-08-20",
+    "stAt": 1787205600,
+    "endAt": "1787810399",
+    "url": "https://news.pokemon-home.com/es/page/814.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1784880489_33951786648327.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "808",
     "title": "Parte dos del despliegue de potencia de Paldea: ¡enfréntate a Annihilape, el Pokémon Mono Furia!",
     "date": "2026-08-14",
@@ -7281,23 +7297,6 @@
     "infoKind": 4,
     "linkRom": [
       "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "331",
-    "title": "¡Aparición masiva de Clefairy!",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695945599",
-    "url": "https://news.pokemon-home.com/es/page/331.html",
-    "banner": "https://news.pokemon-home.com/es/page/banner/7_1689768882_3021695162271.jpg",
-    "kindTxt": "Otros juegos",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
     ],
     "isImportant": 0
   }
