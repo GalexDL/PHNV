@@ -1,5 +1,22 @@
 [
   {
+    "id": "809",
+    "title": "도전하라! 팔데아지방의 강력한 포켓몬들! 제3탄! 긴목포켓몬 키키링!",
+    "date": "2026-08-21",
+    "stAt": 1787270400,
+    "endAt": "1787875199",
+    "url": "https://news.pokemon-home.com/ko/page/809.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1783605077_98181784770577.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "814",
     "title": "【예고】시즌 16(특별 시즌) 개최 결정!",
     "date": "2026-08-20",
@@ -7301,23 +7318,6 @@
     "endAt": "1697155199",
     "url": "https://news.pokemon-home.com/ko/page/297.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1683028293_98151695179151.png",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "351",
-    "title": "2023년 10월 시즌(시즌 11) 개최 중!",
-    "date": "2023-10-01",
-    "stAt": 1696132800,
-    "endAt": "1698796799",
-    "url": "https://news.pokemon-home.com/ko/page/351.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1695789683_17711695790377.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
