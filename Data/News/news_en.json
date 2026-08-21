@@ -1,5 +1,22 @@
 [
   {
+    "id": "809",
+    "title": "Paldea Power Play Part Three: Take On the Long Neck Pokémon, Farigiraf!",
+    "date": "2026-08-21",
+    "stAt": 1787270400,
+    "endAt": "1787875199",
+    "url": "https://news.pokemon-home.com/en/page/809.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1783605077_98181785278694.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "SC",
+      "VI"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "814",
     "title": "Special Season (Season 16) Coming Soon!",
     "date": "2026-08-20",
@@ -7281,22 +7298,6 @@
     "linkRom": [
       "SC",
       "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "346",
-    "title": "Update Notice (Ver. 3.1.1)",
-    "date": "2023-09-27",
-    "stAt": 1695776400,
-    "endAt": "1701651599",
-    "url": "https://news.pokemon-home.com/en/page/346.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "Update",
-    "infoTab": 1,
-    "infoKind": 4,
-    "linkRom": [
-      "HM"
     ],
     "isImportant": 0
   }
