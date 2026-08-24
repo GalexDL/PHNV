@@ -1,5 +1,21 @@
 [
   {
+    "id": "813",
+    "title": "The 2026 Worlds Commemorative Roster",
+    "date": "2026-08-24",
+    "stAt": 1787536800,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/en/page/813.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1784811394_63241786579452.jpg",
+    "kindTxt": "Roster",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "809",
     "title": "Paldea Power Play Part Three: Take On the Long Neck Pokémon, Farigiraf!",
     "date": "2026-08-21",
