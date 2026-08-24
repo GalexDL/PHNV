@@ -1,5 +1,21 @@
 [
   {
+    "id": "813",
+    "title": "「WCS2026記念セレクト」について",
+    "date": "2026-08-24",
+    "stAt": 1787536800,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/ja/page/813.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1784811394_63241785306116.jpg",
+    "kindTxt": "セレクト",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "809",
     "title": "挑もう！パルデア地方の強力なポケモンたち！ 第3弾！くびながポケモン！リキキリン！",
     "date": "2026-08-21",
