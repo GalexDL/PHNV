@@ -1,5 +1,21 @@
 [
   {
+    "id": "813",
+    "title": "Selección conmemorativa del Mundial 2026",
+    "date": "2026-08-24",
+    "stAt": 1787536800,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/es/page/813.html",
+    "banner": "https://news.pokemon-home.com/es/page/banner/7_1784811394_63241786579560.jpg",
+    "kindTxt": "Selecciones",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "809",
     "title": "Parte tres del despliegue de potencia de Paldea: ¡enfréntate a Farigiraf, el Pokémon Gran Cuello!",
     "date": "2026-08-21",
