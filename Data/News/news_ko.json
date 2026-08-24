@@ -1,5 +1,21 @@
 [
   {
+    "id": "813",
+    "title": "WCS2026 기념 셀렉트에 대해",
+    "date": "2026-08-24",
+    "stAt": 1787536800,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/ko/page/813.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1784811394_63241785308072.jpg",
+    "kindTxt": "셀렉트",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "809",
     "title": "도전하라! 팔데아지방의 강력한 포켓몬들! 제3탄! 긴목포켓몬 키키링!",
     "date": "2026-08-21",
@@ -287,7 +303,7 @@
     "stAt": 1784167200,
     "endAt": "1784267999",
     "url": "https://news.pokemon-home.com/ko/page/811.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1784025120_75081784073806.png",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1784025120_75081787277776.png",
     "kindTxt": "점검",
     "infoTab": 4,
     "infoKind": 3,
