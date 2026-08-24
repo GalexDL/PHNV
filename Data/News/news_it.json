@@ -1,5 +1,21 @@
 [
   {
+    "id": "813",
+    "title": "Selezione celebrativa Mondiali 2026",
+    "date": "2026-08-24",
+    "stAt": 1787536800,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/it/page/813.html",
+    "banner": "https://news.pokemon-home.com/it/page/banner/4_1784811394_63241786579505.jpg",
+    "kindTxt": "Selezioni",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "809",
     "title": "Assalto a Paldea, terza parte: affronta Farigiraf, il Pokémon Lungocollo!",
     "date": "2026-08-21",
