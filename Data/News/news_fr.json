@@ -1,5 +1,21 @@
 [
   {
+    "id": "813",
+    "title": "La sélection spéciale des Championnats du Monde 2026",
+    "date": "2026-08-24",
+    "stAt": 1787536800,
+    "endAt": "1788919199",
+    "url": "https://news.pokemon-home.com/fr/page/813.html",
+    "banner": "https://news.pokemon-home.com/fr/page/banner/3_1784811394_63241786579485.jpg",
+    "kindTxt": "Sélection",
+    "infoTab": 5,
+    "infoKind": 15,
+    "linkRom": [
+      "CHP"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "809",
     "title": "Paldea en Puissance, partie 3 : affrontez Farigiraf, le Pokémon Long-Cou !",
     "date": "2026-08-21",
