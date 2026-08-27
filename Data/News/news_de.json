@@ -1,5 +1,21 @@
 [
   {
+    "id": "815",
+    "title": "Eine besondere Saison (Saison 16) ist im Gange!",
+    "date": "2026-08-27",
+    "stAt": 1787810400,
+    "endAt": "1789610399",
+    "url": "https://news.pokemon-home.com/de/page/815.html",
+    "banner": "https://news.pokemon-home.com/de/page/banner/5_1784881326_96521786648633.jpg",
+    "kindTxt": "Andere Spiele",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "813",
     "title": "Die Pokémon-Auswahl zur Feier der Worlds 2026",
     "date": "2026-08-24",
@@ -7291,23 +7307,6 @@
     "endAt": "1704239999",
     "url": "https://news.pokemon-home.com/de/page/340.html",
     "banner": "https://news.pokemon-home.com/de/page/banner/5_1693974879_15561701922802.jpg",
-    "kindTxt": "Andere Spiele",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "332",
-    "title": "Massive Aufläufe von Piepi!",
-    "date": "2023-09-29",
-    "stAt": 1695945600,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/de/page/332.html",
-    "banner": "https://news.pokemon-home.com/de/page/banner/5_1689769272_68861695163076.jpg",
     "kindTxt": "Andere Spiele",
     "infoTab": 2,
     "infoKind": 8,
