@@ -1,5 +1,21 @@
 [
   {
+    "id": "815",
+    "title": "Special Season (Season 16) Underway!",
+    "date": "2026-08-27",
+    "stAt": 1787810400,
+    "endAt": "1789610399",
+    "url": "https://news.pokemon-home.com/en/page/815.html",
+    "banner": "https://news.pokemon-home.com/en/page/banner/2_1784881326_96521786648793.jpg",
+    "kindTxt": "Other Games",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "813",
     "title": "The 2026 Worlds Commemorative Roster",
     "date": "2026-08-24",
@@ -7291,23 +7307,6 @@
     "endAt": "1704239999",
     "url": "https://news.pokemon-home.com/en/page/340.html",
     "banner": "https://news.pokemon-home.com/en/page/banner/2_1693974879_15561701922723.jpg",
-    "kindTxt": "Other Games",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "332",
-    "title": "Mass Outbreaks of Clefairy!",
-    "date": "2023-09-29",
-    "stAt": 1695945600,
-    "endAt": "1696204799",
-    "url": "https://news.pokemon-home.com/en/page/332.html",
-    "banner": "https://news.pokemon-home.com/en/page/banner/2_1689769272_68861695162615.jpg",
     "kindTxt": "Other Games",
     "infoTab": 2,
     "infoKind": 8,
