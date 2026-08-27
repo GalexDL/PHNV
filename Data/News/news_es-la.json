@@ -1,5 +1,21 @@
 [
   {
+    "id": "815",
+    "title": "¡Temporada especial de Combates Clasificatorios!",
+    "date": "2026-08-27",
+    "stAt": 1787810400,
+    "endAt": "1789610399",
+    "url": "https://news.pokemon-home.com/es-la/page/815.html",
+    "banner": "https://news.pokemon-home.com/es-la/page/banner/11_1784881326_96521786648591.jpg",
+    "kindTxt": "Otros juegos",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "813",
     "title": "Selección conmemorativa del Mundial 2026",
     "date": "2026-08-24",
