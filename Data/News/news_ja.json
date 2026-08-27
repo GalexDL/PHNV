@@ -1,5 +1,21 @@
 [
   {
+    "id": "815",
+    "title": "特別なシーズン（16）開催中！",
+    "date": "2026-08-27",
+    "stAt": 1787810400,
+    "endAt": "1789610399",
+    "url": "https://news.pokemon-home.com/ja/page/815.html",
+    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1784881326_96521785740987.jpg",
+    "kindTxt": "他ソフト",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "813",
     "title": "「WCS2026記念セレクト」について",
     "date": "2026-08-24",
@@ -7368,23 +7384,6 @@
     "endAt": "1698019199",
     "url": "https://news.pokemon-home.com/ja/page/344.html",
     "banner": "https://news.pokemon-home.com/ja/page/banner/1_1694489244_67621694489298.jpg",
-    "kindTxt": "他ソフト",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "341",
-    "title": "【予告】ハピナス！ハッピーウィークエンド！",
-    "date": "2023-10-16",
-    "stAt": 1697414400,
-    "endAt": "1697759999",
-    "url": "https://news.pokemon-home.com/ja/page/341.html",
-    "banner": "https://news.pokemon-home.com/ja/page/banner/1_1694417298_91151694417327.jpg",
     "kindTxt": "他ソフト",
     "infoTab": 2,
     "infoKind": 8,
