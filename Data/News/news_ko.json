@@ -1,5 +1,21 @@
 [
   {
+    "id": "815",
+    "title": "시즌 16(특별 시즌) 개최 중!",
+    "date": "2026-08-27",
+    "stAt": 1787810400,
+    "endAt": "1789610399",
+    "url": "https://news.pokemon-home.com/ko/page/815.html",
+    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1784881326_96521786085619.jpg",
+    "kindTxt": "기타 게임",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "813",
     "title": "WCS2026 기념 셀렉트에 대해",
     "date": "2026-08-24",
@@ -7334,23 +7350,6 @@
     "endAt": "1697155199",
     "url": "https://news.pokemon-home.com/ko/page/297.html",
     "banner": "https://news.pokemon-home.com/ko/page/banner/8_1683028293_98151695179151.png",
-    "kindTxt": "기타 게임",
-    "infoTab": 2,
-    "infoKind": 8,
-    "linkRom": [
-      "SC",
-      "VI"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "340",
-    "title": "레귤레이션 E에 대해",
-    "date": "2023-10-01",
-    "stAt": 1696132800,
-    "endAt": "1704239999",
-    "url": "https://news.pokemon-home.com/ko/page/340.html",
-    "banner": "https://news.pokemon-home.com/ko/page/banner/8_1693974879_15561701922853.jpg",
     "kindTxt": "기타 게임",
     "infoTab": 2,
     "infoKind": 8,
