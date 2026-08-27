@@ -1,5 +1,21 @@
 [
   {
+    "id": "815",
+    "title": "特殊赛季（16）举办中！",
+    "date": "2026-08-27",
+    "stAt": 1787810400,
+    "endAt": "1789610399",
+    "url": "https://news.pokemon-home.com/sc/page/815.html",
+    "banner": "https://news.pokemon-home.com/sc/page/banner/9_1784881326_96521787214423.jpg",
+    "kindTxt": "其他软件",
+    "infoTab": 2,
+    "infoKind": 8,
+    "linkRom": [
+      "LZA"
+    ],
+    "isImportant": 0
+  },
+  {
     "id": "813",
     "title": "关于“WCS2026纪念精选”",
     "date": "2026-08-24",
@@ -7323,22 +7339,6 @@
     "kindTxt": "更新",
     "infoTab": 1,
     "infoKind": 4,
-    "linkRom": [
-      "HM"
-    ],
-    "isImportant": 0
-  },
-  {
-    "id": "345",
-    "title": "系统维护公告",
-    "date": "2023-09-25",
-    "stAt": 1695600000,
-    "endAt": "1695776399",
-    "url": "https://news.pokemon-home.com/sc/page/345.html",
-    "banner": "https://news.pokemon-home.com/resources/banner/gp/_/@default.png",
-    "kindTxt": "维护",
-    "infoTab": 1,
-    "infoKind": 3,
     "linkRom": [
       "HM"
     ],
